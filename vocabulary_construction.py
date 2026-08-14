@@ -120,6 +120,9 @@ def vocaboulary_set():
             V[term].update(tags)
 
 
+    utils.save_vocabulary_by_tag(V, "vocabulary_by_tag")
+    
+
     return V
 
-print(vocaboulary_set())
+V = vocaboulary_set()

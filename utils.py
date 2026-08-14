@@ -1,8 +1,10 @@
+from pathlib import Path
+import pandas as pd
 import re
 
 
 ########################################################################################################################################################################################################################
-# Vocabulary construction utils functions (Phase I)
+# Vocabulary construction utils functions (Phase I-II)
 ########################################################################################################################################################################################################################
 
 """
@@ -74,5 +76,26 @@ def parse_title(title, geo_vocab):
 
     return remainder
 
+
+
+
+
+def save_vocabulary_by_tag(V, output_directory):
+
+    output_directory = Path(output_directory)
+    output_directory.mkdir(parents=True, exist_ok=True)
+
+    terms_by_tag = {}
+
+    for term, tags in V.items():
+        for tag in tags:
+            if tag not in terms_by_tag:
+                terms_by_tag[tag] = set()
+
+            terms_by_tag[tag].add(term)
+
+    for tag, terms in terms_by_tag.items():
+        df = pd.DataFrame(sorted(terms), columns=["term"])
+        df.to_csv(output_directory / f"{tag}.csv", index=False)
 
 ########################################################################################################################################################################################################################
