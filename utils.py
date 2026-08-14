@@ -44,14 +44,14 @@ def split_attributes(attributes):
 
 """
 Parses a table title by identifying geographic and temporal terms,
-and returns the remaining terms separately.
+and returns the remaining title without those terms.
 """
 def parse_title(title, geo_vocab):
     words = title.split()
 
     geo = set()
     temporal = set()
-    remainder = []
+    remaining_words = []
 
     for word in words:
         clean_word = word.strip(".,;:()[]{}")
@@ -68,9 +68,11 @@ def parse_title(title, geo_vocab):
             temporal.update(years)
             continue
 
-        remainder.append(clean_word)
+        remaining_words.append(word)
 
-    return geo, temporal, set(remainder)
+    remainder = " ".join(remaining_words)
+
+    return remainder
 
 
 ########################################################################################################################################################################################################################
