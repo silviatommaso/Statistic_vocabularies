@@ -78,8 +78,6 @@ def parse_title(title, geo_vocab):
 
 
 
-
-
 def save_vocabulary_by_tag(V, output_directory):
 
     output_directory = Path(output_directory)

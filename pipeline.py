@@ -1,7 +1,8 @@
 import pandas as pd
 from pathlib import Path
 
-import utils
+from utils.steps_I_VI import vocabulary_construction
+from utils.steps_VII import vocabulary_measures_clustering
 
 
 """
@@ -55,10 +56,10 @@ def vocaboulary_set():
         tables = pd.read_csv(file)
         attributes = tables.columns.tolist()
 
-        string_attributes, temporal_attributes = utils.split_attributes(attributes)
+        string_attributes, temporal_attributes = vocabulary_construction.split_attributes(attributes)
 
         # title
-        title_remaining = utils.parse_title(titles_dict[file.name], dict_nuts)
+        title_remaining = vocabulary_construction.parse_title(titles_dict[file.name], dict_nuts)
 
         # 1. Temporal attributes
         D_t[file.name] = temporal_attributes
@@ -110,7 +111,7 @@ def vocaboulary_set():
             V_t[file.name][title_remaining].add("M")
 
 
-    # 5. Global vocabulary
+    # 5-6. Global mapped vocabulary
     V = {}
 
     for vocabulary in V_t.values():
@@ -120,9 +121,9 @@ def vocaboulary_set():
             V[term].update(tags)
 
 
-    utils.save_vocabulary_by_tag(V, "vocabulary_by_tag")
-    
+    vocabulary_construction.save_vocabulary_by_tag(V, "vocabulary_by_tag")
 
-    return V
+    # 7. Domain clustering
+    breadcrumbs = vocabulary_measures_clustering.assign_domains("tables/TOC/breadcrumbs_filtered.csv")
 
 V = vocaboulary_set()

@@ -221,3 +221,4 @@ config.py
 .DS_Store
 /tables
 /vocabulary_by_tag
+notes.txt
