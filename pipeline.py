@@ -1,6 +1,5 @@
 import pandas as pd
 from pathlib import Path
-
 from utils.steps_I_VI import vocabulary_construction
 from utils.steps_VII import vocabulary_measures_clustering
 
@@ -32,12 +31,20 @@ V = union of V_t over all tables. Each distinct term is associated
     with the union of all tags assigned to it across the tables,
     preserving cases in which the same term has different roles.
 """
+
+
+TABLES = Path("input/tables")
+AUXILIAR_FILES = Path("input/auxiliar_files")
+
+OUTPUT = Path("output")
+
+
 def vocaboulary_set():
 
-    directory = Path("tables/eurostat_2000_tables")
+    directory = Path(f"{TABLES}/eurostat_7605_tables")
 
-    nuts = pd.read_csv("tables/ESTAT_GEO_28.0_EN.tsv", sep="\t")
-    tab_titles = pd.read_csv("tables/table_titles.csv", sep=",")
+    nuts = pd.read_csv(f"{AUXILIAR_FILES}/ESTAT_GEO_28.0_EN.tsv", sep="\t")
+    tab_titles = pd.read_csv(f"{TABLES}/table_titles.csv", sep=",")
 
     dict_nuts = set(nuts.astype(str).stack())
     titles_dict = dict(zip(tab_titles.iloc[:, 0], tab_titles.iloc[:, 1]))
@@ -47,13 +54,16 @@ def vocaboulary_set():
     V_t = {}
     Geo_t = {}
 
+    M = {}
+
 
     for file in sorted(directory.iterdir()):
 
+        print(file.name)
         if file.suffix != ".csv":
             continue
 
-        tables = pd.read_csv(file)
+        tables = pd.read_csv(file, low_memory=False)
         attributes = tables.columns.tolist()
 
         string_attributes, temporal_attributes = vocabulary_construction.split_attributes(attributes)
@@ -71,7 +81,7 @@ def vocaboulary_set():
 
         for attribute in string_attributes:
 
-            # 2. Attribute name -> N
+            # 2.1 Attribute name -> N
             S_t[file.name].add(attribute)
 
             if attribute not in V_t[file.name]:
@@ -86,15 +96,15 @@ def vocaboulary_set():
                 if not isinstance(value, str):
                     continue
 
-                # 2. String value
+                # 2.2 String value
                 S_t[file.name].add(value)
 
-                # 3. Geographic value
+                # 3.1 Geographic value
                 if value in dict_nuts:
                     Geo_t[file.name].add(value)
                     continue
 
-                # 3. Non-geographic value -> V(t) = S(t) \ Geo(t)
+                # 3.2 Non-geographic value -> V(t) = S(t) \ Geo(t)
                 if value not in V_t[file.name]:
                     V_t[file.name][value] = set()
 
@@ -105,11 +115,16 @@ def vocaboulary_set():
 
         # 4. Remaining title
         if title_remaining:
+
+            # Store the measure with its M tag
             if title_remaining not in V_t[file.name]:
                 V_t[file.name][title_remaining] = set()
-
             V_t[file.name][title_remaining].add("M")
 
+            # Store the files associated with the measure
+            if title_remaining not in M:
+                M[title_remaining] = set()
+            M[title_remaining].add(file.stem)
 
     # 5-6. Global mapped vocabulary
     V = {}
@@ -121,9 +136,10 @@ def vocaboulary_set():
             V[term].update(tags)
 
 
-    vocabulary_construction.save_vocabulary_by_tag(V, "vocabulary_by_tag")
+    vocabulary_construction.save_vocabulary_by_tag(V, f"{OUTPUT}/vocabulary_by_tag")
 
     # 7. Domain clustering
-    breadcrumbs = vocabulary_measures_clustering.assign_domains("tables/TOC/breadcrumbs_filtered.csv")
+    vocabulary_measures_clustering.build_clusters(f"{AUXILIAR_FILES}/TOC/breadcrumbs_filtered.csv", "input/auxiliar_files/TOC/unmatched_codes.csv", M)
+
 
 V = vocaboulary_set()

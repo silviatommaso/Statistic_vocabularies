@@ -219,6 +219,6 @@ config.py
 # .streamlit/secrets.toml
 
 .DS_Store
-/tables
+/input/tables/eurostat_7605_tables
 /vocabulary_by_tag
 notes.txt

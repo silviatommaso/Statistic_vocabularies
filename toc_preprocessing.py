@@ -46,7 +46,7 @@ def parse_toc(filepath):
     Table titles are parsed to remove geographic information before
     being included in the breadcrumb.
 """
-def build_breadcrumbs(df, geo_vocab):
+def build_breadcrumbs(df):
 
     breadcrumbs = []
     stack = []
@@ -61,20 +61,16 @@ def build_breadcrumbs(df, geo_vocab):
         while stack and stack[-1][0] >= indent:
             stack.pop()
 
-        # Parse table titles
-        parsed_title = parse_title(title, geo_vocab)
-        current_title = parsed_title
-
         # The remaining stack contains the parents
         breadcrumb_parts = [item[1] for item in stack]
 
         # Add the current entry
-        breadcrumb_parts.append(current_title)
+        breadcrumb_parts.append(title)
         breadcrumb = " > ".join(breadcrumb_parts)
         breadcrumbs.append(breadcrumb)
 
         # Add current entry to the hierarchy
-        stack.append((indent, current_title))
+        stack.append((indent, title))
 
     result = df[["code", "type"]].copy()
     result["breadcrumb"] = breadcrumbs
@@ -87,40 +83,58 @@ def build_breadcrumbs(df, geo_vocab):
     Filter the breadcrumb DataFrame by matching table codes with
     the names of the CSV files in the tables directory.
 """
-def filter_breadcrumbs_by_tables(toc_file_path, geo_vocab, tables_dir):
+def filter_breadcrumbs_by_tables(toc_file_path, tables_dir):
     
     table_codes = {os.path.splitext(filename)[0] for filename in os.listdir(tables_dir) if filename.lower().endswith(".csv")}
 
     # get breadcumbs of files in TOC
-    breadcrumbs = build_breadcrumbs(parse_toc(toc_file_path), geo_vocab)
+    breadcrumbs = build_breadcrumbs(parse_toc(toc_file_path))
+    breadcrumb_codes = set(breadcrumbs["code"])
 
-    # Keep only breadcrumbs whose code matches a table file
-    filtered = breadcrumbs[breadcrumbs["code"].isin(table_codes)].copy()
+    filtered_rows = []
+    matched_codes = set()
+
+    # Match each table file with the corresponding TOC entry
+    for table_code in table_codes:
+
+        # Normal case: exact match
+        if table_code in breadcrumb_codes:
+            row = breadcrumbs[breadcrumbs["code"] == table_code].iloc[0].copy()
+            filtered_rows.append(row)
+            matched_codes.add(table_code)
+
+        # Special case: codes containing '$'
+        elif "$" in table_code:
+            base_code = table_code.split("$", 1)[0]
+
+            if base_code in breadcrumb_codes:
+                row = breadcrumbs[breadcrumbs["code"] == base_code].iloc[0].copy()
+
+                # Keep the original table code
+                row["code"] = table_code
+
+                filtered_rows.append(row)
+                matched_codes.add(table_code)
+
+    # Build filtered DataFrame
+    filtered = pd.DataFrame(filtered_rows, columns=["code", "type", "breadcrumb"])
     filtered.reset_index(drop=True, inplace=True)
 
     # Find table codes that do not have a matching breadcrumb
-    breadcrumb_codes = set(breadcrumbs["code"])
-    unmatched_codes = sorted(table_codes - breadcrumb_codes)
+    unmatched_codes = sorted(table_codes - matched_codes)
 
     # Save unmatched codes
-    pd.DataFrame({"code": unmatched_codes}).to_csv("tables/TOC/unmatched_codes.csv", index=False)
+    pd.DataFrame({"code": unmatched_codes}).to_csv("input/auxiliar_files/TOC/unmatched_codes.csv", index=False)
 
     # Save filtered breadcrumbs
-    filtered.to_csv("tables/TOC/breadcrumbs_filtered.csv", index=False)
-
-    return filtered
-
+    filtered.to_csv("input/auxiliar_files/TOC/breadcrumbs_filtered.csv", index=False)
 
 #######################################################################################################################################################################################################################################################
 
 
 if __name__ == "__main__":
 
-    nuts = pd.read_csv("tables/ESTAT_GEO_28.0_EN.tsv", sep="\t")
-    dict_nuts = set(nuts.astype(str).stack())
-
     filter_breadcrumbs_by_tables(
-        toc_file_path="tables/TOC/table_of_contents_en.txt",
-        geo_vocab=dict_nuts,
-        tables_dir="tables/eurostat_2000_tables"
+        toc_file_path="input/auxiliar_files/TOC/table_of_contents_en.txt",
+        tables_dir="input/tables/eurostat_7605_tables"
     )

@@ -4,7 +4,7 @@ import re
 
 
 ########################################################################################################################################################################################################################
-# Vocabulary construction utils functions (Phase I-II)
+# Vocabulary construction utils functions (Steps I-VI)
 ########################################################################################################################################################################################################################
 
 """
@@ -77,23 +77,27 @@ def parse_title(title, geo_vocab):
     return remainder
 
 
+"""
+    Save the measure-to-file mapping to a CSV file.
+"""
+def save_vocabulary_by_tag(V, output_dir):
 
-def save_vocabulary_by_tag(V, output_directory):
+    tag_files = {
+        "M": "measures.csv",
+        "N": "dimension_names.csv",
+        "A": "dimension_values.csv",
+        "U": "units.csv"
+    }
 
-    output_directory = Path(output_directory)
-    output_directory.mkdir(parents=True, exist_ok=True)
+    for tag, filename in tag_files.items():
 
-    terms_by_tag = {}
+        terms = []
 
-    for term, tags in V.items():
-        for tag in tags:
-            if tag not in terms_by_tag:
-                terms_by_tag[tag] = set()
+        for term, tags in V.items():
+            if tag in tags:
+                terms.append(term)
 
-            terms_by_tag[tag].add(term)
-
-    for tag, terms in terms_by_tag.items():
-        df = pd.DataFrame(sorted(terms), columns=["term"])
-        df.to_csv(output_directory / f"{tag}.csv", index=False)
+        df = pd.DataFrame({"term": sorted(terms)})
+        df.to_csv(f"{output_dir}/{filename}", index=False)
 
 ########################################################################################################################################################################################################################
