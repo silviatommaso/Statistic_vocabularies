@@ -222,3 +222,4 @@ config.py
 /input/tables/eurostat_7605_tables
 /vocabulary_by_tag
 notes.txt
+verifica2.py

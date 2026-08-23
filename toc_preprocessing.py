@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-from utils.steps_I_VI.vocabulary_construction import parse_title
+from utils import parse_title
 
 
 """

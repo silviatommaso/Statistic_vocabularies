@@ -1,7 +1,8 @@
 import pandas as pd
 from pathlib import Path
-from utils.steps_I_VI import vocabulary_construction
-from utils.steps_VII import vocabulary_measures_clustering
+
+from utils import is_numeric, parse_title, split_attributes, save_vocabulary_by_tag, save_code_measure
+from clustering.clustering import build_clusters
 
 
 """
@@ -37,14 +38,15 @@ TABLES = Path("input/tables")
 AUXILIAR_FILES = Path("input/auxiliar_files")
 
 OUTPUT = Path("output")
+OUTPUT.mkdir(parents=True, exist_ok=True)
 
 
 def vocaboulary_set():
 
-    directory = Path(f"{TABLES}/eurostat_7605_tables")
+    directory = TABLES / "eurostat_7605_tables"
 
-    nuts = pd.read_csv(f"{AUXILIAR_FILES}/ESTAT_GEO_28.0_EN.tsv", sep="\t")
-    tab_titles = pd.read_csv(f"{TABLES}/table_titles.csv", sep=",")
+    nuts = pd.read_csv( AUXILIAR_FILES / "ESTAT_GEO_28.0_EN.tsv", sep="\t")
+    tab_titles = pd.read_csv( TABLES / "table_titles.csv", sep=",")
 
     dict_nuts = set(nuts.astype(str).stack())
     titles_dict = dict(zip(tab_titles.iloc[:, 0], tab_titles.iloc[:, 1]))
@@ -66,10 +68,10 @@ def vocaboulary_set():
         tables = pd.read_csv(file, low_memory=False)
         attributes = tables.columns.tolist()
 
-        string_attributes, temporal_attributes = vocabulary_construction.split_attributes(attributes)
+        string_attributes, temporal_attributes = split_attributes(attributes)
 
         # title
-        title_remaining = vocabulary_construction.parse_title(titles_dict[file.name], dict_nuts)
+        title_remaining = parse_title(titles_dict[file.name], dict_nuts)
 
         # 1. Temporal attributes
         D_t[file.name] = temporal_attributes
@@ -93,7 +95,7 @@ def vocaboulary_set():
 
             for value in values:
 
-                if not isinstance(value, str):
+                if not isinstance(value, str) or is_numeric(value):
                     continue
 
                 # 2.2 String value
@@ -126,6 +128,8 @@ def vocaboulary_set():
                 M[title_remaining] = set()
             M[title_remaining].add(file.stem)
 
+            (OUTPUT / "vocabulary_by_tag/measures").mkdir(parents=True, exist_ok=True)
+
     # 5-6. Global mapped vocabulary
     V = {}
 
@@ -136,10 +140,13 @@ def vocaboulary_set():
             V[term].update(tags)
 
 
-    vocabulary_construction.save_vocabulary_by_tag(V, f"{OUTPUT}/vocabulary_by_tag")
+    save_vocabulary_by_tag(V, OUTPUT / "vocabulary_by_tag")
+    save_code_measure(M, OUTPUT / "vocabulary_by_tag")
 
     # 7. Domain clustering
-    vocabulary_measures_clustering.build_clusters(f"{AUXILIAR_FILES}/TOC/breadcrumbs_filtered.csv", "input/auxiliar_files/TOC/unmatched_codes.csv", M)
+    CLUSTER = OUTPUT / "clustering"
+    CLUSTER.mkdir(parents=True, exist_ok=True)
 
+    build_clusters(M, CLUSTER)
 
 V = vocaboulary_set()
