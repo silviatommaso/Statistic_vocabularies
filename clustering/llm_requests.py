@@ -13,14 +13,14 @@ client = Groq(api_key=API_KEY)
 PAUSE_BETWEEN_QUERIES = 0
 
 DOMAINS = {
-    "General and regional statistics": "Introductory data and cross-cutting regional/summary indicators (e.g. NUTS classifications, city statistics).",
-    "Economy and finance": "National accounts, GDP, prices, public finance, exchange and interest rates, balance of payments.",
-    "Population and social conditions": "Demography, migration, health, education, labour market, income and living conditions, social protection.",
-    "Industry, trade and services": "Structure and output of industrial sectors, domestic trade, services, business statistics.",
-    "Agriculture, forestry and fisheries": "Agricultural production, forestry, fisheries, economic accounts for agriculture.",
-    "Transport": "Freight and passenger transport by mode (road, rail, air, maritime, inland waterways).",
-    "Environment and energy": "Emissions, waste, land use, energy production/consumption, renewable sources.",
-    "Science, technology, digital society": "R&D, innovation, patents, ICT/internet use by businesses and citizens.",
+    "Money & Markets": "Financial markets and instruments, GDP and national accounts, public and private debt, exchange/interest rates, international trade, business demography and enterprise/government activity.",
+    "People, Work & Living Conditions": "Population structure, households, births and deaths rates, migration, housing conditions, employment, wages, working conditions, poverty, income inequality, social protection.",
+    "Health & Safety": "Physical and mental health, workplace safety, crime, gender-based violence.",
+    "Learning & Education": "Education at all levels, lifelong learning, skills acquired.",
+    "Environment & Natural Resources and Production": "Environment, energy, land use, agriculture, fisheries, forestry, natural resource sustainability.",
+    "Transports": "Transport of people and goods across all modes (air, maritime, rail, road, inland waterways).",
+    "Tech & Innovation": "Digital technologies, research and development, intellectual property, innovation.",
+    "Living Well": "Culture, sport, tourism, leisure time use, quality of life."
 }
 
 
@@ -51,7 +51,7 @@ def build_message(terms):
     ]
 
 
-def result_definer(message, result, cluster_id):
+def result_definer(message, result, cluster):
 
     try:
         asw = call_llm(message, "openai/gpt-oss-120b")
@@ -61,7 +61,7 @@ def result_definer(message, result, cluster_id):
         asw = "ERROR"
 
     result.append({
-        "cluster_id": cluster_id,
+        "cluster": cluster,
         "domain": asw
     })
 
@@ -97,26 +97,32 @@ def prompt(input_data, llm_files_path):
 
     result = []
 
-    for _, item in input_data.iterrows():
+    total_clusters = len(input_data)
 
-        cluster_id = item["cluster"]
+    for i, item in enumerate(input_data, start=1):
+
+        cluster = item["cluster"]
         terms = item["words"]
 
         message = build_message(terms)
 
         try:
             asw = call_llm(message, "openai/gpt-oss-120b")
-            result.append({"cluster_id": cluster_id, "domain": asw})
+            result.append({"cluster": cluster, "domain": asw})
 
             # Write immediately to CSV
-            pd.DataFrame([{"cluster": cluster_id, "domain": asw}]).to_csv(llm_files_path / "cluster_domain.csv", mode="a", header=False, index=False)
-
-            print(f"Cluster {cluster_id} -> {asw}")
+            pd.DataFrame([{"cluster": cluster, "domain": asw}]).to_csv(llm_files_path / "cluster_domain.csv", mode="a", header=False, index=False)
 
         except Exception as e:
 
-            print(f"Error for cluster {cluster_id}: {e}")
+            print(f"Error for cluster {cluster}: {e}")
+            break
+
+        percentage = (i / total_clusters) * 100
+        print(f"\rClustering: {percentage:.1f}% of completion", end="", flush=True)
 
         time.sleep(PAUSE_BETWEEN_QUERIES)
+
+    print("\nClustering completed.")
 
     return pd.DataFrame(result)

@@ -21,16 +21,21 @@ def build_prefixes(codes):
     code_to_prefix = {}
 
     for code in codes:
-        digit_match = re.search(r"\d", code)
 
-        if "$" in code:
-            prefix = code.split("$")[0]
-        elif "_" in code:
-            prefix = code.split("_", 1)[0]
-        elif digit_match:
-            prefix = code[:digit_match.start()].rstrip("_")
+        base_code = code
+
+        if "$" in base_code:
+            base_code = base_code.split("$")[0]
+
+        digit_match = re.search(r"\d", base_code)
+        if digit_match:
+            prefix = base_code[:digit_match.start()].rstrip("_")
+        elif "_" in base_code:
+            parts = base_code.split("_")
+            split_point = (base_code.count("_") + 1) // 2
+            prefix = "_".join(parts[:split_point])
         else:
-            prefix = code
+            prefix = base_code
 
         code_to_prefix[code] = prefix
 
@@ -140,7 +145,9 @@ pandas.DataFrame
     DataFrame containing the code and the domain assigned to
     each table.
 """
-def build_clusters(M, output_path):
+def build_clusters(M_path, output_path):
+
+    M = pd.read_csv(M_path)
 
     llm_files_path = Path("clustering/llm_files")
     llm_files_path.mkdir(parents=True, exist_ok=True)
@@ -154,6 +161,4 @@ def build_clusters(M, output_path):
     # 7.3 Prompt LLM
     cluster_domains = prompt(cluster_words, llm_files_path)
 
-    result = assign_domains_to_codes(cluster_domains, cluster_prefixes, output_path)
-
-    return result
+    assign_domains_to_codes(cluster_domains, cluster_prefixes, output_path / "code_domain.csv")

@@ -1,0 +1,2000 @@
+code,domain
+aei_pestsal_rsk,Environment & Natural Resources and Production
+apri_lprc_h,Environment & Natural Resources and Production
+apri_lrnt_h,Environment & Natural Resources and Production
+apri_pi95_vwia,Environment & Natural Resources and Production
+apri_pi95_vwpa,Environment & Natural Resources and Production
+apro_ec_egghen,Environment & Natural Resources and Production
+apro_ec_lshen,Environment & Natural Resources and Production
+apro_mk_fatprot,Environment & Natural Resources and Production
+apro_mt_lsequi,Environment & Natural Resources and Production
+apro_mt_ppighq,Environment & Natural Resources and Production
+avia_ec_emp_arp,Transports
+avia_ec_emp_ent,Transports
+avia_ec_enterp,Transports
+avia_eq_arc_age,Transports
+avia_eq_arc_agereg,Transports
+avia_if_arp,Transports
+avia_tpgo,Transports
+avia_tppa,Transports
+bd_size$dv_1502,Money & Markets
+bop_its_str,Money & Markets
+bs_bs10_00,Money & Markets
+bs_bs11_00,Money & Markets
+bs_bs13_04,Money & Markets
+bs_bs14_04,Money & Markets
+bs_bs16_04,Money & Markets
+bs_bs1_00,Money & Markets
+bs_bs2_00,Money & Markets
+bs_bs4_06,Money & Markets
+bs_bs5_00,Money & Markets
+bs_bs5_04,Money & Markets
+bs_bs6_00,Money & Markets
+bs_bs6_04,Money & Markets
+bs_bs7_00,Money & Markets
+bs_bs7_04,Money & Markets
+bs_bs8_00,Money & Markets
+bs_bs9_00,Money & Markets
+cei_cie011,Environment & Natural Resources and Production
+cei_cie012,Environment & Natural Resources and Production
+cei_cie020,Environment & Natural Resources and Production
+cei_gsr011,Environment & Natural Resources and Production
+cei_gsr020,Environment & Natural Resources and Production
+cei_gsr030,Environment & Natural Resources and Production
+cei_pc020,Environment & Natural Resources and Production
+cei_pc030,Environment & Natural Resources and Production
+cei_pc031,Environment & Natural Resources and Production
+cei_pc032,Environment & Natural Resources and Production
+cei_pc034,Environment & Natural Resources and Production
+cei_pc035,Environment & Natural Resources and Production
+cei_pc040,Environment & Natural Resources and Production
+cei_pc050,Environment & Natural Resources and Production
+cei_srm010,Environment & Natural Resources and Production
+cei_wm010,Environment & Natural Resources and Production
+cei_wm011,Environment & Natural Resources and Production
+cei_wm020,Environment & Natural Resources and Production
+cei_wm060,Environment & Natural Resources and Production
+cens_01ndbuild,"People, Work & Living Conditions"
+cens_01ndcomf,"People, Work & Living Conditions"
+cens_01ndquart_hd,"People, Work & Living Conditions"
+cens_01ndquart_lq,"People, Work & Living Conditions"
+cens_01ndquart_oc,"People, Work & Living Conditions"
+cens_91dame,"People, Work & Living Conditions"
+cens_91down,"People, Work & Living Conditions"
+cens_91dper,"People, Work & Living Conditions"
+cens_91hnnch,"People, Work & Living Conditions"
+cens_91hpnper,"People, Work & Living Conditions"
+cens_91typb,"People, Work & Living Conditions"
+cens_91typl,"People, Work & Living Conditions"
+cens_hndwnr,"People, Work & Living Conditions"
+cens_hndwsize,"People, Work & Living Conditions"
+crim_crt_per,Health & Safety
+crim_hist,Health & Safety
+crim_hom_city,Health & Safety
+crim_hom_ocit,Health & Safety
+crim_hom_vcit,Health & Safety
+crim_just_bri,Health & Safety
+crim_off_cat$dv_1401,Health & Safety
+crim_off_cat$dv_348,Health & Safety
+crim_plce,Health & Safety
+crim_pris_cap,Health & Safety
+crim_pris_ctz,Health & Safety
+crim_pris_pop,Health & Safety
+crim_pris_tri,Health & Safety
+crim_smu_sctz,Health & Safety
+crim_thb_sex$dv_1641,Health & Safety
+crim_thb_vctz,Health & Safety
+crim_thb_vctz$dv_1643,Health & Safety
+crim_thb_vexp,Health & Safety
+cult_emp_art,Living Well
+cult_emp_sex,Living Well
+cult_pcs_nws,Living Well
+cult_pcs_qnt,Living Well
+demo_fabortind,"People, Work & Living Conditions"
+demo_magec$dv_1942,"People, Work & Living Conditions"
+demo_mexrt,"People, Work & Living Conditions"
+demo_mlexpec$dv_292,"People, Work & Living Conditions"
+demo_popep,"People, Work & Living Conditions"
+demo_popmdctb,"People, Work & Living Conditions"
+demo_r_find3$dv_1541,"People, Work & Living Conditions"
+demo_r_gind3$dv_1542,"People, Work & Living Conditions"
+demo_r_pjanind3$dv_1561,"People, Work & Living Conditions"
+demo_urespop,"People, Work & Living Conditions"
+dsb_sprpb01,"People, Work & Living Conditions"
+dsb_sprpb02,"People, Work & Living Conditions"
+earn_gr_goeg,"People, Work & Living Conditions"
+earn_gr_gpgr2ag,"People, Work & Living Conditions"
+earn_gr_gpgr2ct,"People, Work & Living Conditions"
+earn_gr_gpgr2wt,"People, Work & Living Conditions"
+earn_gr_hgpg,"People, Work & Living Conditions"
+earn_mw_avgr1,"People, Work & Living Conditions"
+earn_mw_avgr2,"People, Work & Living Conditions"
+earn_nt_lowwtrp,"People, Work & Living Conditions"
+earn_nt_netft,"People, Work & Living Conditions"
+earn_nt_taxwedge,"People, Work & Living Conditions"
+earn_nt_unemtrp,"People, Work & Living Conditions"
+earn_ses06_rann,"People, Work & Living Conditions"
+earn_ses06_rhr,"People, Work & Living Conditions"
+earn_ses10_actrl,"People, Work & Living Conditions"
+earn_ses10_adeci,"People, Work & Living Conditions"
+earn_ses10_mctrl,"People, Work & Living Conditions"
+earn_ses10_mdeci,"People, Work & Living Conditions"
+earn_ses10_rann,"People, Work & Living Conditions"
+earn_ses10_rhr,"People, Work & Living Conditions"
+earn_ses14_actrl,"People, Work & Living Conditions"
+earn_ses14_adeci,"People, Work & Living Conditions"
+earn_ses14_mctrl,"People, Work & Living Conditions"
+earn_ses14_mdeci,"People, Work & Living Conditions"
+earn_ses14_rann,"People, Work & Living Conditions"
+earn_ses18_actrl,"People, Work & Living Conditions"
+earn_ses18_adeci,"People, Work & Living Conditions"
+earn_ses18_mctrl,"People, Work & Living Conditions"
+earn_ses18_rann,"People, Work & Living Conditions"
+earn_ses_actrl,"People, Work & Living Conditions"
+earn_ses_adeci,"People, Work & Living Conditions"
+earn_ses_mctrl,"People, Work & Living Conditions"
+earn_ses_mdeci,"People, Work & Living Conditions"
+earn_ses_pub1a,"People, Work & Living Conditions"
+earn_ses_pub1a$dv_352,"People, Work & Living Conditions"
+earn_ses_pub1i,"People, Work & Living Conditions"
+earn_ses_pub1i$dv_353,"People, Work & Living Conditions"
+earn_ses_pub1s,"People, Work & Living Conditions"
+earn_ses_pub1s$dv_354,"People, Work & Living Conditions"
+earn_ses_pub1t,"People, Work & Living Conditions"
+earn_ses_pub2a$dv_1880,"People, Work & Living Conditions"
+earn_ses_pub2s,"People, Work & Living Conditions"
+earn_ses_pub2s$dv_1879,"People, Work & Living Conditions"
+edat_lfse_03$dv_598,Learning & Education
+edat_lfse_14$dv_1864,Learning & Education
+edat_lfse_14$dv_356,Learning & Education
+edat_lfse_20$dv_1101,"People, Work & Living Conditions"
+edat_lfso_00t2,"People, Work & Living Conditions"
+edat_lfso_00t4,Learning & Education
+edat_lfso_00t5,Learning & Education
+educ_fiaid,Learning & Education
+educ_fiexpc,Learning & Education
+educ_ipart$dv_437,Learning & Education
+educ_iste,Learning & Education
+educ_outc_pisa,Learning & Education
+educ_uoe_enra05$dv_441,Learning & Education
+educ_uoe_enra06,Learning & Education
+educ_uoe_enra07,Learning & Education
+educ_uoe_enra08,Learning & Education
+educ_uoe_enra10,Learning & Education
+educ_uoe_enra17,Learning & Education
+educ_uoe_enra18,Learning & Education
+educ_uoe_enra19,Learning & Education
+educ_uoe_enra20,Learning & Education
+educ_uoe_enra21,Learning & Education
+educ_uoe_enra22,Learning & Education
+educ_uoe_enra23,Learning & Education
+educ_uoe_enra25,Learning & Education
+educ_uoe_enra27,Learning & Education
+educ_uoe_enra28,Learning & Education
+educ_uoe_enra29,Learning & Education
+educ_uoe_enrt05,Learning & Education
+educ_uoe_enrt08,Learning & Education
+educ_uoe_fina01,Learning & Education
+educ_uoe_fini05,Learning & Education
+educ_uoe_fini06,Learning & Education
+educ_uoe_grad06,Learning & Education
+educ_uoe_grad07,Learning & Education
+educ_uoe_grad09,Learning & Education
+educ_uoe_lang03,Learning & Education
+educ_uoe_mobs03$dv_1126,Learning & Education
+educ_uoe_perd04,Learning & Education
+educ_uoe_perd05,Learning & Education
+educ_uoe_perp03,Learning & Education
+educ_uoe_perp05,Learning & Education
+egi_co2_1,Money & Markets
+egi_em1,Money & Markets
+egi_em2,Money & Markets
+egi_em3,Money & Markets
+egi_rd1,Money & Markets
+egi_so1,Money & Markets
+egi_tr1,Money & Markets
+egi_tr2,Money & Markets
+egi_tr3,Money & Markets
+egi_tr4,Money & Markets
+egi_tr5,Money & Markets
+egi_va1,Money & Markets
+egi_va2,Money & Markets
+egr_conc,Money & Markets
+egr_emp,Money & Markets
+egr_mne,Money & Markets
+egr_mne_n2sc,Money & Markets
+ei_bsci_m_r2,Money & Markets
+enpe_apro_cpnh1,Environment & Natural Resources and Production
+enpe_apro_mt_ls,Environment & Natural Resources and Production
+enpe_apro_mt_p,Environment & Natural Resources and Production
+enpe_bop_c6_a,Money & Markets
+enpe_bop_iip6,Money & Markets
+enpe_bop_iip6_serv,Money & Markets
+enpe_cpi,Money & Markets
+enpe_edat_lfse_03,Learning & Education
+enpe_edat_lfse_14,Learning & Education
+enpe_educ_figdp,Learning & Education
+enpe_educ_uoe_enra02,Learning & Education
+enpe_ef_lus_main,Environment & Natural Resources and Production
+enpe_ext_bal,Money & Markets
+enpe_ext_intro,Money & Markets
+enpe_fish_ca_main,Environment & Natural Resources and Production
+enpe_gov_10dd,Money & Markets
+enpe_hlth_exp,"People, Work & Living Conditions"
+enpe_ilc_di11,Money & Markets
+enpe_ilc_li01,"People, Work & Living Conditions"
+enpe_ilc_li09,"People, Work & Living Conditions"
+enpe_irt_ld,Money & Markets
+enpe_irt_lt_gby10,Money & Markets
+enpe_irt_st,Money & Markets
+enpe_isoc_ci_ifp_fu,Tech & Innovation
+enpe_isoc_ci_in_h,Tech & Innovation
+enpe_lfsa_argaed,"People, Work & Living Conditions"
+enpe_lfsa_ergan,"People, Work & Living Conditions"
+enpe_lfsa_urgan,"People, Work & Living Conditions"
+enpe_lfsa_urgan2,"People, Work & Living Conditions"
+enpe_mar_go,Money & Markets
+enpe_mon_res,Money & Markets
+enpe_nama_10_a10,Money & Markets
+enpe_nama_10_gdp,Money & Markets
+enpe_nama_10_gdp_ea,Money & Markets
+enpe_nama_10_lp,Money & Markets
+enpe_nama_10_pe,Money & Markets
+enpe_nama_10_ulc,Money & Markets
+enpe_rail_go,Transports
+enpe_rail_if,Transports
+enpe_rd_e_gerdfund,Money & Markets
+enpe_reg_area3,Environment & Natural Resources and Production
+enpe_road_eqs_car,Transports
+enpe_road_go,Transports
+enpe_road_if,Transports
+enpe_road_pa,Transports
+enpe_spr_exp,Money & Markets
+enpe_sts_incopr,Money & Markets
+enpe_sts_inppd,Money & Markets
+enpe_sts_trtu,Money & Markets
+enpe_sts_trtu1,Money & Markets
+enpe_tour_cap_nat,Living Well
+enpe_tour_dem_tttot,Living Well
+enpe_tour_occ_arnat,Living Well
+enpe_wg_m,"People, Work & Living Conditions"
+enps_apro_cpnh1,Environment & Natural Resources and Production
+enps_apro_mt_ls,Environment & Natural Resources and Production
+enps_apro_mt_p,Environment & Natural Resources and Production
+enps_avia_fr,Transports
+enps_avia_if,Transports
+enps_avia_pa,Transports
+enps_avia_typ,Transports
+enps_bop_iip6,Money & Markets
+enps_cpi,Money & Markets
+enps_demo_dens,"People, Work & Living Conditions"
+enps_demo_frate1,"People, Work & Living Conditions"
+enps_demo_gind,"People, Work & Living Conditions"
+enps_demo_infant,"People, Work & Living Conditions"
+enps_demo_mlexpec,"People, Work & Living Conditions"
+enps_demo_nind,"People, Work & Living Conditions"
+enps_demo_pjangry,"People, Work & Living Conditions"
+enps_demo_under5,"People, Work & Living Conditions"
+enps_edat_lfse3,Learning & Education
+enps_edat_lfse4,Learning & Education
+enps_educ_comprate,Learning & Education
+enps_educ_compyr,Learning & Education
+enps_educ_enrate,Learning & Education
+enps_educ_figdp,Learning & Education
+enps_educ_ltr,Learning & Education
+enps_educ_parity,Learning & Education
+enps_ef_lus_main,Environment & Natural Resources and Production
+enps_env_air_emis,Environment & Natural Resources and Production
+enps_env_wasacc,Environment & Natural Resources and Production
+enps_env_wasgenh,Environment & Natural Resources and Production
+enps_env_wasgenm,Environment & Natural Resources and Production
+enps_env_wasgenp,Environment & Natural Resources and Production
+enps_env_wastrt,Environment & Natural Resources and Production
+enps_env_wat_abs,Environment & Natural Resources and Production
+enps_env_wat_cat,Environment & Natural Resources and Production
+enps_env_wat_cov,Environment & Natural Resources and Production
+enps_env_ww_con,Environment & Natural Resources and Production
+enps_fish_aq2a,Environment & Natural Resources and Production
+enps_fish_ca_main,Environment & Natural Resources and Production
+enps_gov_10dd,Money & Markets
+enps_gov_10dde,Money & Markets
+enps_ilc_di11,Money & Markets
+enps_ilc_natln,"People, Work & Living Conditions"
+enps_ilc_sanit,"People, Work & Living Conditions"
+enps_ilc_secure,"People, Work & Living Conditions"
+enps_lfsa_argaed,"People, Work & Living Conditions"
+enps_lfsa_egaps,"People, Work & Living Conditions"
+enps_lfsa_ergan,"People, Work & Living Conditions"
+enps_lfsa_pganws,"People, Work & Living Conditions"
+enps_lfsa_urgan,"People, Work & Living Conditions"
+enps_mar_eq1000,Transports
+enps_mar_eq300,Transports
+enps_mar_eqton,Transports
+enps_mar_frdir,Transports
+enps_mar_padir,Transports
+enps_mar_por,Transports
+enps_nama_10_a10,Money & Markets
+enps_nama_10_gdp,Money & Markets
+enps_nama_10_gdp_ea,Money & Markets
+enps_nrg_bal_c,Environment & Natural Resources and Production
+enps_nrg_bal_c1,Environment & Natural Resources and Production
+enps_rail_eq,Transports
+enps_rail_fr,Transports
+enps_rail_if,Transports
+enps_rail_pa,Transports
+enps_reg_area3,Environment & Natural Resources and Production
+enps_road_eqs_car,Transports
+enps_road_go,Transports
+enps_road_if,Transports
+enps_tour_border,Living Well
+enps_tour_cap_nat,Living Well
+enps_tour_cap_natb,Living Well
+enps_tour_dem_tttot,Living Well
+enps_tour_occ_arnat,Living Well
+enps_tour_occ_ninat,Living Well
+enps_tran_sf_r,Health & Safety
+env_ac_cur,Environment & Natural Resources and Production
+env_ac_curm,Environment & Natural Resources and Production
+env_ac_egss3,Environment & Natural Resources and Production
+env_ac_epite,Environment & Natural Resources and Production
+env_ac_epite1,Environment & Natural Resources and Production
+env_ac_landfp,Environment & Natural Resources and Production
+env_ac_mid,Environment & Natural Resources and Production
+env_ac_rp,Environment & Natural Resources and Production
+env_air_no2,Environment & Natural Resources and Production
+env_bio1,Environment & Natural Resources and Production
+env_bio2,Environment & Natural Resources and Production
+env_bio3,Environment & Natural Resources and Production
+env_bio4,Environment & Natural Resources and Production
+env_bio5,Environment & Natural Resources and Production
+env_chmhaz,Environment & Natural Resources and Production
+env_waspb,Environment & Natural Resources and Production
+env_waspcb,Environment & Natural Resources and Production
+env_wat_pop,Environment & Natural Resources and Production
+eq_fer05,"People, Work & Living Conditions"
+eq_mor06,"People, Work & Living Conditions"
+eq_pop02,"People, Work & Living Conditions"
+eq_pop03,"People, Work & Living Conditions"
+eq_pop04,"People, Work & Living Conditions"
+ert_bil_conv_a,Money & Markets
+ert_bil_eur_a$dv_841,Money & Markets
+ert_bil_eur_a$dv_861,Money & Markets
+ert_h_eur_a,Money & Markets
+ext_ser_bec01,Money & Markets
+fish_ca_pac61,Environment & Natural Resources and Production
+fish_ca_pac71,Environment & Natural Resources and Production
+for_area,Environment & Natural Resources and Production
+for_awu,Environment & Natural Resources and Production
+for_profnc,Environment & Natural Resources and Production
+for_protect,Environment & Natural Resources and Production
+for_secwpp,Environment & Natural Resources and Production
+for_vol,Environment & Natural Resources and Production
+gba_nabste,Tech & Innovation
+gbv_any_age,Health & Safety
+gbv_any_cnq,Health & Safety
+gbv_any_cob,Health & Safety
+gbv_any_du,Health & Safety
+gbv_any_ed,Health & Safety
+gbv_any_frq,Health & Safety
+gbv_any_lim,Health & Safety
+gbv_any_occ,Health & Safety
+gbv_any_rp,Health & Safety
+gbv_any_type,Health & Safety
+gbv_awr_leg,Health & Safety
+gbv_awr_serv,Health & Safety
+gbv_ch_age,Health & Safety
+gbv_ch_perp,Health & Safety
+gbv_ch_rp,Health & Safety
+gbv_dv_age,Health & Safety
+gbv_dv_cob,Health & Safety
+gbv_dv_du,Health & Safety
+gbv_dv_ed,Health & Safety
+gbv_dv_lim,Health & Safety
+gbv_dv_occ,Health & Safety
+gbv_dv_type,Health & Safety
+gbv_ipv_age,"People, Work & Living Conditions"
+gbv_ipv_cnq,"People, Work & Living Conditions"
+gbv_ipv_cob,"People, Work & Living Conditions"
+gbv_ipv_comm,"People, Work & Living Conditions"
+gbv_ipv_du,"People, Work & Living Conditions"
+gbv_ipv_ed,"People, Work & Living Conditions"
+gbv_ipv_frq,"People, Work & Living Conditions"
+gbv_ipv_lim,"People, Work & Living Conditions"
+gbv_ipv_occ,"People, Work & Living Conditions"
+gbv_ipv_rp,"People, Work & Living Conditions"
+gbv_ipv_type,"People, Work & Living Conditions"
+gbv_npv_age,"People, Work & Living Conditions"
+gbv_npv_cnq,"People, Work & Living Conditions"
+gbv_npv_cob,"People, Work & Living Conditions"
+gbv_npv_du,"People, Work & Living Conditions"
+gbv_npv_ed,"People, Work & Living Conditions"
+gbv_npv_frq,"People, Work & Living Conditions"
+gbv_npv_lim,"People, Work & Living Conditions"
+gbv_npv_occ,"People, Work & Living Conditions"
+gbv_npv_perp,"People, Work & Living Conditions"
+gbv_npv_rp,"People, Work & Living Conditions"
+gbv_npv_type,"People, Work & Living Conditions"
+gbv_shw_age,"People, Work & Living Conditions"
+gbv_shw_comm,"People, Work & Living Conditions"
+gbv_shw_frq,"People, Work & Living Conditions"
+gbv_shw_occ,"People, Work & Living Conditions"
+gbv_shw_perp,"People, Work & Living Conditions"
+gbv_shw_rp,"People, Work & Living Conditions"
+gbv_st_age,"People, Work & Living Conditions"
+gbv_st_cnq,"People, Work & Living Conditions"
+gbv_st_occ,"People, Work & Living Conditions"
+gbv_st_perp,"People, Work & Living Conditions"
+gbv_st_rp,"People, Work & Living Conditions"
+gov_10a_emp,Money & Markets
+gov_10dd_acd,Money & Markets
+gov_eu_debt,Money & Markets
+gov_eu_fa,Money & Markets
+gov_eu_nfa,Money & Markets
+gov_gb,Money & Markets
+hbs_exp_t111,"People, Work & Living Conditions"
+hbs_exp_t132,"People, Work & Living Conditions"
+hlth_cd_acdr2$dv_1145,Health & Safety
+hlth_cd_aperrto,Health & Safety
+hlth_cd_apyll,Health & Safety
+hlth_cd_dar,Health & Safety
+hlth_cd_iap,Health & Safety
+hlth_co_bedoc,Health & Safety
+hlth_co_dischnr,Health & Safety
+hlth_co_ren,Health & Safety
+hlth_db_emasne,Health & Safety
+hlth_db_emasnt,Health & Safety
+hlth_db_emaspr,Health & Safety
+hlth_db_emaspt,Health & Safety
+hlth_dhc140$dv_2681,Health & Safety
+hlth_ehis_al1e$dv_1142,Health & Safety
+hlth_ehis_al3e$dv_450,Health & Safety
+hlth_ehis_al3i$dv_461,Health & Safety
+hlth_ehis_am7sa,Health & Safety
+hlth_ehis_am7sh,Health & Safety
+hlth_ehis_bm1e$dv_309,Health & Safety
+hlth_ehis_bm1i$dv_306,Health & Safety
+hlth_ehis_fv3e$dv_1143,Health & Safety
+hlth_ehis_fv3e$dv_462,Health & Safety
+hlth_ehis_hc2,Health & Safety
+hlth_ehis_hc3,Health & Safety
+hlth_ehis_mh1e$dv_463,Health & Safety
+hlth_ehis_mh1i$dv_464,Health & Safety
+hlth_ehis_pe2e$dv_1144,Health & Safety
+hlth_ehis_pe2e$dv_301,Health & Safety
+hlth_ehis_pe3e$dv_296,Health & Safety
+hlth_ehis_sk3e$dv_1127,Health & Safety
+hlth_ehis_sk3e$dv_298,Health & Safety
+hlth_ehis_sk3i$dv_1141,Health & Safety
+hlth_ehis_sk3i$dv_304,Health & Safety
+hlth_hc_dent,Health & Safety
+hlth_hc_phys,Health & Safety
+hlth_hc_phys2,Health & Safety
+hlth_hlye$dv_2041,Health & Safety
+hlth_hlye$dv_287,Health & Safety
+hlth_hlye_h,Health & Safety
+hlth_ps_immu,Health & Safety
+hlth_ps_prev,Health & Safety
+hlth_ps_scre,Health & Safety
+hlth_rs_bdltc,Health & Safety
+hlth_rs_grd2$dv_2825,Health & Safety
+hlth_rs_prs2$dv_2824,Health & Safety
+hlth_sha11_hc$dv_2841,Health & Safety
+hlth_sha11_hf$dv_2821,Health & Safety
+hlth_sha11_hf$dv_2826,Health & Safety
+hlth_silc_08$dv_1146,Health & Safety
+hlth_silc_08b_r,Health & Safety
+hlth_silc_11$dv_1148,Health & Safety
+hsw_ac4,Health & Safety
+hsw_ac8$dv_386,Health & Safety
+hsw_aw_inasz,Health & Safety
+hsw_aw_inaws,Health & Safety
+hsw_aw_nbosv,Health & Safety
+hsw_aw_nnasv,Health & Safety
+hsw_aw_nnasz,Health & Safety
+hsw_aw_nnaws,Health & Safety
+hsw_aw_ws2,Health & Safety
+hsw_hp_disnu,Health & Safety
+hsw_hp_nuse,Health & Safety
+hsw_ij_edse,Health & Safety
+hsw_ij_isna,Health & Safety
+hsw_ij_nuse,Health & Safety
+hsw_ij_svhos,Health & Safety
+hsw_ij_svnia,Health & Safety
+hsw_ij_svsha,Health & Safety
+hsw_ind,Health & Safety
+hsw_occ_cnr,Health & Safety
+hsw_occ_ina,"People, Work & Living Conditions"
+htec_si_exp4,Money & Markets
+icw_car_01,"People, Work & Living Conditions"
+icw_car_02,"People, Work & Living Conditions"
+icw_car_04,"People, Work & Living Conditions"
+icw_pov_03,"People, Work & Living Conditions"
+icw_sr_02,"People, Work & Living Conditions"
+icw_sr_03,"People, Work & Living Conditions"
+icw_sr_05,"People, Work & Living Conditions"
+icw_sr_09,"People, Work & Living Conditions"
+icw_sr_10,"People, Work & Living Conditions"
+icw_sr_12,"People, Work & Living Conditions"
+icw_sr_13,"People, Work & Living Conditions"
+icw_sr_14,"People, Work & Living Conditions"
+icw_sr_15,"People, Work & Living Conditions"
+icw_sr_16,"People, Work & Living Conditions"
+ilc_camdforg0,"People, Work & Living Conditions"
+ilc_camdothg0,"People, Work & Living Conditions"
+ilc_camnforall,"People, Work & Living Conditions"
+ilc_camnforg0,"People, Work & Living Conditions"
+ilc_camnothall,"People, Work & Living Conditions"
+ilc_camnothg0,"People, Work & Living Conditions"
+ilc_caparents,"People, Work & Living Conditions"
+ilc_chmd01,"People, Work & Living Conditions"
+ilc_chmd02,"People, Work & Living Conditions"
+ilc_chmd03,"People, Work & Living Conditions"
+ilc_chmd04,"People, Work & Living Conditions"
+ilc_chsb01,"People, Work & Living Conditions"
+ilc_chsb02,"People, Work & Living Conditions"
+ilc_di11_r,"People, Work & Living Conditions"
+ilc_di11g,"People, Work & Living Conditions"
+ilc_di11h,"People, Work & Living Conditions"
+ilc_di11i,"People, Work & Living Conditions"
+ilc_di12,"People, Work & Living Conditions"
+ilc_di12b,"People, Work & Living Conditions"
+ilc_di12c,"People, Work & Living Conditions"
+ilc_di18,"People, Work & Living Conditions"
+ilc_hch15,"People, Work & Living Conditions"
+ilc_hch16$dv_2262,"People, Work & Living Conditions"
+ilc_hch17$dv_2261,"People, Work & Living Conditions"
+ilc_hch18$dv_2263,"People, Work & Living Conditions"
+ilc_hch19$dv_2264,"People, Work & Living Conditions"
+ilc_igtp03,"People, Work & Living Conditions"
+ilc_igtp04,"People, Work & Living Conditions"
+ilc_iw02$dv_2665,"People, Work & Living Conditions"
+ilc_iw04,"People, Work & Living Conditions"
+ilc_iw06,"People, Work & Living Conditions"
+ilc_iw07,"People, Work & Living Conditions"
+ilc_li02$dv_548,"People, Work & Living Conditions"
+ilc_li11$dv_2662,"People, Work & Living Conditions"
+ilc_li12,"People, Work & Living Conditions"
+ilc_li13,"People, Work & Living Conditions"
+ilc_li21$dv_2663,"People, Work & Living Conditions"
+ilc_li22$dv_2664,"People, Work & Living Conditions"
+ilc_li33,"People, Work & Living Conditions"
+ilc_li33$dv_1983,"People, Work & Living Conditions"
+ilc_li34,"People, Work & Living Conditions"
+ilc_li34$dv_1982,"People, Work & Living Conditions"
+ilc_li48,"People, Work & Living Conditions"
+ilc_li70,"People, Work & Living Conditions"
+ilc_lk11,"People, Work & Living Conditions"
+ilc_lvhd01,"People, Work & Living Conditions"
+ilc_lvhd02,"People, Work & Living Conditions"
+ilc_lvhd03,"People, Work & Living Conditions"
+ilc_lvhd04,"People, Work & Living Conditions"
+ilc_lvhd06,"People, Work & Living Conditions"
+ilc_lvhl11n$dv_1181,"People, Work & Living Conditions"
+ilc_lvhl21n,"People, Work & Living Conditions"
+ilc_lvhl23n,"People, Work & Living Conditions"
+ilc_lvhl30$dv_1323,"People, Work & Living Conditions"
+ilc_lvhl36,"People, Work & Living Conditions"
+ilc_lvho03h,"People, Work & Living Conditions"
+ilc_lvho04d,"People, Work & Living Conditions"
+ilc_lvho04n,"People, Work & Living Conditions"
+ilc_lvho05a$dv_1185,"People, Work & Living Conditions"
+ilc_lvho05a$dv_2685,"People, Work & Living Conditions"
+ilc_lvho05c,"People, Work & Living Conditions"
+ilc_lvho05d,"People, Work & Living Conditions"
+ilc_lvho07_r,"People, Work & Living Conditions"
+ilc_lvho07b,"People, Work & Living Conditions"
+ilc_lvho07c,"People, Work & Living Conditions"
+ilc_lvho07d,"People, Work & Living Conditions"
+ilc_lvho08b,"People, Work & Living Conditions"
+ilc_lvho50c,"People, Work & Living Conditions"
+ilc_lvho50d,"People, Work & Living Conditions"
+ilc_lvph01,"People, Work & Living Conditions"
+ilc_lvph02h,"People, Work & Living Conditions"
+ilc_lvph03,"People, Work & Living Conditions"
+ilc_lvph05,"People, Work & Living Conditions"
+ilc_lvps08$dv_1041,"People, Work & Living Conditions"
+ilc_lvps20,"People, Work & Living Conditions"
+ilc_mddd04b$dv_2721,"People, Work & Living Conditions"
+ilc_mddd11$dv_655,"People, Work & Living Conditions"
+ilc_mddd17,"People, Work & Living Conditions"
+ilc_mddd21,"People, Work & Living Conditions"
+ilc_mdes01_r,"People, Work & Living Conditions"
+ilc_mdes03$dv_2702,"People, Work & Living Conditions"
+ilc_mdes03_r,"People, Work & Living Conditions"
+ilc_mdes04_r,"People, Work & Living Conditions"
+ilc_mdes05_r,"People, Work & Living Conditions"
+ilc_mdho02c,"People, Work & Living Conditions"
+ilc_mdho03c,"People, Work & Living Conditions"
+ilc_mdho06a$dv_1184,"People, Work & Living Conditions"
+ilc_mdho06a$dv_2701,"People, Work & Living Conditions"
+ilc_mdho06d,"People, Work & Living Conditions"
+ilc_mdho06q,"People, Work & Living Conditions"
+ilc_mdsd03$dv_1165,"People, Work & Living Conditions"
+ilc_mdsd06,"People, Work & Living Conditions"
+ilc_mdsd07$dv_2621,"People, Work & Living Conditions"
+ilc_mdsd08,"People, Work & Living Conditions"
+ilc_mdsd09,"People, Work & Living Conditions"
+ilc_mdsd18,"People, Work & Living Conditions"
+ilc_odbt01,"People, Work & Living Conditions"
+ilc_odbt02,"People, Work & Living Conditions"
+ilc_odbt03,"People, Work & Living Conditions"
+ilc_odbt04,"People, Work & Living Conditions"
+ilc_odbt05,"People, Work & Living Conditions"
+ilc_odbt06,"People, Work & Living Conditions"
+ilc_odbt07,"People, Work & Living Conditions"
+ilc_odbt08,"People, Work & Living Conditions"
+ilc_odbt09,"People, Work & Living Conditions"
+ilc_odbt12,"People, Work & Living Conditions"
+ilc_odbt13,"People, Work & Living Conditions"
+ilc_odbt14,"People, Work & Living Conditions"
+ilc_pecs01,"People, Work & Living Conditions"
+ilc_peps01n$dv_1161,"People, Work & Living Conditions"
+ilc_peps07,"People, Work & Living Conditions"
+ilc_peps07n,"People, Work & Living Conditions"
+ilc_peps11,"People, Work & Living Conditions"
+ilc_peps11n,"People, Work & Living Conditions"
+ilc_peps13n,"People, Work & Living Conditions"
+ilc_pnp11,"People, Work & Living Conditions"
+ilc_pnp12,"People, Work & Living Conditions"
+ilc_pnp13,"People, Work & Living Conditions"
+ilc_pnp14,"People, Work & Living Conditions"
+ilc_pnp2,"People, Work & Living Conditions"
+ilc_pnp2$dv_1988,"People, Work & Living Conditions"
+ilc_pnp3,"People, Work & Living Conditions"
+ilc_pns2,"People, Work & Living Conditions"
+ilc_pns4,"People, Work & Living Conditions"
+ilc_pns5,"People, Work & Living Conditions"
+ilc_pw01$dv_2761,"People, Work & Living Conditions"
+ilc_pw01b$dv_2749,"People, Work & Living Conditions"
+ilc_pw01b$dv_2751,"People, Work & Living Conditions"
+ilc_pw01b$dv_2781,"People, Work & Living Conditions"
+ilc_pw03$dv_2762,"People, Work & Living Conditions"
+ilc_pw05b$dv_2766,"People, Work & Living Conditions"
+ilc_pw08$dv_426,"People, Work & Living Conditions"
+ilc_pw12$dv_2547,"People, Work & Living Conditions"
+ilc_pw14,"People, Work & Living Conditions"
+ilc_pw15$dv_2750,"People, Work & Living Conditions"
+ilc_sbjp02,"People, Work & Living Conditions"
+ilc_sbjp04,"People, Work & Living Conditions"
+ilc_sbjp05,"People, Work & Living Conditions"
+ilc_scp01$dv_1061,Living Well
+ilc_scp03$dv_1062,Living Well
+ilc_scp03$dv_552,Living Well
+ilc_scp06$dv_2742,Living Well
+ilc_scp07$dv_1064,Living Well
+ilc_scp10$dv_2744,Living Well
+ilc_scp12$dv_2746,Living Well
+ilc_scp15$dv_433,Living Well
+ilc_scp17$dv_434,Living Well
+ilc_scp19$dv_312,Living Well
+ilc_scp19$dv_313,Living Well
+ilc_scp20$dv_2747,Living Well
+ilc_scp21$dv_436,Living Well
+ilc_scp22$dv_2441,Living Well
+ilc_scp31$dv_2383,Living Well
+ilc_scp33$dv_2541,Living Well
+ilc_scp34$dv_2542,Living Well
+ilc_scp37$dv_2543,Living Well
+ilc_scp38$dv_2388,Living Well
+ilc_scp38$dv_2544,Living Well
+ilc_scp39$dv_2548,Living Well
+ilc_scp40$dv_2549,Living Well
+ipr_da_gdp,Tech & Innovation
+ipr_da_pop,Tech & Innovation
+ipr_da_tot,Tech & Innovation
+ipr_da_typ,Tech & Innovation
+ipr_dfa_tot,Tech & Innovation
+ipr_dr_tot,Tech & Innovation
+ipr_ta_gdp,Tech & Innovation
+ipr_ta_ntr,Tech & Innovation
+ipr_ta_pop,Tech & Innovation
+ipr_ta_tot,Tech & Innovation
+ipr_ta_typ,Tech & Innovation
+irt_h_cgby_a,Money & Markets
+irt_h_cgby_m,Money & Markets
+irt_h_cgby_q,Money & Markets
+irt_h_ddmr_a,Money & Markets
+irt_h_ddmr_q,Money & Markets
+irt_h_euryld_a,Money & Markets
+irt_h_mr3_a,Money & Markets
+irt_h_mr3_q,Money & Markets
+irt_lt_gby10_a,Money & Markets
+irt_lt_gby10_m,Money & Markets
+irt_lt_mcby_a,Money & Markets
+irt_lt_mcby_q,Money & Markets
+irt_st_a,Money & Markets
+isoc_bde15ag,Tech & Innovation
+isoc_bde15ap,Tech & Innovation
+isoc_cbs,Tech & Innovation
+isoc_ci_ac_i$dv_1043,Tech & Innovation
+isoc_ci_ac_i$dv_1122,Tech & Innovation
+isoc_ci_cm_h$dv_507,Tech & Innovation
+isoc_ci_in_h$dv_512,Tech & Innovation
+isoc_cisci_f$dv_536,Tech & Innovation
+isoc_r_cux_i,Tech & Innovation
+isoc_sk_cskl_i$dv_266,Tech & Innovation
+isoc_sk_dskl_i$dv_317,Tech & Innovation
+isoc_sk_oja2,Tech & Innovation
+isoc_ski_itsex,Tech & Innovation
+isoc_sks_itspa,Tech & Innovation
+isoc_sks_itspa$dv_1847,Tech & Innovation
+isoc_sks_itsps,Tech & Innovation
+isoc_sks_itsps$dv_1846,Tech & Innovation
+isoc_sks_itspt,Tech & Innovation
+iss_18bfbck,Money & Markets
+iss_18bfmmag,Money & Markets
+iss_18bfmove,Money & Markets
+iss_18sojobn,Money & Markets
+iss_21covt,Money & Markets
+iss_21gvcba,Money & Markets
+iss_21gvcms,Money & Markets
+iss_21gvcsa,Money & Markets
+iss_21sopref,Money & Markets
+iss_stat,Money & Markets
+iww_ac_nbac,Transports
+iww_ec_employ,Transports
+iww_ec_empsex,Transports
+iww_ec_ent_c,Transports
+iww_ec_ent_n,Transports
+iww_ec_invest,Transports
+iww_eq_age_loa,Transports
+iww_eq_power_lo,Transports
+iww_go_actygo07,Transports
+iww_if_hordim,Transports
+iww_if_infrastr,Transports
+iww_tf_vetf,Transports
+lan_lcv_arti,Environment & Natural Resources and Production
+lan_settl,Environment & Natural Resources and Production
+lc_lci_r1_cow,Money & Markets
+lc_lci_r2_cow,Money & Markets
+lfsa_eppgai$dv_577,"People, Work & Living Conditions"
+lfsa_ergaed$dv_319,"People, Work & Living Conditions"
+lfsa_ewpeve$dv_604,"People, Work & Living Conditions"
+lfsa_ewpnig$dv_605,"People, Work & Living Conditions"
+lfsa_ewpsat$dv_606,"People, Work & Living Conditions"
+lfsa_ewpsun$dv_607,"People, Work & Living Conditions"
+lfsa_ipga$dv_610,"People, Work & Living Conditions"
+lfsa_qoe_3a2$dv_608,"People, Work & Living Conditions"
+lfsa_urgaed$dv_611,"People, Work & Living Conditions"
+lfsi_dwl_a,"People, Work & Living Conditions"
+lfsi_jhh_a,"People, Work & Living Conditions"
+lfsi_long_e08,"People, Work & Living Conditions"
+lfsi_long_e09,"People, Work & Living Conditions"
+lfso_06finiagps,"People, Work & Living Conditions"
+lfso_10fvaredu$dv_609,"People, Work & Living Conditions"
+lfso_12agepens,"People, Work & Living Conditions"
+lfso_12earlyret,"People, Work & Living Conditions"
+lfso_12penstyp,"People, Work & Living Conditions"
+lfso_12reduchrs,"People, Work & Living Conditions"
+lfso_12worklong,"People, Work & Living Conditions"
+lfso_14loq$dv_615,"People, Work & Living Conditions"
+lfso_17seworg,"People, Work & Living Conditions"
+lfst_dpw_01,"People, Work & Living Conditions"
+lfst_dpw_02,"People, Work & Living Conditions"
+lfst_dpw_03,"People, Work & Living Conditions"
+lfst_dpw_04,"People, Work & Living Conditions"
+lfst_dpw_05,"People, Work & Living Conditions"
+lfst_dpw_06,"People, Work & Living Conditions"
+lfst_dpw_07,"People, Work & Living Conditions"
+lfst_dpw_08,"People, Work & Living Conditions"
+lfst_dpw_09,"People, Work & Living Conditions"
+lfst_dpw_10,"People, Work & Living Conditions"
+lfst_dpw_11,"People, Work & Living Conditions"
+lfst_hheredch$dv_2683,"People, Work & Living Conditions"
+lfst_hhwahchi$dv_1872,"People, Work & Living Conditions"
+lfst_r_edatd_16,"People, Work & Living Conditions"
+lfst_r_edatd_22,"People, Work & Living Conditions"
+lfst_r_lmdgeg,"People, Work & Living Conditions"
+lfst_r_lmdltu,"People, Work & Living Conditions"
+mar_mg_aa_cwh,Transports
+mar_mg_aa_pwhd,Transports
+mar_mg_am_cvh,Transports
+mar_mg_am_cwt,Transports
+mar_mg_am_pvh,Transports
+mar_mp_aa_cph,Transports
+mar_mp_aa_pphd,Transports
+mar_mp_am_cft,Transports
+mar_pa_qm_me,Transports
+mar_pa_qm_mt,Transports
+mar_qg_qm_cwh,Transports
+mar_qg_qm_ewhd,Transports
+mar_qg_qm_ewhg,Transports
+mar_qg_qm_ewhk,Transports
+mar_qg_qm_ewht,Transports
+mar_qg_qm_pvh,Transports
+mar_qg_qm_pwh,Transports
+mar_qg_qm_pwhc,Transports
+mar_qg_qm_pwhl,Transports
+mar_qg_qm_pwhr,Transports
+mar_sg_am_cv,Transports
+mar_sg_am_cwd,Transports
+mar_sg_am_ewx,Transports
+mar_sg_am_pwb,Transports
+mar_sg_am_pwc,Transports
+mar_sg_am_pwl,Transports
+mar_sg_am_pwr,Transports
+mar_tp_go,Transports
+mar_tp_pa,Transports
+mar_tp_sss,Transports
+mar_v_est,Transports
+med_ag1,Environment & Natural Resources and Production
+med_ag2,Environment & Natural Resources and Production
+med_ag31,Environment & Natural Resources and Production
+med_ag32,Environment & Natural Resources and Production
+med_ag33,Environment & Natural Resources and Production
+med_ag34,Environment & Natural Resources and Production
+med_ag41,Environment & Natural Resources and Production
+med_ag42,Environment & Natural Resources and Production
+med_ag50,Environment & Natural Resources and Production
+med_ag51,Environment & Natural Resources and Production
+med_air1,Transports
+med_air2,Transports
+med_air3,Transports
+med_air4,Transports
+med_air5,Transports
+med_ec0,Money & Markets
+med_ec1,Money & Markets
+med_ec2,Money & Markets
+med_ec3,Money & Markets
+med_ec4,Money & Markets
+med_ec5,Money & Markets
+med_ec6,Money & Markets
+med_ec7,Money & Markets
+med_ec8,Money & Markets
+med_ec9,Money & Markets
+med_eg10,Environment & Natural Resources and Production
+med_eg20,Environment & Natural Resources and Production
+med_eg30,Environment & Natural Resources and Production
+med_eg_all,Environment & Natural Resources and Production
+med_en1,Environment & Natural Resources and Production
+med_en2,Environment & Natural Resources and Production
+med_en21,Environment & Natural Resources and Production
+med_en22,Environment & Natural Resources and Production
+med_en23,Environment & Natural Resources and Production
+med_en24,Environment & Natural Resources and Production
+med_en25,Environment & Natural Resources and Production
+med_en3,Environment & Natural Resources and Production
+med_en41,Environment & Natural Resources and Production
+med_en42,Environment & Natural Resources and Production
+med_en43,Environment & Natural Resources and Production
+med_en44,Environment & Natural Resources and Production
+med_en46,Environment & Natural Resources and Production
+med_en47,Environment & Natural Resources and Production
+med_en51,Environment & Natural Resources and Production
+med_en52,Environment & Natural Resources and Production
+med_en53,Environment & Natural Resources and Production
+med_en61,Environment & Natural Resources and Production
+med_en62,Environment & Natural Resources and Production
+med_en63,Environment & Natural Resources and Production
+med_ma1,Transports
+med_ma2,Transports
+med_ma3,Transports
+med_ma4,Transports
+med_ma5,Transports
+med_ma6,Transports
+med_ma7,Transports
+med_ps111,"People, Work & Living Conditions"
+med_ps112,"People, Work & Living Conditions"
+med_ps115,"People, Work & Living Conditions"
+med_ps12,"People, Work & Living Conditions"
+med_ps21,"People, Work & Living Conditions"
+med_ps22,"People, Work & Living Conditions"
+med_ps23,"People, Work & Living Conditions"
+med_ps24,"People, Work & Living Conditions"
+med_ps25,"People, Work & Living Conditions"
+med_ps26,"People, Work & Living Conditions"
+med_ps311,"People, Work & Living Conditions"
+med_ps312,"People, Work & Living Conditions"
+med_ps313,"People, Work & Living Conditions"
+med_ps32,"People, Work & Living Conditions"
+med_ps33,"People, Work & Living Conditions"
+med_ps411,"People, Work & Living Conditions"
+med_ps412,"People, Work & Living Conditions"
+med_ps413,"People, Work & Living Conditions"
+med_ps414,"People, Work & Living Conditions"
+med_ps421,"People, Work & Living Conditions"
+med_ps422,"People, Work & Living Conditions"
+med_ps423,"People, Work & Living Conditions"
+med_ps43,"People, Work & Living Conditions"
+med_ra1,Transports
+med_ra2,Transports
+med_ra3,Transports
+med_ra4,Transports
+med_ra5,Transports
+med_rd1,Transports
+med_rd2,Transports
+med_rd3,Transports
+med_rd4,Transports
+med_rd5,Transports
+med_rd6,Transports
+med_rd7,Transports
+med_to11,Living Well
+med_to12,Living Well
+med_to13,Living Well
+med_to21,Living Well
+med_to22,Living Well
+met_d3dens,"People, Work & Living Conditions"
+met_ipr_da,Tech & Innovation
+met_ipr_dapop,Tech & Innovation
+met_ipr_dfa,Tech & Innovation
+met_ipr_dfapop,Tech & Innovation
+met_ipr_dr,Tech & Innovation
+migr_asyaccm$dv_961,"People, Work & Living Conditions"
+migr_asyapp1mp,"People, Work & Living Conditions"
+migr_asyapp1pc,"People, Work & Living Conditions"
+migr_asyapp1up,"People, Work & Living Conditions"
+migr_asyappctza$dv_618,"People, Work & Living Conditions"
+migr_asydec1p,"People, Work & Living Conditions"
+migr_asydec1pc,"People, Work & Living Conditions"
+migr_asydecfp,"People, Work & Living Conditions"
+migr_asymrca,"People, Work & Living Conditions"
+migr_asypenctzm$dv_723,"People, Work & Living Conditions"
+migr_asyresa$dv_629,"People, Work & Living Conditions"
+migr_asytpfa$dv_1381,"People, Work & Living Conditions"
+migr_asytpfm$dv_1383,"People, Work & Living Conditions"
+migr_asytpfpop,"People, Work & Living Conditions"
+migr_asytpfq$dv_1382,"People, Work & Living Conditions"
+migr_asytpsm$dv_1384,"People, Work & Living Conditions"
+migr_asytpspop,"People, Work & Living Conditions"
+migr_asywitha$dv_1021,"People, Work & Living Conditions"
+migr_eilpop,"People, Work & Living Conditions"
+migr_eilretpc,"People, Work & Living Conditions"
+migr_eiord$dv_1261,"People, Work & Living Conditions"
+migr_eirtn$dv_1241,"People, Work & Living Conditions"
+migr_emi5nxt,"People, Work & Living Conditions"
+migr_imm12prv,"People, Work & Living Conditions"
+migr_reschst$dv_1285,"People, Work & Living Conditions"
+migr_resfpc,"People, Work & Living Conditions"
+migr_reslas$dv_1283,"People, Work & Living Conditions"
+migr_resltra$dv_1284,"People, Work & Living Conditions"
+migr_respop,"People, Work & Living Conditions"
+migr_resspc,"People, Work & Living Conditions"
+nama_10_fte,"People, Work & Living Conditions"
+nama_10_pp,"People, Work & Living Conditions"
+nama_10r_3empers$dv_1564,"People, Work & Living Conditions"
+nama_10r_3gdp$dv_1562,"People, Work & Living Conditions"
+nama_10r_3gva$dv_1563,"People, Work & Living Conditions"
+nrg_125m,Environment & Natural Resources and Production
+nrg_135m,Environment & Natural Resources and Production
+nrg_bal_s$dv_650,Environment & Natural Resources and Production
+nrg_chdd_a,Environment & Natural Resources and Production
+nrg_d_sercv,Environment & Natural Resources and Production
+nrg_dhdc_c,Environment & Natural Resources and Production
+nrg_dhdc_e,Environment & Natural Resources and Production
+nrg_dhdc_n,Environment & Natural Resources and Production
+nrg_ind_di,Environment & Natural Resources and Production
+nrg_ind_ep,Environment & Natural Resources and Production
+nrg_ind_esr,Environment & Natural Resources and Production
+nrg_ind_ffgae,Environment & Natural Resources and Production
+nrg_ind_id3cf,Environment & Natural Resources and Production
+nrg_ind_idogas,Environment & Natural Resources and Production
+nrg_ind_ren,Environment & Natural Resources and Production
+nrg_inf_stcs,Environment & Natural Resources and Production
+nrg_pc_202_v,Environment & Natural Resources and Production
+nrg_pc_203_v,Environment & Natural Resources and Production
+nrg_pc_204_v,Environment & Natural Resources and Production
+nrg_pc_205_v,Environment & Natural Resources and Production
+nrg_pc_206,Environment & Natural Resources and Production
+orch_grapes3,Environment & Natural Resources and Production
+orch_olives1,Environment & Natural Resources and Production
+orch_olives2,Environment & Natural Resources and Production
+orch_olives3,Environment & Natural Resources and Production
+orch_total,Environment & Natural Resources and Production
+org_aprod_h,Environment & Natural Resources and Production
+org_aqtspec,Environment & Natural Resources and Production
+org_cpreact_h,Environment & Natural Resources and Production
+org_cropar_h2,Environment & Natural Resources and Production
+pipe_ec_employ,Environment & Natural Resources and Production
+pipe_ec_ent,Environment & Natural Resources and Production
+pipe_ec_invest,Environment & Natural Resources and Production
+pipe_if_capac,Environment & Natural Resources and Production
+pipe_if_lenght,Environment & Natural Resources and Production
+prc_colc_ext,Money & Markets
+prc_colc_nat,Money & Markets
+prc_colc_pppnat,Money & Markets
+prc_colc_ppptot,Money & Markets
+prc_colc_surf,Money & Markets
+prc_colc_tot,Money & Markets
+prc_hicp_cow,Money & Markets
+prc_hpi_hsna,Money & Markets
+prc_hpi_hsva,Money & Markets
+prc_hpi_inw,Money & Markets
+prc_ppp_conv,Money & Markets
+prc_rem_avg,Money & Markets
+prc_rem_cs,Money & Markets
+prc_rem_gdp,Money & Markets
+prc_rem_idx,Money & Markets
+prc_rem_nr,Money & Markets
+qoe_ewcs_1c3,"People, Work & Living Conditions"
+qoe_ewcs_3c3,"People, Work & Living Conditions"
+qoe_ewcs_4a5,"People, Work & Living Conditions"
+qoe_ewcs_6_1,"People, Work & Living Conditions"
+qoe_ewcs_6_3,"People, Work & Living Conditions"
+qoe_ewcs_6_4,"People, Work & Living Conditions"
+qoe_ewcs_6_5,"People, Work & Living Conditions"
+qoe_ewcs_6_6,"People, Work & Living Conditions"
+qoe_ewcs_7a1,"People, Work & Living Conditions"
+qoe_ewcs_7a2,"People, Work & Living Conditions"
+qoe_ewcs_7a3,"People, Work & Living Conditions"
+qoe_ewcs_7b1,"People, Work & Living Conditions"
+qoe_ewcs_7b2,"People, Work & Living Conditions"
+qoe_ewcs_7b3,"People, Work & Living Conditions"
+qoe_ewcs_7b4,"People, Work & Living Conditions"
+qoe_ewcs_7b5,"People, Work & Living Conditions"
+rail_ac_catnmbr,Transports
+rail_ac_dnggood,Transports
+rail_ec_emplo_s,Transports
+rail_ec_ent,Transports
+rail_ec_expend,Transports
+rail_eq_pa_csb,Transports
+rail_eq_pa_cty,Transports
+rail_eq_pa_nca,Transports
+rail_eq_pa_nty,Transports
+rail_eq_trset,Transports
+rail_eq_vans,Transports
+rail_go_consgmt,Transports
+rail_go_quartal,Transports
+rail_go_total,Transports
+rail_if_line_sp,Transports
+rail_if_lvlcros,Transports
+rail_if_tracks,Transports
+rail_if_traff,Transports
+rail_pa_nbcar,Transports
+rail_pa_nbpass,Transports
+rail_pa_speed,Transports
+rail_pa_total,Transports
+rail_tf_hauseat,Transports
+rail_tf_hautkmo,Transports
+rail_tf_ns10_at,Transports
+rail_tf_ns10_be,Transports
+rail_tf_ns10_bg,Transports
+rail_tf_ns10_dk,Transports
+rail_tf_ns10_ee,Transports
+rail_tf_ns10_el,Transports
+rail_tf_ns10_fi,Transports
+rail_tf_ns10_hr,Transports
+rail_tf_ns10_hu,Transports
+rail_tf_ns10_ie,Transports
+rail_tf_ns10_li,Transports
+rail_tf_ns10_lt,Transports
+rail_tf_ns10_lu,Transports
+rail_tf_ns10_lv,Transports
+rail_tf_ns10_mk,Transports
+rail_tf_ns10_no,Transports
+rail_tf_ns10_pt,Transports
+rail_tf_ns10_ro,Transports
+rail_tf_ns10_si,Transports
+rail_tf_ns10_sk,Transports
+rail_tf_ns10_tr,Transports
+rail_tf_ns15_be,Transports
+rail_tf_ns15_bg,Transports
+rail_tf_ns15_cz,Transports
+rail_tf_ns15_dk,Transports
+rail_tf_ns15_ee,Transports
+rail_tf_ns15_fi,Transports
+rail_tf_ns15_hr,Transports
+rail_tf_ns15_hu,Transports
+rail_tf_ns15_ie,Transports
+rail_tf_ns15_li,Transports
+rail_tf_ns15_lt,Transports
+rail_tf_ns15_lu,Transports
+rail_tf_ns15_lv,Transports
+rail_tf_ns15_mk,Transports
+rail_tf_ns15_no,Transports
+rail_tf_ns15_pt,Transports
+rail_tf_ns15_ro,Transports
+rail_tf_ns15_si,Transports
+rail_tf_ns15_sk,Transports
+rail_tf_ns15_tr,Transports
+rail_tf_ns20_bg,Transports
+rail_tf_ns20_cz,Transports
+rail_tf_ns20_dk,Transports
+rail_tf_ns20_ee,Transports
+rail_tf_ns20_el,Transports
+rail_tf_ns20_fi,Transports
+rail_tf_ns20_hr,Transports
+rail_tf_ns20_hu,Transports
+rail_tf_ns20_ie,Transports
+rail_tf_ns20_lt,Transports
+rail_tf_ns20_lu,Transports
+rail_tf_ns20_lv,Transports
+rail_tf_ns20_mk,Transports
+rail_tf_ns20_no,Transports
+rail_tf_ns20_pt,Transports
+rail_tf_ns20_ro,Transports
+rail_tf_ns20_si,Transports
+rail_tf_ns20_sk,Transports
+rail_tf_ns20_tr,Transports
+rail_tf_ns_at,Transports
+rail_tf_ns_be,Transports
+rail_tf_ns_dk,Transports
+rail_tf_ns_ee,Transports
+rail_tf_ns_el,Transports
+rail_tf_ns_fi,Transports
+rail_tf_ns_hu,Transports
+rail_tf_ns_ie,Transports
+rail_tf_ns_li,Transports
+rail_tf_ns_lt,Transports
+rail_tf_ns_lu,Transports
+rail_tf_ns_lv,Transports
+rail_tf_ns_no,Transports
+rail_tf_ns_pt,Transports
+rail_tf_ns_si,Transports
+rail_tf_ns_sk,Transports
+rail_tf_ns_tr,Transports
+rail_tf_passmov,Transports
+rail_tf_trainmv,Transports
+rd_b_berdcon,Tech & Innovation
+rd_p_con,Tech & Innovation
+rd_p_sen,Tech & Innovation
+road_ec_empl,Transports
+road_ec_empl_s,Transports
+road_ec_entemp,Transports
+road_ec_entveh,Transports
+road_ec_invest,Transports
+road_eqr_bum,Transports
+road_eqr_bussea,Transports
+road_eqr_busveh,Transports
+road_eqr_carbua,Transports
+road_eqr_loralt,Transports
+road_eqr_lsttt,Transports
+road_eqr_mopeds,Transports
+road_eqr_motors,Transports
+road_eqr_semit,Transports
+road_eqr_spurp,Transports
+road_eqr_tracm,Transports
+road_eqr_trail,Transports
+road_eqr_trailn,Transports
+road_eqr_trams,Transports
+road_eqs_busmot_h,Transports
+road_eqs_bussea,Transports
+road_eqs_busveh,Transports
+road_eqs_carage,Transports
+road_eqs_caralt,Transports
+road_eqs_carhab,Transports
+road_eqs_motorc,Transports
+road_eqs_roaene_h,Transports
+road_eqs_semit,Transports
+road_eqs_semitn,Transports
+road_eqs_spurp,Transports
+road_eqs_trail,Transports
+road_eqs_trailn,Transports
+road_eqs_trams,Transports
+road_eqs_unlweig,Transports
+road_go_ca_c,Transports
+road_go_ca_d_c,Transports
+road_go_ca_d_ha,Transports
+road_go_na_rl3g$dv_1581,Transports
+road_go_na_ru3g$dv_1582,Transports
+road_if_barea,Transports
+road_if_bsurfa,Transports
+road_if_motorwa,Transports
+road_pa_mov,Transports
+road_tert_go,Transports
+road_tf_buscoa,Transports
+sbs_cre_gbneea,Money & Markets
+sbs_cre_gneea,Money & Markets
+sbs_cre_pacc,Money & Markets
+sbs_cre_pcpay,Money & Markets
+sbs_cre_pcrec,Money & Markets
+sbs_cre_pintpay,Money & Markets
+sbs_cre_pintrex,Money & Markets
+sbs_cre_ploans,Money & Markets
+sbs_part_wtstck,Money & Markets
+sbs_pen_7b1,Money & Markets
+sbs_pen_7b2,Money & Markets
+sbs_pen_7c,Money & Markets
+sbs_pen_7e,Money & Markets
+sbs_pen_enteea,Money & Markets
+sdg_01_10,"People, Work & Living Conditions"
+sdg_01_10a,"People, Work & Living Conditions"
+sdg_01_20,"People, Work & Living Conditions"
+sdg_01_20a,"People, Work & Living Conditions"
+sdg_01_31,"People, Work & Living Conditions"
+sdg_01_40,"People, Work & Living Conditions"
+sdg_01_41,"People, Work & Living Conditions"
+sdg_01_50,"People, Work & Living Conditions"
+sdg_02_10,Health & Safety
+sdg_02_20,Environment & Natural Resources and Production
+sdg_02_30,Environment & Natural Resources and Production
+sdg_02_40,Environment & Natural Resources and Production
+sdg_02_53,Environment & Natural Resources and Production
+sdg_02_60,Environment & Natural Resources and Production
+sdg_03_11,Health & Safety
+sdg_03_20,Health & Safety
+sdg_03_30,Health & Safety
+sdg_03_41,Health & Safety
+sdg_03_42,Health & Safety
+sdg_03_60,Health & Safety
+sdg_03_70,Health & Safety
+sdg_04_10,Learning & Education
+sdg_04_10a,Learning & Education
+sdg_04_20,Learning & Education
+sdg_04_40,Learning & Education
+sdg_04_60,Learning & Education
+sdg_05_10,"People, Work & Living Conditions"
+sdg_05_20,"People, Work & Living Conditions"
+sdg_05_30,"People, Work & Living Conditions"
+sdg_05_40,"People, Work & Living Conditions"
+sdg_05_50,"People, Work & Living Conditions"
+sdg_05_60,"People, Work & Living Conditions"
+sdg_06_10,"People, Work & Living Conditions"
+sdg_06_20,Environment & Natural Resources and Production
+sdg_06_30,Environment & Natural Resources and Production
+sdg_06_40,Environment & Natural Resources and Production
+sdg_06_50,Environment & Natural Resources and Production
+sdg_06_60,Environment & Natural Resources and Production
+sdg_07_10,Environment & Natural Resources and Production
+sdg_07_11,Environment & Natural Resources and Production
+sdg_07_20,Environment & Natural Resources and Production
+sdg_07_30,Environment & Natural Resources and Production
+sdg_07_40,Environment & Natural Resources and Production
+sdg_07_50,Environment & Natural Resources and Production
+sdg_07_60,"People, Work & Living Conditions"
+sdg_08_10,Money & Markets
+sdg_08_11,Money & Markets
+sdg_08_20,"People, Work & Living Conditions"
+sdg_08_20a,"People, Work & Living Conditions"
+sdg_08_30,"People, Work & Living Conditions"
+sdg_08_30a,"People, Work & Living Conditions"
+sdg_08_40,"People, Work & Living Conditions"
+sdg_08_60,"People, Work & Living Conditions"
+sdg_09_40,Tech & Innovation
+sdg_09_50,Transports
+sdg_09_60,Transports
+sdg_09_70,Environment & Natural Resources and Production
+sdg_10_10,Money & Markets
+sdg_10_20,"People, Work & Living Conditions"
+sdg_10_30,"People, Work & Living Conditions"
+sdg_10_41,"People, Work & Living Conditions"
+sdg_10_50,"People, Work & Living Conditions"
+sdg_10_60,"People, Work & Living Conditions"
+sdg_11_11,"People, Work & Living Conditions"
+sdg_11_20,"People, Work & Living Conditions"
+sdg_11_31,Environment & Natural Resources and Production
+sdg_11_32,Environment & Natural Resources and Production
+sdg_11_52,Environment & Natural Resources and Production
+sdg_11_60,Environment & Natural Resources and Production
+sdg_12_10,Environment & Natural Resources and Production
+sdg_12_21,Environment & Natural Resources and Production
+sdg_12_31,Environment & Natural Resources and Production
+sdg_12_51,Environment & Natural Resources and Production
+sdg_12_61,Environment & Natural Resources and Production
+sdg_13_31,Environment & Natural Resources and Production
+sdg_13_40,Environment & Natural Resources and Production
+sdg_13_50,Environment & Natural Resources and Production
+sdg_13_60,Environment & Natural Resources and Production
+sdg_13_70,Environment & Natural Resources and Production
+sdg_13_70a,Environment & Natural Resources and Production
+sdg_14_10,Environment & Natural Resources and Production
+sdg_14_21,Environment & Natural Resources and Production
+sdg_14_30,Environment & Natural Resources and Production
+sdg_14_40,Environment & Natural Resources and Production
+sdg_14_50,Environment & Natural Resources and Production
+sdg_14_60,Environment & Natural Resources and Production
+sdg_15_10,Environment & Natural Resources and Production
+sdg_15_20,Environment & Natural Resources and Production
+sdg_15_42,Environment & Natural Resources and Production
+sdg_15_50,Environment & Natural Resources and Production
+sdg_15_60,Environment & Natural Resources and Production
+sdg_15_61,Environment & Natural Resources and Production
+sdg_16_10,Health & Safety
+sdg_16_20,Health & Safety
+sdg_16_30,Health & Safety
+sdg_16_40,Health & Safety
+sdg_16_50,Health & Safety
+sdg_16_60,Health & Safety
+sdg_16_70,Health & Safety
+sdg_17_10,Health & Safety
+sdg_17_20,Money & Markets
+sdg_17_40,Money & Markets
+sdg_17_50,Money & Markets
+sdg_17_60,Tech & Innovation
+spr_net_ben$dv_1622,Health & Safety
+sprt_emp_age,Living Well
+sprt_emp_sex,Living Well
+sprt_pcs_qnt,Living Well
+sts_tot_prod_a,Money & Markets
+tag00001,Environment & Natural Resources and Production
+tag00007,Environment & Natural Resources and Production
+tag00014,Environment & Natural Resources and Production
+tag00016,Environment & Natural Resources and Production
+tag00017,Environment & Natural Resources and Production
+tag00018,Environment & Natural Resources and Production
+tag00020,Environment & Natural Resources and Production
+tag00027,Environment & Natural Resources and Production
+tag00029,Environment & Natural Resources and Production
+tag00037,Environment & Natural Resources and Production
+tag00038,Environment & Natural Resources and Production
+tag00039,Environment & Natural Resources and Production
+tag00040,Environment & Natural Resources and Production
+tag00041,Environment & Natural Resources and Production
+tag00042,Environment & Natural Resources and Production
+tag00043,Environment & Natural Resources and Production
+tag00044,Environment & Natural Resources and Production
+tag00045,Environment & Natural Resources and Production
+tag00046,Environment & Natural Resources and Production
+tag00047,Environment & Natural Resources and Production
+tag00048,Environment & Natural Resources and Production
+tag00049,Environment & Natural Resources and Production
+tag00050,Environment & Natural Resources and Production
+tag00051,Environment & Natural Resources and Production
+tag00052,Environment & Natural Resources and Production
+tag00053,Environment & Natural Resources and Production
+tag00054,Environment & Natural Resources and Production
+tag00055,Environment & Natural Resources and Production
+tag00056,Environment & Natural Resources and Production
+tag00057,Environment & Natural Resources and Production
+tag00059,Environment & Natural Resources and Production
+tag00060,Environment & Natural Resources and Production
+tag00061,Environment & Natural Resources and Production
+tag00062,Environment & Natural Resources and Production
+tag00063,Environment & Natural Resources and Production
+tag00064,Environment & Natural Resources and Production
+tag00065,Environment & Natural Resources and Production
+tag00066,Environment & Natural Resources and Production
+tag00067,Environment & Natural Resources and Production
+tag00068,Environment & Natural Resources and Production
+tag00069,Environment & Natural Resources and Production
+tag00070,Environment & Natural Resources and Production
+tag00071,Environment & Natural Resources and Production
+tag00075,Environment & Natural Resources and Production
+tag00076,Environment & Natural Resources and Production
+tag00083,Environment & Natural Resources and Production
+tag00093,Environment & Natural Resources and Production
+tag00094,Environment & Natural Resources and Production
+tag00100,Environment & Natural Resources and Production
+tag00101,Environment & Natural Resources and Production
+tag00102,Environment & Natural Resources and Production
+tag00103,Environment & Natural Resources and Production
+tag00115,Environment & Natural Resources and Production
+tag00116,Environment & Natural Resources and Production
+tag00120,Environment & Natural Resources and Production
+tag00121,Environment & Natural Resources and Production
+tag00122,Environment & Natural Resources and Production
+tag00123,Environment & Natural Resources and Production
+tag00124,Environment & Natural Resources and Production
+tag00125,Environment & Natural Resources and Production
+tai04,Environment & Natural Resources and Production
+tai07,Environment & Natural Resources and Production
+tai08,Environment & Natural Resources and Production
+tai09,Environment & Natural Resources and Production
+tai10,Environment & Natural Resources and Production
+tai11,Environment & Natural Resources and Production
+tec00001,Money & Markets
+tec00009,Money & Markets
+tec00010,Money & Markets
+tec00011,Money & Markets
+tec00013,Money & Markets
+tec00021,Money & Markets
+tec00023,Money & Markets
+tec00027,Money & Markets
+tec00033,Money & Markets
+tec00038,Money & Markets
+tec00039,Money & Markets
+tec00040,Money & Markets
+tec00041,Money & Markets
+tec00042,Money & Markets
+tec00097,Money & Markets
+tec00104,Money & Markets
+tec00105,Money & Markets
+tec00106,Money & Markets
+tec00107,Money & Markets
+tec00110,Money & Markets
+tec00112,Money & Markets
+tec00113,Money & Markets
+tec00114,Money & Markets
+tec00115,Money & Markets
+tec00116,Money & Markets
+tec00118,Money & Markets
+tec00120,Money & Markets
+tec00121,Money & Markets
+tec00127,Money & Markets
+tec00131,Money & Markets
+tec00132,Money & Markets
+teibp010,Money & Markets
+teibp020,Money & Markets
+teibp030,Money & Markets
+teibp060,Money & Markets
+teibp070,Money & Markets
+teibs010,Money & Markets
+teibs020,Money & Markets
+teibs030,Money & Markets
+teibs040,Money & Markets
+teibs070,Money & Markets
+teicp000,Money & Markets
+teicp010,Money & Markets
+teicp020,Money & Markets
+teicp030,Money & Markets
+teicp040,Money & Markets
+teicp050,Money & Markets
+teicp060,Money & Markets
+teicp070,Money & Markets
+teicp080,Money & Markets
+teicp090,Money & Markets
+teicp100,Money & Markets
+teicp110,Money & Markets
+teicp120,Money & Markets
+teicp200,Money & Markets
+teicp210,Money & Markets
+teicp220,Money & Markets
+teicp230,Money & Markets
+teicp240,Money & Markets
+teicp250,Money & Markets
+teicp260,Money & Markets
+teicp270,Money & Markets
+teicp280,Money & Markets
+teicp290,Money & Markets
+teiet010,Money & Markets
+teiet020,Money & Markets
+teiet030,Money & Markets
+teiet040,Money & Markets
+teiet050,Money & Markets
+teiet060,Money & Markets
+teiet070,Money & Markets
+teiet110,Money & Markets
+teiet120,Money & Markets
+teiet130,Money & Markets
+teiet140,Money & Markets
+teiet150,Money & Markets
+teiet160,Money & Markets
+teiet170,Money & Markets
+teiet210,Money & Markets
+teiet215,Money & Markets
+teiet300,Money & Markets
+teiet310,Money & Markets
+teiis010,Money & Markets
+teiis011,Money & Markets
+teiis012,Money & Markets
+teiis013,Money & Markets
+teiis014,Money & Markets
+teiis015,Money & Markets
+teiis016,Money & Markets
+teiis020,Money & Markets
+teiis030,Money & Markets
+teiis040,Money & Markets
+teiis050,Money & Markets
+teiis060,Money & Markets
+teiis070,Money & Markets
+teiis080,Money & Markets
+teiis090,Money & Markets
+teiis100,Money & Markets
+teiis110,Money & Markets
+teiis120,Money & Markets
+teiis130,Money & Markets
+teiis140,Money & Markets
+teiis150,Money & Markets
+teiis160,Money & Markets
+teiis170,Money & Markets
+teiis180,Money & Markets
+teiis190,Money & Markets
+teiis200,Money & Markets
+teiis210,Money & Markets
+teiis220,Money & Markets
+teiis230,Money & Markets
+teiis240,Money & Markets
+teiis250,Money & Markets
+teiis260,Money & Markets
+teiis270,Money & Markets
+teiis400,Money & Markets
+teiis500,Money & Markets
+teiis521,Money & Markets
+teiis550,Money & Markets
+teilm010,"People, Work & Living Conditions"
+teilm011,"People, Work & Living Conditions"
+teilm012,"People, Work & Living Conditions"
+teilm020,"People, Work & Living Conditions"
+teilm021,"People, Work & Living Conditions"
+teilm022,"People, Work & Living Conditions"
+teilm100,"People, Work & Living Conditions"
+teimf040,Money & Markets
+teimf050,Money & Markets
+teimf060,Money & Markets
+teimf100,Money & Markets
+teimf200,Money & Markets
+teimf250,Money & Markets
+teina010,Money & Markets
+teina011,Money & Markets
+teina020,Money & Markets
+teina021,Money & Markets
+teina030,Money & Markets
+teina031,Money & Markets
+teina040,Money & Markets
+teina041,Money & Markets
+teina050,Money & Markets
+teina080,Money & Markets
+teina090,Money & Markets
+teina100,Money & Markets
+teina110,Money & Markets
+teina200,Money & Markets
+teina205,Money & Markets
+teina210,Money & Markets
+teina225,Money & Markets
+teina230,Money & Markets
+teina500,Money & Markets
+teina510,Money & Markets
+teina515,Money & Markets
+teina520,Money & Markets
+teina400_r2,Money & Markets
+teina402_r2,Money & Markets
+teina404_r2,Money & Markets
+teina406_r2,Money & Markets
+teina408_r2,Money & Markets
+teina410_r2,Money & Markets
+teina412_r2,Money & Markets
+teina414_r2,Money & Markets
+teina416_r2,Money & Markets
+teina418_r2,Money & Markets
+teina420_r2,Money & Markets
+teina422_r2,Money & Markets
+teina424_r2,Money & Markets
+teina426_r2,Money & Markets
+teina428_r2,Money & Markets
+teina430_r2,Money & Markets
+teina432_r2,Money & Markets
+teina434_r2,Money & Markets
+teina436_r2,Money & Markets
+teina438_r2,Money & Markets
+teina440_r2,Money & Markets
+teina442_r2,Money & Markets
+teina444_r2,Money & Markets
+teina446_r2,Money & Markets
+ten00001,Environment & Natural Resources and Production
+ten00003,Environment & Natural Resources and Production
+ten00006,Environment & Natural Resources and Production
+ten00030,Environment & Natural Resources and Production
+ten00062,Environment & Natural Resources and Production
+ten00063,Environment & Natural Resources and Production
+ten00110,Environment & Natural Resources and Production
+ten00117,Environment & Natural Resources and Production
+ten00118,Environment & Natural Resources and Production
+ten00119,Environment & Natural Resources and Production
+ten00120,Environment & Natural Resources and Production
+ten00135,Environment & Natural Resources and Production
+ten00136,Environment & Natural Resources and Production
+ten00137,Environment & Natural Resources and Production
+ten00138,Environment & Natural Resources and Production
+ten00139,Environment & Natural Resources and Production
+ten00141,Environment & Natural Resources and Production
+tepsr_lm210,"People, Work & Living Conditions"
+tepsr_lm230,"People, Work & Living Conditions"
+tepsr_lm410,"People, Work & Living Conditions"
+tepsr_lm411,"People, Work & Living Conditions"
+tepsr_lm412,"People, Work & Living Conditions"
+tepsr_lm420,"People, Work & Living Conditions"
+tepsr_lm430,"People, Work & Living Conditions"
+tepsr_lm440,"People, Work & Living Conditions"
+tepsr_sp110,"People, Work & Living Conditions"
+tepsr_sp210,"People, Work & Living Conditions"
+tepsr_sp310,"People, Work & Living Conditions"
+tepsr_sp320,"People, Work & Living Conditions"
+tepsr_sp410,"People, Work & Living Conditions"
+tepsr_spi110,"People, Work & Living Conditions"
+tepsr_spi120,"People, Work & Living Conditions"
+tepsr_spi130,"People, Work & Living Conditions"
+tepsr_wc130,"People, Work & Living Conditions"
+tepsr_wc230,"People, Work & Living Conditions"
+tepsr_wc310,"People, Work & Living Conditions"
+tesem010,"People, Work & Living Conditions"
+tesem020,Learning & Education
+tesem030,Learning & Education
+tesem040,"People, Work & Living Conditions"
+tesem050,"People, Work & Living Conditions"
+tesem060,"People, Work & Living Conditions"
+tesem070,"People, Work & Living Conditions"
+tesem080,"People, Work & Living Conditions"
+tesem090,"People, Work & Living Conditions"
+tesem100,"People, Work & Living Conditions"
+tesem120,"People, Work & Living Conditions"
+tesem130,"People, Work & Living Conditions"
+tesem140,"People, Work & Living Conditions"
+tesem160,"People, Work & Living Conditions"
+tesem170,"People, Work & Living Conditions"
+tesem180,"People, Work & Living Conditions"
+tesem190,"People, Work & Living Conditions"
+tesem200,"People, Work & Living Conditions"
+tesem210,"People, Work & Living Conditions"
+tesem220,"People, Work & Living Conditions"
+tesem240,"People, Work & Living Conditions"
+tesov092,"People, Work & Living Conditions"
+tesov110,"People, Work & Living Conditions"
+tesov190,"People, Work & Living Conditions"
+tesov250,"People, Work & Living Conditions"
+tespm020,"People, Work & Living Conditions"
+tespm030,"People, Work & Living Conditions"
+tespm040,"People, Work & Living Conditions"
+tespm060,"People, Work & Living Conditions"
+tespm070,"People, Work & Living Conditions"
+tespm080,"People, Work & Living Conditions"
+tespm090,"People, Work & Living Conditions"
+tespm100,"People, Work & Living Conditions"
+tespm110,"People, Work & Living Conditions"
+tespm120,"People, Work & Living Conditions"
+tespm130,"People, Work & Living Conditions"
+tespm140,"People, Work & Living Conditions"
+tespm151,"People, Work & Living Conditions"
+tespn010,"People, Work & Living Conditions"
+tespn020,"People, Work & Living Conditions"
+tespn060,"People, Work & Living Conditions"
+tespn070,"People, Work & Living Conditions"
+tespn080,"People, Work & Living Conditions"
+tespn090,"People, Work & Living Conditions"
+tespn100,"People, Work & Living Conditions"
+tespn110,"People, Work & Living Conditions"
+tespn120,"People, Work & Living Conditions"
+tespn240,"People, Work & Living Conditions"
+tespn250,"People, Work & Living Conditions"
+tespn260,"People, Work & Living Conditions"
+tespn270,"People, Work & Living Conditions"
+tessi010,"People, Work & Living Conditions"
+tessi014,"People, Work & Living Conditions"
+tessi020,"People, Work & Living Conditions"
+tessi022,"People, Work & Living Conditions"
+tessi030,"People, Work & Living Conditions"
+tessi080,"People, Work & Living Conditions"
+tessi082,"People, Work & Living Conditions"
+tessi121,"People, Work & Living Conditions"
+tessi125,"People, Work & Living Conditions"
+tessi126,"People, Work & Living Conditions"
+tessi150,"People, Work & Living Conditions"
+tessi160,"People, Work & Living Conditions"
+tessi161,"People, Work & Living Conditions"
+tessi162,"People, Work & Living Conditions"
+tessi163,"People, Work & Living Conditions"
+tessi164,"People, Work & Living Conditions"
+tessi165,"People, Work & Living Conditions"
+tessi166,"People, Work & Living Conditions"
+tessi170,"People, Work & Living Conditions"
+tessi171,"People, Work & Living Conditions"
+tessi172,"People, Work & Living Conditions"
+tessi173,"People, Work & Living Conditions"
+tessi174,"People, Work & Living Conditions"
+tessi175,"People, Work & Living Conditions"
+tessi176,"People, Work & Living Conditions"
+tessi177,"People, Work & Living Conditions"
+tessi178,"People, Work & Living Conditions"
+tessi180,"People, Work & Living Conditions"
+tessi190,"People, Work & Living Conditions"
+tessi191,"People, Work & Living Conditions"
+tessi220,"People, Work & Living Conditions"
+tessi250,"People, Work & Living Conditions"
+tessi291,"People, Work & Living Conditions"
+tessi292,"People, Work & Living Conditions"
+tessi293,"People, Work & Living Conditions"
+tessi294,"People, Work & Living Conditions"
+tessi295,"People, Work & Living Conditions"
+tessi300,"People, Work & Living Conditions"
+tessi301,"People, Work & Living Conditions"
+tessi302,"People, Work & Living Conditions"
+tessi303,"People, Work & Living Conditions"
+tet00001,Money & Markets
+tet00002,Money & Markets
+tet00003,Money & Markets
+tet00004,Money & Markets
+tet00011,Money & Markets
+tet00012,Money & Markets
+tet00013,Money & Markets
+tet00028,Money & Markets
+tet00037,Money & Markets
+tet00038,Money & Markets
+tet00065,Money & Markets
+tet00066,Money & Markets
+tet00071,Money & Markets
+tgs00027,"People, Work & Living Conditions"
+tgs00047,"People, Work & Living Conditions"
+tgs00052,"People, Work & Living Conditions"
+tgs00064,"People, Work & Living Conditions"
+tgs00075,Transports
+tgs00076,Transports
+tgs00077,Transports
+tgs00078,Transports
+tgs00103,"People, Work & Living Conditions"
+tgs00104,"People, Work & Living Conditions"
+tgs00107,"People, Work & Living Conditions"
+tgs00108,"People, Work & Living Conditions"
+tin00028,Tech & Innovation
+tin00074,Tech & Innovation
+tin00085,Tech & Innovation
+tin00086,Tech & Innovation
+tin00091,Tech & Innovation
+tin00092,Tech & Innovation
+tin00093,Tech & Innovation
+tin00094,Tech & Innovation
+tin00095,Tech & Innovation
+tin00096,Tech & Innovation
+tin00098,Tech & Innovation
+tin00099,Tech & Innovation
+tin00101,Tech & Innovation
+tin00102,Tech & Innovation
+tin00103,Tech & Innovation
+tin00110,Tech & Innovation
+tin00111,Tech & Innovation
+tin00116,Tech & Innovation
+tin00127,Tech & Innovation
+tin00134,Tech & Innovation
+tin00140,Tech & Innovation
+tin00171,Living Well
+tin00172,Living Well
+tin00173,Living Well
+tin00174,Living Well
+tin00175,Living Well
+tin00176,Living Well
+tin00180,Living Well
+tin00181,Living Well
+tin00185,Living Well
+tin00186,Living Well
+tin00195,Living Well
+tin00196,Living Well
+tipsbd10,Money & Markets
+tipsbd20,Money & Markets
+tipsbd30,Money & Markets
+tipsbd40,Money & Markets
+tipsbp10,Money & Markets
+tipsbp100,Money & Markets
+tipsbp17,Money & Markets
+tipsbp18,Money & Markets
+tipsbp20,Money & Markets
+tipsbp22,Money & Markets
+tipsbp70,Money & Markets
+tipsbp90,Money & Markets
+tipsen10,Money & Markets
+tipser10,Money & Markets
+tipser11,Money & Markets
+tipser12,Money & Markets
+tipser13,Money & Markets
+tipser20,Money & Markets
+tipsex10,Money & Markets
+tipsex11,Money & Markets
+tipsex12,Money & Markets
+tipsex13,Money & Markets
+tipsex20,Money & Markets
+tipsfs10,Money & Markets
+tipsfs20,Money & Markets
+tipsfs30,Money & Markets
+tipsgo10,Money & Markets
+tipsho10,Money & Markets
+tipsho20,Money & Markets
+tipsho30,Money & Markets
+tipsho40,Money & Markets
+tipsho50,Money & Markets
+tipsii10,Money & Markets
+tipsii12,Money & Markets
+tipsii15,Money & Markets
+tipsii18,Money & Markets
+tipsii20,Money & Markets
+tipsii21,Money & Markets
+tipsii30,Money & Markets
+tipsii40,Money & Markets
+tipsii50,Money & Markets
+tipslc10,"People, Work & Living Conditions"
+tipslc20,"People, Work & Living Conditions"
+tipslc30,"People, Work & Living Conditions"
+tipslc40,"People, Work & Living Conditions"
+tipslm10,"People, Work & Living Conditions"
+tipslm100,"People, Work & Living Conditions"
+tipslm13,"People, Work & Living Conditions"
+tipslm15,"People, Work & Living Conditions"
+tipslm16,"People, Work & Living Conditions"
+tipslm20,"People, Work & Living Conditions"
+tipslm50,"People, Work & Living Conditions"
+tipslm60,"People, Work & Living Conditions"
+tipslm70,"People, Work & Living Conditions"
+tipslm80,"People, Work & Living Conditions"
+tipslm90,"People, Work & Living Conditions"
+tipsna20,Money & Markets
+tipsna30,Money & Markets
+tipsna40,Money & Markets
+tipsna50,Money & Markets
+tipsna51,Money & Markets
+tipsna60,"People, Work & Living Conditions"
+tipsna62,"People, Work & Living Conditions"
+tipsna70,"People, Work & Living Conditions"
+tipspc10,Money & Markets
+tipspc13,Money & Markets
+tipspc14,Money & Markets
+tipspc15,Money & Markets
+tipspc16,Money & Markets
+tipspc20,Money & Markets
+tipspc23,Money & Markets
+tipspc24,Money & Markets
+tipspc25,Money & Markets
+tipspc26,Money & Markets
+tipspd10,Money & Markets
+tipspd13,Money & Markets
+tipspd14,Money & Markets
+tipspd15,Money & Markets
+tipspd16,Money & Markets
+tipspd20,Money & Markets
+tipspd22,Money & Markets
+tipspd23,Money & Markets
+tipspd24,Money & Markets
+tipspd25,Money & Markets
+tipspd26,Money & Markets
+tipspd30,Money & Markets
+tipsst10,Tech & Innovation
+tipsun10,"People, Work & Living Conditions"
+tipsun20,"People, Work & Living Conditions"
+tipsun30,"People, Work & Living Conditions"
+tour_ce_oam,Living Well
+tour_ce_oasc,Living Well
+tps00001,"People, Work & Living Conditions"
+tps00003,"People, Work & Living Conditions"
+tps00005,"People, Work & Living Conditions"
+tps00014,"People, Work & Living Conditions"
+tps00017,"People, Work & Living Conditions"
+tps00019,"People, Work & Living Conditions"
+tps00024,"People, Work & Living Conditions"
+tps00027,"People, Work & Living Conditions"
+tps00028,"People, Work & Living Conditions"
+tps00029,"People, Work & Living Conditions"
+tps00044,"People, Work & Living Conditions"
+tps00045,"People, Work & Living Conditions"
+tps00046,"People, Work & Living Conditions"
+tps00048,"People, Work & Living Conditions"
+tps00053,"People, Work & Living Conditions"
+tps00065,Learning & Education
+tps00066,"People, Work & Living Conditions"
+tps00071,"People, Work & Living Conditions"
+tps00073,"People, Work & Living Conditions"
+tps00098,"People, Work & Living Conditions"
+tps00099,"People, Work & Living Conditions"
+tps00100,"People, Work & Living Conditions"
+tps00101,"People, Work & Living Conditions"
+tps00102,"People, Work & Living Conditions"
+tps00103,"People, Work & Living Conditions"
+tps00104,"People, Work & Living Conditions"
+tps00105,"People, Work & Living Conditions"
+tps00108,"People, Work & Living Conditions"
+tps00116,"People, Work & Living Conditions"
+tps00119,"People, Work & Living Conditions"
+tps00122,"People, Work & Living Conditions"
+tps00125,"People, Work & Living Conditions"
+tps00128,"People, Work & Living Conditions"
+tps00131,"People, Work & Living Conditions"
+tps00134,"People, Work & Living Conditions"
+tps00137,"People, Work & Living Conditions"
+tps00140,"People, Work & Living Conditions"
+tps00143,"People, Work & Living Conditions"
+tps00146,"People, Work & Living Conditions"
+tps00149,"People, Work & Living Conditions"
+tps00150,"People, Work & Living Conditions"
+tps00151,"People, Work & Living Conditions"
+tps00152,"People, Work & Living Conditions"
+tps00155,"People, Work & Living Conditions"
+tps00157,"People, Work & Living Conditions"
+tps00159,"People, Work & Living Conditions"
+tps00165,"People, Work & Living Conditions"
+tps00167,"People, Work & Living Conditions"
+tps00170,"People, Work & Living Conditions"
+tps00171,"People, Work & Living Conditions"
+tps00172,"People, Work & Living Conditions"
+tps00173,"People, Work & Living Conditions"
+tps00175,"People, Work & Living Conditions"
+tps00176,"People, Work & Living Conditions"
+tps00177,"People, Work & Living Conditions"
+tps00178,"People, Work & Living Conditions"
+tps00181,"People, Work & Living Conditions"
+tps00182,"People, Work & Living Conditions"
+tps00184,"People, Work & Living Conditions"
+tps00185,"People, Work & Living Conditions"
+tps00186,"People, Work & Living Conditions"
+tps00189,"People, Work & Living Conditions"
+tps00190,"People, Work & Living Conditions"
+tps00191,"People, Work & Living Conditions"
+tps00192,"People, Work & Living Conditions"
+tps00193,"People, Work & Living Conditions"
+tps00194,"People, Work & Living Conditions"
+tps00195,"People, Work & Living Conditions"
+tps00197,"People, Work & Living Conditions"
+tps00198,"People, Work & Living Conditions"
+tps00199,"People, Work & Living Conditions"
+tps00202,"People, Work & Living Conditions"
+tps00203,"People, Work & Living Conditions"
+tps00204,"People, Work & Living Conditions"
+tps00205,"People, Work & Living Conditions"
+tps00206,"People, Work & Living Conditions"
+tps00208,"People, Work & Living Conditions"
+tps00215,Learning & Education
+tps00216,"People, Work & Living Conditions"
+tps00217,Learning & Education
+tqoe3a5,"People, Work & Living Conditions"
+tqoe3b4,"People, Work & Living Conditions"
+tqoe4a3,"People, Work & Living Conditions"
+tran_hv_frmod,Transports
+tran_hv_frtra,Transports
+tran_hv_ms_frmod,Transports
+tran_hv_ms_psmod,Transports
+tran_hv_pstra,Transports
+tran_im_mosp,Transports
+tran_im_mospt,Transports
+tran_im_uiww,Transports
+tran_im_umar,Transports
+tran_im_umod,Transports
+tran_im_urail,Transports
+tran_im_uroad,Transports
+tran_sf_marv,Transports
+tran_sf_marves,Transports
+tran_sf_railac,Transports
+tran_sf_raildg,Transports
+tran_sf_railsu,Transports
+tran_sf_roadro,Transports
+trng_aes_186,Learning & Education
+trng_aes_187,Learning & Education
+trng_any3,Learning & Education
+trng_any4,Learning & Education
+trng_any5,Learning & Education
+trng_cvt_12s,Learning & Education
+trng_cvt_13s,Learning & Education
+trng_cvt_21n1,Learning & Education
+trng_cvt_21n2,Learning & Education
+trng_cvt_21s,Learning & Education
+trng_cvt_22n1,Learning & Education
+trng_cvt_22n2,Learning & Education
+trng_cvt_22s,Learning & Education
+trng_cvt_23n1,Learning & Education
+trng_cvt_23n2,Learning & Education
+trng_cvt_23s,Learning & Education
+trng_cvt_24n1,Learning & Education
+trng_cvt_24n2,Learning & Education
+trng_cvt_24s,Learning & Education
+trng_cvt_25n1,Learning & Education
+trng_cvt_25n2,Learning & Education
+trng_cvt_25s,Learning & Education
+trng_cvt_26n1,Learning & Education
+trng_cvt_34n1,Learning & Education
+trng_cvt_34n2,Learning & Education
+trng_cvt_34s,Learning & Education
+trng_fed3,Learning & Education
+trng_inf3,Learning & Education
+trng_lfs_02$dv_2221,Learning & Education
+trng_nfe13,Learning & Education
+trng_nfe14,Learning & Education
+trng_nfe15,Learning & Education
+trng_nfe16,Learning & Education
+trng_nfe18,Learning & Education
+trng_nfe2,Learning & Education
+trng_nfe4,Learning & Education
+trng_nfe5,Learning & Education
+trng_nfe6,Learning & Education
+trng_nfe7,Learning & Education
+tsc00001,Tech & Innovation
+tsc00003,Tech & Innovation
+tsc00005,Tech & Innovation
+tsc00006,Tech & Innovation
+tsc00007,Tech & Innovation
+tsc00008,Tech & Innovation
+tsc00011,Tech & Innovation
+tsc00025,Tech & Innovation
+tsc00031,Tech & Innovation
+ttr00001,Transports
+ttr00002,Transports
+ttr00003,Transports
+ttr00005,Transports
+ttr00006,Transports
+ttr00007,Transports
+ttr00009,Transports
+ttr00011,Transports
+ttr00012,Transports
+ttr00015,Transports
+ttr00016,Transports
+tus_00alone,Living Well
+tus_00educ$dv_571,Living Well
+tus_00meal,Living Well
+tus_00npaycare,Living Well
+tus_00npaywork,Living Well
+tus_00screen,Living Well
+tus_00simuact,Living Well
+tus_00travel,Living Well
+tus_00work$dv_671,Living Well
+urt_10r_3gdp$dv_1584,Money & Markets
+urt_ipr_da,Tech & Innovation
+urt_ipr_dapop,Tech & Innovation
+urt_ipr_dfa,Tech & Innovation
+urt_ipr_dfapop,Tech & Innovation
+urt_ipr_dr,Tech & Innovation
+urt_lfe3emprt$dv_1586,"People, Work & Living Conditions"
+vit_bs4_cy,Environment & Natural Resources and Production
+vit_bs4_lu,Environment & Natural Resources and Production
+yth_demo_030,"People, Work & Living Conditions"
+yth_educ_020,Learning & Education
+yth_educ_030,Learning & Education

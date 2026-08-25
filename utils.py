@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+from pathlib import Path
 
 
 ########################################################################################################################################################################################################################
@@ -18,7 +19,17 @@ def is_numeric(value):
     return bool(re.fullmatch(r"[-+]?\d+(?:\.\d+)?(?:\s*[A-Za-z])?", value))
 
 
+"""
+Discover whether an attribute is a date or not
+"""
+def is_date(value):
+    try:
+        pd.to_datetime(value, errors="raise")
+        return True
+    except (ValueError, TypeError):
+        return False
 
+    
 """
 Extracts temporal and string attributes from a list of attributes.
 
@@ -152,17 +163,24 @@ Assign a domain to each code, according to its cluster
 """
 def assign_domains_to_codes(cluster_domains, cluster_prefixes, output_path):
 
-    cluster_prefixes = cluster_prefixes[["cluster", "code"]].copy()
+    cluster_prefixes = cluster_prefixes[["cluster", "code", "measure"]].copy()
 
     # Merge
     result = pd.merge(cluster_prefixes, cluster_domains, on="cluster", how="inner")
-    result = result[["code", "domain"]]
+    result = result[["domain", "code", "measure"]]
 
     # Removes eventual duplicates
     result = result.drop_duplicates()
 
     # Save ordered result
-    result = result.sort_values(["code", "domain"]).reset_index(drop=True)
-    result.to_csv(output_path / "", index=False)
+    result = result.sort_values(["domain", "code", "measure"]).reset_index(drop=True)
+    result.to_csv(output_path, index=False)
 
     return result
+
+
+# assign_domains_to_codes(
+#     pd.read_csv("clustering/llm_files/cluster_domain.csv"),
+#     pd.read_csv("clustering/llm_files/cluster_prefixes.csv"),
+#     Path("output/clustering/code_domain.csv")
+# )

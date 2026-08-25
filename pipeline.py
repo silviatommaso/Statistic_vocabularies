@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-from utils import is_numeric, parse_title, split_attributes, save_vocabulary_by_tag, save_code_measure
+from utils import is_numeric, is_date, parse_title, split_attributes, save_vocabulary_by_tag, save_code_measure
 from clustering.clustering import build_clusters
 
 
@@ -43,7 +43,7 @@ OUTPUT.mkdir(parents=True, exist_ok=True)
 
 def vocaboulary_set():
 
-    directory = TABLES / "eurostat_7605_tables"
+    directory = TABLES / "eurostat_2000_tables"
 
     nuts = pd.read_csv( AUXILIAR_FILES / "ESTAT_GEO_28.0_EN.tsv", sep="\t")
     tab_titles = pd.read_csv( TABLES / "table_titles.csv", sep=",")
@@ -58,12 +58,12 @@ def vocaboulary_set():
 
     M = {}
 
+    csv_files = [file for file in sorted(directory.iterdir()) if file.suffix == ".csv"]
+    total_files = len(csv_files)
 
-    for file in sorted(directory.iterdir()):
+    print("Costruzione del vocabolario iniziata...")
 
-        print(file.name)
-        if file.suffix != ".csv":
-            continue
+    for i, file in enumerate(csv_files, start=1):
 
         tables = pd.read_csv(file, low_memory=False)
         attributes = tables.columns.tolist()
@@ -95,7 +95,7 @@ def vocaboulary_set():
 
             for value in values:
 
-                if not isinstance(value, str) or is_numeric(value):
+                if not isinstance(value, str) or is_numeric(value) or is_date(value):
                     continue
 
                 # 2.2 String value
@@ -130,6 +130,11 @@ def vocaboulary_set():
 
             (OUTPUT / "vocabulary_by_tag/measures").mkdir(parents=True, exist_ok=True)
 
+        percentage = (i / total_files) * 100
+        print(f"\rVocabulary construction: {percentage:.1f}% of completion", end="", flush=True)
+
+    print("\nVocabulary construction completed.")
+
     # 5-6. Global mapped vocabulary
     V = {}
 
@@ -147,6 +152,12 @@ def vocaboulary_set():
     CLUSTER = OUTPUT / "clustering"
     CLUSTER.mkdir(parents=True, exist_ok=True)
 
-    build_clusters(M, CLUSTER)
+    print("Domain clustering started...")
 
-V = vocaboulary_set()
+    build_clusters(OUTPUT / "vocabulary_by_tag/measures/code_measures.csv", CLUSTER)
+
+
+
+
+if __name__ == "__main__":
+    vocaboulary_set()
