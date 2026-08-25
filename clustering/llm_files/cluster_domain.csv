@@ -9,7 +9,7 @@ cluster,domain
 7,Money & Markets
 8,Money & Markets
 9,Money & Markets
-10,Money & Markets
+10,Environment & Natural Resources and Production
 11,Environment & Natural Resources and Production
 12,Environment & Natural Resources and Production
 13,Environment & Natural Resources and Production
@@ -41,7 +41,7 @@ cluster,domain
 39,Learning & Education
 40,Environment & Natural Resources and Production
 41,Money & Markets
-42,Money & Markets
+42,Tech & Innovation
 43,Money & Markets
 44,Money & Markets
 45,Money & Markets
@@ -74,7 +74,7 @@ cluster,domain
 72,Environment & Natural Resources and Production
 73,Money & Markets
 74,"People, Work & Living Conditions"
-75,Health & Safety
+75,"People, Work & Living Conditions"
 76,Learning & Education
 77,Environment & Natural Resources and Production
 78,Environment & Natural Resources and Production
@@ -108,18 +108,18 @@ cluster,domain
 106,Money & Markets
 107,"People, Work & Living Conditions"
 108,Health & Safety
-109,"People, Work & Living Conditions"
+109,Health & Safety
 110,"People, Work & Living Conditions"
 111,Health & Safety
 112,Health & Safety
 113,"People, Work & Living Conditions"
-114,Health & Safety
+114,"People, Work & Living Conditions"
 115,Health & Safety
 116,Health & Safety
 117,Health & Safety
 118,"People, Work & Living Conditions"
 119,Health & Safety
-120,"People, Work & Living Conditions"
+120,Health & Safety
 121,Health & Safety
 122,Health & Safety
 123,Health & Safety
@@ -138,7 +138,7 @@ cluster,domain
 136,"People, Work & Living Conditions"
 137,"People, Work & Living Conditions"
 138,"People, Work & Living Conditions"
-139,Health & Safety
+139,"People, Work & Living Conditions"
 140,"People, Work & Living Conditions"
 141,"People, Work & Living Conditions"
 142,"People, Work & Living Conditions"
@@ -170,7 +170,7 @@ cluster,domain
 168,Money & Markets
 169,Tech & Innovation
 170,Tech & Innovation
-171,Learning & Education
+171,Tech & Innovation
 172,"People, Work & Living Conditions"
 173,Money & Markets
 174,Transports
@@ -213,7 +213,7 @@ cluster,domain
 211,"People, Work & Living Conditions"
 212,Money & Markets
 213,Environment & Natural Resources and Production
-214,Environment & Natural Resources and Production
+214,Money & Markets
 215,Environment & Natural Resources and Production
 216,Environment & Natural Resources and Production
 217,Environment & Natural Resources and Production
@@ -280,7 +280,7 @@ cluster,domain
 278,Money & Markets
 279,Money & Markets
 280,Money & Markets
-281,Money & Markets
+281,Tech & Innovation
 282,"People, Work & Living Conditions"
 283,Living Well
 284,"People, Work & Living Conditions"
@@ -288,7 +288,7 @@ cluster,domain
 286,Transports
 287,Transports
 288,Learning & Education
-289,Money & Markets
+289,"People, Work & Living Conditions"
 290,Learning & Education
 291,Learning & Education
 292,Learning & Education

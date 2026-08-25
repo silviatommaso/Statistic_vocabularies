@@ -179,8 +179,8 @@ def assign_domains_to_codes(cluster_domains, cluster_prefixes, output_path):
     return result
 
 
-# assign_domains_to_codes(
-#     pd.read_csv("clustering/llm_files/cluster_domain.csv"),
-#     pd.read_csv("clustering/llm_files/cluster_prefixes.csv"),
-#     Path("output/clustering/code_domain.csv")
-# )
+assign_domains_to_codes(
+    pd.read_csv("clustering/llm_files/cluster_domain.csv"),
+    pd.read_csv("clustering/llm_files/cluster_prefixes.csv"),
+    Path("output/clustering/code_domain.csv")
+)

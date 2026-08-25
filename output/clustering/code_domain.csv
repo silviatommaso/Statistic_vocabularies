@@ -9,6 +9,9 @@ Environment & Natural Resources and Production,apro_ec_lshen,Laying hens populat
 Environment & Natural Resources and Production,apro_mk_fatprot,Fat contents and protein contents (cow's milk) - annual data
 Environment & Natural Resources and Production,apro_mt_lsequi,Equidae - annual data
 Environment & Natural Resources and Production,apro_mt_ppighq,Production forecasts for pigs – thousand heads – quarterly data
+Environment & Natural Resources and Production,cei_cie011,Persons employed in circular economy sectors
+Environment & Natural Resources and Production,cei_cie012,Private investment and gross added value related to circular economy sectors
+Environment & Natural Resources and Production,cei_cie020,Patents related to recycling and secondary raw materials
 Environment & Natural Resources and Production,cei_gsr011,Greenhouse gases emissions from production activities
 Environment & Natural Resources and Production,cei_gsr020,self-sufficiency for raw materials
 Environment & Natural Resources and Production,cei_gsr030,Material import dependency
@@ -120,7 +123,6 @@ Environment & Natural Resources and Production,nrg_ind_di,Diversity index of ene
 Environment & Natural Resources and Production,nrg_ind_ep,Energy productivity
 Environment & Natural Resources and Production,nrg_ind_esr,Energy self-reliance
 Environment & Natural Resources and Production,nrg_ind_ffgae,Share of fossil fuels in gross available energy
-Environment & Natural Resources and Production,nrg_ind_id3cf,Import dependency on third countries by fuel type
 Environment & Natural Resources and Production,nrg_ind_idogas,Natural gas import dependency by country of origin
 Environment & Natural Resources and Production,nrg_ind_ren,Share of energy from renewable sources
 Environment & Natural Resources and Production,nrg_inf_stcs,Solar thermal collectors' surface
@@ -241,7 +243,6 @@ Health & Safety,crim_thb_sex$dv_1641,Persons involved in trafficking in human be
 Health & Safety,crim_thb_vctz,Victims of trafficking in human beings by citizenship
 Health & Safety,crim_thb_vctz$dv_1643,Victims of trafficking in human beings by citizenship
 Health & Safety,crim_thb_vexp,Victims of trafficking in human beings by all forms of exploitation
-Health & Safety,enps_demo_under5,Under 5 mortality rate by sex
 Health & Safety,enps_tran_sf_r,Persons killed in road accidents
 Health & Safety,gbv_any_age,"Women who have experienced violence by any perpetrator, by age group"
 Health & Safety,gbv_any_cnq,Women who have experienced violence by any perpetrator and consequences of violence
@@ -298,6 +299,7 @@ Health & Safety,gbv_st_cnq,"Women who have experienced stalking, by consequences
 Health & Safety,gbv_st_occ,"Women who have experienced stalking, by occurrence of the last episode"
 Health & Safety,gbv_st_perp,"Women who have experienced stalking, by type of perpetrator"
 Health & Safety,gbv_st_rp,"Women who have experienced stalking, by person/support service to whom violence was reported"
+Health & Safety,hlth_cd_acdr2$dv_1145,Causes of death - crude death rate by NUTS 2 region of residence
 Health & Safety,hlth_cd_aperrto,"Fetal, peri- and neonatal mortality rates by country of occurrence"
 Health & Safety,hlth_cd_apyll,Causes of death - potential years of life lost by residence
 Health & Safety,hlth_cd_dar,Deaths of residents related to dementias including Alzheimer
@@ -314,8 +316,6 @@ Health & Safety,hlth_ehis_al3e$dv_450,"Frequency of heavy episodic drinking by s
 Health & Safety,hlth_ehis_al3i$dv_461,"Frequency of heavy episodic drinking by sex, age and income quintile"
 Health & Safety,hlth_ehis_am7sa,Self-reported use of home care services by people with severe difficulty in personal care activities by sex and age
 Health & Safety,hlth_ehis_am7sh,Self-reported use of home care services by people with severe difficulty in personal care activities by age and household type
-Health & Safety,hlth_ehis_fv3e$dv_1143,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
-Health & Safety,hlth_ehis_fv3e$dv_462,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
 Health & Safety,hlth_ehis_hc2,Self-reported breast examination by X-ray by educational attainment level among women aged 50-69 (%)
 Health & Safety,hlth_ehis_hc3,Self-reported cervical smear test by educational attainment level among women aged 20-69 (%)
 Health & Safety,hlth_ehis_mh1e$dv_463,"Current depressive symptoms by sex, age and educational attainment level"
@@ -333,6 +333,7 @@ Health & Safety,hlth_ps_immu,Vaccination against influenza of population aged 65
 Health & Safety,hlth_ps_prev,Preventive cancer screenings - programme data
 Health & Safety,hlth_ps_scre,Breast cancer and cervical cancer screenings - historical data
 Health & Safety,hlth_rs_bdltc,Beds in nursing and other residential long-term care facilities
+Health & Safety,hlth_rs_grd2$dv_2825,Health graduates
 Health & Safety,hlth_rs_prs2$dv_2824,Health personnel
 Health & Safety,hlth_sha11_hc$dv_2841,Health care expenditure by function
 Health & Safety,hlth_sha11_hf$dv_2821,Health care expenditure by financing scheme
@@ -360,11 +361,6 @@ Health & Safety,hsw_ij_svsha,"Relative incidence rate of accidental injuries at 
 Health & Safety,hsw_ind,Indicators on health and safety at work
 Health & Safety,hsw_occ_cnr,Recognised cases of occupational cancers - experimental statistics
 Health & Safety,hsw_occ_ina,index of occupational diseases – experimental statistics
-Health & Safety,ilc_hch15,Children with unmet needs for medical examination or treatment by specific reason
-Health & Safety,ilc_hch16$dv_2262,"Persons reporting basic activity difficulty by sex, age, level of difficulty and educational attainment level"
-Health & Safety,ilc_hch17$dv_2261,"Persons reporting basic activity difficulty by sex, age, level of difficulty and income quintile"
-Health & Safety,ilc_hch18$dv_2263,"Persons reporting basic activity difficulty by sex, age, level of difficulty and degree of urbanization"
-Health & Safety,ilc_hch19$dv_2264,"Persons reporting basic activity difficulty by sex, age, level of difficulty, type of basic action and risk of poverty threshold"
 Health & Safety,ilc_lk11,Self defined health status by age and income quantile - ECHP survey
 Learning & Education,educ_fiaid,Financial aid to students
 Learning & Education,educ_fiexpc,Expenditure on education in constant prices
@@ -406,8 +402,6 @@ Learning & Education,enpe_edat_lfse_14,Early leavers from education and training
 Learning & Education,enpe_educ_uoe_enra02,Pupils and students enrolled by education level
 Learning & Education,enps_edat_lfse3,Population aged 20-24 who completed at least an upper secondary educational attainment level (ISCED level 3) by sex
 Learning & Education,enps_edat_lfse4,Population aged 25 and over by sex and educational attainment level
-Learning & Education,isoc_sk_cskl_i$dv_266,Individuals' level of computer skills (until
-Learning & Education,isoc_sk_dskl_i$dv_317,Individuals' level of digital skills (until
 Learning & Education,lfst_r_edatd_16,Regional disparities in the rate of early leavers from education and training (NUTS level 2)
 Learning & Education,lfst_r_edatd_22,Regional disparities in the rate of young people neither in employment nor in education and training (NEET) (NUTS level 2)
 Learning & Education,trng_aes_186,Effect of the search for information on learning possibilities
@@ -503,13 +497,9 @@ Money & Markets,bs_bs7_00,Turnover by nationality of client and NACE Rev.1 at 3-
 Money & Markets,bs_bs7_04,Number of enterprises carrying out cross border trade by reasons for cross border trade and employment size class
 Money & Markets,bs_bs8_00,Turnover by nationality of client and employment size class
 Money & Markets,bs_bs9_00,Turnover by client specialisation and NACE Rev.1 at 3-digit level
-Money & Markets,cei_cie011,Persons employed in circular economy sectors
-Money & Markets,cei_cie012,Private investment and gross added value related to circular economy sectors
-Money & Markets,cei_cie020,Patents related to recycling and secondary raw materials
 Money & Markets,egi_em1,Employment in Foreign Controlled Enterprises
 Money & Markets,egi_em2,Employment in Foreign Affiliates of Domestic Enterprises
 Money & Markets,egi_em3,Share of employment in Member States supported by exports (FIGARO application)
-Money & Markets,egi_rd1,Intra-mural Business Enterprise R&D Expenditures in Foreign Controlled Enterprises
 Money & Markets,egi_so1,Enterprises sourcing abroad
 Money & Markets,egi_tr1,Export to import ratio
 Money & Markets,egi_tr2,Intermediate goods trade
@@ -619,6 +609,7 @@ Money & Markets,nama_10_pp,GNI (gross national income) per capita in PPS
 Money & Markets,nama_10r_3empers$dv_1564,Employment (thousand persons) by NUTS 3 regions
 Money & Markets,nama_10r_3gdp$dv_1562,Gross domestic product (GDP) at current market prices by NUTS 3 regions
 Money & Markets,nama_10r_3gva$dv_1563,Gross value added at basic prices by NUTS 3 regions
+Money & Markets,nrg_ind_id3cf,Import dependency on third countries by fuel type
 Money & Markets,pipe_ec_employ,Persons employed in oil pipeline enterprises by sex
 Money & Markets,pipe_ec_ent,Oil pipeline enterprises
 Money & Markets,pipe_ec_invest,Investment and maintenance in oil pipeline infrastructure
@@ -910,10 +901,6 @@ Money & Markets,tipspd24,"Private sector debt: debt securities, by sectors, cons
 Money & Markets,tipspd25,"Private sector debt: loans, by sectors, consolidated - % of GDP"
 Money & Markets,tipspd26,"Private sector debt: loans, by sectors, consolidated - million units of national currency"
 Money & Markets,tipspd30,"Non-financial corporations debt - consolidated, % of GDP"
-Money & Markets,tipsst10,Gross domestic expenditure on research and development (R&D)
-Money & Markets,trng_any3,Participation in any learning activities by degree of urbanisation
-Money & Markets,trng_any4,Participation in any learning activities by NACE Rev. 1.1 activity
-Money & Markets,trng_any5,Participation in any learning activities by size of the local unit
 Money & Markets,urt_10r_3gdp$dv_1584,Gross domestic product (GDP) at current market prices by other typologies
 Money & Markets,urt_ipr_da,Community design applications by other typologies
 Money & Markets,urt_ipr_dapop,Community design applications per million population by other typologies
@@ -1004,6 +991,7 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",enpe_ilc_li09,"Proportion of persons at risk of relative poverty, before social transfers by sex"
 "People, Work & Living Conditions",enpe_lfsa_urgan2,Long-term unemployment rates by sex
 "People, Work & Living Conditions",enps_demo_frate1,fertility rate
+"People, Work & Living Conditions",enps_demo_under5,Under 5 mortality rate by sex
 "People, Work & Living Conditions",enps_ilc_di11,Income quintile share ratio - S80/S20
 "People, Work & Living Conditions",eq_fer05,Live births
 "People, Work & Living Conditions",eq_mor06,Deaths by sex
@@ -1012,15 +1000,15 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",eq_pop04,Median age by sex
 "People, Work & Living Conditions",hbs_exp_t111,Mean consumption expenditure per household and per adult equivalent
 "People, Work & Living Conditions",hbs_exp_t132,Mean consumption expenditure by number of active persons
-"People, Work & Living Conditions",hlth_cd_acdr2$dv_1145,Causes of death - crude death rate by NUTS 2 region of residence
 "People, Work & Living Conditions",hlth_dhc140$dv_2681,"Inability to keep home adequately warm by level of disability (activity limitation), sex and age"
 "People, Work & Living Conditions",hlth_ehis_bm1e$dv_309,"Body mass index (BMI) by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_bm1i$dv_306,"Body mass index (BMI) by sex, age and income quintile"
+"People, Work & Living Conditions",hlth_ehis_fv3e$dv_1143,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
+"People, Work & Living Conditions",hlth_ehis_fv3e$dv_462,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_sk3e$dv_1127,"Daily smokers of cigarettes by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_sk3e$dv_298,"Daily smokers of cigarettes by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_sk3i$dv_1141,"Daily smokers of cigarettes by sex, age and income quintile"
 "People, Work & Living Conditions",hlth_ehis_sk3i$dv_304,"Daily smokers of cigarettes by sex, age and income quintile"
-"People, Work & Living Conditions",hlth_rs_grd2$dv_2825,Health graduates
 "People, Work & Living Conditions",icw_car_01,Distribution of households by age of the reference person - experimental statistics
 "People, Work & Living Conditions",icw_car_02,Distribution of households by household type - experimental statistics
 "People, Work & Living Conditions",icw_car_04,Distribution of households by activity status of the reference person - experimental statistics
@@ -1055,6 +1043,11 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",ilc_di12b,Gini coefficient of equivalised disposable income before social transfers (pensions included in social transfers)
 "People, Work & Living Conditions",ilc_di12c,Gini coefficient of equivalised disposable income before social transfers (pensions excluded from social transfers)
 "People, Work & Living Conditions",ilc_di18,Income in real terms SILC=100)
+"People, Work & Living Conditions",ilc_hch15,Children with unmet needs for medical examination or treatment by specific reason
+"People, Work & Living Conditions",ilc_hch16$dv_2262,"Persons reporting basic activity difficulty by sex, age, level of difficulty and educational attainment level"
+"People, Work & Living Conditions",ilc_hch17$dv_2261,"Persons reporting basic activity difficulty by sex, age, level of difficulty and income quintile"
+"People, Work & Living Conditions",ilc_hch18$dv_2263,"Persons reporting basic activity difficulty by sex, age, level of difficulty and degree of urbanization"
+"People, Work & Living Conditions",ilc_hch19$dv_2264,"Persons reporting basic activity difficulty by sex, age, level of difficulty, type of basic action and risk of poverty threshold"
 "People, Work & Living Conditions",ilc_igtp03,At-risk-of poverty rate for adults (aged 25 to 59 years) by educational attainment level of their parents
 "People, Work & Living Conditions",ilc_igtp04,At-risk-of poverty rate for adults (aged 25 to 59 years) by level of financial situation of their households when respondent was around 14 years old
 "People, Work & Living Conditions",ilc_iw02$dv_2665,In-work at-risk-of-poverty rate by household type - EU-SILC survey
@@ -1610,6 +1603,9 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",tqoe3a5,Employed persons having more than one job by sex
 "People, Work & Living Conditions",tqoe3b4,Employees with a flexible work schedule by sex
 "People, Work & Living Conditions",tqoe4a3,Employed persons being self-employed without employees by sex
+"People, Work & Living Conditions",trng_any3,Participation in any learning activities by degree of urbanisation
+"People, Work & Living Conditions",trng_any4,Participation in any learning activities by NACE Rev. 1.1 activity
+"People, Work & Living Conditions",trng_any5,Participation in any learning activities by size of the local unit
 "People, Work & Living Conditions",trng_nfe13,Mean instruction hours per employed participant in non-formal education and training by sex and NACE Rev. 1.1 activity
 "People, Work & Living Conditions",trng_nfe14,Mean instruction hours per participant in non-formal education and training by sex and age
 "People, Work & Living Conditions",trng_nfe15,Mean instruction hours per participant in non-formal education and training by sex and labour status
@@ -1631,6 +1627,7 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",tus_00work$dv_671,Time spent in total work (paid and unpaid work as main or secondary activity) by sex and by form of work
 "People, Work & Living Conditions",urt_lfe3emprt$dv_1586,"Employment rates by sex, age and other typologies"
 "People, Work & Living Conditions",yth_demo_030,Estimated average age of young people leaving the parental household by sex
+Tech & Innovation,egi_rd1,Intra-mural Business Enterprise R&D Expenditures in Foreign Controlled Enterprises
 Tech & Innovation,enpe_isoc_ci_ifp_fu,Frequency of internet use by individuals aged 16-74
 Tech & Innovation,enpe_isoc_ci_in_h,Percentage of households having internet access at home
 Tech & Innovation,enpe_rd_e_gerdfund,Gross domestic expenditure on R&D (GERD)
@@ -1652,6 +1649,8 @@ Tech & Innovation,isoc_ci_cm_h$dv_507,Households - availability of computers
 Tech & Innovation,isoc_ci_in_h$dv_512,Households - level of internet access
 Tech & Innovation,isoc_cisci_f$dv_536,Safety copies and back up files
 Tech & Innovation,isoc_r_cux_i,Individuals who have never used a computer
+Tech & Innovation,isoc_sk_cskl_i$dv_266,Individuals' level of computer skills (until
+Tech & Innovation,isoc_sk_dskl_i$dv_317,Individuals' level of digital skills (until
 Tech & Innovation,isoc_ski_itsex,Employed persons with ICT education by sex
 Tech & Innovation,isoc_sks_itspa,Employed ICT specialists by age
 Tech & Innovation,isoc_sks_itspa$dv_1847,Employed ICT specialists by age
@@ -1694,6 +1693,7 @@ Tech & Innovation,tin00185,Persons participating in tourism for personal purpose
 Tech & Innovation,tin00186,Participation in tourism for personal purposes - % of total population
 Tech & Innovation,tin00195,Average expenditure per trip
 Tech & Innovation,tin00196,Average expenditure per night
+Tech & Innovation,tipsst10,Gross domestic expenditure on research and development (R&D)
 Tech & Innovation,tsc00001,"Research and development expenditure, by sectors of performance"
 Tech & Innovation,tsc00003,researchers by sectors of performance - head count
 Tech & Innovation,tsc00005,"Share of women researchers, by sectors of performance"
