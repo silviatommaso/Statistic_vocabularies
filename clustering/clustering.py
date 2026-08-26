@@ -28,8 +28,11 @@ def build_prefixes(codes):
             base_code = base_code.split("$")[0]
 
         digit_match = re.search(r"\d", base_code)
-        if digit_match:
+        if digit_match and not base_code.startswith("sdg_"):
             prefix = base_code[:digit_match.start()].rstrip("_")
+        elif base_code.startswith("sdg_"):
+            parts = base_code.split("_")
+            prefix = "_".join(parts[:2])
         elif "_" in base_code:
             parts = base_code.split("_")
             split_point = (base_code.count("_") + 1) // 2

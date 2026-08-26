@@ -4,12 +4,12 @@ cluster,domain
 2,Environment & Natural Resources and Production
 3,Environment & Natural Resources and Production
 4,Transports
-5,Transports
+5,"People, Work & Living Conditions"
 6,Transports
 7,Money & Markets
 8,Money & Markets
 9,Money & Markets
-10,Environment & Natural Resources and Production
+10,Money & Markets
 11,Environment & Natural Resources and Production
 12,Environment & Natural Resources and Production
 13,Environment & Natural Resources and Production
@@ -113,7 +113,7 @@ cluster,domain
 111,Health & Safety
 112,Health & Safety
 113,"People, Work & Living Conditions"
-114,"People, Work & Living Conditions"
+114,Health & Safety
 115,Health & Safety
 116,Health & Safety
 117,Health & Safety
@@ -124,11 +124,11 @@ cluster,domain
 122,Health & Safety
 123,Health & Safety
 124,Health & Safety
-125,Health & Safety
+125,Transports
 126,Health & Safety
 127,Money & Markets
 128,"People, Work & Living Conditions"
-129,Money & Markets
+129,"People, Work & Living Conditions"
 130,"People, Work & Living Conditions"
 131,"People, Work & Living Conditions"
 132,"People, Work & Living Conditions"
@@ -138,7 +138,7 @@ cluster,domain
 136,"People, Work & Living Conditions"
 137,"People, Work & Living Conditions"
 138,"People, Work & Living Conditions"
-139,"People, Work & Living Conditions"
+139,Health & Safety
 140,"People, Work & Living Conditions"
 141,"People, Work & Living Conditions"
 142,"People, Work & Living Conditions"
@@ -157,10 +157,10 @@ cluster,domain
 155,"People, Work & Living Conditions"
 156,"People, Work & Living Conditions"
 157,"People, Work & Living Conditions"
-158,Living Well
+158,"People, Work & Living Conditions"
 159,"People, Work & Living Conditions"
 160,Living Well
-161,Tech & Innovation
+161,Money & Markets
 162,Money & Markets
 163,Money & Markets
 164,Money & Markets
@@ -170,7 +170,7 @@ cluster,domain
 168,Money & Markets
 169,Tech & Innovation
 170,Tech & Innovation
-171,Tech & Innovation
+171,Learning & Education
 172,"People, Work & Living Conditions"
 173,Money & Markets
 174,Transports
@@ -220,7 +220,7 @@ cluster,domain
 218,Environment & Natural Resources and Production
 219,Environment & Natural Resources and Production
 220,Environment & Natural Resources and Production
-221,Money & Markets
+221,Environment & Natural Resources and Production
 222,Money & Markets
 223,"People, Work & Living Conditions"
 224,Transports
@@ -239,66 +239,82 @@ cluster,domain
 237,Money & Markets
 238,Money & Markets
 239,"People, Work & Living Conditions"
-240,"People, Work & Living Conditions"
-241,"People, Work & Living Conditions"
-242,Money & Markets
-243,Environment & Natural Resources and Production
+240,Environment & Natural Resources and Production
+241,Health & Safety
+242,Learning & Education
+243,"People, Work & Living Conditions"
 244,Environment & Natural Resources and Production
-245,Money & Markets
-246,Money & Markets
-247,Money & Markets
-248,Money & Markets
-249,Money & Markets
-250,Money & Markets
-251,"People, Work & Living Conditions"
-252,Money & Markets
-253,Money & Markets
-254,Environment & Natural Resources and Production
-255,"People, Work & Living Conditions"
+245,Environment & Natural Resources and Production
+246,"People, Work & Living Conditions"
+247,Tech & Innovation
+248,"People, Work & Living Conditions"
+249,"People, Work & Living Conditions"
+250,Environment & Natural Resources and Production
+251,Money & Markets
+252,Environment & Natural Resources and Production
+253,Environment & Natural Resources and Production
+254,Health & Safety
+255,Money & Markets
 256,"People, Work & Living Conditions"
 257,"People, Work & Living Conditions"
-258,"People, Work & Living Conditions"
-259,"People, Work & Living Conditions"
-260,"People, Work & Living Conditions"
-261,"People, Work & Living Conditions"
-262,"People, Work & Living Conditions"
-263,"People, Work & Living Conditions"
+258,Money & Markets
+259,Environment & Natural Resources and Production
+260,Environment & Natural Resources and Production
+261,Money & Markets
+262,Money & Markets
+263,Money & Markets
 264,Money & Markets
-265,"People, Work & Living Conditions"
-266,Tech & Innovation
-267,Money & Markets
+265,Money & Markets
+266,Money & Markets
+267,"People, Work & Living Conditions"
 268,Money & Markets
 269,Money & Markets
-270,Money & Markets
-271,Money & Markets
-272,Money & Markets
-273,Money & Markets
-274,Money & Markets
-275,Money & Markets
+270,Environment & Natural Resources and Production
+271,"People, Work & Living Conditions"
+272,"People, Work & Living Conditions"
+273,"People, Work & Living Conditions"
+274,"People, Work & Living Conditions"
+275,"People, Work & Living Conditions"
 276,"People, Work & Living Conditions"
 277,"People, Work & Living Conditions"
-278,Money & Markets
-279,Money & Markets
+278,"People, Work & Living Conditions"
+279,"People, Work & Living Conditions"
 280,Money & Markets
-281,Tech & Innovation
-282,"People, Work & Living Conditions"
-283,Living Well
-284,"People, Work & Living Conditions"
-285,"People, Work & Living Conditions"
-286,Transports
-287,Transports
-288,Learning & Education
-289,"People, Work & Living Conditions"
-290,Learning & Education
-291,Learning & Education
-292,Learning & Education
-293,Learning & Education
-294,"People, Work & Living Conditions"
-295,Tech & Innovation
-296,Transports
-297,"People, Work & Living Conditions"
-298,Money & Markets
-299,"People, Work & Living Conditions"
-300,Environment & Natural Resources and Production
+281,"People, Work & Living Conditions"
+282,Tech & Innovation
+283,Money & Markets
+284,Money & Markets
+285,Money & Markets
+286,Money & Markets
+287,Money & Markets
+288,Money & Markets
+289,Money & Markets
+290,Money & Markets
+291,Money & Markets
+292,"People, Work & Living Conditions"
+293,"People, Work & Living Conditions"
+294,Money & Markets
+295,Money & Markets
+296,Money & Markets
+297,Tech & Innovation
+298,"People, Work & Living Conditions"
+299,Living Well
+300,"People, Work & Living Conditions"
 301,"People, Work & Living Conditions"
-302,Learning & Education
+302,Transports
+303,Transports
+304,Learning & Education
+305,Money & Markets
+306,Learning & Education
+307,Learning & Education
+308,Learning & Education
+309,Learning & Education
+310,"People, Work & Living Conditions"
+311,Tech & Innovation
+312,Transports
+313,"People, Work & Living Conditions"
+314,Money & Markets
+315,"People, Work & Living Conditions"
+316,Environment & Natural Resources and Production
+317,"People, Work & Living Conditions"
+318,Learning & Education

@@ -1186,815 +1186,815 @@ cluster,prefix,code,measure
 238,sbs_pen,sbs_pen_7b2,Autonomous pension funds - number of enterprises by size class of members
 238,sbs_pen,sbs_pen_7c,Autonomous pension funds - total investments by currencies
 238,sbs_pen,sbs_pen_7e,Non-autonomous pension funds
-239,sdg,sdg_01_10,Persons at risk of poverty or social exclusion
-239,sdg,sdg_01_10a,Persons at risk of poverty or social exclusion by degree of urbanisation
-239,sdg,sdg_01_20,Persons at risk of monetary poverty after social transfers - EU-SILC and ECHP surveys
-239,sdg,sdg_01_20a,Persons at risk of monetary poverty after social transfers by citizenship
-239,sdg,sdg_01_31,Severe material and social deprivation rate by age group and sex
-239,sdg,sdg_01_40,"Persons living in households with very low work intensity, by age group"
-239,sdg,sdg_01_41,In work at-risk-of-poverty rate
-239,sdg,sdg_01_50,Housing cost overburden rate by poverty status
-239,sdg,sdg_02_10,Obesity rate by body mass index (BMI)
-239,sdg,sdg_02_20,Agricultural real factor income per annual work unit (AWU)
-239,sdg,sdg_02_30,Government support to agricultural research and development
-239,sdg,sdg_02_40,Area under organic farming
-239,sdg,sdg_02_53,Use and risk of chemical pesticides
-239,sdg,sdg_02_60,Ammonia emissions from agriculture
-239,sdg,sdg_03_11,Healthy life years at birth by sex
-239,sdg,sdg_03_20,Share of people with good or very good perceived health by sex
-239,sdg,sdg_03_30,Smoking prevalence by sex
-239,sdg,sdg_03_41,"Standardised death rate due to tuberculosis, HIV and hepatitis by type of disease"
-239,sdg,sdg_03_42,Standardised preventable and treatable mortality
-239,sdg,sdg_03_60,Self-reported unmet need for medical examination and care by sex
-239,sdg,sdg_03_70,Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
-239,sdg,sdg_04_10,Early leavers from education and training by sex
-239,sdg,sdg_04_10a,"Early leavers from education and training, by citizenship"
-239,sdg,sdg_04_20,Tertiary educational attainment by sex
-239,sdg,sdg_04_40,"Low achieving 15-year-olds in reading, mathematics or science"
-239,sdg,sdg_04_60,Adult participation in learning in the past four weeks by sex
-239,sdg,sdg_05_10,Physical and sexual violence to women by age group data)
-239,sdg,sdg_05_20,Gender pay gap in unadjusted form
-239,sdg,sdg_05_30,"Gender employment gap, by type of employment"
-239,sdg,sdg_05_40,Persons outside the labour force due to caring responsibilities by sex
-239,sdg,sdg_05_50,Seats held by women in national parliaments and governments
-239,sdg,sdg_05_60,Positions held by women in senior management positions
-239,sdg,sdg_06_10,"Population having neither a bath, nor a shower, nor indoor flushing toilet in their household by poverty status"
-239,sdg,sdg_06_20,Population connected to at least secondary wastewater treatment
-239,sdg,sdg_06_30,Biochemical oxygen demand in rivers
-239,sdg,sdg_06_40,Nitrate in groundwater
-239,sdg,sdg_06_50,Phosphate in rivers
-239,sdg,sdg_06_60,"Water exploitation index, plus (WEI+)"
-239,sdg,sdg_07_10,Primary energy consumption
-239,sdg,sdg_07_11,Final energy consumption
-239,sdg,sdg_07_20,Final energy consumption in households per capita
-239,sdg,sdg_07_30,Energy productivity
-239,sdg,sdg_07_40,Share of renewable energy in gross final energy consumption by sector
-239,sdg,sdg_07_50,Energy import dependency by products
-239,sdg,sdg_07_60,Population unable to keep home adequately warm by poverty status
-239,sdg,sdg_08_10,Real GDP per capita
-239,sdg,sdg_08_11,Investment share of GDP by institutional sectors
-239,sdg,sdg_08_20,Young people neither in employment nor in education and training by sex (NEET)
-239,sdg,sdg_08_20a,"Young people neither in employment nor in education and training (NEET), by citizenship"
-239,sdg,sdg_08_30,Employment rate by sex
-239,sdg,sdg_08_30a,"Employment rate, by citizenship"
-239,sdg,sdg_08_40,Long-term unemployment rate by sex
-239,sdg,sdg_08_60,"Fatal accidents at work per 100 000 workers, by sex"
-239,sdg,sdg_09_40,Patent applications to the European Patent Office by applicants' / inventors' country of residence
-239,sdg,sdg_09_50,Share of buses and trains in inland passenger transport
-239,sdg,sdg_09_60,Share of rail and inland waterways in inland freight transport
-239,sdg,sdg_09_70,Air emission intensity from industry
-239,sdg,sdg_10_10,Purchasing power adjusted GDP per capita
-239,sdg,sdg_10_20,Adjusted gross disposable income of households per capita
-239,sdg,sdg_10_30,Relative median at-risk-of-poverty gap
-239,sdg,sdg_10_41,Income distribution
-239,sdg,sdg_10_50,Income share of the bottom 40 % of the population
-239,sdg,sdg_10_60,Asylum applications by state of procedure
-239,sdg,sdg_11_11,Severe housing deprivation rate by poverty status
-239,sdg,sdg_11_20,"Population living in households considering that they suffer from noise, by poverty status"
-239,sdg,sdg_11_31,Settlement area per capita
-239,sdg,sdg_11_32,Soil sealing index
-239,sdg,sdg_11_52,Premature deaths due to exposure to fine particulate matter (PM2.5)
-239,sdg,sdg_11_60,Recycling rate of municipal waste
-239,sdg,sdg_12_10,Consumption of chemicals by hazardousness - aggregate
-239,sdg,sdg_12_21,Raw material consumption (RMC)
-239,sdg,sdg_12_31,Consumption footprint – single weighted score
-239,sdg,sdg_12_51,Generation of waste by hazardousness
-239,sdg,sdg_12_61,Gross value added in environmental goods and services sector
-239,sdg,sdg_13_31,Average CO2 emissions per km from new passenger cars (source: DG CLIMA) - HIDDEN DAT
-239,sdg,sdg_13_40,Climate related economic losses – values at constant prices
-239,sdg,sdg_13_50,Contribution to the international 100bn USD commitment on climate related expending
-239,sdg,sdg_13_60,Population covered by the Covenant of Mayors for Climate & Energy signatories
-239,sdg,sdg_13_70,Green bond issuance by type of issuer
-239,sdg,sdg_13_70a,Green bond issuance by corporates and governments
-239,sdg,sdg_14_10,Surface of the marine protected areas
-239,sdg,sdg_14_21,"Estimated trends in fish stock biomass, by fishing areas"
-239,sdg,sdg_14_30,"Estimated trends in fishing pressure, by fishing area"
-239,sdg,sdg_14_40,Bathing sites with excellent water quality by location
-239,sdg,sdg_14_50,Global mean surface seawater acidity
-239,sdg,sdg_14_60,Marine waters affected by eutrophication
-239,sdg,sdg_15_10,Share of forest area
-239,sdg,sdg_15_20,Surface of the terrestrial protected areas
-239,sdg,sdg_15_42,Drought impact area on ecosystems
-239,sdg,sdg_15_50,Area at risk of severe soil erosion by water
-239,sdg,sdg_15_60,Common bird index by type of species - aggregate
-239,sdg,sdg_15_61,Grassland butterfly index - aggregate
-239,sdg,sdg_16_10,Standardised death rate due to homicide by sex
-239,sdg,sdg_16_20,"Population reporting occurrence of crime, violence or vandalism in their area by poverty status"
-239,sdg,sdg_16_30,General government total expenditure on law courts
-239,sdg,sdg_16_40,Perceived independence of the justice system
-239,sdg,sdg_16_50,Corruption Perceptions Index
-239,sdg,sdg_16_60,Population with confidence in institutions by institution
-239,sdg,sdg_16_70,Victims of trafficking in human beings by sex
-239,sdg,sdg_17_10,Official development assistance as share of gross national income
-239,sdg,sdg_17_20,financing to developing countries by financing source
-239,sdg,sdg_17_40,General government gross debt
-239,sdg,sdg_17_50,Share of environmental taxes in total tax revenues
-239,sdg,sdg_17_60,"High-speed internet coverage, by type of area"
-240,spr,spr_net_ben$dv_1622,Net social protection benefits
-241,sprt,sprt_emp_age,Employment in sport by age
-241,sprt,sprt_emp_sex,Employment in sport by sex
-241,sprt,sprt_pcs_qnt,Mean consumption expenditure of private households on sporting goods and services by income quintile
-242,sts_tot,sts_tot_prod_a,Market production - annual data
-243,tag,tag00001,Agricultural holdings by agricultural area
-243,tag,tag00007,Agricultural holdings by crops
-243,tag,tag00014,Number of dairy cows
-243,tag,tag00016,Number of bovine animals
-243,tag,tag00017,Number of sheep
-243,tag,tag00018,Number of pigs
-243,tag,tag00020,Farm labour force
-243,tag,tag00027,"Cereals for the production of grain (including seed) by area, production and humidity"
-243,tag,tag00029,Agricultural holdings by age of holder
-243,tag,tag00037,Collection of cow's milk
-243,tag,tag00038,Production of butter
-243,tag,tag00039,Production of milk powder
-243,tag,tag00040,Production of cheese
-243,tag,tag00041,Production of milk on farms
-243,tag,tag00042,Production of pigmeat in slaughterhouses
-243,tag,tag00043,Production of poultry meat in slaughterhouses
-243,tag,tag00044,Production of bovine meat in slaughterhouses
-243,tag,tag00045,Production of sheepmeat and goat meat in slaughterhouses
-243,tag,tag00046,"Producer price indices, total agricultural production"
-243,tag,tag00047,"Wheat and spelt by area, production and humidity"
-243,tag,tag00048,"Producer price indices, crop products"
-243,tag,tag00049,"Rye and winter cereal mixtures by area, production and humidity"
-243,tag,tag00050,"Producer price indices, animals and animal products"
-243,tag,tag00051,"Barley by area, production and humidity"
-243,tag,tag00052,"Purchase price indices, total means of agricultural production"
-243,tag,tag00053,"Oats and spring cereal mixtures by area, production and humidity"
-243,tag,tag00054,Crop output - basic and producer prices
-243,tag,tag00055,Animal output - basic and producer prices
-243,tag,tag00056,Gross value added of the agricultural industry - basic and producer prices
-243,tag,tag00057,Indicator A of the income from agricultural activity
-243,tag,tag00059,Selling prices of soft wheat
-243,tag,tag00060,Selling prices of barley
-243,tag,tag00061,Selling prices of oats
-243,tag,tag00062,Selling prices of maize
-243,tag,tag00063,Selling prices of main crop potatoes
-243,tag,tag00064,Selling prices of sugar beet (unit value)
-243,tag,tag00065,Selling prices of calves
-243,tag,tag00066,Selling prices of pigs (light)
-243,tag,tag00067,Selling prices of piglets
-243,tag,tag00068,Selling prices of chickens (live 1st choice)
-243,tag,tag00069,Selling prices of sheep
-243,tag,tag00070,Selling prices of raw cow's milk
-243,tag,tag00071,Selling prices of fresh eggs
-243,tag,tag00075,Aquaculture production in tonnes and value
-243,tag,tag00076,Catches in all fishing regions
-243,tag,tag00083,"Fishing fleet, total tonnage"
-243,tag,tag00093,"Grain maize and corn-cob-mix by area, production and humidity"
-243,tag,tag00094,"Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses) by area, production and humidity"
-243,tag,tag00100,"Rape, turnip rape, sunflower seeds and soya by area"
-243,tag,tag00101,"Green maize by area, production and humidity"
-243,tag,tag00102,Output of the agricultural industry - basic and producer prices
-243,tag,tag00103,Root crops and plants harvested green from arable land by area
-243,tag,tag00115,Fresh vegetables and strawberries by area
-243,tag,tag00116,"Fishing Fleet, Number of Vessels"
-243,tag,tag00120,Permanent crops for human consumption by area
-243,tag,tag00121,Grapes by production
-243,tag,tag00122,Olives by production
-243,tag,tag00123,Agricultural holdings by economic size of the farm (Standard Output in Euro)
-243,tag,tag00124,Agricultural holdings with livestock
-243,tag,tag00125,Agricultural holdings by age of manager
-244,tai,tai04,Final energy consumption by agriculture/forestry per hectare of utilised agricultural area
-244,tai,tai07,Ammonia emissions from agriculture - % of total emissions
-244,tai,tai08,Greenhouse gas emissions from agriculture
-244,tai,tai09,Livestock density index
-244,tai,tai10,Estimated soil loss by water erosion by land cover type
-244,tai,tai11,Share of landcover types affected by severe erosion
-245,tec,tec00001,Gross domestic product at market prices
-245,tec,tec00009,Final consumption expenditure of households and non-profit institutions serving households
-245,tec,tec00010,Final consumption expenditure of general government
-245,tec,tec00011,Gross fixed capital formation (investments)
-245,tec,tec00013,Compensation of employees
-245,tec,tec00021,general government revenue
-245,tec,tec00023,general government expenditure
-245,tec,tec00027,HICP - all items - annual average indices
-245,tec,tec00033,ECU/EUR exchange rates versus national currencies
-245,tec,tec00038,"Current account transactions - credits, debits and balance"
-245,tec,tec00039,"Current account transactions - goods: credits, debits and balance"
-245,tec,tec00040,"Current account transactions - services: credits, debits and balance"
-245,tec,tec00041,"Current account transactions - primary income: credits, debits and balance"
-245,tec,tec00042,"Current account transactions - secondary income: credits, debits and balance"
-245,tec,tec00097,EMU convergence criterion series - annual data
-245,tec,tec00104,Gross debt-to-income ratio of households
-245,tec,tec00105,Inward FDI stocks in % of GDP
-245,tec,tec00106,Outward FDI stocks in % of GDP
-245,tec,tec00107,"FDI flows intensity, market integration"
-245,tec,tec00110,"Goods and services, imports and exports"
-245,tec,tec00112,"Employment, domestic concept -"
-245,tec,tec00113,Adjusted gross disposable income of households per capita in PPS
-245,tec,tec00114,GDP per capita in PPS
-245,tec,tec00115,Real GDP growth rate - volume
-245,tec,tec00116,Nominal labour productivity per person employed
-245,tec,tec00118,HICP - inflation rate
-245,tec,tec00120,Comparative price levels
-245,tec,tec00121,Price and volume convergence between Member States
-245,tec,tec00127,General government deficit/surplus
-245,tec,tec00131,Household saving rate
-245,tec,tec00132,Investment by institutional sectors
-246,teibp,teibp010,"Balance of payments, current account, monthly data"
-246,teibp,teibp020,"Balance of payments, capital account, monthly data"
-246,teibp,teibp030,"Balance of payments, current and capital account, monthly data"
-246,teibp,teibp060,"Balance of payments, capital account, quarterly data"
-246,teibp,teibp070,"Balance of payments, current and capital account, quarterly data"
-247,teibs,teibs010,Economic sentiment indicator
-247,teibs,teibs020,Confidence indicators by sector
-247,teibs,teibs030,Employment expectations indicator
-247,teibs,teibs040,Employment expectations by sectors
-247,teibs,teibs070,Current level of capacity utilization in manufacturing industry
-248,teicp,teicp000,HICP - all items
-248,teicp,teicp010,HICP - food
-248,teicp,teicp020,HICP - alcohol and tobacco
-248,teicp,teicp030,HICP - clothing
-248,teicp,teicp040,HICP - housing
-248,teicp,teicp050,HICP - household equipment
-248,teicp,teicp060,HICP - health
-248,teicp,teicp070,HICP - transport
-248,teicp,teicp080,HICP - communications
-248,teicp,teicp090,HICP - recreation and culture
-248,teicp,teicp100,HICP - education
-248,teicp,teicp110,HICP - hotels and restaurants
-248,teicp,teicp120,HICP - miscellaneous goods and services
-248,teicp,teicp200,"HICP - all items excluding energy, food, alcohol and tobacco"
-248,teicp,teicp210,HICP - all items excluding energy
-248,teicp,teicp220,HICP - all items excluding energy and unprocessed food
-248,teicp,teicp230,HICP - all items excluding energy and seasonal food
-248,teicp,teicp240,HICP - all items excluding tobacco
-248,teicp,teicp250,HICP - energy
-248,teicp,teicp260,"HICP - food, alcohol and tobacco"
-248,teicp,teicp270,House price index = 100) - quarterly data
-248,teicp,teicp280,HICP - services
-248,teicp,teicp290,HICP - non-energy industrial goods
-249,teiet,teiet010,Exports of goods - total
-249,teiet,teiet020,"Exports of goods - food, drinks and tobacco"
-249,teiet,teiet030,Exports of goods - raw materials
-249,teiet,teiet040,"Exports of goods - mineral fuels, lubricants and related materials"
-249,teiet,teiet050,Exports of goods - chemicals and related products
-249,teiet,teiet060,Exports of goods - other manufactured products
-249,teiet,teiet070,Exports of goods - machinery and transport equipment
-249,teiet,teiet110,Imports of goods - total
-249,teiet,teiet120,"Imports of goods - food, drinks and tobacco"
-249,teiet,teiet130,Imports of goods - raw materials
-249,teiet,teiet140,"Imports of goods - mineral fuels, lubricants and related materials"
-249,teiet,teiet150,Imports of goods - chemicals and related products
-249,teiet,teiet160,Imports of goods - other manufactured products
-249,teiet,teiet170,Imports of goods - machinery and transport equipment
-249,teiet,teiet210,Balance of trade - and euro area aggregates
-249,teiet,teiet215,Balance of trade
-249,teiet,teiet300,Unit value of exports
-249,teiet,teiet310,Unit value of imports
-250,teiis,teiis010,Domestic producer prices - total industry (excluding construction)
-250,teiis,teiis011,Import prices - total industry
-250,teiis,teiis012,Import prices - manufacturing
-250,teiis,teiis013,Import prices - intermediate goods
-250,teiis,teiis014,Import prices - capital goods
-250,teiis,teiis015,Import prices - consumer durables
-250,teiis,teiis016,Import prices - consumer non-durables
-250,teiis,teiis020,Domestic producer prices - manufacturing
-250,teiis,teiis030,Domestic producer prices - energy
-250,teiis,teiis040,Domestic producer prices - intermediate goods
-250,teiis,teiis050,Domestic producer prices - capital goods
-250,teiis,teiis060,Domestic producer prices - consumer durables
-250,teiis,teiis070,Domestic producer prices - consumer non-durables
-250,teiis,teiis080,Production in industry - total (excluding construction)
-250,teiis,teiis090,Production in industry - manufacturing
-250,teiis,teiis100,Production in industry - energy
-250,teiis,teiis110,Production in industry - intermediate goods
-250,teiis,teiis120,Production in industry - capital goods
-250,teiis,teiis130,Production in industry - consumer durables
-250,teiis,teiis140,Production in industry - consumer non-durables
-250,teiis,teiis150,Turnover in industry - manufacturing
-250,teiis,teiis160,Turnover in industry - intermediate goods
-250,teiis,teiis170,Turnover in industry - capital goods
-250,teiis,teiis180,Turnover in industry - consumer durables
-250,teiis,teiis190,Turnover in industry - consumer non-durables
-250,teiis,teiis200,Retail trade turnover - total
-250,teiis,teiis210,"Retail trade turnover - food, beverages and tobacco"
-250,teiis,teiis220,Retail trade turnover - non food
-250,teiis,teiis230,Retail trade turnover - automotive fuel
-250,teiis,teiis240,Retail trade volume of sales - total
-250,teiis,teiis250,"Retail trade volume of sales - food, beverages and tobacco"
-250,teiis,teiis260,Retail trade volume of sales - non food
-250,teiis,teiis270,Retail trade volume of sales - automotive fuel
-250,teiis,teiis400,Labour input - total industry (excluding construction)
-250,teiis,teiis500,Production in construction
-250,teiis,teiis521,Labour input in construction
-250,teiis,teiis550,Building permits - monthly data
-251,teilm,teilm010,Unemployment by sex
-251,teilm,teilm011,Unemployment by sex - age group 15-24
-251,teilm,teilm012,Unemployment by sex - age group 25-74
-251,teilm,teilm020,Unemployment rate by sex
-251,teilm,teilm021,Unemployment rate by sex - age group 15-24
-251,teilm,teilm022,Unemployment rate by sex - age group 25-74
-251,teilm,teilm100,Labour cost index by NACE Rev. 2
-252,teimf,teimf040,3-month-interest rate
-252,teimf,teimf050,Long term government bond yields
-252,teimf,teimf060,"Euro yield curve by maturity (1, 5 and 10 years)"
-252,teimf,teimf100,Day-to-day money market interest rates
-252,teimf,teimf200,Euro/national currency exchange rates
-252,teimf,teimf250,Real effective exchange rate - 42 trading partners
-253,teina,teina010,"Gross domestic product, current prices"
-253,teina,teina011,"Gross domestic product, volumes"
-253,teina,teina020,"Final consumption expenditure of households and NPISH, current prices"
-253,teina,teina021,"Final consumption expenditure of households and NPISH, volumes"
-253,teina,teina030,"Government final consumption expenditure, current prices"
-253,teina,teina031,"Government final consumption expenditure, volumes"
-253,teina,teina040,"Gross fixed capital formation, current prices"
-253,teina,teina041,"Gross fixed capital formation, volumes"
-253,teina,teina050,"External balance of goods and services, current prices"
-253,teina,teina080,Gross national income
-253,teina,teina090,Gross disposable income
-253,teina,teina100,Gross saving
-253,teina,teina110,GDP deflator
-253,teina,teina200,General government deficit (-) and surplus (+) - annual data
-253,teina,teina205,General government deficit (-) and surplus (+) - quarterly data
-253,teina,teina210,General government gross fixed capital formation - annual data
-253,teina,teina225,General government gross debt - annual data
-253,teina,teina230,General government gross debt - quarterly data
-253,teina,teina400_r2,Gross value added - NACE Rev. 2: - current prices
-253,teina,teina402_r2,Gross value added - NACE Rev. 2: - volumes
-253,teina,teina404_r2,Gross value added - NACE Rev. 2: A - current prices
-253,teina,teina406_r2,Gross value added - NACE Rev. 2: A - volumes
-253,teina,teina408_r2,Gross value added - NACE Rev. 2: B-E - current prices
-253,teina,teina410_r2,Gross value added - NACE Rev. 2: B-E - volumes
-253,teina,teina412_r2,Gross value added - NACE Rev. 2: C - current prices
-253,teina,teina414_r2,Gross value added - NACE Rev. 2: C - volumes
-253,teina,teina416_r2,Gross value added - NACE Rev. 2: F - current prices
-253,teina,teina418_r2,Gross value added - NACE Rev. 2: F - volumes
-253,teina,teina420_r2,Gross value added - NACE Rev. 2: G-I - current prices
-253,teina,teina422_r2,Gross value added - NACE Rev. 2: G-I - volumes
-253,teina,teina424_r2,Gross value added - NACE Rev. 2: J - current prices
-253,teina,teina426_r2,Gross value added - NACE Rev. 2: J - volumes
-253,teina,teina428_r2,Gross value added - NACE Rev. 2: K - current prices
-253,teina,teina430_r2,Gross value added - NACE Rev. 2: K - volumes
-253,teina,teina432_r2,Gross value added - NACE Rev. 2: L - current prices
-253,teina,teina434_r2,Gross value added - NACE Rev. 2: L - volumes
-253,teina,teina436_r2,Gross value added - NACE Rev. 2: M_N - current prices
-253,teina,teina438_r2,Gross value added - NACE Rev. 2: M_N - volumes
-253,teina,teina440_r2,Gross value added - NACE Rev. 2: O-Q - current prices
-253,teina,teina442_r2,Gross value added - NACE Rev. 2: O-Q - volumes
-253,teina,teina444_r2,Gross value added - NACE Rev. 2: R-U - current prices
-253,teina,teina446_r2,Gross value added - NACE Rev. 2: R-U - volumes
-253,teina,teina500,Household saving rate
-253,teina,teina510,Households investment rate
-253,teina,teina515,Investment rate of non-financial corporations
-253,teina,teina520,Profit share of non-financial corporations
-254,ten,ten00001,Water resources: long-term annual average
-254,ten,ten00003,Fresh water abstraction by source per capita - m³ per capita
-254,ten,ten00006,Water abstracted by sector of use
-254,ten,ten00030,Sewage sludge production and disposal from urban wastewater (in dry substance (d.s))
-254,ten,ten00062,Recovery rates for packaging waste
-254,ten,ten00063,Recycling rates for packaging waste
-254,ten,ten00110,Waste generated by households by year and waste category
-254,ten,ten00117,Electricity prices by type of user
-254,ten,ten00118,Gas prices by type of user
-254,ten,ten00119,Market share of the largest generator in the electricity market
-254,ten,ten00120,Implicit tax rate on energy
-254,ten,ten00135,National expenditure on environmental protection
-254,ten,ten00136,Environmental protection investments of total economy
-254,ten,ten00137,Domestic material consumption per capita
-254,ten,ten00138,Landfill rate of waste excluding major mineral wastes
-254,ten,ten00139,Energy taxes
-254,ten,ten00141,Environmental tax revenues
-255,tepsr_lm,tepsr_lm210,Gender gap in part-time employment
-255,tepsr_lm,tepsr_lm230,Gender employment gap by degree of urbanisation
-255,tepsr_lm,tepsr_lm410,People at risk of poverty or social exclusion by sex
-255,tepsr_lm,tepsr_lm411,People at risk of poverty or social exclusion by age
-255,tepsr_lm,tepsr_lm412,Children (aged less than 18) at risk of poverty or social exclusion - EU2030 target
-255,tepsr_lm,tepsr_lm420,Severe material and social deprivation rate by sex
-255,tepsr_lm,tepsr_lm430,People living in households with very low work intensity by sex
-255,tepsr_lm,tepsr_lm440,Severe housing deprivation rate by tenure status
-256,tepsr_sp,tepsr_sp110,General government expenditure by function
-256,tepsr_sp,tepsr_sp210,Children aged less than 3 years in formal childcare
-256,tepsr_sp,tepsr_sp310,Out-of-pocket expenditure on healthcare
-256,tepsr_sp,tepsr_sp320,Healthy life years at age 65 by sex
-256,tepsr_sp,tepsr_sp410,Individuals who have basic or above basic overall digital skills by sex
-257,tepsr_spi,tepsr_spi110,At-risk-of poverty rate for children (aged less than 18) by sex
-257,tepsr_spi,tepsr_spi120,Severe material and social deprivation rate for children (aged less than 18) by sex
-257,tepsr_spi,tepsr_spi130,Children (aged less than 18) living in households with very low work intensity by sex
-258,tepsr_wc,tepsr_wc130,Activity rate by sex
-258,tepsr_wc,tepsr_wc230,Labour transitions from temporary to permanent contracts by sex -3-year average
-258,tepsr_wc,tepsr_wc310,The real gross disposable income of households per capita (index =
-259,tesem,tesem010,Employment rate by sex
-259,tesem,tesem020,"Early leavers from education and training, age group 18-24"
-259,tesem,tesem030,"Tertiary educational attainment, age group 30-34"
-259,tesem,tesem040,Overall employment growth
-259,tesem,tesem050,"Employment rate of older workers, age group 55-64"
-259,tesem,tesem060,Gender employment gap
-259,tesem,tesem070,"Youth employment rate, age group 20-29"
-259,tesem,tesem080,"Employment rate of low skilled persons, age group 20-64"
-259,tesem,tesem090,"Employment rate of non-EU nationals, age group 20-64"
-259,tesem,tesem100,Part-time employment rate
-259,tesem,tesem120,Unemployment rate by sex
-259,tesem,tesem130,Long-term unemployment rate by sex
-259,tesem,tesem140,Youth unemployment rate by sex
-259,tesem,tesem160,Labour productivity per person employed and hour worked (EU27_2020=100)
-259,tesem,tesem170,Nominal unit labour cost growth
-259,tesem,tesem180,Gender pay gap in unadjusted form
-259,tesem,tesem190,Involuntary temporary employment
-259,tesem,tesem200,Newly employed
-259,tesem,tesem210,At-risk of poverty rate of unemployed persons
-259,tesem,tesem220,Tax rate on low wage earners - Unemployment trap
-259,tesem,tesem240,"Percentage of the population with at least upper secondary educational attainment, age group 25-64"
-260,tesov,tesov092,At-risk-of-poverty rate anchored at a fixed moment in time by age group - EU-SILC survey
-260,tesov,tesov110,In-work at-risk-of-poverty rate by sex
-260,tesov,tesov190,Distribution of population by household types - EU-SILC survey
-260,tesov,tesov250,At-risk-of-poverty rate before social transfers by sex - EU-SILC survey
-261,tespm,tespm020,At-risk-of-poverty threshold for a single household
-261,tespm,tespm030,Severe material and social deprivation rate
-261,tespm,tespm040,Children at risk of poverty or social exclusion
-261,tespm,tespm060,At risk-of-poverty rate for the population living in (quasi-)jobless households
-261,tespm,tespm070,In-work at-risk-of-poverty rate
-261,tespm,tespm080,Youth unemployment ratio (15-24)
-261,tespm,tespm090,At risk of poverty or social exclusion rate for elderly (65+)
-261,tespm,tespm100,Aggregate replacement ratio
-261,tespm,tespm110,Self-reported unmet need for medical care by sex
-261,tespm,tespm120,Healthy life years at 65 - males
-261,tespm,tespm130,Healthy life years at 65 - females
-261,tespm,tespm140,Housing cost overburden rate
-261,tespm,tespm151,Inequality of income distribution
-262,tespn,tespn010,At-risk-of-poverty rate of older people by sex - EU-SILC survey
-262,tespn,tespn020,Median relative income of elderly people - EU-SILC survey
-262,tespn,tespn060,Median relative income of elderly people (60+) - EU-SILC survey
-262,tespn,tespn070,Aggregate replacement ratio for pensions (excluding other social benefits) by sex
-262,tespn,tespn080,Income inequality for older people - EU-SILC survey
-262,tespn,tespn090,Relative median poverty risk gap of elderly people - EU-SILC survey
-262,tespn,tespn100,At-risk-of-poverty rate for pensioners - EU-SILC survey
-262,tespn,tespn110,At-risk-of-poverty rate of elderly people by tenure status - EU-SILC survey
-262,tespn,tespn120,Dispersion around the at-risk-of-poverty threshold for elderly people - EU-SILC survey
-262,tespn,tespn240,Gender differences in the at-risk-of-poverty rate by age - EU-SILC survey
-262,tespn,tespn250,Gender differences in the relative income of elderly people (65+) - EU-SILC survey
-262,tespn,tespn260,Gender differences in the aggregate replacement ratio for pensions (excluding other social benefits) - EU-SILC survey
-262,tespn,tespn270,Gender differences in the relative income of older people - EU-SILC survey
-263,tessi,tessi010,At-risk-of-poverty rate by sex
-263,tessi,tessi014,At-risk-of-poverty threshold - EU-SILC survey
-263,tessi,tessi020,Persistent at-risk-of poverty rate by sex - EU-SILC survey
-263,tessi,tessi022,Persistent at-risk-of poverty rate by age group - EU-SILC survey
-263,tessi,tessi030,Relative median poverty risk gap by age group - EU-SILC survey
-263,tessi,tessi080,Material Deprivation rate by sex - EU-SILC survey
-263,tessi,tessi082,Material Deprivation rate by age group - EU-SILC survey
-263,tessi,tessi121,At-risk-of poverty rate by household type - EU-SILC survey
-263,tessi,tessi125,At-risk-of poverty rate by tenure status - EU-SILC survey
-263,tessi,tessi126,Dispersion around the at-risk-of-poverty threshold - EU-SILC survey
-263,tessi,tessi150,Depth of material deprivation - EU-SILC survey
-263,tessi,tessi160,Housing cost overburden rate by sex - EU-SILC survey
-263,tessi,tessi161,Housing cost overburden rate by age group - EU-SILC survey
-263,tessi,tessi162,Housing cost overburden rate by income quintile - EU-SILC survey
-263,tessi,tessi163,Housing cost overburden rate by poverty status - EU-SILC survey
-263,tessi,tessi164,Housing cost overburden rate by tenure status - EU-SILC survey
-263,tessi,tessi165,Housing cost overburden rate by degree of urbanisation - EU-SILC survey
-263,tessi,tessi166,Housing cost overburden rate by household type - EU-SILC survey
-263,tessi,tessi170,Overcrowding rate by sex - EU-SILC survey
-263,tessi,tessi171,Overcrowding rate by age group - EU-SILC survey
-263,tessi,tessi172,Overcrowding rate by poverty status - EU-SILC survey
-263,tessi,tessi173,Overcrowding rate by tenure status - EU-SILC survey
-263,tessi,tessi174,Overcrowding rate by degree of urbanisation - EU-SILC survey
-263,tessi,tessi175,Overcrowding rate by household type - EU-SILC survey
-263,tessi,tessi176,Overcrowding rate by sex - population without single-person households - EU-SILC survey
-263,tessi,tessi177,Overcrowding rate by age group - population without single-person households - EU-SILC survey
-263,tessi,tessi178,Overcrowding rate by poverty status - population without single-person households - EU-SILC survey
-263,tessi,tessi180,Income quintile share ratio (S80/S20) by sex
-263,tessi,tessi190,Gini coefficient of equivalised disposable income
-263,tessi,tessi191,Gini coefficient of equivalised disposable income for children aged less than 18
-263,tessi,tessi220,At-risk-of-poverty rate anchored at a fixed moment in time by sex - EU-SILC survey
-263,tessi,tessi250,In-work at-risk-of-poverty rate by working time - EU-SILC survey
-263,tessi,tessi291,Housing deprivation rate by number of item - EU-SILC survey
-263,tessi,tessi292,"Share of total population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor - EU-SILC survey"
-263,tessi,tessi293,"Share of total population having neither a bath, nor a shower in their dwelling - EU-SILC survey"
-263,tessi,tessi294,Share of total population not having indoor flushing toilet for the sole use of their household - EU-SILC survey
-263,tessi,tessi295,Share of total population considering their dwelling as too dark - EU-SILC survey
-263,tessi,tessi300,Median of the housing cost burden distribution by sex - EU-SILC survey
-263,tessi,tessi301,Median of the housing cost burden distribution by age group - EU-SILC survey
-263,tessi,tessi302,Median of the housing cost burden distribution by poverty status - EU-SILC survey
-263,tessi,tessi303,Median of the housing cost burden distribution by degree of urbanisation - EU-SILC survey
-264,tet,tet00001,"Trade volume indices, by reporting country"
-264,tet,tet00002,"International trade, by reporting country, total product"
-264,tet,tet00003,Exports of goods and services in % of GDP
-264,tet,tet00004,Imports of goods and services in % of GDP
-264,tet,tet00011,"Intra-EU27 (from trade, by Member State, total product"
-264,tet,tet00012,"Extra-EU27 (from trade, by Member State, total product"
-264,tet,tet00013,"Extra-EU27 (from trade, by product group"
-264,tet,tet00028,"Trade unit value indices, by reporting country"
-264,tet,tet00037,Share of trade with the EU27 (from
-264,tet,tet00038,"International trade of and enlargement countries, by reporting country, total product"
-264,tet,tet00065,"Extra-euro area trade, by main partners, total product"
-264,tet,tet00066,"Extra-euro area trade, by product group"
-264,tet,tet00071,"Trade in goods, by main world traders - EU27 (from"
-265,tgs,tgs00027,"population, Candidate countries and potential candidates"
-265,tgs,tgs00047,Households that have internet access at home by NUTS 2 regions
-265,tgs,tgs00052,Individuals who ordered goods or services over the internet for private use in the last year by NUTS 2 regions
-265,tgs,tgs00064,Available beds in hospitals by NUTS 2 regions
-265,tgs,tgs00075,Maritime transport of passengers by NUTS 2 regions
-265,tgs,tgs00076,Maritime transport of freight by NUTS 2 regions
-265,tgs,tgs00077,Air transport of passengers by NUTS 2 regions
-265,tgs,tgs00078,Air transport of freight by NUTS 2 regions
-265,tgs,tgs00103,At-risk-of-poverty rate by NUTS 2 regions
-265,tgs,tgs00104,Severe material deprivation rate by NUTS 2 regions
-265,tgs,tgs00107,People at risk of poverty or social exclusion by NUTS 2 regions
-265,tgs,tgs00108,People living in households with very low work intensity by NUTS 2 regions (population aged 0 to 59 years)
-266,tin,tin00028,Internet use by individuals
-266,tin,tin00074,Percentage of the ICT sector in Gross value added
-266,tin,tin00085,Percentage of the ICT personnel on total employment
-266,tin,tin00086,Percentage change of value added by ICT sector at current prices
-266,tin,tin00091,Individuals regularly using the internet
-266,tin,tin00092,Individuals frequently using the internet
-266,tin,tin00093,Individuals who have never used the internet
-266,tin,tin00094,Individuals using the internet for sending/receiving e-mails
-266,tin,tin00095,Individuals using the internet for finding information about goods and services
-266,tin,tin00096,Individuals using the internet for buying goods or services
-266,tin,tin00098,Individuals using the internet for selling goods or services
-266,tin,tin00099,Individuals using the internet for internet banking
-266,tin,tin00101,Individuals using the internet for seeking health-related information
-266,tin,tin00102,Individuals using the internet for looking for a job or sending a job application
-266,tin,tin00103,Individuals using the internet for doing an online course
-266,tin,tin00110,Share of enterprises' turnover on e-commerce - %
-266,tin,tin00111,Enterprises having received orders online (at least 1%) - % of enterprises
-266,tin,tin00116,"Enterprises using software solutions, like CRM to analyse information about clients for marketing purposes"
-266,tin,tin00127,Individuals using the internet for participating in social networks
-266,tin,tin00134,Level of internet access - households
-266,tin,tin00140,High-tech exports
-266,tin,tin00171,Nights spent at tourist accommodation establishments by residents/non-residents - monthly data
-266,tin,tin00172,Percentage change (compared to corresponding period of the previous year) in nights spent at tourist accommodation establishments by residents/non-residents - monthly data
-266,tin,tin00173,"Net occupancy rate of bed-places and bedrooms in hotels and similar accommodations (NACE Rev. 2, I, 55.1) - monthly data"
-266,tin,tin00174,Arrivals of residents/non-residents at tourist accommodation establishments
-266,tin,tin00175,Nights spent at tourist accommodation establishments by residents/non-residents
-266,tin,tin00176,Nights spent at tourist accommodation establishments by country/world region of residence of the tourist
-266,tin,tin00180,"Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation (NACE Rev. 2, I, 55.1) (from onwards)"
-266,tin,tin00181,Number of establishments and bed-places
-266,tin,tin00185,Persons participating in tourism for personal purposes - number of tourists
-266,tin,tin00186,Participation in tourism for personal purposes - % of total population
-266,tin,tin00195,Average expenditure per trip
-266,tin,tin00196,Average expenditure per night
-267,tipsbd,tipsbd10,"Gross non-performing loans, domestic and foreign entities - % of gross loans"
-267,tipsbd,tipsbd20,"Consolidated banking leverage, domestic and foreign entities (asset-to-equity multiple)"
-267,tipsbd,tipsbd30,Tier-1 capital ratio banking sector
-267,tipsbd,tipsbd40,Return on equity of banks
-268,tipsbp,tipsbp10,Current account balance - 3 year average
-268,tipsbp,tipsbp100,"Direct investment liabilities (stocks) - annual data, % of GDP"
-268,tipsbp,tipsbp17,Capital account - annual data
-268,tipsbp,tipsbp18,Financial account - annual data
-268,tipsbp,tipsbp20,Current account balance - annual data
-268,tipsbp,tipsbp22,"Direct investment abroad, main components - annual data, million units of national currency"
-268,tipsbp,tipsbp70,Net Lending/Borrowing (current and capital account) - annual data
-268,tipsbp,tipsbp90,"Direct investment liabilities (flows) - annual data, % of GDP"
-269,tipsen,tipsen10,Net trade balance of energy products - % of GDP
-270,tipser,tipser10,"Real effective exchange rate – percentage changes, 42 trading partners"
-270,tipser,tipser11,Nominal effective exchange rate – 42 trading partners
-270,tipser,tipser12,Nominal effective exchange rate – euro area trading partners
-270,tipser,tipser13,"Real effective exchange rate – index, 42 trading partners"
-270,tipser,tipser20,Real effective exchange rate – euro area trading partners
-271,tipsex,tipsex10,Export market shares - 3 years % change
-271,tipsex,tipsex11,Export market shares by items - 1 year % change
-271,tipsex,tipsex12,"Exports of high technology products as a share of total exports, SITC Rev. 4 - %"
-271,tipsex,tipsex13,Export market shares in volume
-271,tipsex,tipsex20,Export market shares by items - % of world total
-272,tipsfs,tipsfs10,"financial sector liabilities, non-consolidated - annual data"
-272,tipsfs,tipsfs20,"Financial sector leverage (debt to equity), non-consolidated - %"
-272,tipsfs,tipsfs30,"financial sector liabilities, consolidated"
-273,tipsgo,tipsgo10,"General government gross debt (EDP concept), consolidated - annual data"
-274,tipsho,tipsho10,"House price index, deflated - annual data"
-274,tipsho,tipsho20,House price index - annual data
-274,tipsho,tipsho30,"House price index, deflated - quarterly data"
-274,tipsho,tipsho40,House price index - quarterly data
-274,tipsho,tipsho50,Building permits - annual data
-275,tipsii,tipsii10,Net international investment position - annual data
-275,tipsii,tipsii12,"Direct investment - annual data, million units of national currency"
-275,tipsii,tipsii15,"Portfolio investement - annual data, million units of national currency"
-275,tipsii,tipsii18,"Financial derivatives and employee stock options - annual data, million units of national currency"
-275,tipsii,tipsii20,"Net external debt - annual data, % of GDP"
-275,tipsii,tipsii21,"Other investment - annual data, million units of national currency"
-275,tipsii,tipsii30,"Net external debt - quarterly data, % of GDP"
-275,tipsii,tipsii40,"Net international investment position - quarterly data, % of GDP"
-275,tipsii,tipsii50,Net international investment position excluding non-defaultable instruments - % of GDP
-276,tipslc,tipslc10,People at risk of poverty or social exclusion
-276,tipslc,tipslc20,People at risk of poverty after social transfer
-276,tipslc,tipslc30,Severely materially and socially deprived people
-276,tipslc,tipslc40,People living in households with very low work intensity
-277,tipslm,tipslm10,Nominal unit labour cost per hour worked - 3 years % change
-277,tipslm,tipslm100,Employment rate
-277,tipslm,tipslm13,"Compensation of employees - annual data, million units of national currency"
-277,tipslm,tipslm15,"Labour force participation rate, aged 15-64 - annual averages"
-277,tipslm,tipslm16,"Population, aged 15-74 - labour force survey"
-277,tipslm,tipslm20,"Nominal unit labour cost per hour worked - annual data, % changes and index = 100)"
-277,tipslm,tipslm50,Unit labour cost performance related to the euro area - annual data
-277,tipslm,tipslm60,Labour force participation rate - % of total population aged 15-64
-277,tipslm,tipslm70,"Long-term unemployment rate, % of active population aged 15-74"
-277,tipslm,tipslm80,Youth unemployment rate - % of active population aged 15-24
-277,tipslm,tipslm90,Young people neither in employment nor in education and training (15-29 years) - % of the total population in the same age group
-278,tipsna,tipsna20,Gross fixed capital formation at current prices
-278,tipsna,tipsna30,Terms of trade by items - 5 years % change
-278,tipsna,tipsna40,Real GDP per capita
-278,tipsna,tipsna50,"Residential construction - annual data, % of GDP"
-278,tipsna,tipsna51,Final consumption expenditure of households and non-profit institutions serving households - annual data
-278,tipsna,tipsna60,"Employment, domestic concept - annual data"
-278,tipsna,tipsna62,"Employees, domestic concept - annual data"
-278,tipsna,tipsna70,Labour productivity per hour worked - annual data
-279,tipspc,tipspc10,"Private sector credit flow, non-consolidated"
-279,tipspc,tipspc13,"Private sector credit flow: debt securities by sectors, non-consolidated - % of GDP"
-279,tipspc,tipspc14,"Private sector credit flow: debt securities by sectors, non-consolidated - million units of national currency"
-279,tipspc,tipspc15,"Private sector credit flow: loans by sectors, non-consolidated - % of GDP"
-279,tipspc,tipspc16,"Private sector credit flow: loans by sectors, non-consolidated - million units of national currency"
-279,tipspc,tipspc20,"Private sector credit flow, consolidated - % GDP"
-279,tipspc,tipspc23,"Private sector credit flow: debt securities by sectors, consolidated - % of GDP"
-279,tipspc,tipspc24,"Private sector credit flow: debt securities by sectors, consolidated - million units of national currency"
-279,tipspc,tipspc25,"Private sector credit flow: loans by sectors, consolidated - % of GDP"
-279,tipspc,tipspc26,"Private sector credit flow: loans by sectors, consolidated - million units of national currency"
-280,tipspd,tipspd10,"Private sector debt, non-consolidated"
-280,tipspd,tipspd13,"Private sector debt: debt securities by sectors, non-consolidated - % of GDP"
-280,tipspd,tipspd14,"Private sector debt: debt securities by sectors, non-consolidated - million units of national currency"
-280,tipspd,tipspd15,"Private sector debt: loans, by sectors, non-consolidated - % of GDP"
-280,tipspd,tipspd16,"Private sector debt: loans by sectors, non-consolidated - million units of national currency"
-280,tipspd,tipspd20,"Private sector debt, consolidated - % of GDP"
-280,tipspd,tipspd22,"Household debt, consolidated including Non-profit institutions serving households - % of GDP"
-280,tipspd,tipspd23,"Private sector debt: debt securities, by sectors, consolidated - % of GDP"
-280,tipspd,tipspd24,"Private sector debt: debt securities, by sectors, consolidated - million units of national currency"
-280,tipspd,tipspd25,"Private sector debt: loans, by sectors, consolidated - % of GDP"
-280,tipspd,tipspd26,"Private sector debt: loans, by sectors, consolidated - million units of national currency"
-280,tipspd,tipspd30,"Non-financial corporations debt - consolidated, % of GDP"
-281,tipsst,tipsst10,Gross domestic expenditure on research and development (R&D)
-282,tipsun,tipsun10,Unemployment rate - 3 year average
-282,tipsun,tipsun20,Unemployment rate - annual data
-282,tipsun,tipsun30,"Unemployment rate - quarterly data, seasonally adjusted"
-283,tour,tour_ce_oam,Guest nights spent at short-stay accommodation offered via collaborative economy platforms by mode of accommodation - experimental statistics
-283,tour,tour_ce_oasc,Guest nights spent at short-stay accommodation offered via collaborative economy platforms by size class of accommodation - experimental statistics
-284,tps,tps00001,Population on 1 January
-284,tps,tps00003,Population density
-284,tps,tps00005,Population as a percentage of EU27 (from population
-284,tps,tps00014,Mean age at first marriage by sex
-284,tps,tps00017,Mean age of women at childbirth and at birth of first child
-284,tps,tps00019,"Population change - crude rates of total change, natural change and net migration plus adjustment"
-284,tps,tps00024,Acquisition of citizenship
-284,tps,tps00027,Infant mortality rate
-284,tps,tps00028,Proportion of population aged 65 and over
-284,tps,tps00029,Deaths and crude death rate
-284,tps,tps00044,Practising physicians
-284,tps,tps00045,Practising dentists
-284,tps,tps00046,Hospital beds
-284,tps,tps00048,Discharges from hospitals
-284,tps,tps00053,Employment rates of recent graduates
-284,tps,tps00065,"At least upper secondary educational attainment, age group 25-64 by sex"
-284,tps,tps00066,Unemployment rates of the population aged 25-64 by educational attainment level
-284,tps,tps00071,Hours worked per week of full-time employment
-284,tps,tps00073,Employees with a contract of limited duration (annual average)
-284,tps,tps00098,Expenditure on social protection
-284,tps,tps00099,expenditure on social protection per head of population. ECU/EUR
-284,tps,tps00100,Expenditure on social protection per inhabitant
-284,tps,tps00101,expenditure on social protection by type
-284,tps,tps00102,expenditure on social benefits
-284,tps,tps00103,Expenditure on pensions
-284,tps,tps00104,expenditure on administration costs
-284,tps,tps00105,Other expenditure on social protection
-284,tps,tps00108,Social protection receipts by type
-284,tps,tps00116,"Death due to cancer, by sex"
-284,tps,tps00119,"Death due to other ischaemic heart diseases, by sex"
-284,tps,tps00122,"Death due to suicide, by sex"
-284,tps,tps00125,"Death due to accidents, by sex"
-284,tps,tps00128,"Death due to pneumonia, by sex"
-284,tps,tps00131,"Death due to chronic liver disease, by sex"
-284,tps,tps00134,"Death due to diseases of the nervous system, by sex"
-284,tps,tps00137,"Death due to diabetes mellitus, by sex"
-284,tps,tps00140,"Death due to alcoholic abuse, by sex"
-284,tps,tps00143,"Death due to AIDS (HIV-disease), by sex"
-284,tps,tps00146,"Death due to homicide, assault, by sex"
-284,tps,tps00149,"Death due to drugs dependence, by sex"
-284,tps,tps00150,Healthy life years at birth by sex
-284,tps,tps00151,"At-risk-of-poverty-rate, by highest level of education attained"
-284,tps,tps00152,"Causes of death, by sex"
-284,tps,tps00155,Minimum wages
-284,tps,tps00157,Population without the citizenship of the reporting country
-284,tps,tps00159,Persons employed part-time -
-284,tps,tps00165,"Death due to transport accidents, by sex"
-284,tps,tps00167,Licensed physicians
-284,tps,tps00170,First permits by reason
-284,tps,tps00171,All valid permits by reason on 31 December of each year
-284,tps,tps00172,"Job vacancies in number and % - NACE Rev. 2, B-S, quarterly data"
-284,tps,tps00173,Labour costs annual data - NACE Rev. 2
-284,tps,tps00175,"Average gross annual earnings in industry and services, by sex"
-284,tps,tps00176,Immigration
-284,tps,tps00177,Emigration
-284,tps,tps00178,Foreign-born population
-284,tps,tps00181,Jobless households - children
-284,tps,tps00182,Jobless households by sex
-284,tps,tps00184,At-risk-of-poverty rate after social transfers by sex
-284,tps,tps00185,Formal child care by duration and age group
-284,tps,tps00186,"At least upper secondary educational attainment, age group 20-24 by sex"
-284,tps,tps00189,Asylum applicants by type - monthly data
-284,tps,tps00190,Persons subject of asylum applications pending at the end of the month - monthly data
-284,tps,tps00191,Asylum applicants by type - annual aggregated data
-284,tps,tps00192,First instance decisions on asylum applications by type of decision - annual aggregated data
-284,tps,tps00193,Final decisions on asylum applicationsby type of decision - annual data
-284,tps,tps00194,Asylum applicants considered to be unaccompanied minors - annual data
-284,tps,tps00195,Resettled persons - annual data
-284,tps,tps00197,At most lower secondary educational attainment by age
-284,tps,tps00198,Old-age-dependency ratio
-284,tps,tps00199,fertility rate
-284,tps,tps00202,Suicide death rate by age group
-284,tps,tps00203,unemployment rate
-284,tps,tps00204,Live births and crude birth rate
-284,tps,tps00205,Life expectancy at birth by sex
-284,tps,tps00206,Crude marriage rate
-284,tps,tps00208,Life expectancy at birth by sex
-284,tps,tps00215,Exposure of VET graduates to work-based learning
-284,tps,tps00216,Crude divorce rate
-284,tps,tps00217,Female tertiary education graduates in STEM education fields - % of all tertiary education graduates in STEM education fields
-285,tqoe,tqoe3a5,Employed persons having more than one job by sex
-285,tqoe,tqoe3b4,Employees with a flexible work schedule by sex
-285,tqoe,tqoe4a3,Employed persons being self-employed without employees by sex
-286,tran,tran_hv_frmod,Modal split of inland freight transport
-286,tran,tran_hv_frtra,Volume of freight transport relative to GDP
-286,tran,tran_hv_pstra,Volume of passenger transport relative to GDP
-286,tran,tran_im_mosp,Modal shift potential of long-distance road freight in containers - tonne-kilometre
-286,tran,tran_im_mospt,Modal shift potential of long-distance road freight in containers - tonne
-286,tran,tran_im_uiww,Unitisation in inland waterways freight transport - tonne-kilometre for gross-gross weight of goods
-286,tran,tran_im_umar,Unitisation in maritime freight transport - tonnes for gross weight of goods
-286,tran,tran_im_umod,Unitisation in the different modes of transport - tonne-kilometre for gross weight of goods
-286,tran,tran_im_urail,Unitisation in rail freight transport- tonne-kilometre for gross-gross weight of goods
-286,tran,tran_im_uroad,Unitisation in road freight transport - tonne-kilometre for gross weight of goods
-286,tran,tran_sf_marv,Maritime accident victims by sea basin of occurrence and country of registration of vessels
-286,tran,tran_sf_marves,"Maritime accident victims by sea basin of occurrence, country of registration of vessels and type of vessels"
-286,tran,tran_sf_railac,Rail accidents by type of accident
-286,tran,tran_sf_raildg,Rail accidents involving the transport of dangerous goods
-286,tran,tran_sf_railsu,Suicides involving railways
-286,tran,tran_sf_roadro,Persons killed in road accidents by type of road
-287,tran_hv,tran_hv_ms_frmod,"Modal split of air, sea and inland freight transport"
-287,tran_hv,tran_hv_ms_psmod,"Modal split of air, sea and inland passenger transport"
-288,trng_aes,trng_aes_186,Effect of the search for information on learning possibilities
-288,trng_aes,trng_aes_187,Sources of information used for getting information on learning possibilities
-289,trng_any,trng_any3,Participation in any learning activities by degree of urbanisation
-289,trng_any,trng_any4,Participation in any learning activities by NACE Rev. 1.1 activity
-289,trng_any,trng_any5,Participation in any learning activities by size of the local unit
-290,trng_cvt,trng_cvt_12s,Participants in CVT courses by sex and size class - % of persons employed in all enterprises
-290,trng_cvt,trng_cvt_13s,Participants in CVT courses by sex and size class - % of persons employed in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_21n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per 1000 hours worked in all enterprises
-290,trng_cvt,trng_cvt_21n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per 1000 hours worked in all enterprises
-290,trng_cvt,trng_cvt_21s,Hours spent in CVT courses by size class - hours per 1000 hours worked in all enterprises
-290,trng_cvt,trng_cvt_22n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per 1000 hours worked in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_22n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per 1000 hours worked in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_22s,Hours spent in CVT courses by size class - hours per 1000 hours worked in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_23n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per person employed in all enterprises
-290,trng_cvt,trng_cvt_23n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per person employed in all enterprises
-290,trng_cvt,trng_cvt_23s,Hours spent in CVT courses by size class - hours per person employed in all enterprises
-290,trng_cvt,trng_cvt_24n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per person employed in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_24n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per person employed in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_24s,Hours spent in CVT courses by size class - hours per person employed in enterprises providing CVT courses
-290,trng_cvt,trng_cvt_25n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per participant
-290,trng_cvt,trng_cvt_25n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per participant
-290,trng_cvt,trng_cvt_25s,Hours spent in CVT courses by size class - hours per participant
-290,trng_cvt,trng_cvt_26n1,Hours spent in CVT courses by type of course and NACE Rev. 1.1 activity - % of total hours spent in CVT courses
-290,trng_cvt,trng_cvt_34n1,Enterprises employing IVT participants by NACE Rev. 1.1 activity - % of all enterprises
-290,trng_cvt,trng_cvt_34n2,Enterprises employing IVT participants by NACE Rev. 2 activity - % of all enterprises
-290,trng_cvt,trng_cvt_34s,Enterprises employing IVT participants by size class - % of all enterprises
-291,trng_fed,trng_fed3,Participation in formal education by degree of urbanisation
-292,trng_inf,trng_inf3,Participation in informal learning by degree of urbanisation
-293,trng_lfs,trng_lfs_02$dv_2221,"Participation rate in education and training (last 4 weeks) by sex, age and educational attainment level"
-294,trng_nfe,trng_nfe13,Mean instruction hours per employed participant in non-formal education and training by sex and NACE Rev. 1.1 activity
-294,trng_nfe,trng_nfe14,Mean instruction hours per participant in non-formal education and training by sex and age
-294,trng_nfe,trng_nfe15,Mean instruction hours per participant in non-formal education and training by sex and labour status
-294,trng_nfe,trng_nfe16,Mean instruction hours per employed participant in non-formal education and training by sex and occupation
-294,trng_nfe,trng_nfe18,Mean instruction hours per participant in non-formal education and training by field of learning
-294,trng_nfe,trng_nfe2,Participation in non-formal education and training by number of activities
-294,trng_nfe,trng_nfe4,Participation in non-formal education and training by degree of urbanisation
-294,trng_nfe,trng_nfe5,Participation in job-related non-formal education and training by size of the local unit
-294,trng_nfe,trng_nfe6,Participation in non-formal education and training by main reason for participating in the taught activity
-294,trng_nfe,trng_nfe7,Participation in non-formal education and training within (or not) paid working hours
-295,tsc,tsc00001,"Research and development expenditure, by sectors of performance"
-295,tsc,tsc00003,researchers by sectors of performance - head count
-295,tsc,tsc00005,"Share of women researchers, by sectors of performance"
-295,tsc,tsc00006,"Share of women researchers, all sectors"
-295,tsc,tsc00007,Share of government budget appropriations or outlays on research and development
-295,tsc,tsc00008,Share of GBAORD allocated to defence and total civil socio-economic objectives
-295,tsc,tsc00011,Employment in high- and medium-high technology manufacturing sectors and knowledge-intensive service sectors
-295,tsc,tsc00025,Human resources in science and technology (HRST)
-295,tsc,tsc00031,Intramural R&D expenditure (GERD) by source of funds
-296,ttr,ttr00001,Volume of passenger transport relative to GDP
-296,ttr,ttr00002,length of motorways
-296,ttr,ttr00003,length of railway lines
-296,ttr,ttr00005,Goods transport by road
-296,ttr,ttr00006,Goods transport by rail
-296,ttr,ttr00007,Goods transport by inland waterways
-296,ttr,ttr00009,Sea transport of goods
-296,ttr,ttr00011,Air transport of goods by country (yearly data)
-296,ttr,ttr00012,Air transport of passengers by country (yearly data)
-296,ttr,ttr00015,Rail transport of passengers
-296,ttr,ttr00016,Air transport of passengers by country and type of transport (monthly data)
-297,tus,tus_00alone,Time spent alone
-297,tus,tus_00educ$dv_571,"Time spent, participation time and participation rate in the main activity by sex and educational attainment level"
-297,tus,tus_00meal,Time spent on eating at home (as main or secondary activity)
-297,tus,tus_00npaycare,Time spent providing childcare (as main or secondary activity)
-297,tus,tus_00npaywork,Time spent in unpaid forms of work (as main or secondary activity) by sex and by form of work
-297,tus,tus_00screen,"Time spent watching or other media, playing computer games and any similar screen activities (as main or secondary activity)"
-297,tus,tus_00simuact,Time spent doing more than one activity simultaneously
-297,tus,tus_00travel,Time spent on travelling by mode of transport
-297,tus,tus_00work$dv_671,Time spent in total work (paid and unpaid work as main or secondary activity) by sex and by form of work
-298,urt,urt_10r_3gdp$dv_1584,Gross domestic product (GDP) at current market prices by other typologies
-298,urt,urt_ipr_da,Community design applications by other typologies
-298,urt,urt_ipr_dapop,Community design applications per million population by other typologies
-298,urt,urt_ipr_dfa,Community designs by other typologies
-298,urt,urt_ipr_dfapop,Community designs per million population by other typologies
-298,urt,urt_ipr_dr,Registered Community designs (RCD) by other typologies
-299,urt_lfe,urt_lfe3emprt$dv_1586,"Employment rates by sex, age and other typologies"
-300,vit_bs,vit_bs4_cy,Area under wine-grape vine varieties broken down by vine variety and by age of the vines -
-300,vit_bs,vit_bs4_lu,Area under wine-grape vine varieties broken down by vine variety and by age of the vines -
-301,yth_demo,yth_demo_030,Estimated average age of young people leaving the parental household by sex
-302,yth_educ,yth_educ_020,Population aged 30-34 with tertiary educational attainment level by sex
-302,yth_educ,yth_educ_030,Young people aged 20-24 with at least upper secondary educational attainment level by sex
+239,sdg_01,sdg_01_10,Persons at risk of poverty or social exclusion
+239,sdg_01,sdg_01_10a,Persons at risk of poverty or social exclusion by degree of urbanisation
+239,sdg_01,sdg_01_20,Persons at risk of monetary poverty after social transfers - EU-SILC and ECHP surveys
+239,sdg_01,sdg_01_20a,Persons at risk of monetary poverty after social transfers by citizenship
+239,sdg_01,sdg_01_31,Severe material and social deprivation rate by age group and sex
+239,sdg_01,sdg_01_40,"Persons living in households with very low work intensity, by age group"
+239,sdg_01,sdg_01_41,In work at-risk-of-poverty rate
+239,sdg_01,sdg_01_50,Housing cost overburden rate by poverty status
+240,sdg_02,sdg_02_10,Obesity rate by body mass index (BMI)
+240,sdg_02,sdg_02_20,Agricultural real factor income per annual work unit (AWU)
+240,sdg_02,sdg_02_30,Government support to agricultural research and development
+240,sdg_02,sdg_02_40,Area under organic farming
+240,sdg_02,sdg_02_53,Use and risk of chemical pesticides
+240,sdg_02,sdg_02_60,Ammonia emissions from agriculture
+241,sdg_03,sdg_03_11,Healthy life years at birth by sex
+241,sdg_03,sdg_03_20,Share of people with good or very good perceived health by sex
+241,sdg_03,sdg_03_30,Smoking prevalence by sex
+241,sdg_03,sdg_03_41,"Standardised death rate due to tuberculosis, HIV and hepatitis by type of disease"
+241,sdg_03,sdg_03_42,Standardised preventable and treatable mortality
+241,sdg_03,sdg_03_60,Self-reported unmet need for medical examination and care by sex
+241,sdg_03,sdg_03_70,Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
+242,sdg_04,sdg_04_10,Early leavers from education and training by sex
+242,sdg_04,sdg_04_10a,"Early leavers from education and training, by citizenship"
+242,sdg_04,sdg_04_20,Tertiary educational attainment by sex
+242,sdg_04,sdg_04_40,"Low achieving 15-year-olds in reading, mathematics or science"
+242,sdg_04,sdg_04_60,Adult participation in learning in the past four weeks by sex
+243,sdg_05,sdg_05_10,Physical and sexual violence to women by age group data)
+243,sdg_05,sdg_05_20,Gender pay gap in unadjusted form
+243,sdg_05,sdg_05_30,"Gender employment gap, by type of employment"
+243,sdg_05,sdg_05_40,Persons outside the labour force due to caring responsibilities by sex
+243,sdg_05,sdg_05_50,Seats held by women in national parliaments and governments
+243,sdg_05,sdg_05_60,Positions held by women in senior management positions
+244,sdg_06,sdg_06_10,"Population having neither a bath, nor a shower, nor indoor flushing toilet in their household by poverty status"
+244,sdg_06,sdg_06_20,Population connected to at least secondary wastewater treatment
+244,sdg_06,sdg_06_30,Biochemical oxygen demand in rivers
+244,sdg_06,sdg_06_40,Nitrate in groundwater
+244,sdg_06,sdg_06_50,Phosphate in rivers
+244,sdg_06,sdg_06_60,"Water exploitation index, plus (WEI+)"
+245,sdg_07,sdg_07_10,Primary energy consumption
+245,sdg_07,sdg_07_11,Final energy consumption
+245,sdg_07,sdg_07_20,Final energy consumption in households per capita
+245,sdg_07,sdg_07_30,Energy productivity
+245,sdg_07,sdg_07_40,Share of renewable energy in gross final energy consumption by sector
+245,sdg_07,sdg_07_50,Energy import dependency by products
+245,sdg_07,sdg_07_60,Population unable to keep home adequately warm by poverty status
+246,sdg_08,sdg_08_10,Real GDP per capita
+246,sdg_08,sdg_08_11,Investment share of GDP by institutional sectors
+246,sdg_08,sdg_08_20,Young people neither in employment nor in education and training by sex (NEET)
+246,sdg_08,sdg_08_20a,"Young people neither in employment nor in education and training (NEET), by citizenship"
+246,sdg_08,sdg_08_30,Employment rate by sex
+246,sdg_08,sdg_08_30a,"Employment rate, by citizenship"
+246,sdg_08,sdg_08_40,Long-term unemployment rate by sex
+246,sdg_08,sdg_08_60,"Fatal accidents at work per 100 000 workers, by sex"
+247,sdg_09,sdg_09_40,Patent applications to the European Patent Office by applicants' / inventors' country of residence
+247,sdg_09,sdg_09_50,Share of buses and trains in inland passenger transport
+247,sdg_09,sdg_09_60,Share of rail and inland waterways in inland freight transport
+247,sdg_09,sdg_09_70,Air emission intensity from industry
+248,sdg_10,sdg_10_10,Purchasing power adjusted GDP per capita
+248,sdg_10,sdg_10_20,Adjusted gross disposable income of households per capita
+248,sdg_10,sdg_10_30,Relative median at-risk-of-poverty gap
+248,sdg_10,sdg_10_41,Income distribution
+248,sdg_10,sdg_10_50,Income share of the bottom 40 % of the population
+248,sdg_10,sdg_10_60,Asylum applications by state of procedure
+249,sdg_11,sdg_11_11,Severe housing deprivation rate by poverty status
+249,sdg_11,sdg_11_20,"Population living in households considering that they suffer from noise, by poverty status"
+249,sdg_11,sdg_11_31,Settlement area per capita
+249,sdg_11,sdg_11_32,Soil sealing index
+249,sdg_11,sdg_11_52,Premature deaths due to exposure to fine particulate matter (PM2.5)
+249,sdg_11,sdg_11_60,Recycling rate of municipal waste
+250,sdg_12,sdg_12_10,Consumption of chemicals by hazardousness - aggregate
+250,sdg_12,sdg_12_21,Raw material consumption (RMC)
+250,sdg_12,sdg_12_31,Consumption footprint – single weighted score
+250,sdg_12,sdg_12_51,Generation of waste by hazardousness
+250,sdg_12,sdg_12_61,Gross value added in environmental goods and services sector
+251,sdg_13,sdg_13_31,Average CO2 emissions per km from new passenger cars (source: DG CLIMA) - HIDDEN DAT
+251,sdg_13,sdg_13_40,Climate related economic losses – values at constant prices
+251,sdg_13,sdg_13_50,Contribution to the international 100bn USD commitment on climate related expending
+251,sdg_13,sdg_13_60,Population covered by the Covenant of Mayors for Climate & Energy signatories
+251,sdg_13,sdg_13_70,Green bond issuance by type of issuer
+251,sdg_13,sdg_13_70a,Green bond issuance by corporates and governments
+252,sdg_14,sdg_14_10,Surface of the marine protected areas
+252,sdg_14,sdg_14_21,"Estimated trends in fish stock biomass, by fishing areas"
+252,sdg_14,sdg_14_30,"Estimated trends in fishing pressure, by fishing area"
+252,sdg_14,sdg_14_40,Bathing sites with excellent water quality by location
+252,sdg_14,sdg_14_50,Global mean surface seawater acidity
+252,sdg_14,sdg_14_60,Marine waters affected by eutrophication
+253,sdg_15,sdg_15_10,Share of forest area
+253,sdg_15,sdg_15_20,Surface of the terrestrial protected areas
+253,sdg_15,sdg_15_42,Drought impact area on ecosystems
+253,sdg_15,sdg_15_50,Area at risk of severe soil erosion by water
+253,sdg_15,sdg_15_60,Common bird index by type of species - aggregate
+253,sdg_15,sdg_15_61,Grassland butterfly index - aggregate
+254,sdg_16,sdg_16_10,Standardised death rate due to homicide by sex
+254,sdg_16,sdg_16_20,"Population reporting occurrence of crime, violence or vandalism in their area by poverty status"
+254,sdg_16,sdg_16_30,General government total expenditure on law courts
+254,sdg_16,sdg_16_40,Perceived independence of the justice system
+254,sdg_16,sdg_16_50,Corruption Perceptions Index
+254,sdg_16,sdg_16_60,Population with confidence in institutions by institution
+254,sdg_16,sdg_16_70,Victims of trafficking in human beings by sex
+255,sdg_17,sdg_17_10,Official development assistance as share of gross national income
+255,sdg_17,sdg_17_20,financing to developing countries by financing source
+255,sdg_17,sdg_17_40,General government gross debt
+255,sdg_17,sdg_17_50,Share of environmental taxes in total tax revenues
+255,sdg_17,sdg_17_60,"High-speed internet coverage, by type of area"
+256,spr,spr_net_ben$dv_1622,Net social protection benefits
+257,sprt,sprt_emp_age,Employment in sport by age
+257,sprt,sprt_emp_sex,Employment in sport by sex
+257,sprt,sprt_pcs_qnt,Mean consumption expenditure of private households on sporting goods and services by income quintile
+258,sts_tot,sts_tot_prod_a,Market production - annual data
+259,tag,tag00001,Agricultural holdings by agricultural area
+259,tag,tag00007,Agricultural holdings by crops
+259,tag,tag00014,Number of dairy cows
+259,tag,tag00016,Number of bovine animals
+259,tag,tag00017,Number of sheep
+259,tag,tag00018,Number of pigs
+259,tag,tag00020,Farm labour force
+259,tag,tag00027,"Cereals for the production of grain (including seed) by area, production and humidity"
+259,tag,tag00029,Agricultural holdings by age of holder
+259,tag,tag00037,Collection of cow's milk
+259,tag,tag00038,Production of butter
+259,tag,tag00039,Production of milk powder
+259,tag,tag00040,Production of cheese
+259,tag,tag00041,Production of milk on farms
+259,tag,tag00042,Production of pigmeat in slaughterhouses
+259,tag,tag00043,Production of poultry meat in slaughterhouses
+259,tag,tag00044,Production of bovine meat in slaughterhouses
+259,tag,tag00045,Production of sheepmeat and goat meat in slaughterhouses
+259,tag,tag00046,"Producer price indices, total agricultural production"
+259,tag,tag00047,"Wheat and spelt by area, production and humidity"
+259,tag,tag00048,"Producer price indices, crop products"
+259,tag,tag00049,"Rye and winter cereal mixtures by area, production and humidity"
+259,tag,tag00050,"Producer price indices, animals and animal products"
+259,tag,tag00051,"Barley by area, production and humidity"
+259,tag,tag00052,"Purchase price indices, total means of agricultural production"
+259,tag,tag00053,"Oats and spring cereal mixtures by area, production and humidity"
+259,tag,tag00054,Crop output - basic and producer prices
+259,tag,tag00055,Animal output - basic and producer prices
+259,tag,tag00056,Gross value added of the agricultural industry - basic and producer prices
+259,tag,tag00057,Indicator A of the income from agricultural activity
+259,tag,tag00059,Selling prices of soft wheat
+259,tag,tag00060,Selling prices of barley
+259,tag,tag00061,Selling prices of oats
+259,tag,tag00062,Selling prices of maize
+259,tag,tag00063,Selling prices of main crop potatoes
+259,tag,tag00064,Selling prices of sugar beet (unit value)
+259,tag,tag00065,Selling prices of calves
+259,tag,tag00066,Selling prices of pigs (light)
+259,tag,tag00067,Selling prices of piglets
+259,tag,tag00068,Selling prices of chickens (live 1st choice)
+259,tag,tag00069,Selling prices of sheep
+259,tag,tag00070,Selling prices of raw cow's milk
+259,tag,tag00071,Selling prices of fresh eggs
+259,tag,tag00075,Aquaculture production in tonnes and value
+259,tag,tag00076,Catches in all fishing regions
+259,tag,tag00083,"Fishing fleet, total tonnage"
+259,tag,tag00093,"Grain maize and corn-cob-mix by area, production and humidity"
+259,tag,tag00094,"Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses) by area, production and humidity"
+259,tag,tag00100,"Rape, turnip rape, sunflower seeds and soya by area"
+259,tag,tag00101,"Green maize by area, production and humidity"
+259,tag,tag00102,Output of the agricultural industry - basic and producer prices
+259,tag,tag00103,Root crops and plants harvested green from arable land by area
+259,tag,tag00115,Fresh vegetables and strawberries by area
+259,tag,tag00116,"Fishing Fleet, Number of Vessels"
+259,tag,tag00120,Permanent crops for human consumption by area
+259,tag,tag00121,Grapes by production
+259,tag,tag00122,Olives by production
+259,tag,tag00123,Agricultural holdings by economic size of the farm (Standard Output in Euro)
+259,tag,tag00124,Agricultural holdings with livestock
+259,tag,tag00125,Agricultural holdings by age of manager
+260,tai,tai04,Final energy consumption by agriculture/forestry per hectare of utilised agricultural area
+260,tai,tai07,Ammonia emissions from agriculture - % of total emissions
+260,tai,tai08,Greenhouse gas emissions from agriculture
+260,tai,tai09,Livestock density index
+260,tai,tai10,Estimated soil loss by water erosion by land cover type
+260,tai,tai11,Share of landcover types affected by severe erosion
+261,tec,tec00001,Gross domestic product at market prices
+261,tec,tec00009,Final consumption expenditure of households and non-profit institutions serving households
+261,tec,tec00010,Final consumption expenditure of general government
+261,tec,tec00011,Gross fixed capital formation (investments)
+261,tec,tec00013,Compensation of employees
+261,tec,tec00021,general government revenue
+261,tec,tec00023,general government expenditure
+261,tec,tec00027,HICP - all items - annual average indices
+261,tec,tec00033,ECU/EUR exchange rates versus national currencies
+261,tec,tec00038,"Current account transactions - credits, debits and balance"
+261,tec,tec00039,"Current account transactions - goods: credits, debits and balance"
+261,tec,tec00040,"Current account transactions - services: credits, debits and balance"
+261,tec,tec00041,"Current account transactions - primary income: credits, debits and balance"
+261,tec,tec00042,"Current account transactions - secondary income: credits, debits and balance"
+261,tec,tec00097,EMU convergence criterion series - annual data
+261,tec,tec00104,Gross debt-to-income ratio of households
+261,tec,tec00105,Inward FDI stocks in % of GDP
+261,tec,tec00106,Outward FDI stocks in % of GDP
+261,tec,tec00107,"FDI flows intensity, market integration"
+261,tec,tec00110,"Goods and services, imports and exports"
+261,tec,tec00112,"Employment, domestic concept -"
+261,tec,tec00113,Adjusted gross disposable income of households per capita in PPS
+261,tec,tec00114,GDP per capita in PPS
+261,tec,tec00115,Real GDP growth rate - volume
+261,tec,tec00116,Nominal labour productivity per person employed
+261,tec,tec00118,HICP - inflation rate
+261,tec,tec00120,Comparative price levels
+261,tec,tec00121,Price and volume convergence between Member States
+261,tec,tec00127,General government deficit/surplus
+261,tec,tec00131,Household saving rate
+261,tec,tec00132,Investment by institutional sectors
+262,teibp,teibp010,"Balance of payments, current account, monthly data"
+262,teibp,teibp020,"Balance of payments, capital account, monthly data"
+262,teibp,teibp030,"Balance of payments, current and capital account, monthly data"
+262,teibp,teibp060,"Balance of payments, capital account, quarterly data"
+262,teibp,teibp070,"Balance of payments, current and capital account, quarterly data"
+263,teibs,teibs010,Economic sentiment indicator
+263,teibs,teibs020,Confidence indicators by sector
+263,teibs,teibs030,Employment expectations indicator
+263,teibs,teibs040,Employment expectations by sectors
+263,teibs,teibs070,Current level of capacity utilization in manufacturing industry
+264,teicp,teicp000,HICP - all items
+264,teicp,teicp010,HICP - food
+264,teicp,teicp020,HICP - alcohol and tobacco
+264,teicp,teicp030,HICP - clothing
+264,teicp,teicp040,HICP - housing
+264,teicp,teicp050,HICP - household equipment
+264,teicp,teicp060,HICP - health
+264,teicp,teicp070,HICP - transport
+264,teicp,teicp080,HICP - communications
+264,teicp,teicp090,HICP - recreation and culture
+264,teicp,teicp100,HICP - education
+264,teicp,teicp110,HICP - hotels and restaurants
+264,teicp,teicp120,HICP - miscellaneous goods and services
+264,teicp,teicp200,"HICP - all items excluding energy, food, alcohol and tobacco"
+264,teicp,teicp210,HICP - all items excluding energy
+264,teicp,teicp220,HICP - all items excluding energy and unprocessed food
+264,teicp,teicp230,HICP - all items excluding energy and seasonal food
+264,teicp,teicp240,HICP - all items excluding tobacco
+264,teicp,teicp250,HICP - energy
+264,teicp,teicp260,"HICP - food, alcohol and tobacco"
+264,teicp,teicp270,House price index = 100) - quarterly data
+264,teicp,teicp280,HICP - services
+264,teicp,teicp290,HICP - non-energy industrial goods
+265,teiet,teiet010,Exports of goods - total
+265,teiet,teiet020,"Exports of goods - food, drinks and tobacco"
+265,teiet,teiet030,Exports of goods - raw materials
+265,teiet,teiet040,"Exports of goods - mineral fuels, lubricants and related materials"
+265,teiet,teiet050,Exports of goods - chemicals and related products
+265,teiet,teiet060,Exports of goods - other manufactured products
+265,teiet,teiet070,Exports of goods - machinery and transport equipment
+265,teiet,teiet110,Imports of goods - total
+265,teiet,teiet120,"Imports of goods - food, drinks and tobacco"
+265,teiet,teiet130,Imports of goods - raw materials
+265,teiet,teiet140,"Imports of goods - mineral fuels, lubricants and related materials"
+265,teiet,teiet150,Imports of goods - chemicals and related products
+265,teiet,teiet160,Imports of goods - other manufactured products
+265,teiet,teiet170,Imports of goods - machinery and transport equipment
+265,teiet,teiet210,Balance of trade - and euro area aggregates
+265,teiet,teiet215,Balance of trade
+265,teiet,teiet300,Unit value of exports
+265,teiet,teiet310,Unit value of imports
+266,teiis,teiis010,Domestic producer prices - total industry (excluding construction)
+266,teiis,teiis011,Import prices - total industry
+266,teiis,teiis012,Import prices - manufacturing
+266,teiis,teiis013,Import prices - intermediate goods
+266,teiis,teiis014,Import prices - capital goods
+266,teiis,teiis015,Import prices - consumer durables
+266,teiis,teiis016,Import prices - consumer non-durables
+266,teiis,teiis020,Domestic producer prices - manufacturing
+266,teiis,teiis030,Domestic producer prices - energy
+266,teiis,teiis040,Domestic producer prices - intermediate goods
+266,teiis,teiis050,Domestic producer prices - capital goods
+266,teiis,teiis060,Domestic producer prices - consumer durables
+266,teiis,teiis070,Domestic producer prices - consumer non-durables
+266,teiis,teiis080,Production in industry - total (excluding construction)
+266,teiis,teiis090,Production in industry - manufacturing
+266,teiis,teiis100,Production in industry - energy
+266,teiis,teiis110,Production in industry - intermediate goods
+266,teiis,teiis120,Production in industry - capital goods
+266,teiis,teiis130,Production in industry - consumer durables
+266,teiis,teiis140,Production in industry - consumer non-durables
+266,teiis,teiis150,Turnover in industry - manufacturing
+266,teiis,teiis160,Turnover in industry - intermediate goods
+266,teiis,teiis170,Turnover in industry - capital goods
+266,teiis,teiis180,Turnover in industry - consumer durables
+266,teiis,teiis190,Turnover in industry - consumer non-durables
+266,teiis,teiis200,Retail trade turnover - total
+266,teiis,teiis210,"Retail trade turnover - food, beverages and tobacco"
+266,teiis,teiis220,Retail trade turnover - non food
+266,teiis,teiis230,Retail trade turnover - automotive fuel
+266,teiis,teiis240,Retail trade volume of sales - total
+266,teiis,teiis250,"Retail trade volume of sales - food, beverages and tobacco"
+266,teiis,teiis260,Retail trade volume of sales - non food
+266,teiis,teiis270,Retail trade volume of sales - automotive fuel
+266,teiis,teiis400,Labour input - total industry (excluding construction)
+266,teiis,teiis500,Production in construction
+266,teiis,teiis521,Labour input in construction
+266,teiis,teiis550,Building permits - monthly data
+267,teilm,teilm010,Unemployment by sex
+267,teilm,teilm011,Unemployment by sex - age group 15-24
+267,teilm,teilm012,Unemployment by sex - age group 25-74
+267,teilm,teilm020,Unemployment rate by sex
+267,teilm,teilm021,Unemployment rate by sex - age group 15-24
+267,teilm,teilm022,Unemployment rate by sex - age group 25-74
+267,teilm,teilm100,Labour cost index by NACE Rev. 2
+268,teimf,teimf040,3-month-interest rate
+268,teimf,teimf050,Long term government bond yields
+268,teimf,teimf060,"Euro yield curve by maturity (1, 5 and 10 years)"
+268,teimf,teimf100,Day-to-day money market interest rates
+268,teimf,teimf200,Euro/national currency exchange rates
+268,teimf,teimf250,Real effective exchange rate - 42 trading partners
+269,teina,teina010,"Gross domestic product, current prices"
+269,teina,teina011,"Gross domestic product, volumes"
+269,teina,teina020,"Final consumption expenditure of households and NPISH, current prices"
+269,teina,teina021,"Final consumption expenditure of households and NPISH, volumes"
+269,teina,teina030,"Government final consumption expenditure, current prices"
+269,teina,teina031,"Government final consumption expenditure, volumes"
+269,teina,teina040,"Gross fixed capital formation, current prices"
+269,teina,teina041,"Gross fixed capital formation, volumes"
+269,teina,teina050,"External balance of goods and services, current prices"
+269,teina,teina080,Gross national income
+269,teina,teina090,Gross disposable income
+269,teina,teina100,Gross saving
+269,teina,teina110,GDP deflator
+269,teina,teina200,General government deficit (-) and surplus (+) - annual data
+269,teina,teina205,General government deficit (-) and surplus (+) - quarterly data
+269,teina,teina210,General government gross fixed capital formation - annual data
+269,teina,teina225,General government gross debt - annual data
+269,teina,teina230,General government gross debt - quarterly data
+269,teina,teina400_r2,Gross value added - NACE Rev. 2: - current prices
+269,teina,teina402_r2,Gross value added - NACE Rev. 2: - volumes
+269,teina,teina404_r2,Gross value added - NACE Rev. 2: A - current prices
+269,teina,teina406_r2,Gross value added - NACE Rev. 2: A - volumes
+269,teina,teina408_r2,Gross value added - NACE Rev. 2: B-E - current prices
+269,teina,teina410_r2,Gross value added - NACE Rev. 2: B-E - volumes
+269,teina,teina412_r2,Gross value added - NACE Rev. 2: C - current prices
+269,teina,teina414_r2,Gross value added - NACE Rev. 2: C - volumes
+269,teina,teina416_r2,Gross value added - NACE Rev. 2: F - current prices
+269,teina,teina418_r2,Gross value added - NACE Rev. 2: F - volumes
+269,teina,teina420_r2,Gross value added - NACE Rev. 2: G-I - current prices
+269,teina,teina422_r2,Gross value added - NACE Rev. 2: G-I - volumes
+269,teina,teina424_r2,Gross value added - NACE Rev. 2: J - current prices
+269,teina,teina426_r2,Gross value added - NACE Rev. 2: J - volumes
+269,teina,teina428_r2,Gross value added - NACE Rev. 2: K - current prices
+269,teina,teina430_r2,Gross value added - NACE Rev. 2: K - volumes
+269,teina,teina432_r2,Gross value added - NACE Rev. 2: L - current prices
+269,teina,teina434_r2,Gross value added - NACE Rev. 2: L - volumes
+269,teina,teina436_r2,Gross value added - NACE Rev. 2: M_N - current prices
+269,teina,teina438_r2,Gross value added - NACE Rev. 2: M_N - volumes
+269,teina,teina440_r2,Gross value added - NACE Rev. 2: O-Q - current prices
+269,teina,teina442_r2,Gross value added - NACE Rev. 2: O-Q - volumes
+269,teina,teina444_r2,Gross value added - NACE Rev. 2: R-U - current prices
+269,teina,teina446_r2,Gross value added - NACE Rev. 2: R-U - volumes
+269,teina,teina500,Household saving rate
+269,teina,teina510,Households investment rate
+269,teina,teina515,Investment rate of non-financial corporations
+269,teina,teina520,Profit share of non-financial corporations
+270,ten,ten00001,Water resources: long-term annual average
+270,ten,ten00003,Fresh water abstraction by source per capita - m³ per capita
+270,ten,ten00006,Water abstracted by sector of use
+270,ten,ten00030,Sewage sludge production and disposal from urban wastewater (in dry substance (d.s))
+270,ten,ten00062,Recovery rates for packaging waste
+270,ten,ten00063,Recycling rates for packaging waste
+270,ten,ten00110,Waste generated by households by year and waste category
+270,ten,ten00117,Electricity prices by type of user
+270,ten,ten00118,Gas prices by type of user
+270,ten,ten00119,Market share of the largest generator in the electricity market
+270,ten,ten00120,Implicit tax rate on energy
+270,ten,ten00135,National expenditure on environmental protection
+270,ten,ten00136,Environmental protection investments of total economy
+270,ten,ten00137,Domestic material consumption per capita
+270,ten,ten00138,Landfill rate of waste excluding major mineral wastes
+270,ten,ten00139,Energy taxes
+270,ten,ten00141,Environmental tax revenues
+271,tepsr_lm,tepsr_lm210,Gender gap in part-time employment
+271,tepsr_lm,tepsr_lm230,Gender employment gap by degree of urbanisation
+271,tepsr_lm,tepsr_lm410,People at risk of poverty or social exclusion by sex
+271,tepsr_lm,tepsr_lm411,People at risk of poverty or social exclusion by age
+271,tepsr_lm,tepsr_lm412,Children (aged less than 18) at risk of poverty or social exclusion - EU2030 target
+271,tepsr_lm,tepsr_lm420,Severe material and social deprivation rate by sex
+271,tepsr_lm,tepsr_lm430,People living in households with very low work intensity by sex
+271,tepsr_lm,tepsr_lm440,Severe housing deprivation rate by tenure status
+272,tepsr_sp,tepsr_sp110,General government expenditure by function
+272,tepsr_sp,tepsr_sp210,Children aged less than 3 years in formal childcare
+272,tepsr_sp,tepsr_sp310,Out-of-pocket expenditure on healthcare
+272,tepsr_sp,tepsr_sp320,Healthy life years at age 65 by sex
+272,tepsr_sp,tepsr_sp410,Individuals who have basic or above basic overall digital skills by sex
+273,tepsr_spi,tepsr_spi110,At-risk-of poverty rate for children (aged less than 18) by sex
+273,tepsr_spi,tepsr_spi120,Severe material and social deprivation rate for children (aged less than 18) by sex
+273,tepsr_spi,tepsr_spi130,Children (aged less than 18) living in households with very low work intensity by sex
+274,tepsr_wc,tepsr_wc130,Activity rate by sex
+274,tepsr_wc,tepsr_wc230,Labour transitions from temporary to permanent contracts by sex -3-year average
+274,tepsr_wc,tepsr_wc310,The real gross disposable income of households per capita (index =
+275,tesem,tesem010,Employment rate by sex
+275,tesem,tesem020,"Early leavers from education and training, age group 18-24"
+275,tesem,tesem030,"Tertiary educational attainment, age group 30-34"
+275,tesem,tesem040,Overall employment growth
+275,tesem,tesem050,"Employment rate of older workers, age group 55-64"
+275,tesem,tesem060,Gender employment gap
+275,tesem,tesem070,"Youth employment rate, age group 20-29"
+275,tesem,tesem080,"Employment rate of low skilled persons, age group 20-64"
+275,tesem,tesem090,"Employment rate of non-EU nationals, age group 20-64"
+275,tesem,tesem100,Part-time employment rate
+275,tesem,tesem120,Unemployment rate by sex
+275,tesem,tesem130,Long-term unemployment rate by sex
+275,tesem,tesem140,Youth unemployment rate by sex
+275,tesem,tesem160,Labour productivity per person employed and hour worked (EU27_2020=100)
+275,tesem,tesem170,Nominal unit labour cost growth
+275,tesem,tesem180,Gender pay gap in unadjusted form
+275,tesem,tesem190,Involuntary temporary employment
+275,tesem,tesem200,Newly employed
+275,tesem,tesem210,At-risk of poverty rate of unemployed persons
+275,tesem,tesem220,Tax rate on low wage earners - Unemployment trap
+275,tesem,tesem240,"Percentage of the population with at least upper secondary educational attainment, age group 25-64"
+276,tesov,tesov092,At-risk-of-poverty rate anchored at a fixed moment in time by age group - EU-SILC survey
+276,tesov,tesov110,In-work at-risk-of-poverty rate by sex
+276,tesov,tesov190,Distribution of population by household types - EU-SILC survey
+276,tesov,tesov250,At-risk-of-poverty rate before social transfers by sex - EU-SILC survey
+277,tespm,tespm020,At-risk-of-poverty threshold for a single household
+277,tespm,tespm030,Severe material and social deprivation rate
+277,tespm,tespm040,Children at risk of poverty or social exclusion
+277,tespm,tespm060,At risk-of-poverty rate for the population living in (quasi-)jobless households
+277,tespm,tespm070,In-work at-risk-of-poverty rate
+277,tespm,tespm080,Youth unemployment ratio (15-24)
+277,tespm,tespm090,At risk of poverty or social exclusion rate for elderly (65+)
+277,tespm,tespm100,Aggregate replacement ratio
+277,tespm,tespm110,Self-reported unmet need for medical care by sex
+277,tespm,tespm120,Healthy life years at 65 - males
+277,tespm,tespm130,Healthy life years at 65 - females
+277,tespm,tespm140,Housing cost overburden rate
+277,tespm,tespm151,Inequality of income distribution
+278,tespn,tespn010,At-risk-of-poverty rate of older people by sex - EU-SILC survey
+278,tespn,tespn020,Median relative income of elderly people - EU-SILC survey
+278,tespn,tespn060,Median relative income of elderly people (60+) - EU-SILC survey
+278,tespn,tespn070,Aggregate replacement ratio for pensions (excluding other social benefits) by sex
+278,tespn,tespn080,Income inequality for older people - EU-SILC survey
+278,tespn,tespn090,Relative median poverty risk gap of elderly people - EU-SILC survey
+278,tespn,tespn100,At-risk-of-poverty rate for pensioners - EU-SILC survey
+278,tespn,tespn110,At-risk-of-poverty rate of elderly people by tenure status - EU-SILC survey
+278,tespn,tespn120,Dispersion around the at-risk-of-poverty threshold for elderly people - EU-SILC survey
+278,tespn,tespn240,Gender differences in the at-risk-of-poverty rate by age - EU-SILC survey
+278,tespn,tespn250,Gender differences in the relative income of elderly people (65+) - EU-SILC survey
+278,tespn,tespn260,Gender differences in the aggregate replacement ratio for pensions (excluding other social benefits) - EU-SILC survey
+278,tespn,tespn270,Gender differences in the relative income of older people - EU-SILC survey
+279,tessi,tessi010,At-risk-of-poverty rate by sex
+279,tessi,tessi014,At-risk-of-poverty threshold - EU-SILC survey
+279,tessi,tessi020,Persistent at-risk-of poverty rate by sex - EU-SILC survey
+279,tessi,tessi022,Persistent at-risk-of poverty rate by age group - EU-SILC survey
+279,tessi,tessi030,Relative median poverty risk gap by age group - EU-SILC survey
+279,tessi,tessi080,Material Deprivation rate by sex - EU-SILC survey
+279,tessi,tessi082,Material Deprivation rate by age group - EU-SILC survey
+279,tessi,tessi121,At-risk-of poverty rate by household type - EU-SILC survey
+279,tessi,tessi125,At-risk-of poverty rate by tenure status - EU-SILC survey
+279,tessi,tessi126,Dispersion around the at-risk-of-poverty threshold - EU-SILC survey
+279,tessi,tessi150,Depth of material deprivation - EU-SILC survey
+279,tessi,tessi160,Housing cost overburden rate by sex - EU-SILC survey
+279,tessi,tessi161,Housing cost overburden rate by age group - EU-SILC survey
+279,tessi,tessi162,Housing cost overburden rate by income quintile - EU-SILC survey
+279,tessi,tessi163,Housing cost overburden rate by poverty status - EU-SILC survey
+279,tessi,tessi164,Housing cost overburden rate by tenure status - EU-SILC survey
+279,tessi,tessi165,Housing cost overburden rate by degree of urbanisation - EU-SILC survey
+279,tessi,tessi166,Housing cost overburden rate by household type - EU-SILC survey
+279,tessi,tessi170,Overcrowding rate by sex - EU-SILC survey
+279,tessi,tessi171,Overcrowding rate by age group - EU-SILC survey
+279,tessi,tessi172,Overcrowding rate by poverty status - EU-SILC survey
+279,tessi,tessi173,Overcrowding rate by tenure status - EU-SILC survey
+279,tessi,tessi174,Overcrowding rate by degree of urbanisation - EU-SILC survey
+279,tessi,tessi175,Overcrowding rate by household type - EU-SILC survey
+279,tessi,tessi176,Overcrowding rate by sex - population without single-person households - EU-SILC survey
+279,tessi,tessi177,Overcrowding rate by age group - population without single-person households - EU-SILC survey
+279,tessi,tessi178,Overcrowding rate by poverty status - population without single-person households - EU-SILC survey
+279,tessi,tessi180,Income quintile share ratio (S80/S20) by sex
+279,tessi,tessi190,Gini coefficient of equivalised disposable income
+279,tessi,tessi191,Gini coefficient of equivalised disposable income for children aged less than 18
+279,tessi,tessi220,At-risk-of-poverty rate anchored at a fixed moment in time by sex - EU-SILC survey
+279,tessi,tessi250,In-work at-risk-of-poverty rate by working time - EU-SILC survey
+279,tessi,tessi291,Housing deprivation rate by number of item - EU-SILC survey
+279,tessi,tessi292,"Share of total population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor - EU-SILC survey"
+279,tessi,tessi293,"Share of total population having neither a bath, nor a shower in their dwelling - EU-SILC survey"
+279,tessi,tessi294,Share of total population not having indoor flushing toilet for the sole use of their household - EU-SILC survey
+279,tessi,tessi295,Share of total population considering their dwelling as too dark - EU-SILC survey
+279,tessi,tessi300,Median of the housing cost burden distribution by sex - EU-SILC survey
+279,tessi,tessi301,Median of the housing cost burden distribution by age group - EU-SILC survey
+279,tessi,tessi302,Median of the housing cost burden distribution by poverty status - EU-SILC survey
+279,tessi,tessi303,Median of the housing cost burden distribution by degree of urbanisation - EU-SILC survey
+280,tet,tet00001,"Trade volume indices, by reporting country"
+280,tet,tet00002,"International trade, by reporting country, total product"
+280,tet,tet00003,Exports of goods and services in % of GDP
+280,tet,tet00004,Imports of goods and services in % of GDP
+280,tet,tet00011,"Intra-EU27 (from trade, by Member State, total product"
+280,tet,tet00012,"Extra-EU27 (from trade, by Member State, total product"
+280,tet,tet00013,"Extra-EU27 (from trade, by product group"
+280,tet,tet00028,"Trade unit value indices, by reporting country"
+280,tet,tet00037,Share of trade with the EU27 (from
+280,tet,tet00038,"International trade of and enlargement countries, by reporting country, total product"
+280,tet,tet00065,"Extra-euro area trade, by main partners, total product"
+280,tet,tet00066,"Extra-euro area trade, by product group"
+280,tet,tet00071,"Trade in goods, by main world traders - EU27 (from"
+281,tgs,tgs00027,"population, Candidate countries and potential candidates"
+281,tgs,tgs00047,Households that have internet access at home by NUTS 2 regions
+281,tgs,tgs00052,Individuals who ordered goods or services over the internet for private use in the last year by NUTS 2 regions
+281,tgs,tgs00064,Available beds in hospitals by NUTS 2 regions
+281,tgs,tgs00075,Maritime transport of passengers by NUTS 2 regions
+281,tgs,tgs00076,Maritime transport of freight by NUTS 2 regions
+281,tgs,tgs00077,Air transport of passengers by NUTS 2 regions
+281,tgs,tgs00078,Air transport of freight by NUTS 2 regions
+281,tgs,tgs00103,At-risk-of-poverty rate by NUTS 2 regions
+281,tgs,tgs00104,Severe material deprivation rate by NUTS 2 regions
+281,tgs,tgs00107,People at risk of poverty or social exclusion by NUTS 2 regions
+281,tgs,tgs00108,People living in households with very low work intensity by NUTS 2 regions (population aged 0 to 59 years)
+282,tin,tin00028,Internet use by individuals
+282,tin,tin00074,Percentage of the ICT sector in Gross value added
+282,tin,tin00085,Percentage of the ICT personnel on total employment
+282,tin,tin00086,Percentage change of value added by ICT sector at current prices
+282,tin,tin00091,Individuals regularly using the internet
+282,tin,tin00092,Individuals frequently using the internet
+282,tin,tin00093,Individuals who have never used the internet
+282,tin,tin00094,Individuals using the internet for sending/receiving e-mails
+282,tin,tin00095,Individuals using the internet for finding information about goods and services
+282,tin,tin00096,Individuals using the internet for buying goods or services
+282,tin,tin00098,Individuals using the internet for selling goods or services
+282,tin,tin00099,Individuals using the internet for internet banking
+282,tin,tin00101,Individuals using the internet for seeking health-related information
+282,tin,tin00102,Individuals using the internet for looking for a job or sending a job application
+282,tin,tin00103,Individuals using the internet for doing an online course
+282,tin,tin00110,Share of enterprises' turnover on e-commerce - %
+282,tin,tin00111,Enterprises having received orders online (at least 1%) - % of enterprises
+282,tin,tin00116,"Enterprises using software solutions, like CRM to analyse information about clients for marketing purposes"
+282,tin,tin00127,Individuals using the internet for participating in social networks
+282,tin,tin00134,Level of internet access - households
+282,tin,tin00140,High-tech exports
+282,tin,tin00171,Nights spent at tourist accommodation establishments by residents/non-residents - monthly data
+282,tin,tin00172,Percentage change (compared to corresponding period of the previous year) in nights spent at tourist accommodation establishments by residents/non-residents - monthly data
+282,tin,tin00173,"Net occupancy rate of bed-places and bedrooms in hotels and similar accommodations (NACE Rev. 2, I, 55.1) - monthly data"
+282,tin,tin00174,Arrivals of residents/non-residents at tourist accommodation establishments
+282,tin,tin00175,Nights spent at tourist accommodation establishments by residents/non-residents
+282,tin,tin00176,Nights spent at tourist accommodation establishments by country/world region of residence of the tourist
+282,tin,tin00180,"Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation (NACE Rev. 2, I, 55.1) (from onwards)"
+282,tin,tin00181,Number of establishments and bed-places
+282,tin,tin00185,Persons participating in tourism for personal purposes - number of tourists
+282,tin,tin00186,Participation in tourism for personal purposes - % of total population
+282,tin,tin00195,Average expenditure per trip
+282,tin,tin00196,Average expenditure per night
+283,tipsbd,tipsbd10,"Gross non-performing loans, domestic and foreign entities - % of gross loans"
+283,tipsbd,tipsbd20,"Consolidated banking leverage, domestic and foreign entities (asset-to-equity multiple)"
+283,tipsbd,tipsbd30,Tier-1 capital ratio banking sector
+283,tipsbd,tipsbd40,Return on equity of banks
+284,tipsbp,tipsbp10,Current account balance - 3 year average
+284,tipsbp,tipsbp100,"Direct investment liabilities (stocks) - annual data, % of GDP"
+284,tipsbp,tipsbp17,Capital account - annual data
+284,tipsbp,tipsbp18,Financial account - annual data
+284,tipsbp,tipsbp20,Current account balance - annual data
+284,tipsbp,tipsbp22,"Direct investment abroad, main components - annual data, million units of national currency"
+284,tipsbp,tipsbp70,Net Lending/Borrowing (current and capital account) - annual data
+284,tipsbp,tipsbp90,"Direct investment liabilities (flows) - annual data, % of GDP"
+285,tipsen,tipsen10,Net trade balance of energy products - % of GDP
+286,tipser,tipser10,"Real effective exchange rate – percentage changes, 42 trading partners"
+286,tipser,tipser11,Nominal effective exchange rate – 42 trading partners
+286,tipser,tipser12,Nominal effective exchange rate – euro area trading partners
+286,tipser,tipser13,"Real effective exchange rate – index, 42 trading partners"
+286,tipser,tipser20,Real effective exchange rate – euro area trading partners
+287,tipsex,tipsex10,Export market shares - 3 years % change
+287,tipsex,tipsex11,Export market shares by items - 1 year % change
+287,tipsex,tipsex12,"Exports of high technology products as a share of total exports, SITC Rev. 4 - %"
+287,tipsex,tipsex13,Export market shares in volume
+287,tipsex,tipsex20,Export market shares by items - % of world total
+288,tipsfs,tipsfs10,"financial sector liabilities, non-consolidated - annual data"
+288,tipsfs,tipsfs20,"Financial sector leverage (debt to equity), non-consolidated - %"
+288,tipsfs,tipsfs30,"financial sector liabilities, consolidated"
+289,tipsgo,tipsgo10,"General government gross debt (EDP concept), consolidated - annual data"
+290,tipsho,tipsho10,"House price index, deflated - annual data"
+290,tipsho,tipsho20,House price index - annual data
+290,tipsho,tipsho30,"House price index, deflated - quarterly data"
+290,tipsho,tipsho40,House price index - quarterly data
+290,tipsho,tipsho50,Building permits - annual data
+291,tipsii,tipsii10,Net international investment position - annual data
+291,tipsii,tipsii12,"Direct investment - annual data, million units of national currency"
+291,tipsii,tipsii15,"Portfolio investement - annual data, million units of national currency"
+291,tipsii,tipsii18,"Financial derivatives and employee stock options - annual data, million units of national currency"
+291,tipsii,tipsii20,"Net external debt - annual data, % of GDP"
+291,tipsii,tipsii21,"Other investment - annual data, million units of national currency"
+291,tipsii,tipsii30,"Net external debt - quarterly data, % of GDP"
+291,tipsii,tipsii40,"Net international investment position - quarterly data, % of GDP"
+291,tipsii,tipsii50,Net international investment position excluding non-defaultable instruments - % of GDP
+292,tipslc,tipslc10,People at risk of poverty or social exclusion
+292,tipslc,tipslc20,People at risk of poverty after social transfer
+292,tipslc,tipslc30,Severely materially and socially deprived people
+292,tipslc,tipslc40,People living in households with very low work intensity
+293,tipslm,tipslm10,Nominal unit labour cost per hour worked - 3 years % change
+293,tipslm,tipslm100,Employment rate
+293,tipslm,tipslm13,"Compensation of employees - annual data, million units of national currency"
+293,tipslm,tipslm15,"Labour force participation rate, aged 15-64 - annual averages"
+293,tipslm,tipslm16,"Population, aged 15-74 - labour force survey"
+293,tipslm,tipslm20,"Nominal unit labour cost per hour worked - annual data, % changes and index = 100)"
+293,tipslm,tipslm50,Unit labour cost performance related to the euro area - annual data
+293,tipslm,tipslm60,Labour force participation rate - % of total population aged 15-64
+293,tipslm,tipslm70,"Long-term unemployment rate, % of active population aged 15-74"
+293,tipslm,tipslm80,Youth unemployment rate - % of active population aged 15-24
+293,tipslm,tipslm90,Young people neither in employment nor in education and training (15-29 years) - % of the total population in the same age group
+294,tipsna,tipsna20,Gross fixed capital formation at current prices
+294,tipsna,tipsna30,Terms of trade by items - 5 years % change
+294,tipsna,tipsna40,Real GDP per capita
+294,tipsna,tipsna50,"Residential construction - annual data, % of GDP"
+294,tipsna,tipsna51,Final consumption expenditure of households and non-profit institutions serving households - annual data
+294,tipsna,tipsna60,"Employment, domestic concept - annual data"
+294,tipsna,tipsna62,"Employees, domestic concept - annual data"
+294,tipsna,tipsna70,Labour productivity per hour worked - annual data
+295,tipspc,tipspc10,"Private sector credit flow, non-consolidated"
+295,tipspc,tipspc13,"Private sector credit flow: debt securities by sectors, non-consolidated - % of GDP"
+295,tipspc,tipspc14,"Private sector credit flow: debt securities by sectors, non-consolidated - million units of national currency"
+295,tipspc,tipspc15,"Private sector credit flow: loans by sectors, non-consolidated - % of GDP"
+295,tipspc,tipspc16,"Private sector credit flow: loans by sectors, non-consolidated - million units of national currency"
+295,tipspc,tipspc20,"Private sector credit flow, consolidated - % GDP"
+295,tipspc,tipspc23,"Private sector credit flow: debt securities by sectors, consolidated - % of GDP"
+295,tipspc,tipspc24,"Private sector credit flow: debt securities by sectors, consolidated - million units of national currency"
+295,tipspc,tipspc25,"Private sector credit flow: loans by sectors, consolidated - % of GDP"
+295,tipspc,tipspc26,"Private sector credit flow: loans by sectors, consolidated - million units of national currency"
+296,tipspd,tipspd10,"Private sector debt, non-consolidated"
+296,tipspd,tipspd13,"Private sector debt: debt securities by sectors, non-consolidated - % of GDP"
+296,tipspd,tipspd14,"Private sector debt: debt securities by sectors, non-consolidated - million units of national currency"
+296,tipspd,tipspd15,"Private sector debt: loans, by sectors, non-consolidated - % of GDP"
+296,tipspd,tipspd16,"Private sector debt: loans by sectors, non-consolidated - million units of national currency"
+296,tipspd,tipspd20,"Private sector debt, consolidated - % of GDP"
+296,tipspd,tipspd22,"Household debt, consolidated including Non-profit institutions serving households - % of GDP"
+296,tipspd,tipspd23,"Private sector debt: debt securities, by sectors, consolidated - % of GDP"
+296,tipspd,tipspd24,"Private sector debt: debt securities, by sectors, consolidated - million units of national currency"
+296,tipspd,tipspd25,"Private sector debt: loans, by sectors, consolidated - % of GDP"
+296,tipspd,tipspd26,"Private sector debt: loans, by sectors, consolidated - million units of national currency"
+296,tipspd,tipspd30,"Non-financial corporations debt - consolidated, % of GDP"
+297,tipsst,tipsst10,Gross domestic expenditure on research and development (R&D)
+298,tipsun,tipsun10,Unemployment rate - 3 year average
+298,tipsun,tipsun20,Unemployment rate - annual data
+298,tipsun,tipsun30,"Unemployment rate - quarterly data, seasonally adjusted"
+299,tour,tour_ce_oam,Guest nights spent at short-stay accommodation offered via collaborative economy platforms by mode of accommodation - experimental statistics
+299,tour,tour_ce_oasc,Guest nights spent at short-stay accommodation offered via collaborative economy platforms by size class of accommodation - experimental statistics
+300,tps,tps00001,Population on 1 January
+300,tps,tps00003,Population density
+300,tps,tps00005,Population as a percentage of EU27 (from population
+300,tps,tps00014,Mean age at first marriage by sex
+300,tps,tps00017,Mean age of women at childbirth and at birth of first child
+300,tps,tps00019,"Population change - crude rates of total change, natural change and net migration plus adjustment"
+300,tps,tps00024,Acquisition of citizenship
+300,tps,tps00027,Infant mortality rate
+300,tps,tps00028,Proportion of population aged 65 and over
+300,tps,tps00029,Deaths and crude death rate
+300,tps,tps00044,Practising physicians
+300,tps,tps00045,Practising dentists
+300,tps,tps00046,Hospital beds
+300,tps,tps00048,Discharges from hospitals
+300,tps,tps00053,Employment rates of recent graduates
+300,tps,tps00065,"At least upper secondary educational attainment, age group 25-64 by sex"
+300,tps,tps00066,Unemployment rates of the population aged 25-64 by educational attainment level
+300,tps,tps00071,Hours worked per week of full-time employment
+300,tps,tps00073,Employees with a contract of limited duration (annual average)
+300,tps,tps00098,Expenditure on social protection
+300,tps,tps00099,expenditure on social protection per head of population. ECU/EUR
+300,tps,tps00100,Expenditure on social protection per inhabitant
+300,tps,tps00101,expenditure on social protection by type
+300,tps,tps00102,expenditure on social benefits
+300,tps,tps00103,Expenditure on pensions
+300,tps,tps00104,expenditure on administration costs
+300,tps,tps00105,Other expenditure on social protection
+300,tps,tps00108,Social protection receipts by type
+300,tps,tps00116,"Death due to cancer, by sex"
+300,tps,tps00119,"Death due to other ischaemic heart diseases, by sex"
+300,tps,tps00122,"Death due to suicide, by sex"
+300,tps,tps00125,"Death due to accidents, by sex"
+300,tps,tps00128,"Death due to pneumonia, by sex"
+300,tps,tps00131,"Death due to chronic liver disease, by sex"
+300,tps,tps00134,"Death due to diseases of the nervous system, by sex"
+300,tps,tps00137,"Death due to diabetes mellitus, by sex"
+300,tps,tps00140,"Death due to alcoholic abuse, by sex"
+300,tps,tps00143,"Death due to AIDS (HIV-disease), by sex"
+300,tps,tps00146,"Death due to homicide, assault, by sex"
+300,tps,tps00149,"Death due to drugs dependence, by sex"
+300,tps,tps00150,Healthy life years at birth by sex
+300,tps,tps00151,"At-risk-of-poverty-rate, by highest level of education attained"
+300,tps,tps00152,"Causes of death, by sex"
+300,tps,tps00155,Minimum wages
+300,tps,tps00157,Population without the citizenship of the reporting country
+300,tps,tps00159,Persons employed part-time -
+300,tps,tps00165,"Death due to transport accidents, by sex"
+300,tps,tps00167,Licensed physicians
+300,tps,tps00170,First permits by reason
+300,tps,tps00171,All valid permits by reason on 31 December of each year
+300,tps,tps00172,"Job vacancies in number and % - NACE Rev. 2, B-S, quarterly data"
+300,tps,tps00173,Labour costs annual data - NACE Rev. 2
+300,tps,tps00175,"Average gross annual earnings in industry and services, by sex"
+300,tps,tps00176,Immigration
+300,tps,tps00177,Emigration
+300,tps,tps00178,Foreign-born population
+300,tps,tps00181,Jobless households - children
+300,tps,tps00182,Jobless households by sex
+300,tps,tps00184,At-risk-of-poverty rate after social transfers by sex
+300,tps,tps00185,Formal child care by duration and age group
+300,tps,tps00186,"At least upper secondary educational attainment, age group 20-24 by sex"
+300,tps,tps00189,Asylum applicants by type - monthly data
+300,tps,tps00190,Persons subject of asylum applications pending at the end of the month - monthly data
+300,tps,tps00191,Asylum applicants by type - annual aggregated data
+300,tps,tps00192,First instance decisions on asylum applications by type of decision - annual aggregated data
+300,tps,tps00193,Final decisions on asylum applicationsby type of decision - annual data
+300,tps,tps00194,Asylum applicants considered to be unaccompanied minors - annual data
+300,tps,tps00195,Resettled persons - annual data
+300,tps,tps00197,At most lower secondary educational attainment by age
+300,tps,tps00198,Old-age-dependency ratio
+300,tps,tps00199,fertility rate
+300,tps,tps00202,Suicide death rate by age group
+300,tps,tps00203,unemployment rate
+300,tps,tps00204,Live births and crude birth rate
+300,tps,tps00205,Life expectancy at birth by sex
+300,tps,tps00206,Crude marriage rate
+300,tps,tps00208,Life expectancy at birth by sex
+300,tps,tps00215,Exposure of VET graduates to work-based learning
+300,tps,tps00216,Crude divorce rate
+300,tps,tps00217,Female tertiary education graduates in STEM education fields - % of all tertiary education graduates in STEM education fields
+301,tqoe,tqoe3a5,Employed persons having more than one job by sex
+301,tqoe,tqoe3b4,Employees with a flexible work schedule by sex
+301,tqoe,tqoe4a3,Employed persons being self-employed without employees by sex
+302,tran,tran_hv_frmod,Modal split of inland freight transport
+302,tran,tran_hv_frtra,Volume of freight transport relative to GDP
+302,tran,tran_hv_pstra,Volume of passenger transport relative to GDP
+302,tran,tran_im_mosp,Modal shift potential of long-distance road freight in containers - tonne-kilometre
+302,tran,tran_im_mospt,Modal shift potential of long-distance road freight in containers - tonne
+302,tran,tran_im_uiww,Unitisation in inland waterways freight transport - tonne-kilometre for gross-gross weight of goods
+302,tran,tran_im_umar,Unitisation in maritime freight transport - tonnes for gross weight of goods
+302,tran,tran_im_umod,Unitisation in the different modes of transport - tonne-kilometre for gross weight of goods
+302,tran,tran_im_urail,Unitisation in rail freight transport- tonne-kilometre for gross-gross weight of goods
+302,tran,tran_im_uroad,Unitisation in road freight transport - tonne-kilometre for gross weight of goods
+302,tran,tran_sf_marv,Maritime accident victims by sea basin of occurrence and country of registration of vessels
+302,tran,tran_sf_marves,"Maritime accident victims by sea basin of occurrence, country of registration of vessels and type of vessels"
+302,tran,tran_sf_railac,Rail accidents by type of accident
+302,tran,tran_sf_raildg,Rail accidents involving the transport of dangerous goods
+302,tran,tran_sf_railsu,Suicides involving railways
+302,tran,tran_sf_roadro,Persons killed in road accidents by type of road
+303,tran_hv,tran_hv_ms_frmod,"Modal split of air, sea and inland freight transport"
+303,tran_hv,tran_hv_ms_psmod,"Modal split of air, sea and inland passenger transport"
+304,trng_aes,trng_aes_186,Effect of the search for information on learning possibilities
+304,trng_aes,trng_aes_187,Sources of information used for getting information on learning possibilities
+305,trng_any,trng_any3,Participation in any learning activities by degree of urbanisation
+305,trng_any,trng_any4,Participation in any learning activities by NACE Rev. 1.1 activity
+305,trng_any,trng_any5,Participation in any learning activities by size of the local unit
+306,trng_cvt,trng_cvt_12s,Participants in CVT courses by sex and size class - % of persons employed in all enterprises
+306,trng_cvt,trng_cvt_13s,Participants in CVT courses by sex and size class - % of persons employed in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_21n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per 1000 hours worked in all enterprises
+306,trng_cvt,trng_cvt_21n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per 1000 hours worked in all enterprises
+306,trng_cvt,trng_cvt_21s,Hours spent in CVT courses by size class - hours per 1000 hours worked in all enterprises
+306,trng_cvt,trng_cvt_22n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per 1000 hours worked in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_22n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per 1000 hours worked in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_22s,Hours spent in CVT courses by size class - hours per 1000 hours worked in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_23n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per person employed in all enterprises
+306,trng_cvt,trng_cvt_23n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per person employed in all enterprises
+306,trng_cvt,trng_cvt_23s,Hours spent in CVT courses by size class - hours per person employed in all enterprises
+306,trng_cvt,trng_cvt_24n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per person employed in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_24n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per person employed in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_24s,Hours spent in CVT courses by size class - hours per person employed in enterprises providing CVT courses
+306,trng_cvt,trng_cvt_25n1,Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per participant
+306,trng_cvt,trng_cvt_25n2,Hours spent in CVT courses by NACE Rev. 2 activity - hours per participant
+306,trng_cvt,trng_cvt_25s,Hours spent in CVT courses by size class - hours per participant
+306,trng_cvt,trng_cvt_26n1,Hours spent in CVT courses by type of course and NACE Rev. 1.1 activity - % of total hours spent in CVT courses
+306,trng_cvt,trng_cvt_34n1,Enterprises employing IVT participants by NACE Rev. 1.1 activity - % of all enterprises
+306,trng_cvt,trng_cvt_34n2,Enterprises employing IVT participants by NACE Rev. 2 activity - % of all enterprises
+306,trng_cvt,trng_cvt_34s,Enterprises employing IVT participants by size class - % of all enterprises
+307,trng_fed,trng_fed3,Participation in formal education by degree of urbanisation
+308,trng_inf,trng_inf3,Participation in informal learning by degree of urbanisation
+309,trng_lfs,trng_lfs_02$dv_2221,"Participation rate in education and training (last 4 weeks) by sex, age and educational attainment level"
+310,trng_nfe,trng_nfe13,Mean instruction hours per employed participant in non-formal education and training by sex and NACE Rev. 1.1 activity
+310,trng_nfe,trng_nfe14,Mean instruction hours per participant in non-formal education and training by sex and age
+310,trng_nfe,trng_nfe15,Mean instruction hours per participant in non-formal education and training by sex and labour status
+310,trng_nfe,trng_nfe16,Mean instruction hours per employed participant in non-formal education and training by sex and occupation
+310,trng_nfe,trng_nfe18,Mean instruction hours per participant in non-formal education and training by field of learning
+310,trng_nfe,trng_nfe2,Participation in non-formal education and training by number of activities
+310,trng_nfe,trng_nfe4,Participation in non-formal education and training by degree of urbanisation
+310,trng_nfe,trng_nfe5,Participation in job-related non-formal education and training by size of the local unit
+310,trng_nfe,trng_nfe6,Participation in non-formal education and training by main reason for participating in the taught activity
+310,trng_nfe,trng_nfe7,Participation in non-formal education and training within (or not) paid working hours
+311,tsc,tsc00001,"Research and development expenditure, by sectors of performance"
+311,tsc,tsc00003,researchers by sectors of performance - head count
+311,tsc,tsc00005,"Share of women researchers, by sectors of performance"
+311,tsc,tsc00006,"Share of women researchers, all sectors"
+311,tsc,tsc00007,Share of government budget appropriations or outlays on research and development
+311,tsc,tsc00008,Share of GBAORD allocated to defence and total civil socio-economic objectives
+311,tsc,tsc00011,Employment in high- and medium-high technology manufacturing sectors and knowledge-intensive service sectors
+311,tsc,tsc00025,Human resources in science and technology (HRST)
+311,tsc,tsc00031,Intramural R&D expenditure (GERD) by source of funds
+312,ttr,ttr00001,Volume of passenger transport relative to GDP
+312,ttr,ttr00002,length of motorways
+312,ttr,ttr00003,length of railway lines
+312,ttr,ttr00005,Goods transport by road
+312,ttr,ttr00006,Goods transport by rail
+312,ttr,ttr00007,Goods transport by inland waterways
+312,ttr,ttr00009,Sea transport of goods
+312,ttr,ttr00011,Air transport of goods by country (yearly data)
+312,ttr,ttr00012,Air transport of passengers by country (yearly data)
+312,ttr,ttr00015,Rail transport of passengers
+312,ttr,ttr00016,Air transport of passengers by country and type of transport (monthly data)
+313,tus,tus_00alone,Time spent alone
+313,tus,tus_00educ$dv_571,"Time spent, participation time and participation rate in the main activity by sex and educational attainment level"
+313,tus,tus_00meal,Time spent on eating at home (as main or secondary activity)
+313,tus,tus_00npaycare,Time spent providing childcare (as main or secondary activity)
+313,tus,tus_00npaywork,Time spent in unpaid forms of work (as main or secondary activity) by sex and by form of work
+313,tus,tus_00screen,"Time spent watching or other media, playing computer games and any similar screen activities (as main or secondary activity)"
+313,tus,tus_00simuact,Time spent doing more than one activity simultaneously
+313,tus,tus_00travel,Time spent on travelling by mode of transport
+313,tus,tus_00work$dv_671,Time spent in total work (paid and unpaid work as main or secondary activity) by sex and by form of work
+314,urt,urt_10r_3gdp$dv_1584,Gross domestic product (GDP) at current market prices by other typologies
+314,urt,urt_ipr_da,Community design applications by other typologies
+314,urt,urt_ipr_dapop,Community design applications per million population by other typologies
+314,urt,urt_ipr_dfa,Community designs by other typologies
+314,urt,urt_ipr_dfapop,Community designs per million population by other typologies
+314,urt,urt_ipr_dr,Registered Community designs (RCD) by other typologies
+315,urt_lfe,urt_lfe3emprt$dv_1586,"Employment rates by sex, age and other typologies"
+316,vit_bs,vit_bs4_cy,Area under wine-grape vine varieties broken down by vine variety and by age of the vines -
+316,vit_bs,vit_bs4_lu,Area under wine-grape vine varieties broken down by vine variety and by age of the vines -
+317,yth_demo,yth_demo_030,Estimated average age of young people leaving the parental household by sex
+318,yth_educ,yth_educ_020,Population aged 30-34 with tertiary educational attainment level by sex
+318,yth_educ,yth_educ_030,Young people aged 20-24 with at least upper secondary educational attainment level by sex

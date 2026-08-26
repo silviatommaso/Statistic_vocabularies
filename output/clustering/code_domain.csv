@@ -9,9 +9,6 @@ Environment & Natural Resources and Production,apro_ec_lshen,Laying hens populat
 Environment & Natural Resources and Production,apro_mk_fatprot,Fat contents and protein contents (cow's milk) - annual data
 Environment & Natural Resources and Production,apro_mt_lsequi,Equidae - annual data
 Environment & Natural Resources and Production,apro_mt_ppighq,Production forecasts for pigs – thousand heads – quarterly data
-Environment & Natural Resources and Production,cei_cie011,Persons employed in circular economy sectors
-Environment & Natural Resources and Production,cei_cie012,Private investment and gross added value related to circular economy sectors
-Environment & Natural Resources and Production,cei_cie020,Patents related to recycling and secondary raw materials
 Environment & Natural Resources and Production,cei_gsr011,Greenhouse gases emissions from production activities
 Environment & Natural Resources and Production,cei_gsr020,self-sufficiency for raw materials
 Environment & Natural Resources and Production,cei_gsr030,Material import dependency
@@ -140,6 +137,47 @@ Environment & Natural Resources and Production,org_aprod_h,Organic production of
 Environment & Natural Resources and Production,org_aqtspec,Organic production of aquaculture products
 Environment & Natural Resources and Production,org_cpreact_h,Processors of organic products by NACE Rev. 2 activity (C)
 Environment & Natural Resources and Production,org_cropar_h2,Share of organic crop area out of the total utilised agricultural area (UAA) (until
+Environment & Natural Resources and Production,pipe_ec_employ,Persons employed in oil pipeline enterprises by sex
+Environment & Natural Resources and Production,pipe_ec_ent,Oil pipeline enterprises
+Environment & Natural Resources and Production,pipe_ec_invest,Investment and maintenance in oil pipeline infrastructure
+Environment & Natural Resources and Production,pipe_if_capac,Carrying capacity of pipelines operated
+Environment & Natural Resources and Production,pipe_if_lenght,Length of pipelines operated
+Environment & Natural Resources and Production,sdg_02_10,Obesity rate by body mass index (BMI)
+Environment & Natural Resources and Production,sdg_02_20,Agricultural real factor income per annual work unit (AWU)
+Environment & Natural Resources and Production,sdg_02_30,Government support to agricultural research and development
+Environment & Natural Resources and Production,sdg_02_40,Area under organic farming
+Environment & Natural Resources and Production,sdg_02_53,Use and risk of chemical pesticides
+Environment & Natural Resources and Production,sdg_02_60,Ammonia emissions from agriculture
+Environment & Natural Resources and Production,sdg_06_10,"Population having neither a bath, nor a shower, nor indoor flushing toilet in their household by poverty status"
+Environment & Natural Resources and Production,sdg_06_20,Population connected to at least secondary wastewater treatment
+Environment & Natural Resources and Production,sdg_06_30,Biochemical oxygen demand in rivers
+Environment & Natural Resources and Production,sdg_06_40,Nitrate in groundwater
+Environment & Natural Resources and Production,sdg_06_50,Phosphate in rivers
+Environment & Natural Resources and Production,sdg_06_60,"Water exploitation index, plus (WEI+)"
+Environment & Natural Resources and Production,sdg_07_10,Primary energy consumption
+Environment & Natural Resources and Production,sdg_07_11,Final energy consumption
+Environment & Natural Resources and Production,sdg_07_20,Final energy consumption in households per capita
+Environment & Natural Resources and Production,sdg_07_30,Energy productivity
+Environment & Natural Resources and Production,sdg_07_40,Share of renewable energy in gross final energy consumption by sector
+Environment & Natural Resources and Production,sdg_07_50,Energy import dependency by products
+Environment & Natural Resources and Production,sdg_07_60,Population unable to keep home adequately warm by poverty status
+Environment & Natural Resources and Production,sdg_12_10,Consumption of chemicals by hazardousness - aggregate
+Environment & Natural Resources and Production,sdg_12_21,Raw material consumption (RMC)
+Environment & Natural Resources and Production,sdg_12_31,Consumption footprint – single weighted score
+Environment & Natural Resources and Production,sdg_12_51,Generation of waste by hazardousness
+Environment & Natural Resources and Production,sdg_12_61,Gross value added in environmental goods and services sector
+Environment & Natural Resources and Production,sdg_14_10,Surface of the marine protected areas
+Environment & Natural Resources and Production,sdg_14_21,"Estimated trends in fish stock biomass, by fishing areas"
+Environment & Natural Resources and Production,sdg_14_30,"Estimated trends in fishing pressure, by fishing area"
+Environment & Natural Resources and Production,sdg_14_40,Bathing sites with excellent water quality by location
+Environment & Natural Resources and Production,sdg_14_50,Global mean surface seawater acidity
+Environment & Natural Resources and Production,sdg_14_60,Marine waters affected by eutrophication
+Environment & Natural Resources and Production,sdg_15_10,Share of forest area
+Environment & Natural Resources and Production,sdg_15_20,Surface of the terrestrial protected areas
+Environment & Natural Resources and Production,sdg_15_42,Drought impact area on ecosystems
+Environment & Natural Resources and Production,sdg_15_50,Area at risk of severe soil erosion by water
+Environment & Natural Resources and Production,sdg_15_60,Common bird index by type of species - aggregate
+Environment & Natural Resources and Production,sdg_15_61,Grassland butterfly index - aggregate
 Environment & Natural Resources and Production,tag00001,Agricultural holdings by agricultural area
 Environment & Natural Resources and Production,tag00007,Agricultural holdings by crops
 Environment & Natural Resources and Production,tag00014,Number of dairy cows
@@ -316,6 +354,8 @@ Health & Safety,hlth_ehis_al3e$dv_450,"Frequency of heavy episodic drinking by s
 Health & Safety,hlth_ehis_al3i$dv_461,"Frequency of heavy episodic drinking by sex, age and income quintile"
 Health & Safety,hlth_ehis_am7sa,Self-reported use of home care services by people with severe difficulty in personal care activities by sex and age
 Health & Safety,hlth_ehis_am7sh,Self-reported use of home care services by people with severe difficulty in personal care activities by age and household type
+Health & Safety,hlth_ehis_fv3e$dv_1143,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
+Health & Safety,hlth_ehis_fv3e$dv_462,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
 Health & Safety,hlth_ehis_hc2,Self-reported breast examination by X-ray by educational attainment level among women aged 50-69 (%)
 Health & Safety,hlth_ehis_hc3,Self-reported cervical smear test by educational attainment level among women aged 20-69 (%)
 Health & Safety,hlth_ehis_mh1e$dv_463,"Current depressive symptoms by sex, age and educational attainment level"
@@ -341,8 +381,6 @@ Health & Safety,hlth_sha11_hf$dv_2826,Health care expenditure by financing schem
 Health & Safety,hlth_silc_08$dv_1146,"Self-reported unmet needs for medical examination by sex, age, main reason declared and income quintile"
 Health & Safety,hlth_silc_08b_r,"Self-reported unmet needs for medical examination due to financial reasons, long waiting list or distance by NUTS regions - % of the persons having the same needs"
 Health & Safety,hlth_silc_11$dv_1148,"People having a long-standing illness or health problem, by sex, age and income quintile"
-Health & Safety,hsw_ac4,Persons reporting a road traffic accident
-Health & Safety,hsw_ac8$dv_386,"Persons reporting an accident at work by sex, age and professional status"
 Health & Safety,hsw_aw_inasz,Standardised incidence rate of accidents at work by NACE Rev. 1.1 activity and size of enterprise
 Health & Safety,hsw_aw_inaws,Standardised incidence rate of accidents at work by NACE Rev. 1.1 activity and employment status
 Health & Safety,hsw_aw_nbosv,Number of accidents at work by part of body injured and severity
@@ -361,7 +399,26 @@ Health & Safety,hsw_ij_svsha,"Relative incidence rate of accidental injuries at 
 Health & Safety,hsw_ind,Indicators on health and safety at work
 Health & Safety,hsw_occ_cnr,Recognised cases of occupational cancers - experimental statistics
 Health & Safety,hsw_occ_ina,index of occupational diseases – experimental statistics
+Health & Safety,ilc_hch15,Children with unmet needs for medical examination or treatment by specific reason
+Health & Safety,ilc_hch16$dv_2262,"Persons reporting basic activity difficulty by sex, age, level of difficulty and educational attainment level"
+Health & Safety,ilc_hch17$dv_2261,"Persons reporting basic activity difficulty by sex, age, level of difficulty and income quintile"
+Health & Safety,ilc_hch18$dv_2263,"Persons reporting basic activity difficulty by sex, age, level of difficulty and degree of urbanization"
+Health & Safety,ilc_hch19$dv_2264,"Persons reporting basic activity difficulty by sex, age, level of difficulty, type of basic action and risk of poverty threshold"
 Health & Safety,ilc_lk11,Self defined health status by age and income quantile - ECHP survey
+Health & Safety,sdg_03_11,Healthy life years at birth by sex
+Health & Safety,sdg_03_20,Share of people with good or very good perceived health by sex
+Health & Safety,sdg_03_30,Smoking prevalence by sex
+Health & Safety,sdg_03_41,"Standardised death rate due to tuberculosis, HIV and hepatitis by type of disease"
+Health & Safety,sdg_03_42,Standardised preventable and treatable mortality
+Health & Safety,sdg_03_60,Self-reported unmet need for medical examination and care by sex
+Health & Safety,sdg_03_70,Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
+Health & Safety,sdg_16_10,Standardised death rate due to homicide by sex
+Health & Safety,sdg_16_20,"Population reporting occurrence of crime, violence or vandalism in their area by poverty status"
+Health & Safety,sdg_16_30,General government total expenditure on law courts
+Health & Safety,sdg_16_40,Perceived independence of the justice system
+Health & Safety,sdg_16_50,Corruption Perceptions Index
+Health & Safety,sdg_16_60,Population with confidence in institutions by institution
+Health & Safety,sdg_16_70,Victims of trafficking in human beings by sex
 Learning & Education,educ_fiaid,Financial aid to students
 Learning & Education,educ_fiexpc,Expenditure on education in constant prices
 Learning & Education,educ_ipart$dv_437,Participation/ enrolment in education (ISCED 0-4)
@@ -402,8 +459,15 @@ Learning & Education,enpe_edat_lfse_14,Early leavers from education and training
 Learning & Education,enpe_educ_uoe_enra02,Pupils and students enrolled by education level
 Learning & Education,enps_edat_lfse3,Population aged 20-24 who completed at least an upper secondary educational attainment level (ISCED level 3) by sex
 Learning & Education,enps_edat_lfse4,Population aged 25 and over by sex and educational attainment level
+Learning & Education,isoc_sk_cskl_i$dv_266,Individuals' level of computer skills (until
+Learning & Education,isoc_sk_dskl_i$dv_317,Individuals' level of digital skills (until
 Learning & Education,lfst_r_edatd_16,Regional disparities in the rate of early leavers from education and training (NUTS level 2)
 Learning & Education,lfst_r_edatd_22,Regional disparities in the rate of young people neither in employment nor in education and training (NEET) (NUTS level 2)
+Learning & Education,sdg_04_10,Early leavers from education and training by sex
+Learning & Education,sdg_04_10a,"Early leavers from education and training, by citizenship"
+Learning & Education,sdg_04_20,Tertiary educational attainment by sex
+Learning & Education,sdg_04_40,"Low achieving 15-year-olds in reading, mathematics or science"
+Learning & Education,sdg_04_60,Adult participation in learning in the past four weeks by sex
 Learning & Education,trng_aes_186,Effect of the search for information on learning possibilities
 Learning & Education,trng_aes_187,Sources of information used for getting information on learning possibilities
 Learning & Education,trng_cvt_12s,Participants in CVT courses by sex and size class - % of persons employed in all enterprises
@@ -440,16 +504,6 @@ Living Well,enps_tour_cap_natb,Number of bed places in hotels and similar accomm
 Living Well,enps_tour_dem_tttot,Departures of residents going abroad for all holidays and business
 Living Well,enps_tour_occ_arnat,Arrivals at tourism accommodation establishments by type of accommodation
 Living Well,enps_tour_occ_ninat,Nights spent at tourism accommodation establishments
-Living Well,ilc_pw01$dv_2761,"Overall life satisfaction by sex, age and educational attainment"
-Living Well,ilc_pw01b$dv_2749,"Life satisfaction by sex, age, educational attainment and domain"
-Living Well,ilc_pw01b$dv_2751,"Life satisfaction by sex, age, educational attainment and domain"
-Living Well,ilc_pw01b$dv_2781,"Life satisfaction by sex, age, educational attainment and domain"
-Living Well,ilc_pw03$dv_2762,"Trust in others by sex, age and educational attainment"
-Living Well,ilc_pw05b$dv_2766,"Persons rating their life satisfaction as high, medium or low by sex, age, educational attainment and domain"
-Living Well,ilc_pw08$dv_426,"Persons being happy in the last 4 weeks by sex, age, educational attainment and frequency"
-Living Well,ilc_pw12$dv_2547,"Persons feeling left out from society by sex, age and level of disability (activity limitation)"
-Living Well,ilc_pw14,Satisfaction with the job by risk of poverty threshold and level of disability (activity limitation)
-Living Well,ilc_pw15$dv_2750,"Satisfaction with the job by sex, age and educational attainment"
 Living Well,ilc_scp01$dv_1061,"Persons participating in any cultural or sport activities in the last 12 months by sex, age and educational attainment"
 Living Well,ilc_scp03$dv_1062,"Persons participating in cultural or sport activities in the last 12 months by sex, age, educational attainment, activity type and frequency"
 Living Well,ilc_scp03$dv_552,"Persons participating in cultural or sport activities in the last 12 months by sex, age, educational attainment, activity type and frequency"
@@ -497,6 +551,9 @@ Money & Markets,bs_bs7_00,Turnover by nationality of client and NACE Rev.1 at 3-
 Money & Markets,bs_bs7_04,Number of enterprises carrying out cross border trade by reasons for cross border trade and employment size class
 Money & Markets,bs_bs8_00,Turnover by nationality of client and employment size class
 Money & Markets,bs_bs9_00,Turnover by client specialisation and NACE Rev.1 at 3-digit level
+Money & Markets,cei_cie011,Persons employed in circular economy sectors
+Money & Markets,cei_cie012,Private investment and gross added value related to circular economy sectors
+Money & Markets,cei_cie020,Patents related to recycling and secondary raw materials
 Money & Markets,egi_em1,Employment in Foreign Controlled Enterprises
 Money & Markets,egi_em2,Employment in Foreign Affiliates of Domestic Enterprises
 Money & Markets,egi_em3,Share of employment in Member States supported by exports (FIGARO application)
@@ -566,7 +623,17 @@ Money & Markets,gov_eu_fa,Financial accounts for institutions
 Money & Markets,gov_eu_nfa,Non-financial accounts for institutions
 Money & Markets,gov_gb,"Stock of general government debt security liabilities issued as 'green bonds' - one-off data collection, experimental statistics"
 Money & Markets,htec_si_exp4,High-tech exports - Exports of high technology products as a share of total exports (from SITC Rev. 4)
-Money & Markets,icw_pov_03,Proportion of dissaving households - experimental statistics
+Money & Markets,ipr_da_gdp,Community design applications per billion GDP
+Money & Markets,ipr_da_pop,Community design applications per million population
+Money & Markets,ipr_da_tot,Community design applications
+Money & Markets,ipr_da_typ,Community design applications by type of design
+Money & Markets,ipr_dfa_tot,Community designs filed
+Money & Markets,ipr_dr_tot,Registered Community designs (RCD)
+Money & Markets,ipr_ta_gdp,European Union trade mark (EUTM) applications per billion GDP
+Money & Markets,ipr_ta_ntr,European Union trade mark (EUTM) applications by nature of the trade mark
+Money & Markets,ipr_ta_pop,European Union trade mark (EUTM) applications per million population
+Money & Markets,ipr_ta_tot,European Union trade mark (EUTM) applications
+Money & Markets,ipr_ta_typ,European Union trade mark (EUTM) applications by type of the trade mark
 Money & Markets,irt_h_cgby_a,Central government bond yields - annual data
 Money & Markets,irt_h_cgby_m,Central government bond yields - monthly data
 Money & Markets,irt_h_cgby_q,Central government bond yields - quarterly data
@@ -610,11 +677,6 @@ Money & Markets,nama_10r_3empers$dv_1564,Employment (thousand persons) by NUTS 3
 Money & Markets,nama_10r_3gdp$dv_1562,Gross domestic product (GDP) at current market prices by NUTS 3 regions
 Money & Markets,nama_10r_3gva$dv_1563,Gross value added at basic prices by NUTS 3 regions
 Money & Markets,nrg_ind_id3cf,Import dependency on third countries by fuel type
-Money & Markets,pipe_ec_employ,Persons employed in oil pipeline enterprises by sex
-Money & Markets,pipe_ec_ent,Oil pipeline enterprises
-Money & Markets,pipe_ec_invest,Investment and maintenance in oil pipeline infrastructure
-Money & Markets,pipe_if_capac,Carrying capacity of pipelines operated
-Money & Markets,pipe_if_lenght,Length of pipelines operated
 Money & Markets,prc_colc_ext,Correction coefficients outside the European Union (Duty stations) - index (Brussels = 100)
 Money & Markets,prc_colc_nat,Correction coefficients in the European Union (Countries) - index = 100)
 Money & Markets,prc_colc_pppnat,Purchasing Power Parities in the European Union (Countries) - index = 1)
@@ -645,6 +707,17 @@ Money & Markets,sbs_pen_7b2,Autonomous pension funds - number of enterprises by 
 Money & Markets,sbs_pen_7c,Autonomous pension funds - total investments by currencies
 Money & Markets,sbs_pen_7e,Non-autonomous pension funds
 Money & Markets,sbs_pen_enteea,Enterprises with members in other countries
+Money & Markets,sdg_13_31,Average CO2 emissions per km from new passenger cars (source: DG CLIMA) - HIDDEN DAT
+Money & Markets,sdg_13_40,Climate related economic losses – values at constant prices
+Money & Markets,sdg_13_50,Contribution to the international 100bn USD commitment on climate related expending
+Money & Markets,sdg_13_60,Population covered by the Covenant of Mayors for Climate & Energy signatories
+Money & Markets,sdg_13_70,Green bond issuance by type of issuer
+Money & Markets,sdg_13_70a,Green bond issuance by corporates and governments
+Money & Markets,sdg_17_10,Official development assistance as share of gross national income
+Money & Markets,sdg_17_20,financing to developing countries by financing source
+Money & Markets,sdg_17_40,General government gross debt
+Money & Markets,sdg_17_50,Share of environmental taxes in total tax revenues
+Money & Markets,sdg_17_60,"High-speed internet coverage, by type of area"
 Money & Markets,sts_tot_prod_a,Market production - annual data
 Money & Markets,tec00001,Gross domestic product at market prices
 Money & Markets,tec00009,Final consumption expenditure of households and non-profit institutions serving households
@@ -901,12 +974,17 @@ Money & Markets,tipspd24,"Private sector debt: debt securities, by sectors, cons
 Money & Markets,tipspd25,"Private sector debt: loans, by sectors, consolidated - % of GDP"
 Money & Markets,tipspd26,"Private sector debt: loans, by sectors, consolidated - million units of national currency"
 Money & Markets,tipspd30,"Non-financial corporations debt - consolidated, % of GDP"
+Money & Markets,trng_any3,Participation in any learning activities by degree of urbanisation
+Money & Markets,trng_any4,Participation in any learning activities by NACE Rev. 1.1 activity
+Money & Markets,trng_any5,Participation in any learning activities by size of the local unit
 Money & Markets,urt_10r_3gdp$dv_1584,Gross domestic product (GDP) at current market prices by other typologies
 Money & Markets,urt_ipr_da,Community design applications by other typologies
 Money & Markets,urt_ipr_dapop,Community design applications per million population by other typologies
 Money & Markets,urt_ipr_dfa,Community designs by other typologies
 Money & Markets,urt_ipr_dfapop,Community designs per million population by other typologies
 Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologies
+"People, Work & Living Conditions",avia_ec_emp_arp,Persons employed in main airports by sex
+"People, Work & Living Conditions",avia_ec_emp_ent,Persons employed in aviation and airport enterprises by sex
 "People, Work & Living Conditions",cens_01ndbuild,"Dwellings by type of ownership, type of building and occupancy status"
 "People, Work & Living Conditions",cens_01ndcomf,Occupied conventional dwellings by presence of comfort characteristics
 "People, Work & Living Conditions",cens_01ndquart_hd,Private households by type of housing
@@ -1003,8 +1081,6 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",hlth_dhc140$dv_2681,"Inability to keep home adequately warm by level of disability (activity limitation), sex and age"
 "People, Work & Living Conditions",hlth_ehis_bm1e$dv_309,"Body mass index (BMI) by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_bm1i$dv_306,"Body mass index (BMI) by sex, age and income quintile"
-"People, Work & Living Conditions",hlth_ehis_fv3e$dv_1143,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
-"People, Work & Living Conditions",hlth_ehis_fv3e$dv_462,"Daily consumption of fruit and vegetables by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_sk3e$dv_1127,"Daily smokers of cigarettes by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_sk3e$dv_298,"Daily smokers of cigarettes by sex, age and educational attainment level"
 "People, Work & Living Conditions",hlth_ehis_sk3i$dv_1141,"Daily smokers of cigarettes by sex, age and income quintile"
@@ -1012,6 +1088,7 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",icw_car_01,Distribution of households by age of the reference person - experimental statistics
 "People, Work & Living Conditions",icw_car_02,Distribution of households by household type - experimental statistics
 "People, Work & Living Conditions",icw_car_04,Distribution of households by activity status of the reference person - experimental statistics
+"People, Work & Living Conditions",icw_pov_03,Proportion of dissaving households - experimental statistics
 "People, Work & Living Conditions",icw_sr_02,Median saving rate by household type - experimental statistics
 "People, Work & Living Conditions",icw_sr_03,Median saving rate by income quintile - experimental statistics
 "People, Work & Living Conditions",icw_sr_05,Gini coefficient on household population - experimental statistics
@@ -1043,11 +1120,6 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",ilc_di12b,Gini coefficient of equivalised disposable income before social transfers (pensions included in social transfers)
 "People, Work & Living Conditions",ilc_di12c,Gini coefficient of equivalised disposable income before social transfers (pensions excluded from social transfers)
 "People, Work & Living Conditions",ilc_di18,Income in real terms SILC=100)
-"People, Work & Living Conditions",ilc_hch15,Children with unmet needs for medical examination or treatment by specific reason
-"People, Work & Living Conditions",ilc_hch16$dv_2262,"Persons reporting basic activity difficulty by sex, age, level of difficulty and educational attainment level"
-"People, Work & Living Conditions",ilc_hch17$dv_2261,"Persons reporting basic activity difficulty by sex, age, level of difficulty and income quintile"
-"People, Work & Living Conditions",ilc_hch18$dv_2263,"Persons reporting basic activity difficulty by sex, age, level of difficulty and degree of urbanization"
-"People, Work & Living Conditions",ilc_hch19$dv_2264,"Persons reporting basic activity difficulty by sex, age, level of difficulty, type of basic action and risk of poverty threshold"
 "People, Work & Living Conditions",ilc_igtp03,At-risk-of poverty rate for adults (aged 25 to 59 years) by educational attainment level of their parents
 "People, Work & Living Conditions",ilc_igtp04,At-risk-of poverty rate for adults (aged 25 to 59 years) by level of financial situation of their households when respondent was around 14 years old
 "People, Work & Living Conditions",ilc_iw02$dv_2665,In-work at-risk-of-poverty rate by household type - EU-SILC survey
@@ -1146,6 +1218,16 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",ilc_pns2,Relative median income ratio (60+) - EU-SILC survey
 "People, Work & Living Conditions",ilc_pns4,Inequality of income distribution S80/S20 income quintile share ratio - EU-SILC and ECHP surveys
 "People, Work & Living Conditions",ilc_pns5,Relative median at-risk-of-poverty gap of elderly people - EU-SILC and ECHP surveys
+"People, Work & Living Conditions",ilc_pw01$dv_2761,"Overall life satisfaction by sex, age and educational attainment"
+"People, Work & Living Conditions",ilc_pw01b$dv_2749,"Life satisfaction by sex, age, educational attainment and domain"
+"People, Work & Living Conditions",ilc_pw01b$dv_2751,"Life satisfaction by sex, age, educational attainment and domain"
+"People, Work & Living Conditions",ilc_pw01b$dv_2781,"Life satisfaction by sex, age, educational attainment and domain"
+"People, Work & Living Conditions",ilc_pw03$dv_2762,"Trust in others by sex, age and educational attainment"
+"People, Work & Living Conditions",ilc_pw05b$dv_2766,"Persons rating their life satisfaction as high, medium or low by sex, age, educational attainment and domain"
+"People, Work & Living Conditions",ilc_pw08$dv_426,"Persons being happy in the last 4 weeks by sex, age, educational attainment and frequency"
+"People, Work & Living Conditions",ilc_pw12$dv_2547,"Persons feeling left out from society by sex, age and level of disability (activity limitation)"
+"People, Work & Living Conditions",ilc_pw14,Satisfaction with the job by risk of poverty threshold and level of disability (activity limitation)
+"People, Work & Living Conditions",ilc_pw15$dv_2750,"Satisfaction with the job by sex, age and educational attainment"
 "People, Work & Living Conditions",ilc_sbjp02,Subjective poverty by educational attainment level (population aged 18 and over)
 "People, Work & Living Conditions",ilc_sbjp04,Subjective poverty by tenure status
 "People, Work & Living Conditions",ilc_sbjp05,Subjective poverty by degree of urbanization
@@ -1272,43 +1354,12 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",sdg_01_40,"Persons living in households with very low work intensity, by age group"
 "People, Work & Living Conditions",sdg_01_41,In work at-risk-of-poverty rate
 "People, Work & Living Conditions",sdg_01_50,Housing cost overburden rate by poverty status
-"People, Work & Living Conditions",sdg_02_10,Obesity rate by body mass index (BMI)
-"People, Work & Living Conditions",sdg_02_20,Agricultural real factor income per annual work unit (AWU)
-"People, Work & Living Conditions",sdg_02_30,Government support to agricultural research and development
-"People, Work & Living Conditions",sdg_02_40,Area under organic farming
-"People, Work & Living Conditions",sdg_02_53,Use and risk of chemical pesticides
-"People, Work & Living Conditions",sdg_02_60,Ammonia emissions from agriculture
-"People, Work & Living Conditions",sdg_03_11,Healthy life years at birth by sex
-"People, Work & Living Conditions",sdg_03_20,Share of people with good or very good perceived health by sex
-"People, Work & Living Conditions",sdg_03_30,Smoking prevalence by sex
-"People, Work & Living Conditions",sdg_03_41,"Standardised death rate due to tuberculosis, HIV and hepatitis by type of disease"
-"People, Work & Living Conditions",sdg_03_42,Standardised preventable and treatable mortality
-"People, Work & Living Conditions",sdg_03_60,Self-reported unmet need for medical examination and care by sex
-"People, Work & Living Conditions",sdg_03_70,Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
-"People, Work & Living Conditions",sdg_04_10,Early leavers from education and training by sex
-"People, Work & Living Conditions",sdg_04_10a,"Early leavers from education and training, by citizenship"
-"People, Work & Living Conditions",sdg_04_20,Tertiary educational attainment by sex
-"People, Work & Living Conditions",sdg_04_40,"Low achieving 15-year-olds in reading, mathematics or science"
-"People, Work & Living Conditions",sdg_04_60,Adult participation in learning in the past four weeks by sex
 "People, Work & Living Conditions",sdg_05_10,Physical and sexual violence to women by age group data)
 "People, Work & Living Conditions",sdg_05_20,Gender pay gap in unadjusted form
 "People, Work & Living Conditions",sdg_05_30,"Gender employment gap, by type of employment"
 "People, Work & Living Conditions",sdg_05_40,Persons outside the labour force due to caring responsibilities by sex
 "People, Work & Living Conditions",sdg_05_50,Seats held by women in national parliaments and governments
 "People, Work & Living Conditions",sdg_05_60,Positions held by women in senior management positions
-"People, Work & Living Conditions",sdg_06_10,"Population having neither a bath, nor a shower, nor indoor flushing toilet in their household by poverty status"
-"People, Work & Living Conditions",sdg_06_20,Population connected to at least secondary wastewater treatment
-"People, Work & Living Conditions",sdg_06_30,Biochemical oxygen demand in rivers
-"People, Work & Living Conditions",sdg_06_40,Nitrate in groundwater
-"People, Work & Living Conditions",sdg_06_50,Phosphate in rivers
-"People, Work & Living Conditions",sdg_06_60,"Water exploitation index, plus (WEI+)"
-"People, Work & Living Conditions",sdg_07_10,Primary energy consumption
-"People, Work & Living Conditions",sdg_07_11,Final energy consumption
-"People, Work & Living Conditions",sdg_07_20,Final energy consumption in households per capita
-"People, Work & Living Conditions",sdg_07_30,Energy productivity
-"People, Work & Living Conditions",sdg_07_40,Share of renewable energy in gross final energy consumption by sector
-"People, Work & Living Conditions",sdg_07_50,Energy import dependency by products
-"People, Work & Living Conditions",sdg_07_60,Population unable to keep home adequately warm by poverty status
 "People, Work & Living Conditions",sdg_08_10,Real GDP per capita
 "People, Work & Living Conditions",sdg_08_11,Investment share of GDP by institutional sectors
 "People, Work & Living Conditions",sdg_08_20,Young people neither in employment nor in education and training by sex (NEET)
@@ -1317,10 +1368,6 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",sdg_08_30a,"Employment rate, by citizenship"
 "People, Work & Living Conditions",sdg_08_40,Long-term unemployment rate by sex
 "People, Work & Living Conditions",sdg_08_60,"Fatal accidents at work per 100 000 workers, by sex"
-"People, Work & Living Conditions",sdg_09_40,Patent applications to the European Patent Office by applicants' / inventors' country of residence
-"People, Work & Living Conditions",sdg_09_50,Share of buses and trains in inland passenger transport
-"People, Work & Living Conditions",sdg_09_60,Share of rail and inland waterways in inland freight transport
-"People, Work & Living Conditions",sdg_09_70,Air emission intensity from industry
 "People, Work & Living Conditions",sdg_10_10,Purchasing power adjusted GDP per capita
 "People, Work & Living Conditions",sdg_10_20,Adjusted gross disposable income of households per capita
 "People, Work & Living Conditions",sdg_10_30,Relative median at-risk-of-poverty gap
@@ -1333,41 +1380,6 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",sdg_11_32,Soil sealing index
 "People, Work & Living Conditions",sdg_11_52,Premature deaths due to exposure to fine particulate matter (PM2.5)
 "People, Work & Living Conditions",sdg_11_60,Recycling rate of municipal waste
-"People, Work & Living Conditions",sdg_12_10,Consumption of chemicals by hazardousness - aggregate
-"People, Work & Living Conditions",sdg_12_21,Raw material consumption (RMC)
-"People, Work & Living Conditions",sdg_12_31,Consumption footprint – single weighted score
-"People, Work & Living Conditions",sdg_12_51,Generation of waste by hazardousness
-"People, Work & Living Conditions",sdg_12_61,Gross value added in environmental goods and services sector
-"People, Work & Living Conditions",sdg_13_31,Average CO2 emissions per km from new passenger cars (source: DG CLIMA) - HIDDEN DAT
-"People, Work & Living Conditions",sdg_13_40,Climate related economic losses – values at constant prices
-"People, Work & Living Conditions",sdg_13_50,Contribution to the international 100bn USD commitment on climate related expending
-"People, Work & Living Conditions",sdg_13_60,Population covered by the Covenant of Mayors for Climate & Energy signatories
-"People, Work & Living Conditions",sdg_13_70,Green bond issuance by type of issuer
-"People, Work & Living Conditions",sdg_13_70a,Green bond issuance by corporates and governments
-"People, Work & Living Conditions",sdg_14_10,Surface of the marine protected areas
-"People, Work & Living Conditions",sdg_14_21,"Estimated trends in fish stock biomass, by fishing areas"
-"People, Work & Living Conditions",sdg_14_30,"Estimated trends in fishing pressure, by fishing area"
-"People, Work & Living Conditions",sdg_14_40,Bathing sites with excellent water quality by location
-"People, Work & Living Conditions",sdg_14_50,Global mean surface seawater acidity
-"People, Work & Living Conditions",sdg_14_60,Marine waters affected by eutrophication
-"People, Work & Living Conditions",sdg_15_10,Share of forest area
-"People, Work & Living Conditions",sdg_15_20,Surface of the terrestrial protected areas
-"People, Work & Living Conditions",sdg_15_42,Drought impact area on ecosystems
-"People, Work & Living Conditions",sdg_15_50,Area at risk of severe soil erosion by water
-"People, Work & Living Conditions",sdg_15_60,Common bird index by type of species - aggregate
-"People, Work & Living Conditions",sdg_15_61,Grassland butterfly index - aggregate
-"People, Work & Living Conditions",sdg_16_10,Standardised death rate due to homicide by sex
-"People, Work & Living Conditions",sdg_16_20,"Population reporting occurrence of crime, violence or vandalism in their area by poverty status"
-"People, Work & Living Conditions",sdg_16_30,General government total expenditure on law courts
-"People, Work & Living Conditions",sdg_16_40,Perceived independence of the justice system
-"People, Work & Living Conditions",sdg_16_50,Corruption Perceptions Index
-"People, Work & Living Conditions",sdg_16_60,Population with confidence in institutions by institution
-"People, Work & Living Conditions",sdg_16_70,Victims of trafficking in human beings by sex
-"People, Work & Living Conditions",sdg_17_10,Official development assistance as share of gross national income
-"People, Work & Living Conditions",sdg_17_20,financing to developing countries by financing source
-"People, Work & Living Conditions",sdg_17_40,General government gross debt
-"People, Work & Living Conditions",sdg_17_50,Share of environmental taxes in total tax revenues
-"People, Work & Living Conditions",sdg_17_60,"High-speed internet coverage, by type of area"
 "People, Work & Living Conditions",spr_net_ben$dv_1622,Net social protection benefits
 "People, Work & Living Conditions",sprt_emp_age,Employment in sport by age
 "People, Work & Living Conditions",sprt_emp_sex,Employment in sport by sex
@@ -1603,9 +1615,6 @@ Money & Markets,urt_ipr_dr,Registered Community designs (RCD) by other typologie
 "People, Work & Living Conditions",tqoe3a5,Employed persons having more than one job by sex
 "People, Work & Living Conditions",tqoe3b4,Employees with a flexible work schedule by sex
 "People, Work & Living Conditions",tqoe4a3,Employed persons being self-employed without employees by sex
-"People, Work & Living Conditions",trng_any3,Participation in any learning activities by degree of urbanisation
-"People, Work & Living Conditions",trng_any4,Participation in any learning activities by NACE Rev. 1.1 activity
-"People, Work & Living Conditions",trng_any5,Participation in any learning activities by size of the local unit
 "People, Work & Living Conditions",trng_nfe13,Mean instruction hours per employed participant in non-formal education and training by sex and NACE Rev. 1.1 activity
 "People, Work & Living Conditions",trng_nfe14,Mean instruction hours per participant in non-formal education and training by sex and age
 "People, Work & Living Conditions",trng_nfe15,Mean instruction hours per participant in non-formal education and training by sex and labour status
@@ -1631,17 +1640,6 @@ Tech & Innovation,egi_rd1,Intra-mural Business Enterprise R&D Expenditures in Fo
 Tech & Innovation,enpe_isoc_ci_ifp_fu,Frequency of internet use by individuals aged 16-74
 Tech & Innovation,enpe_isoc_ci_in_h,Percentage of households having internet access at home
 Tech & Innovation,enpe_rd_e_gerdfund,Gross domestic expenditure on R&D (GERD)
-Tech & Innovation,ipr_da_gdp,Community design applications per billion GDP
-Tech & Innovation,ipr_da_pop,Community design applications per million population
-Tech & Innovation,ipr_da_tot,Community design applications
-Tech & Innovation,ipr_da_typ,Community design applications by type of design
-Tech & Innovation,ipr_dfa_tot,Community designs filed
-Tech & Innovation,ipr_dr_tot,Registered Community designs (RCD)
-Tech & Innovation,ipr_ta_gdp,European Union trade mark (EUTM) applications per billion GDP
-Tech & Innovation,ipr_ta_ntr,European Union trade mark (EUTM) applications by nature of the trade mark
-Tech & Innovation,ipr_ta_pop,European Union trade mark (EUTM) applications per million population
-Tech & Innovation,ipr_ta_tot,European Union trade mark (EUTM) applications
-Tech & Innovation,ipr_ta_typ,European Union trade mark (EUTM) applications by type of the trade mark
 Tech & Innovation,isoc_cbs,Broadband internet coverage by speed
 Tech & Innovation,isoc_ci_ac_i$dv_1043,Individuals - internet activities
 Tech & Innovation,isoc_ci_ac_i$dv_1122,Individuals - internet activities
@@ -1649,8 +1647,6 @@ Tech & Innovation,isoc_ci_cm_h$dv_507,Households - availability of computers
 Tech & Innovation,isoc_ci_in_h$dv_512,Households - level of internet access
 Tech & Innovation,isoc_cisci_f$dv_536,Safety copies and back up files
 Tech & Innovation,isoc_r_cux_i,Individuals who have never used a computer
-Tech & Innovation,isoc_sk_cskl_i$dv_266,Individuals' level of computer skills (until
-Tech & Innovation,isoc_sk_dskl_i$dv_317,Individuals' level of digital skills (until
 Tech & Innovation,isoc_ski_itsex,Employed persons with ICT education by sex
 Tech & Innovation,isoc_sks_itspa,Employed ICT specialists by age
 Tech & Innovation,isoc_sks_itspa$dv_1847,Employed ICT specialists by age
@@ -1660,6 +1656,10 @@ Tech & Innovation,isoc_sks_itspt,Employed ICT specialists - total
 Tech & Innovation,rd_b_berdcon,BERD by concentration of personnel (ranking)
 Tech & Innovation,rd_p_con,R&D personnel and researchers in the business enterprise sector by concentration of personnel (ranking)
 Tech & Innovation,rd_p_sen,Researchers in the higher education sector by seniority category
+Tech & Innovation,sdg_09_40,Patent applications to the European Patent Office by applicants' / inventors' country of residence
+Tech & Innovation,sdg_09_50,Share of buses and trains in inland passenger transport
+Tech & Innovation,sdg_09_60,Share of rail and inland waterways in inland freight transport
+Tech & Innovation,sdg_09_70,Air emission intensity from industry
 Tech & Innovation,tin00028,Internet use by individuals
 Tech & Innovation,tin00074,Percentage of the ICT sector in Gross value added
 Tech & Innovation,tin00085,Percentage of the ICT personnel on total employment
@@ -1703,8 +1703,6 @@ Tech & Innovation,tsc00008,Share of GBAORD allocated to defence and total civil 
 Tech & Innovation,tsc00011,Employment in high- and medium-high technology manufacturing sectors and knowledge-intensive service sectors
 Tech & Innovation,tsc00025,Human resources in science and technology (HRST)
 Tech & Innovation,tsc00031,Intramural R&D expenditure (GERD) by source of funds
-Transports,avia_ec_emp_arp,Persons employed in main airports by sex
-Transports,avia_ec_emp_ent,Persons employed in aviation and airport enterprises by sex
 Transports,avia_ec_enterp,Aviation and airport enterprises
 Transports,avia_eq_arc_age,Commercial aircraft fleet by age of aircraft and country of operator
 Transports,avia_eq_arc_agereg,Commercial aircraft fleet by age of aircraft and country of registration
@@ -1756,6 +1754,8 @@ Transports,enps_road_eqs_car,Stock of vehicles by category
 Transports,enps_road_go,Road freight transport
 Transports,enps_road_if,Length of roads network
 Transports,enps_tour_border,Arrivals of tourists at the border
+Transports,hsw_ac4,Persons reporting a road traffic accident
+Transports,hsw_ac8$dv_386,"Persons reporting an accident at work by sex, age and professional status"
 Transports,iww_ac_nbac,Accidents in inland waterway transport
 Transports,iww_ec_employ,Employment in inland waterways transport enterprises by number of vessels in enterprises -
 Transports,iww_ec_empsex,Employment in inland waterways transport enterprises by sex -
