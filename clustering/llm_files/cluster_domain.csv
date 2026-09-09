@@ -1,320 +1,941 @@
 cluster,domain
-0,Environment & Natural Resources and Production
-1,Environment & Natural Resources and Production
-2,Environment & Natural Resources and Production
-3,Environment & Natural Resources and Production
-4,Transports
-5,"People, Work & Living Conditions"
-6,Transports
-7,Money & Markets
-8,Money & Markets
-9,Money & Markets
-10,Money & Markets
-11,Environment & Natural Resources and Production
-12,Environment & Natural Resources and Production
-13,Environment & Natural Resources and Production
-14,Environment & Natural Resources and Production
+1,Money & Markets
+2,Money & Markets
+3,Health & Safety
+4,"People, Work & Living Conditions"
+5,Health & Safety
+7,Transports
+8,Transports
+9,Living Well
+10,"People, Work & Living Conditions"
+11,"People, Work & Living Conditions"
+12,"People, Work & Living Conditions"
+13,"People, Work & Living Conditions"
+14,Learning & Education
 15,"People, Work & Living Conditions"
-16,Health & Safety
 17,"People, Work & Living Conditions"
 18,"People, Work & Living Conditions"
-19,"People, Work & Living Conditions"
-20,"People, Work & Living Conditions"
-21,"People, Work & Living Conditions"
-22,"People, Work & Living Conditions"
-23,"People, Work & Living Conditions"
-24,"People, Work & Living Conditions"
-25,"People, Work & Living Conditions"
-26,"People, Work & Living Conditions"
-27,"People, Work & Living Conditions"
-28,"People, Work & Living Conditions"
-29,"People, Work & Living Conditions"
-30,Learning & Education
-31,Learning & Education
-32,Learning & Education
-33,Learning & Education
-34,Learning & Education
-35,Learning & Education
-36,Learning & Education
-37,Learning & Education
-38,Learning & Education
-39,Learning & Education
+20,Environment & Natural Resources and Production
+21,Environment & Natural Resources and Production
+22,Environment & Natural Resources and Production
+23,Money & Markets
+24,Transports
+25,Environment & Natural Resources and Production
+26,Environment & Natural Resources and Production
+27,Environment & Natural Resources and Production
+28,Transports
+29,Transports
+30,Transports
+31,Environment & Natural Resources and Production
+32,Environment & Natural Resources and Production
+33,Money & Markets
+35,Environment & Natural Resources and Production
+36,Environment & Natural Resources and Production
+37,"People, Work & Living Conditions"
+38,Environment & Natural Resources and Production
+39,"People, Work & Living Conditions"
 40,Environment & Natural Resources and Production
-41,Money & Markets
-42,Tech & Innovation
-43,Money & Markets
-44,Money & Markets
-45,Money & Markets
-46,Money & Markets
-47,Money & Markets
-48,Money & Markets
-49,Money & Markets
+41,Environment & Natural Resources and Production
+42,Money & Markets
+43,"People, Work & Living Conditions"
+44,Environment & Natural Resources and Production
+46,Environment & Natural Resources and Production
+47,Environment & Natural Resources and Production
+49,Environment & Natural Resources and Production
 50,Environment & Natural Resources and Production
 51,Environment & Natural Resources and Production
-52,Money & Markets
 53,Money & Markets
-54,Learning & Education
-55,Learning & Education
-56,Environment & Natural Resources and Production
-57,Environment & Natural Resources and Production
-58,Money & Markets
-59,"People, Work & Living Conditions"
-60,"People, Work & Living Conditions"
-61,Money & Markets
-62,Tech & Innovation
+54,"People, Work & Living Conditions"
+55,Living Well
+56,Living Well
+57,"People, Work & Living Conditions"
+58,"People, Work & Living Conditions"
+60,Learning & Education
+61,Learning & Education
+62,"People, Work & Living Conditions"
 63,"People, Work & Living Conditions"
-64,Money & Markets
-65,Tech & Innovation
-66,Environment & Natural Resources and Production
-67,Transports
-68,Money & Markets
-69,Living Well
-70,Transports
-71,Environment & Natural Resources and Production
-72,Environment & Natural Resources and Production
-73,Money & Markets
-74,"People, Work & Living Conditions"
+64,"People, Work & Living Conditions"
+65,"People, Work & Living Conditions"
+66,"People, Work & Living Conditions"
+67,Money & Markets
+68,Health & Safety
+69,"People, Work & Living Conditions"
+70,Environment & Natural Resources and Production
+71,"People, Work & Living Conditions"
+73,Living Well
+74,Transports
 75,"People, Work & Living Conditions"
-76,Learning & Education
-77,Environment & Natural Resources and Production
-78,Environment & Natural Resources and Production
-79,Environment & Natural Resources and Production
-80,Environment & Natural Resources and Production
-81,Money & Markets
+76,"People, Work & Living Conditions"
+77,"People, Work & Living Conditions"
+79,Learning & Education
+80,"People, Work & Living Conditions"
+81,"People, Work & Living Conditions"
 82,"People, Work & Living Conditions"
-83,Transports
-84,Money & Markets
-85,Environment & Natural Resources and Production
-86,Environment & Natural Resources and Production
-87,Environment & Natural Resources and Production
-88,Transports
-89,Living Well
-90,Health & Safety
+83,"People, Work & Living Conditions"
+84,Transports
+85,Tech & Innovation
+87,Money & Markets
+88,Money & Markets
+89,Money & Markets
+90,Environment & Natural Resources and Production
 91,Environment & Natural Resources and Production
-92,Environment & Natural Resources and Production
-93,Environment & Natural Resources and Production
-94,Environment & Natural Resources and Production
-95,Environment & Natural Resources and Production
-96,"People, Work & Living Conditions"
-97,"People, Work & Living Conditions"
-98,"People, Work & Living Conditions"
-99,Money & Markets
-100,Money & Markets
+92,Health & Safety
+94,"People, Work & Living Conditions"
+95,"People, Work & Living Conditions"
+96,Environment & Natural Resources and Production
+97,Health & Safety
+98,Health & Safety
+99,Health & Safety
+100,Tech & Innovation
 101,Money & Markets
-102,Environment & Natural Resources and Production
-103,Environment & Natural Resources and Production
+102,Transports
 104,Money & Markets
-105,Health & Safety
-106,Money & Markets
-107,"People, Work & Living Conditions"
-108,Health & Safety
-109,Health & Safety
-110,"People, Work & Living Conditions"
-111,Health & Safety
-112,Health & Safety
-113,"People, Work & Living Conditions"
+105,Money & Markets
+106,Environment & Natural Resources and Production
+107,Money & Markets
+109,Transports
+110,Transports
+111,Transports
+112,Environment & Natural Resources and Production
 114,Health & Safety
 115,Health & Safety
 116,Health & Safety
-117,Health & Safety
-118,"People, Work & Living Conditions"
-119,Health & Safety
-120,Health & Safety
-121,Health & Safety
-122,Health & Safety
-123,Health & Safety
-124,Health & Safety
-125,Transports
-126,Health & Safety
-127,Money & Markets
+117,Money & Markets
+118,Environment & Natural Resources and Production
+119,"People, Work & Living Conditions"
+120,"People, Work & Living Conditions"
+121,"People, Work & Living Conditions"
+122,"People, Work & Living Conditions"
+125,"People, Work & Living Conditions"
+126,"People, Work & Living Conditions"
+127,Learning & Education
 128,"People, Work & Living Conditions"
 129,"People, Work & Living Conditions"
-130,"People, Work & Living Conditions"
-131,"People, Work & Living Conditions"
-132,"People, Work & Living Conditions"
-133,"People, Work & Living Conditions"
-134,"People, Work & Living Conditions"
-135,"People, Work & Living Conditions"
-136,"People, Work & Living Conditions"
-137,"People, Work & Living Conditions"
-138,"People, Work & Living Conditions"
-139,Health & Safety
-140,"People, Work & Living Conditions"
-141,"People, Work & Living Conditions"
-142,"People, Work & Living Conditions"
-143,Health & Safety
+130,Health & Safety
+131,Environment & Natural Resources and Production
+132,Learning & Education
+133,Money & Markets
+134,Environment & Natural Resources and Production
+136,Transports
+137,Transports
+138,Money & Markets
+139,Environment & Natural Resources and Production
+141,Living Well
+142,Money & Markets
+143,"People, Work & Living Conditions"
 144,"People, Work & Living Conditions"
-145,"People, Work & Living Conditions"
+145,Environment & Natural Resources and Production
 146,"People, Work & Living Conditions"
-147,"People, Work & Living Conditions"
-148,"People, Work & Living Conditions"
-149,"People, Work & Living Conditions"
-150,"People, Work & Living Conditions"
+147,Environment & Natural Resources and Production
+148,Learning & Education
+149,Environment & Natural Resources and Production
+150,Transports
 151,"People, Work & Living Conditions"
-152,"People, Work & Living Conditions"
-153,"People, Work & Living Conditions"
-154,"People, Work & Living Conditions"
+152,Environment & Natural Resources and Production
+153,Money & Markets
+154,Money & Markets
 155,"People, Work & Living Conditions"
-156,"People, Work & Living Conditions"
-157,"People, Work & Living Conditions"
-158,"People, Work & Living Conditions"
-159,"People, Work & Living Conditions"
-160,Living Well
+156,Environment & Natural Resources and Production
+157,Money & Markets
+158,Money & Markets
+159,Money & Markets
+160,Health & Safety
 161,Money & Markets
-162,Money & Markets
-163,Money & Markets
-164,Money & Markets
-165,Money & Markets
-166,Money & Markets
-167,Tech & Innovation
-168,Money & Markets
-169,Tech & Innovation
-170,Tech & Innovation
-171,Learning & Education
-172,"People, Work & Living Conditions"
+163,Environment & Natural Resources and Production
+165,Health & Safety
+166,Environment & Natural Resources and Production
+167,Environment & Natural Resources and Production
+168,Transports
+170,Environment & Natural Resources and Production
+171,Money & Markets
+172,Money & Markets
 173,Money & Markets
-174,Transports
-175,Transports
-176,Transports
-177,Transports
-178,Environment & Natural Resources and Production
-179,Money & Markets
-180,"People, Work & Living Conditions"
-181,"People, Work & Living Conditions"
-182,"People, Work & Living Conditions"
+174,Environment & Natural Resources and Production
+175,"People, Work & Living Conditions"
+176,"People, Work & Living Conditions"
+178,Transports
+179,Transports
+180,Transports
+181,Health & Safety
+182,Environment & Natural Resources and Production
 183,"People, Work & Living Conditions"
 184,"People, Work & Living Conditions"
 185,"People, Work & Living Conditions"
-186,"People, Work & Living Conditions"
-187,Learning & Education
-188,Transports
-189,Transports
-190,Transports
-191,Transports
-192,Transports
-193,Transports
-194,Environment & Natural Resources and Production
-195,Environment & Natural Resources and Production
-196,Transports
+188,Money & Markets
+189,Money & Markets
+190,Health & Safety
+191,Environment & Natural Resources and Production
+192,Tech & Innovation
+194,Health & Safety
+195,Health & Safety
 197,Money & Markets
-198,Environment & Natural Resources and Production
-199,Environment & Natural Resources and Production
-200,Transports
-201,"People, Work & Living Conditions"
-202,Transports
-203,Transports
-204,Living Well
+198,Money & Markets
+199,Health & Safety
+201,Health & Safety
+202,Health & Safety
+203,Health & Safety
+204,Money & Markets
 205,"People, Work & Living Conditions"
 206,"People, Work & Living Conditions"
-207,"People, Work & Living Conditions"
+207,Transports
 208,"People, Work & Living Conditions"
-209,"People, Work & Living Conditions"
-210,"People, Work & Living Conditions"
-211,"People, Work & Living Conditions"
-212,Money & Markets
-213,Environment & Natural Resources and Production
-214,Money & Markets
-215,Environment & Natural Resources and Production
-216,Environment & Natural Resources and Production
+209,Money & Markets
+210,Environment & Natural Resources and Production
+211,Health & Safety
+212,"People, Work & Living Conditions"
+214,"People, Work & Living Conditions"
+215,"People, Work & Living Conditions"
+216,"People, Work & Living Conditions"
 217,Environment & Natural Resources and Production
-218,Environment & Natural Resources and Production
+218,Money & Markets
 219,Environment & Natural Resources and Production
 220,Environment & Natural Resources and Production
 221,Environment & Natural Resources and Production
-222,Money & Markets
+222,"People, Work & Living Conditions"
 223,"People, Work & Living Conditions"
-224,Transports
-225,"People, Work & Living Conditions"
-226,Transports
-227,Transports
-228,Transports
-229,Transports
-230,Tech & Innovation
-231,Transports
-232,"People, Work & Living Conditions"
-233,Transports
-234,Transports
-235,Transports
-236,Transports
-237,Money & Markets
-238,Money & Markets
+224,Money & Markets
+225,Money & Markets
+227,Learning & Education
+228,"People, Work & Living Conditions"
+230,Environment & Natural Resources and Production
+231,Money & Markets
+232,Money & Markets
+233,"People, Work & Living Conditions"
+234,"People, Work & Living Conditions"
+235,Learning & Education
+236,Money & Markets
+237,"People, Work & Living Conditions"
+238,"People, Work & Living Conditions"
 239,"People, Work & Living Conditions"
-240,Environment & Natural Resources and Production
-241,Health & Safety
-242,Learning & Education
+240,"People, Work & Living Conditions"
+241,"People, Work & Living Conditions"
+242,"People, Work & Living Conditions"
 243,"People, Work & Living Conditions"
-244,Environment & Natural Resources and Production
-245,Environment & Natural Resources and Production
+245,"People, Work & Living Conditions"
 246,"People, Work & Living Conditions"
-247,Tech & Innovation
+247,"People, Work & Living Conditions"
 248,"People, Work & Living Conditions"
 249,"People, Work & Living Conditions"
-250,Environment & Natural Resources and Production
-251,Money & Markets
-252,Environment & Natural Resources and Production
-253,Environment & Natural Resources and Production
-254,Health & Safety
-255,Money & Markets
+250,"People, Work & Living Conditions"
+251,"People, Work & Living Conditions"
+252,"People, Work & Living Conditions"
+253,Money & Markets
+254,"People, Work & Living Conditions"
+255,"People, Work & Living Conditions"
 256,"People, Work & Living Conditions"
 257,"People, Work & Living Conditions"
 258,Money & Markets
-259,Environment & Natural Resources and Production
-260,Environment & Natural Resources and Production
-261,Money & Markets
-262,Money & Markets
-263,Money & Markets
-264,Money & Markets
-265,Money & Markets
-266,Money & Markets
-267,"People, Work & Living Conditions"
+259,"People, Work & Living Conditions"
+260,Transports
+262,"People, Work & Living Conditions"
+263,"People, Work & Living Conditions"
+264,"People, Work & Living Conditions"
+265,"People, Work & Living Conditions"
+266,"People, Work & Living Conditions"
+267,Health & Safety
 268,Money & Markets
-269,Money & Markets
+269,Environment & Natural Resources and Production
 270,Environment & Natural Resources and Production
-271,"People, Work & Living Conditions"
-272,"People, Work & Living Conditions"
-273,"People, Work & Living Conditions"
-274,"People, Work & Living Conditions"
-275,"People, Work & Living Conditions"
-276,"People, Work & Living Conditions"
-277,"People, Work & Living Conditions"
-278,"People, Work & Living Conditions"
-279,"People, Work & Living Conditions"
+271,Environment & Natural Resources and Production
+272,Environment & Natural Resources and Production
+273,Money & Markets
+274,Money & Markets
+275,Money & Markets
+276,Money & Markets
+277,Money & Markets
+278,Money & Markets
+279,Tech & Innovation
 280,Money & Markets
-281,"People, Work & Living Conditions"
-282,Tech & Innovation
+282,Environment & Natural Resources and Production
 283,Money & Markets
-284,Money & Markets
-285,Money & Markets
-286,Money & Markets
-287,Money & Markets
-288,Money & Markets
-289,Money & Markets
+284,Environment & Natural Resources and Production
+286,"People, Work & Living Conditions"
+287,Environment & Natural Resources and Production
+288,Environment & Natural Resources and Production
+289,Transports
 290,Money & Markets
 291,Money & Markets
-292,"People, Work & Living Conditions"
-293,"People, Work & Living Conditions"
-294,Money & Markets
-295,Money & Markets
-296,Money & Markets
-297,Tech & Innovation
-298,"People, Work & Living Conditions"
-299,Living Well
-300,"People, Work & Living Conditions"
-301,"People, Work & Living Conditions"
+292,Money & Markets
+294,Health & Safety
+295,Health & Safety
+296,Health & Safety
+297,Money & Markets
+298,Learning & Education
+299,Money & Markets
+300,Learning & Education
+301,Transports
 302,Transports
 303,Transports
-304,Learning & Education
+304,"People, Work & Living Conditions"
 305,Money & Markets
-306,Learning & Education
-307,Learning & Education
-308,Learning & Education
-309,Learning & Education
-310,"People, Work & Living Conditions"
-311,Tech & Innovation
-312,Transports
-313,"People, Work & Living Conditions"
+307,Money & Markets
+308,Money & Markets
+310,Money & Markets
+311,Money & Markets
+312,Learning & Education
+313,Money & Markets
 314,Money & Markets
-315,"People, Work & Living Conditions"
-316,Environment & Natural Resources and Production
+315,Money & Markets
+316,"People, Work & Living Conditions"
 317,"People, Work & Living Conditions"
-318,Learning & Education
+318,Environment & Natural Resources and Production
+319,Health & Safety
+321,Learning & Education
+322,Learning & Education
+324,"People, Work & Living Conditions"
+325,"People, Work & Living Conditions"
+326,Health & Safety
+327,Money & Markets
+328,"People, Work & Living Conditions"
+329,Environment & Natural Resources and Production
+330,Environment & Natural Resources and Production
+331,Environment & Natural Resources and Production
+333,Money & Markets
+334,Money & Markets
+335,Learning & Education
+336,Money & Markets
+338,Money & Markets
+339,Money & Markets
+341,"People, Work & Living Conditions"
+342,"People, Work & Living Conditions"
+343,"People, Work & Living Conditions"
+344,"People, Work & Living Conditions"
+345,Environment & Natural Resources and Production
+346,Environment & Natural Resources and Production
+347,Environment & Natural Resources and Production
+348,"People, Work & Living Conditions"
+349,Environment & Natural Resources and Production
+350,Learning & Education
+351,Money & Markets
+352,Transports
+353,Health & Safety
+354,Tech & Innovation
+356,Environment & Natural Resources and Production
+357,Environment & Natural Resources and Production
+358,Environment & Natural Resources and Production
+359,Money & Markets
+360,Money & Markets
+361,Money & Markets
+362,Environment & Natural Resources and Production
+363,Money & Markets
+364,Money & Markets
+365,"People, Work & Living Conditions"
+366,Learning & Education
+368,Learning & Education
+369,Money & Markets
+370,"People, Work & Living Conditions"
+371,Money & Markets
+372,"People, Work & Living Conditions"
+373,Environment & Natural Resources and Production
+374,"People, Work & Living Conditions"
+375,Environment & Natural Resources and Production
+376,Transports
+377,Transports
+378,Money & Markets
+379,Transports
+380,Transports
+382,Money & Markets
+383,Money & Markets
+384,Money & Markets
+385,Environment & Natural Resources and Production
+386,Learning & Education
+387,Environment & Natural Resources and Production
+388,Environment & Natural Resources and Production
+389,Environment & Natural Resources and Production
+391,Money & Markets
+392,Environment & Natural Resources and Production
+393,Environment & Natural Resources and Production
+394,Money & Markets
+395,Money & Markets
+396,"People, Work & Living Conditions"
+397,"People, Work & Living Conditions"
+398,Tech & Innovation
+399,Money & Markets
+400,Money & Markets
+401,Money & Markets
+402,Money & Markets
+403,Money & Markets
+404,Money & Markets
+405,Money & Markets
+406,Money & Markets
+407,Transports
+408,Living Well
+409,Money & Markets
+410,Money & Markets
+411,Money & Markets
+412,Money & Markets
+413,Money & Markets
+414,Money & Markets
+415,Money & Markets
+417,Transports
+418,Transports
+420,Health & Safety
+421,Health & Safety
+422,Health & Safety
+423,Health & Safety
+424,Health & Safety
+426,Tech & Innovation
+427,Money & Markets
+428,Learning & Education
+429,Health & Safety
+431,Learning & Education
+432,"People, Work & Living Conditions"
+433,Money & Markets
+434,Money & Markets
+436,"People, Work & Living Conditions"
+437,Environment & Natural Resources and Production
+438,Money & Markets
+439,Money & Markets
+440,Tech & Innovation
+441,"People, Work & Living Conditions"
+442,Money & Markets
+443,"People, Work & Living Conditions"
+444,Tech & Innovation
+446,"People, Work & Living Conditions"
+447,"People, Work & Living Conditions"
+448,"People, Work & Living Conditions"
+449,"People, Work & Living Conditions"
+450,"People, Work & Living Conditions"
+451,Tech & Innovation
+452,"People, Work & Living Conditions"
+453,Money & Markets
+455,Environment & Natural Resources and Production
+456,Money & Markets
+458,Environment & Natural Resources and Production
+459,Money & Markets
+460,"People, Work & Living Conditions"
+461,"People, Work & Living Conditions"
+463,"People, Work & Living Conditions"
+464,Money & Markets
+466,"People, Work & Living Conditions"
+467,"People, Work & Living Conditions"
+468,"People, Work & Living Conditions"
+469,Health & Safety
+470,"People, Work & Living Conditions"
+471,"People, Work & Living Conditions"
+472,Tech & Innovation
+473,"People, Work & Living Conditions"
+474,"People, Work & Living Conditions"
+475,"People, Work & Living Conditions"
+476,Environment & Natural Resources and Production
+477,Health & Safety
+478,Tech & Innovation
+479,Health & Safety
+481,Tech & Innovation
+482,Tech & Innovation
+483,Tech & Innovation
+484,Tech & Innovation
+485,Money & Markets
+486,"People, Work & Living Conditions"
+487,Health & Safety
+488,Transports
+489,Health & Safety
+490,Health & Safety
+491,Money & Markets
+492,Money & Markets
+493,Money & Markets
+494,Money & Markets
+495,Tech & Innovation
+497,Money & Markets
+498,Tech & Innovation
+499,Tech & Innovation
+500,Money & Markets
+501,Environment & Natural Resources and Production
+502,Money & Markets
+504,"People, Work & Living Conditions"
+505,"People, Work & Living Conditions"
+506,Money & Markets
+508,"People, Work & Living Conditions"
+509,"People, Work & Living Conditions"
+510,"People, Work & Living Conditions"
+511,"People, Work & Living Conditions"
+512,Money & Markets
+513,Money & Markets
+514,"People, Work & Living Conditions"
+515,"People, Work & Living Conditions"
+516,"People, Work & Living Conditions"
+518,"People, Work & Living Conditions"
+519,"People, Work & Living Conditions"
+521,Environment & Natural Resources and Production
+522,Environment & Natural Resources and Production
+523,Environment & Natural Resources and Production
+524,Environment & Natural Resources and Production
+525,Transports
+526,Transports
+527,Transports
+528,Transports
+530,Transports
+531,Tech & Innovation
+532,Health & Safety
+534,"People, Work & Living Conditions"
+535,Living Well
+536,Learning & Education
+537,"People, Work & Living Conditions"
+539,Environment & Natural Resources and Production
+540,Environment & Natural Resources and Production
+541,"People, Work & Living Conditions"
+543,Transports
+544,Transports
+545,Money & Markets
+546,Money & Markets
+547,Environment & Natural Resources and Production
+550,Money & Markets
+551,"People, Work & Living Conditions"
+552,"People, Work & Living Conditions"
+553,"People, Work & Living Conditions"
+554,"People, Work & Living Conditions"
+555,"People, Work & Living Conditions"
+556,"People, Work & Living Conditions"
+558,Learning & Education
+559,"People, Work & Living Conditions"
+561,Environment & Natural Resources and Production
+562,Money & Markets
+563,Environment & Natural Resources and Production
+564,Environment & Natural Resources and Production
+565,Transports
+566,Transports
+567,Transports
+568,Transports
+569,Transports
+571,Money & Markets
+572,Money & Markets
+573,"People, Work & Living Conditions"
+574,Environment & Natural Resources and Production
+575,Money & Markets
+578,"People, Work & Living Conditions"
+579,"People, Work & Living Conditions"
+580,"People, Work & Living Conditions"
+581,"People, Work & Living Conditions"
+582,Transports
+583,"People, Work & Living Conditions"
+584,Learning & Education
+585,"People, Work & Living Conditions"
+586,Environment & Natural Resources and Production
+587,"People, Work & Living Conditions"
+588,"People, Work & Living Conditions"
+589,"People, Work & Living Conditions"
+590,"People, Work & Living Conditions"
+591,"People, Work & Living Conditions"
+592,"People, Work & Living Conditions"
+593,"People, Work & Living Conditions"
+595,Transports
+596,Transports
+598,Money & Markets
+599,Money & Markets
+601,"People, Work & Living Conditions"
+602,"People, Work & Living Conditions"
+603,Transports
+604,Transports
+605,Money & Markets
+606,Environment & Natural Resources and Production
+608,"People, Work & Living Conditions"
+609,Environment & Natural Resources and Production
+610,Transports
+611,Transports
+612,Environment & Natural Resources and Production
+613,Environment & Natural Resources and Production
+614,Transports
+616,Money & Markets
+617,Learning & Education
+618,Money & Markets
+619,Money & Markets
+620,Living Well
+621,"People, Work & Living Conditions"
+622,Money & Markets
+623,Transports
+624,Transports
+625,Transports
+626,Transports
+627,Transports
+628,Transports
+629,Transports
+630,"People, Work & Living Conditions"
+631,Living Well
+632,Environment & Natural Resources and Production
+633,Environment & Natural Resources and Production
+634,"People, Work & Living Conditions"
+635,Money & Markets
+636,"People, Work & Living Conditions"
+638,Money & Markets
+640,Money & Markets
+641,Money & Markets
+642,Environment & Natural Resources and Production
+643,Health & Safety
+645,Transports
+648,Health & Safety
+649,Health & Safety
+650,Money & Markets
+651,Transports
+652,Living Well
+653,Environment & Natural Resources and Production
+654,Money & Markets
+655,Learning & Education
+656,Environment & Natural Resources and Production
+657,Money & Markets
+658,Living Well
+659,Environment & Natural Resources and Production
+660,Money & Markets
+661,Environment & Natural Resources and Production
+662,Money & Markets
+663,Transports
+664,Environment & Natural Resources and Production
+665,Transports
+666,Health & Safety
+667,Environment & Natural Resources and Production
+668,Health & Safety
+669,"People, Work & Living Conditions"
+670,"People, Work & Living Conditions"
+671,Money & Markets
+672,Environment & Natural Resources and Production
+673,"People, Work & Living Conditions"
+674,Environment & Natural Resources and Production
+675,Environment & Natural Resources and Production
+676,Environment & Natural Resources and Production
+678,"People, Work & Living Conditions"
+679,Money & Markets
+681,Health & Safety
+682,Learning & Education
+683,Money & Markets
+684,Money & Markets
+686,"People, Work & Living Conditions"
+687,Living Well
+688,"People, Work & Living Conditions"
+690,Learning & Education
+691,"People, Work & Living Conditions"
+692,"People, Work & Living Conditions"
+693,Learning & Education
+694,Learning & Education
+695,Money & Markets
+696,Living Well
+697,Learning & Education
+698,Transports
+699,Transports
+700,Transports
+701,Transports
+702,Transports
+703,Transports
+704,Transports
+705,Tech & Innovation
+706,Tech & Innovation
+707,"People, Work & Living Conditions"
+708,"People, Work & Living Conditions"
+709,Health & Safety
+710,"People, Work & Living Conditions"
+711,"People, Work & Living Conditions"
+712,"People, Work & Living Conditions"
+713,Living Well
+716,Living Well
+717,Money & Markets
+718,"People, Work & Living Conditions"
+720,"People, Work & Living Conditions"
+721,Tech & Innovation
+723,Money & Markets
+724,Learning & Education
+725,Environment & Natural Resources and Production
+726,Health & Safety
+727,Living Well
+728,Environment & Natural Resources and Production
+729,"People, Work & Living Conditions"
+730,"People, Work & Living Conditions"
+731,"People, Work & Living Conditions"
+732,"People, Work & Living Conditions"
+733,Living Well
+734,Health & Safety
+735,"People, Work & Living Conditions"
+737,Transports
+738,"People, Work & Living Conditions"
+739,Money & Markets
+740,"People, Work & Living Conditions"
+741,Health & Safety
+742,"People, Work & Living Conditions"
+743,"People, Work & Living Conditions"
+744,"People, Work & Living Conditions"
+745,Health & Safety
+746,Health & Safety
+747,"People, Work & Living Conditions"
+748,"People, Work & Living Conditions"
+749,Living Well
+750,Learning & Education
+751,"People, Work & Living Conditions"
+752,"People, Work & Living Conditions"
+753,Living Well
+754,Living Well
+755,Living Well
+757,"People, Work & Living Conditions"
+758,"People, Work & Living Conditions"
+759,"People, Work & Living Conditions"
+760,Health & Safety
+761,Health & Safety
+762,"People, Work & Living Conditions"
+764,"People, Work & Living Conditions"
+765,Health & Safety
+767,"People, Work & Living Conditions"
+768,"People, Work & Living Conditions"
+769,"People, Work & Living Conditions"
+770,Living Well
+771,Environment & Natural Resources and Production
+772,Environment & Natural Resources and Production
+773,Health & Safety
+775,Health & Safety
+776,Health & Safety
+777,"People, Work & Living Conditions"
+778,Learning & Education
+779,"People, Work & Living Conditions"
+780,"People, Work & Living Conditions"
+781,"People, Work & Living Conditions"
+782,Environment & Natural Resources and Production
+783,Environment & Natural Resources and Production
+784,"People, Work & Living Conditions"
+785,"People, Work & Living Conditions"
+786,"People, Work & Living Conditions"
+787,"People, Work & Living Conditions"
+788,Health & Safety
+789,Environment & Natural Resources and Production
+790,"People, Work & Living Conditions"
+791,"People, Work & Living Conditions"
+792,"People, Work & Living Conditions"
+793,Money & Markets
+794,"People, Work & Living Conditions"
+795,"People, Work & Living Conditions"
+796,Money & Markets
+797,"People, Work & Living Conditions"
+798,"People, Work & Living Conditions"
+799,Environment & Natural Resources and Production
+800,"People, Work & Living Conditions"
+801,"People, Work & Living Conditions"
+802,Transports
+804,Health & Safety
+805,Health & Safety
+806,Health & Safety
+807,Health & Safety
+809,Money & Markets
+810,Money & Markets
+811,Money & Markets
+812,Environment & Natural Resources and Production
+813,Health & Safety
+815,Health & Safety
+816,Health & Safety
+818,"People, Work & Living Conditions"
+819,Money & Markets
+820,Money & Markets
+821,Money & Markets
+822,Environment & Natural Resources and Production
+824,Environment & Natural Resources and Production
+825,Environment & Natural Resources and Production
+826,Money & Markets
+827,Environment & Natural Resources and Production
+828,Environment & Natural Resources and Production
+829,Environment & Natural Resources and Production
+830,Environment & Natural Resources and Production
+831,Money & Markets
+832,Money & Markets
+833,Money & Markets
+834,Environment & Natural Resources and Production
+836,"People, Work & Living Conditions"
+837,"People, Work & Living Conditions"
+838,"People, Work & Living Conditions"
+839,Environment & Natural Resources and Production
+840,Environment & Natural Resources and Production
+841,Money & Markets
+842,Learning & Education
+843,Learning & Education
+844,Environment & Natural Resources and Production
+845,Money & Markets
+847,Money & Markets
+848,Money & Markets
+849,Learning & Education
+850,Tech & Innovation
+851,Transports
+853,Health & Safety
+854,"People, Work & Living Conditions"
+855,Transports
+856,Environment & Natural Resources and Production
+858,Learning & Education
+859,Learning & Education
+860,Learning & Education
+861,Environment & Natural Resources and Production
+863,Money & Markets
+864,Money & Markets
+865,Health & Safety
+866,Environment & Natural Resources and Production
+867,Environment & Natural Resources and Production
+868,"People, Work & Living Conditions"
+869,Tech & Innovation
+870,"People, Work & Living Conditions"
+871,Health & Safety
+872,"People, Work & Living Conditions"
+874,"People, Work & Living Conditions"
+875,"People, Work & Living Conditions"
+876,Health & Safety
+877,"People, Work & Living Conditions"
+878,Environment & Natural Resources and Production
+879,Tech & Innovation
+881,Learning & Education
+882,Tech & Innovation
+883,"People, Work & Living Conditions"
+884,Money & Markets
+885,Environment & Natural Resources and Production
+886,Money & Markets
+887,Money & Markets
+888,Money & Markets
+889,Transports
+890,Health & Safety
+891,Transports
+892,Transports
+893,Transports
+894,Transports
+895,Transports
+896,Environment & Natural Resources and Production
+897,Environment & Natural Resources and Production
+898,Tech & Innovation
+899,Money & Markets
+901,"People, Work & Living Conditions"
+902,"People, Work & Living Conditions"
+903,Learning & Education
+904,Transports
+905,Transports
+907,Transports
+908,"People, Work & Living Conditions"
+910,Environment & Natural Resources and Production
+911,Environment & Natural Resources and Production
+913,Health & Safety
+914,"People, Work & Living Conditions"
+915,"People, Work & Living Conditions"
+916,Health & Safety
+917,Health & Safety
+918,Health & Safety
+919,Health & Safety
+920,Environment & Natural Resources and Production
+921,Environment & Natural Resources and Production
+922,Transports
+924,Money & Markets
+925,Money & Markets
+926,"People, Work & Living Conditions"
+928,"People, Work & Living Conditions"
+929,"People, Work & Living Conditions"
+930,"People, Work & Living Conditions"
+931,"People, Work & Living Conditions"
+932,"People, Work & Living Conditions"
+933,"People, Work & Living Conditions"
+934,"People, Work & Living Conditions"
+935,Environment & Natural Resources and Production
+937,Environment & Natural Resources and Production
+939,Money & Markets
+940,Money & Markets
+941,Money & Markets
+942,Transports
+943,"People, Work & Living Conditions"
+944,"People, Work & Living Conditions"
+945,Money & Markets
+946,Environment & Natural Resources and Production
+947,Money & Markets
+948,Money & Markets
+949,Environment & Natural Resources and Production
+950,Environment & Natural Resources and Production
+951,Money & Markets
+952,Environment & Natural Resources and Production
+953,Learning & Education
+954,Environment & Natural Resources and Production
+956,"People, Work & Living Conditions"
+957,Health & Safety
+958,Transports
+959,Environment & Natural Resources and Production
+960,"People, Work & Living Conditions"
+961,Money & Markets
+962,Money & Markets
+963,"People, Work & Living Conditions"
+964,Transports
+965,Environment & Natural Resources and Production
+966,Health & Safety
+968,"People, Work & Living Conditions"
+969,"People, Work & Living Conditions"
+970,Environment & Natural Resources and Production
+971,Environment & Natural Resources and Production
+972,Learning & Education
+973,Transports
+976,Health & Safety
+977,Health & Safety
+978,Health & Safety
+979,Health & Safety
+981,Money & Markets
+982,Transports
+983,Tech & Innovation
+985,Learning & Education
+986,Learning & Education
+987,"People, Work & Living Conditions"
+988,Health & Safety
+989,Health & Safety
+990,Environment & Natural Resources and Production
+991,Health & Safety
+992,Environment & Natural Resources and Production
+993,"People, Work & Living Conditions"
+994,Learning & Education
+995,Learning & Education
+996,Money & Markets
+997,Transports
+999,Learning & Education
+1000,Learning & Education
+1001,"People, Work & Living Conditions"
+1002,"People, Work & Living Conditions"
+1003,Money & Markets
+1004,Living Well
+1005,Living Well
+1006,Living Well
+1007,Living Well
+1008,Health & Safety
+1009,Transports
+1010,Living Well
+1011,Transports
+1012,Living Well
+1013,Money & Markets
+1014,Money & Markets
+1015,Money & Markets
+1016,Money & Markets
+1017,Money & Markets
+1018,Transports
+1019,Transports
+1020,Transports
+1021,"People, Work & Living Conditions"
+1022,Environment & Natural Resources and Production
+1023,Living Well
+1024,Money & Markets
+1026,Money & Markets
+1027,Money & Markets
+1028,Money & Markets
+1029,"People, Work & Living Conditions"
+1030,Health & Safety
+1031,"People, Work & Living Conditions"
+1032,"People, Work & Living Conditions"
+1033,"People, Work & Living Conditions"
+1035,Money & Markets
+1036,Money & Markets
+1037,Transports
+1038,Environment & Natural Resources and Production
+1039,Environment & Natural Resources and Production
+1040,"People, Work & Living Conditions"
+1041,Health & Safety
+1042,Money & Markets
+1043,Money & Markets
+1044,Transports
+1045,Transports
+1046,Health & Safety
+1047,Transports
+1048,Transports
+1049,Transports
+1050,Environment & Natural Resources and Production
+1051,Environment & Natural Resources and Production
+1052,Environment & Natural Resources and Production
+1053,Environment & Natural Resources and Production
+1054,Environment & Natural Resources and Production
+1055,Environment & Natural Resources and Production
+1056,Environment & Natural Resources and Production
+1057,Environment & Natural Resources and Production
+1058,Environment & Natural Resources and Production
+1059,Health & Safety
+1060,Health & Safety
+1062,Learning & Education
+1063,"People, Work & Living Conditions"
+1064,"People, Work & Living Conditions"
+1065,Money & Markets
+1066,Money & Markets
+1067,Health & Safety

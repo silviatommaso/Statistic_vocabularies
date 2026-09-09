@@ -66,9 +66,10 @@ Applicants having benefited from material reception conditions at the end of the
 Aquaculture production by aquatic environment
 Aquaculture production in tonnes and value
 Area at risk of severe soil erosion by water
-Area of wooded land FE)
+"Area of wooded land (FAO, FE)"
 Area under organic farming
 Area under wine-grape vine varieties broken down by vine variety and by age of the vines -
+Area under wine-grape vine varieties broken down by vine variety and by age of the vines - Cyprus
 "Arrears (mortgage or rent, utility bills or hire purchase) by NUTS regions"
 Arrears on non-housing bills by income quintile
 Arrears on non-housing bills by risk of poverty threshold
@@ -119,7 +120,7 @@ Autonomous pension funds - number of enterprises by size class of investments
 Autonomous pension funds - number of enterprises by size class of members
 Autonomous pension funds - total investments by currencies
 Available beds in hospitals by NUTS 2 regions
-Average CO2 emissions per km from new passenger cars (source: DG CLIMA) - HIDDEN DAT
+"Average CO2 emissions per km from new passenger cars (source: EEA, DG CLIMA) - HIDDEN DAT"
 Average age at which employed persons started receiving a retirement pension - by sex and main financial incentive to stay at work
 Average expenditure per night
 Average expenditure per trip
@@ -147,7 +148,7 @@ Balance of payments
 "Balance of payments, current and capital account, monthly data"
 "Balance of payments, current and capital account, quarterly data"
 Balance of trade
-Balance of trade - and euro area aggregates
+Balance of trade - EU and euro area aggregates
 Balancing items
 "Barley by area, production and humidity"
 Bathing sites with excellent water quality by location
@@ -167,7 +168,6 @@ Building permits - monthly data
 Buses and coaches traffic performance registered in the reporting country by transport covarage
 Business demography by size class and NACE Rev. 2 activity
 Business written in non-EEA countries
-CO2 emissions from the production and consumption (footprint) perspectives (FIGARO application)
 Capital account - annual data
 Carrying capacity of merchant ships of 1000 grt and over by vessel type
 Carrying capacity of pipelines operated
@@ -206,23 +206,23 @@ Commercial aircraft fleet by type of aircraft
 Commercial airports by type
 Commissions payable by product
 Commissions receivable by product
-Common bird index by type of species - aggregate
+Common bird index by type of species - EU aggregate
 Common bird indices by type of estimate
 Common farmland bird index
 Communication
-Community design applications
-Community design applications by metropolitan regions
-Community design applications by other typologies
-Community design applications by type of design
-Community design applications per billion GDP
-Community design applications per million population
-Community design applications per million population by metropolitan regions
-Community design applications per million population by other typologies
-Community designs by metropolitan regions
-Community designs by other typologies
-Community designs filed
-Community designs per million population by metropolitan regions
-Community designs per million population by other typologies
+Community design (CD) applications
+Community design (CD) applications by metropolitan regions
+Community design (CD) applications by other typologies
+Community design (CD) applications by type of design
+Community design (CD) applications per billion GDP
+Community design (CD) applications per million population
+Community design (CD) applications per million population by metropolitan regions
+Community design (CD) applications per million population by other typologies
+Community designs (CD) by metropolitan regions
+Community designs (CD) by other typologies
+Community designs (CD) filed
+Community designs (CD) per million population by metropolitan regions
+Community designs (CD) per million population by other typologies
 Comparative price levels
 Compensation of employees
 "Compensation of employees - annual data, million units of national currency"
@@ -236,7 +236,7 @@ Consultation of a medical doctor per inhabitant
 Consumer price index
 Consumption footprint – single weighted score
 Consumption of antibiotics in the community and hospital sectors – defined daily doses (DDD) per day
-Consumption of chemicals by hazardousness - aggregate
+Consumption of chemicals by hazardousness - EU aggregate
 Consumption of lightweight plastic carrier bags by their wall thickness
 Container transport by type of goods and coverage
 Contribution of recycled materials to raw materials demand - end-of-life recycling input rates (EOL-RIR)
@@ -244,7 +244,7 @@ Contribution to the international 100bn USD commitment on climate related expend
 Convergence indicators
 Conversion factors for euro fixed series into euro/ECU - annual data
 Cooling and heating degree days by country - annual data
-Correction coefficients in the European Union (Countries) - index = 100)
+Correction coefficients in the European Union (Countries) - index (Belgium = 100)
 Correction coefficients in the European Union (Duty stations) - index (Brussels = 100)
 Correction coefficients outside the European Union (Duty stations) - index (Brussels = 100)
 Corruption Perceptions Index
@@ -295,7 +295,7 @@ Deaths and crude death rate
 Deaths by age and sex
 Deaths by sex
 Deaths of residents related to dementias including Alzheimer
-Debt of the institutions
+Debt of the EU institutions
 Debts
 Decisions granting temporary protection by citizenship - per thousand persons
 "Decisions granting temporary protection by citizenship, age and sex - annual aggregated data"
@@ -345,6 +345,10 @@ Duration of working life
 ECU/EUR exchange rates versus national currencies
 EMU convergence criterion series - annual data
 EMU convergence criterion series - quarterly data
+EU CO2 emissions from the production and consumption (footprint) perspectives (FIGARO application)
+EU financing to developing countries by financing source
+EU index of occupational diseases – experimental statistics
+EU self-sufficiency for raw materials
 Early leavers from education and training aged 18-24 by sex
 Early leavers from education and training by sex
 Early leavers from education and training by sex and labour status
@@ -419,7 +423,7 @@ Employment rates 15-64 years old by sex
 "Employment rates by sex, age and educational attainment level (%)"
 "Employment rates by sex, age and other typologies"
 Employment rates of recent graduates
-"Employment, domestic concept -"
+"Employment, domestic concept - Total"
 "Employment, domestic concept - annual data"
 End-stage renal failure (ESRF) patients – historical data
 Energy - historical data former methodology and source)
@@ -446,7 +450,7 @@ Enterprises having received orders online (at least 1%) - % of enterprises
 "Enterprises in wholesale trade, repair of vehicles and motorcycles (NACE Rev.2, G) - changes in stocks"
 Enterprises sourcing abroad
 "Enterprises using software solutions, like CRM to analyse information about clients for marketing purposes"
-Enterprises with members in other countries
+Enterprises with members in other EEA countries
 Environmental protection investments of total economy
 Environmental tax revenues
 Equidae - annual data
@@ -514,8 +518,8 @@ Exposure of VET graduates to work-based learning
 "External balance of goods and services, current prices"
 "Extra-EU27 (from trade, by Member State, total product"
 "Extra-EU27 (from trade, by product group"
-"Extra-euro area trade, by main partners, total product"
-"Extra-euro area trade, by product group"
+"Extra-euro area (EA20) trade, by main partners, total product"
+"Extra-euro area (EA20) trade, by product group"
 "FDI flows intensity, market integration"
 Family nuclei by number of children
 Farm labour force
@@ -537,7 +541,7 @@ Final energy consumption by agriculture/forestry per hectare of utilised agricul
 Final energy consumption by sector
 Final energy consumption in households per capita
 Financial account - annual data
-Financial accounts for institutions
+Financial accounts for EU institutions
 Financial aid to students
 Financial aid to students by education level - as % of total public expenditure
 "Financial derivatives and employee stock options - annual data, million units of national currency"
@@ -639,7 +643,7 @@ Graduates at doctoral level by sex and age groups - per 1000 of population aged 
 Graduates in tertiary education by education level – women per 100 men
 "Grain maize and corn-cob-mix by area, production and humidity"
 Grapes by production
-Grassland butterfly index - aggregate
+Grassland butterfly index - EU aggregate
 Green bond issuance by corporates and governments
 Green bond issuance by type of issuer
 "Green maize by area, production and humidity"
@@ -667,8 +671,6 @@ Gross national income
 "Gross non-performing loans, domestic and foreign entities - % of gross loans"
 Gross saving
 Gross value added
-Gross value added - NACE Rev. 2: - current prices
-Gross value added - NACE Rev. 2: - volumes
 Gross value added - NACE Rev. 2: A - current prices
 Gross value added - NACE Rev. 2: A - volumes
 Gross value added - NACE Rev. 2: B-E - current prices
@@ -691,17 +693,19 @@ Gross value added - NACE Rev. 2: O-Q - current prices
 Gross value added - NACE Rev. 2: O-Q - volumes
 Gross value added - NACE Rev. 2: R-U - current prices
 Gross value added - NACE Rev. 2: R-U - volumes
+Gross value added - NACE Rev. 2: TOTAL - current prices
+Gross value added - NACE Rev. 2: TOTAL - volumes
 Gross value added at basic prices by NUTS 3 regions
 Gross value added by industry
 Gross value added in environmental goods and services sector
 Gross value added of the agricultural industry - basic and producer prices
-Gross weight of dry bulk goods transported in short sea shipping from/to the top 5 ports for dry bulk goods
+Gross weight of dry bulk goods transported in short sea shipping from/to the top 5 EU ports for dry bulk goods
 Gross weight of goods handled
 Gross weight of goods handled in all ports by direction
-Gross weight of goods handled in the top 20 ports by direction
-Gross weight of goods in Ro-ro units transported in short sea shipping from/to the top 5 ports for goods in Ro-ro units
-Gross weight of goods in containers transported in short sea shipping from/to the top 5 ports for goods in containers
-Gross weight of liquid bulk goods transported in short sea shipping from/to the top 5 ports for liquid bulk goods
+Gross weight of goods handled in the top 20 EU ports by direction
+Gross weight of goods in Ro-ro units transported in short sea shipping from/to the top 5 EU ports for goods in Ro-ro units
+Gross weight of goods in containers transported in short sea shipping from/to the top 5 EU ports for goods in containers
+Gross weight of liquid bulk goods transported in short sea shipping from/to the top 5 EU ports for liquid bulk goods
 Guest nights spent at short-stay accommodation offered via collaborative economy platforms by mode of accommodation - experimental statistics
 Guest nights spent at short-stay accommodation offered via collaborative economy platforms by size class of accommodation - experimental statistics
 HICP - alcohol and tobacco
@@ -877,7 +881,7 @@ Intermediate goods trade
 Intermediate services trade
 International trade as a share of GDP
 International trade in services - market integration indicators - historical data
-"International trade of and enlargement countries, by reporting country, total product"
+"International trade of EFTA and enlargement countries, by reporting country, total product"
 "International trade, by reporting country, total product"
 Internet use by individuals
 "Intra-EU27 (from trade, by Member State, total product"
@@ -1088,12 +1092,12 @@ Nitrate in groundwater
 "Nitrogen dioxide concentrations in European capital cities - monthly averages, experimental statistics"
 Nominal effective exchange rate – 42 trading partners
 Nominal effective exchange rate – euro area trading partners
-Nominal labour productivity per person employed
+Nominal labour productivity per person employed (ESA
 Nominal unit labour cost growth
 Nominal unit labour cost per hour worked - 3 years % change
 "Nominal unit labour cost per hour worked - annual data, % changes and index = 100)"
 Non-autonomous pension funds
-Non-financial accounts for institutions
+Non-financial accounts for EU institutions
 "Non-financial corporations debt - consolidated, % of GDP"
 Non-household consumption volumes of electricity by consumption bands
 Non-household consumption volumes of gas by consumption bands
@@ -1195,8 +1199,9 @@ Passenger road transport
 Passenger train traffic performance by type of train speed
 Passengers (excluding cruise passengers) transported from/to the main ports
 Passengers (excluding cruise passengers) transported from/to the main ports - - quarterly data
+Passengers (excluding cruise passengers) transported from/to the main ports - Montenegro - quarterly data
 Passengers embarked and disembarked (excluding cruises) in all ports by direction
-Passengers embarked and disembarked in the top 20 ports
+Passengers embarked and disembarked in the top 20 EU ports
 "Passengers in accompanied passenger car railway transport, by type of transport"
 Passengers transported
 Passengers transported by type of train speed
@@ -1237,11 +1242,11 @@ Persons at risk of monetary poverty after social transfers by citizenship
 Persons at risk of poverty or social exclusion
 Persons at risk of poverty or social exclusion - EU2030 target
 Persons at risk of poverty or social exclusion by NUTS regions
-Persons at risk of poverty or social exclusion by NUTS regions - strategy
+Persons at risk of poverty or social exclusion by NUTS regions - EU strategy
 Persons at risk of poverty or social exclusion by age and sex
 Persons at risk of poverty or social exclusion by degree of urbanisation
 Persons at risk of poverty or social exclusion by tenure status
-Persons at risk of poverty or social exclusion by tenure status - strategy
+Persons at risk of poverty or social exclusion by tenure status - EU strategy
 "Persons being happy in the last 4 weeks by sex, age, educational attainment and frequency"
 Persons brought before criminal courts by legal status of the court process
 Persons eligible to vote in the European Parliament elections by category of voters - dedicated data collection
@@ -1253,7 +1258,7 @@ Persons employed in main airports by sex
 Persons employed in multinational enterprise groups by size class - experimental statistics
 Persons employed in oil pipeline enterprises by sex
 Persons employed in principal railway enterprises by sex (until
-Persons employed part-time -
+Persons employed part-time - Total
 "Persons feeling left out from society by sex, age and level of disability (activity limitation)"
 "Persons getting together with family and relatives or friends by income quintile, household composition, degree of urbanisation and frequency"
 "Persons having contacts with family and relatives or friends by income quintile, household composition, degree of urbanisation and frequency"
@@ -1269,7 +1274,7 @@ Persons killed in road accidents
 Persons killed in road accidents by type of road
 Persons living in households with very low work intensity by NUTS regions (population aged 0 to 64 years)
 Persons living in households with very low work intensity by age and sex (population aged 0 to 64 years)
-Persons living in households with very low work intensity by degree of urbanisation (population aged 0 to 64 years) - strategy
+Persons living in households with very low work intensity by degree of urbanisation (population aged 0 to 64 years) - EU strategy
 "Persons living in households with very low work intensity, by age group"
 Persons living with their parents or contributing/benefiting from the household income (population aged 18 to 34 years)
 "Persons not participating in active citizenship by sex, age and level of disability (activity limitation)"
@@ -1342,9 +1347,9 @@ Population structure by detailed age group
 Population structure by sex
 Population structure indicators by NUTS 3 region
 Population unable to keep home adequately warm by poverty status
-Population with confidence in institutions by institution
+Population with confidence in EU institutions by institution
 Population without the citizenship of the reporting country
-"Population, aged 15-74 - labour force survey"
+"Population, aged 15-74 - EU labour force survey"
 "Portfolio investement - annual data, million units of national currency"
 Positions held by women in senior management positions
 Positive first instance decisions - per thousand persons
@@ -1357,7 +1362,7 @@ Practising dentists
 Practising physicians
 Premature deaths due to exposure to fine particulate matter (PM2.5)
 Preventive cancer screenings - programme data
-Price and volume convergence between Member States
+Price and volume convergence between EU Member States
 Price indices of agricultural input/output at nominal value = 100)
 Prices (annual series)
 Primary energy consumption
@@ -1437,7 +1442,7 @@ Pupils from age 5 to the starting age of compulsory education at primary level b
 Pupils under the age of 3 by sex - as % of the population of the corresponding age
 "Purchase price indices, total means of agricultural production"
 Purchases of advertising space or time for resale
-Purchasing Power Parities in the European Union (Countries) - index = 1)
+Purchasing Power Parities in the European Union (Countries) - index (Belgium = 1)
 Purchasing Power Parities in the European Union (Duty stations) - index (Brussels = 1)
 Purchasing power adjusted GDP per capita
 Quality of education
@@ -1481,10 +1486,10 @@ Registered Community designs (RCD)
 Registered Community designs (RCD) by metropolitan regions
 Registered Community designs (RCD) by other typologies
 Relative at risk of poverty gap by poverty threshold - EU-SILC and ECHP surveys
-Relative incidence rate of accidental injuries at work by occupation and NACE Rev. 1.1 activity mean rate = 100)
-"Relative incidence rate of accidental injuries at work by severity, frequency of night work and age mean rate = 100 for each severity)"
-"Relative incidence rate of accidental injuries at work by severity, frequency of shift work and age mean rate = 100 for each severity)"
-"Relative incidence rate of accidental injuries at work by severity, working hours and sex mean rate = 100 for each severity)"
+Relative incidence rate of accidental injuries at work by occupation and NACE Rev. 1.1 activity (EU mean rate = 100)
+"Relative incidence rate of accidental injuries at work by severity, frequency of night work and age (EU mean rate = 100 for each severity)"
+"Relative incidence rate of accidental injuries at work by severity, frequency of shift work and age (EU mean rate = 100 for each severity)"
+"Relative incidence rate of accidental injuries at work by severity, working hours and sex (EU mean rate = 100 for each severity)"
 Relative median at-risk-of-poverty gap
 Relative median at-risk-of-poverty gap of elderly people - EU-SILC and ECHP surveys
 Relative median income ratio (60+) - EU-SILC survey
@@ -1595,7 +1600,7 @@ Share of buses and trains in inland passenger transport
 Share of children (aged less than 18) living with their parents by type of household - EU-SILC survey
 Share of digital platform workers (in the last 12 months) by educational attainment level - experimental statistics
 Share of digital platform workers (in the last 12 months) by type of task or service - experimental statistics
-Share of employment in Member States supported by exports (FIGARO application)
+Share of employment in EU Member States supported by EU exports (FIGARO application)
 Share of energy from renewable sources
 Share of enterprises' turnover on e-commerce - %
 Share of environmental taxes in total tax revenues
@@ -1615,12 +1620,12 @@ Share of total population considering their dwelling as too dark - EU-SILC surve
 "Share of total population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames of floor - EU-SILC survey"
 Share of total population not having indoor flushing toilet for the sole use of their household - EU-SILC survey
 Share of trade with the EU27 (from
-Share of value added in Member States supported by exports (FIGARO application)
+Share of value added in EU Member States supported by EU exports (FIGARO application)
 "Share of women researchers, all sectors"
 "Share of women researchers, by sectors of performance"
+"Short sea shipping - EU level - gross weight of goods transported to/from main ports, by type of cargo for each sea region of partner ports"
 "Short sea shipping - country level - gross weight of goods transported to/from main ports, by direction"
 "Short sea shipping - country level - volume (in TEU's) of containers transported to/from main ports, by loading status"
-"Short sea shipping - level - gross weight of goods transported to/from main ports, by type of cargo for each sea region of partner ports"
 Simplified energy balances
 Smoking prevalence by sex
 Social protection expenditure excluding administrative costs (including health expenditure) as a share of GDP
@@ -1669,13 +1674,31 @@ Time spent on eating at home (as main or secondary activity)
 "Time spent on health-enhancing (non-work-related) aerobic physical activity by sex, age and educational attainment level"
 Time spent on travelling by mode of transport
 Time spent providing childcare (as main or secondary activity)
-"Time spent watching or other media, playing computer games and any similar screen activities (as main or secondary activity)"
+"Time spent watching TV or other media, playing computer games and any similar screen activities (as main or secondary activity)"
 "Time spent, participation time and participation rate in the main activity by sex and educational attainment level"
 Top 5 ports - gross weight of goods handled in each port
 Top 5 ports for Ro-ro units - gross weight of goods in Ro-Ro units handled in each port
 Top 5 ports for containers - gross weight of goods in containers handled in each port
 Top 5 ports for liquid bulk - gross weight of liquid bulk goods handled in each port
 Top 5 ports for volume of containers - volume (in TEUs) of containers handled in each port
+Total area
+Total area by species (area in ha)
+Total economy deficit/surplus
+Total employment by age group
+Total expenditure on administration costs
+Total expenditure on social benefits
+Total expenditure on social protection by type
+Total expenditure on social protection per head of population. ECU/EUR
+Total fertility rate
+"Total financial sector liabilities, consolidated"
+"Total financial sector liabilities, non-consolidated - annual data"
+Total general government expenditure
+Total general government revenue
+Total length of motorways
+Total length of railway lines
+"Total population, Candidate countries and potential candidates"
+Total researchers by sectors of performance - head count
+Total unemployment rate
 Tourism infrastructure
 Trade balance
 Trade in goods with the top 5 partners
@@ -1686,9 +1709,28 @@ Trade in services with the top 5 partners
 "Trailers and their load capacity, by permissible maximum gross weight"
 Trailers by load capacity (until
 Train traffic on the rail network -
+Train traffic on the rail network - Austria
+Train traffic on the rail network - Belgium
+Train traffic on the rail network - Bulgaria
+Train traffic on the rail network - Croatia
 Train traffic on the rail network - Czech Republic
+Train traffic on the rail network - Czechia
+Train traffic on the rail network - Denmark
+Train traffic on the rail network - Estonia
+Train traffic on the rail network - Finland
+Train traffic on the rail network - Greece
 Train traffic on the rail network - Hungaria
+Train traffic on the rail network - Hungary
+Train traffic on the rail network - Latvia
+Train traffic on the rail network - Liechtenstein
+Train traffic on the rail network - Lithuania
 Train traffic on the rail network - North Macedonia
+Train traffic on the rail network - Norway
+Train traffic on the rail network - Portugal
+Train traffic on the rail network - Romania
+Train traffic on the rail network - Slovakia
+Train traffic on the rail network - Slovenia
+Train traffic on the rail network - Türkiye
 Train traffic on the rail network - the Former Yugoslav Republic of Macedonia
 Trainsets and capacity by type of speed
 Trams
@@ -1744,14 +1786,14 @@ Vaccination against influenza of population aged 65 and over
 Valid permits by reasons - % of total valid permits
 Value Added in Foreign Controlled Enterprises
 Vessel traffic
-Vessels arriving in main ports by type of vessels (estimates) - experimental statistics
+Vessels arriving in main EU ports by type of vessels (estimates) - experimental statistics
 Victims of trafficking in human beings by all forms of exploitation
 Victims of trafficking in human beings by citizenship
 Victims of trafficking in human beings by sex
-Volume of containers handled in the top 20 main ports by loading status
+Volume of containers handled in the top 20 EU main ports by loading status
 Volume of freight transport relative to GDP
 Volume of passenger transport relative to GDP
-Volume of timber FE)
+"Volume of timber (FAO, FE)"
 Wages
 Waste generated by households by year and waste category
 Waste generation per capita
@@ -1812,24 +1854,3 @@ Young people neither in employment nor in education and training by sex (NEET)
 Youth unemployment rate - % of active population aged 15-24
 Youth unemployment rate by sex
 Youth unemployment ratio (15-24)
-area
-area by species (area in ha)
-economy deficit/surplus
-employment by age group
-expenditure on administration costs
-expenditure on social benefits
-expenditure on social protection by type
-expenditure on social protection per head of population. ECU/EUR
-fertility rate
-"financial sector liabilities, consolidated"
-"financial sector liabilities, non-consolidated - annual data"
-financing to developing countries by financing source
-general government expenditure
-general government revenue
-index of occupational diseases – experimental statistics
-length of motorways
-length of railway lines
-"population, Candidate countries and potential candidates"
-researchers by sectors of performance - head count
-self-sufficiency for raw materials
-unemployment rate

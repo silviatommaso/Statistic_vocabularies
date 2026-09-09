@@ -23,42 +23,62 @@ def is_numeric(value):
 Discover whether an attribute is a date or not
 """
 def is_date(value):
-    try:
-        pd.to_datetime(value, errors="raise")
-        return True
-    except (ValueError, TypeError):
+
+    YEAR_PATTERN = re.compile(r"^(?:19|20)\d{2}$")
+    DATE_DMY_PATTERN = re.compile(r"^\d{1,2}[-/]\d{1,2}[-/](?:19|20)\d{2}$")
+    DATE_YMD_PATTERN = re.compile(r"^(?:19|20)\d{2}[-/]\d{1,2}[-/]\d{1,2}$")
+
+    if not isinstance(value, str):
         return False
 
+    value = value.strip()
+
+    # Single year: 2022
+    if YEAR_PATTERN.fullmatch(value):
+        return True
+
+    # Single date: 20-12-2022 or 20/12/2022
+    if DATE_DMY_PATTERN.fullmatch(value):
+        return True
+
+    # Single date: 2022-12-20 or 2022/12/20
+    if DATE_YMD_PATTERN.fullmatch(value):
+        return True
+
+    return False
+
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------
     
-"""
-Extracts temporal and string attributes from a list of attributes.
 
-An attribute containing a four-digit year between 1900 and 2100
-is considered a candidate for being a temporal attribute. Once a
-candidate is found, it is kept as long as all subsequent attributes
-are temporal. If a non-temporal attribute is encountered, the
-candidate is reset to None.
+TIME_MARKER_PATTERN = re.compile(r"\\\s*(?:time|time_period)\s*$", re.IGNORECASE)
 
-Once the first temporal attribute is identified, all preceding
-attributes are considered string attributes, while all attributes
-from the candidate onwards are considered temporal attributes.
+
 """
+Returns True if the attribute name ends with a temporal marker
+(e.g. "geo\\TIME_PERIOD", "geo\\time"), used both to find the
+string/temporal split point and to strip the marker for display.
+"""
+def has_time_marker(attribute):
+    return bool(TIME_MARKER_PATTERN.search(str(attribute)))
+
+
+"""
+Strips the temporal marker from an attribute name, if present
+(e.g. "geo\\TIME_PERIOD" -> "geo"). Leaves other attributes unchanged.
+"""
+def strip_time_marker(attribute):
+    return TIME_MARKER_PATTERN.sub("", str(attribute))
+
+
+
 def split_attributes(attributes):
 
     candidate = None
 
     for i, attribute in enumerate(attributes):
-        attribute = str(attribute)
-
-        years = re.findall(r'\b\d{4}\b', attribute)
-
-        is_temporal = any(1900 <= int(year) <= 2100 for year in years)
-
-        if is_temporal:
-            if candidate is None:
-                candidate = i
-        else:
-            candidate = None
+        if has_time_marker(attribute):
+            candidate = i + 1
+            break
 
     if candidate is not None:
         return set(attributes[:candidate]), set(attributes[candidate:])
@@ -70,30 +90,61 @@ def split_attributes(attributes):
 """
 Parses a table title by identifying geographic and temporal terms,
 and returns the remaining title without those terms.
+
+Geographic matching is done on WORD SEQUENCES (n-grams), not single
+words: geo_vocab (the NUTS dictionary) contains many multi-word entity
+names (e.g. "North Macedonia", "United Kingdom", "Bosnia and
+Herzegovina"). None of their individual words are geo terms on their
+own, so splitting the title into single words and checking each one in
+isolation -- the previous approach -- silently misses every multi-word
+entity. Instead, at each position we try the longest possible phrase
+first (greedy longest match) and fall back to shorter phrases, so e.g.
+"North Macedonia" is matched as one unit rather than missed entirely.
 """
-def parse_title(title, geo_vocab):
+def parse_title(title, geo_vocab, max_geo_words=6):
+
     words = title.split()
+    n = len(words)
 
     geo = set()
     temporal = set()
     remaining_words = []
 
-    for word in words:
-        clean_word = word.strip(".,;:()[]{}")
+    i = 0
+    while i < n:
 
-        # Geographic value
-        if clean_word in geo_vocab:
-            geo.add(clean_word)
+        matched_span = None
+
+        # Try progressively shorter phrases starting at i, longest first,
+        # so multi-word geo entities are preferred over any partial match.
+        max_span = min(max_geo_words, n - i)
+        for span in range(max_span, 0, -1):
+            phrase_words = words[i:i + span]
+            # only strip trailing punctuation from the phrase's last word
+            phrase = " ".join(phrase_words[:-1] + [phrase_words[-1].strip(".,;:()[]{}")])
+
+            if phrase in geo_vocab:
+                geo.add(phrase)
+                matched_span = span
+                break
+
+        if matched_span is not None:
+            i += matched_span
             continue
+
+        word = words[i]
+        clean_word = word.strip(".,;:()[]{}")
 
         # Year
         years = re.findall(r'\b\d{4}\b', clean_word)
 
         if any(1900 <= int(year) <= 2100 for year in years):
             temporal.update(years)
+            i += 1
             continue
 
         remaining_words.append(word)
+        i += 1
 
     remainder = " ".join(remaining_words)
 
@@ -109,7 +160,7 @@ def parse_title(title, geo_vocab):
 def save_vocabulary_by_tag(V, output_dir):
 
     tag_files = {
-        "M": "measures/measures.csv",
+        "M": "measures.csv",
         "N": "dimension_names.csv",
         "A": "dimension_values.csv",
         "U": "units.csv"
@@ -126,61 +177,3 @@ def save_vocabulary_by_tag(V, output_dir):
         df = pd.DataFrame({"term": sorted(terms)})
 
         df.to_csv(output_dir / filename, index=False)
-
-
-"""
-    Save the file_code-measure to a CSV file.
-"""
-def save_code_measure(M, output_dir):
-
-    measures_rows = []
-
-    for measure, codes in M.items():
-        for code in codes:
-            measures_rows.append({"code": code, "measure": measure})
-
-    measures_df = pd.DataFrame(measures_rows, columns=["code", "measure"])
-    measures_df = measures_df.sort_values(["code", "measure"]).reset_index(drop=True)
-
-    measures_df.to_csv(output_dir / "measures/code_measures.csv", index=False)
-
-########################################################################################################################################################################################################################
-
-########################################################################################################################################################################################################################
-# Clustering utils functions
-########################################################################################################################################################################################################################
-
-"""
-Remove .csv and whitespace from a code.
-"""
-def normalize_code(code):
-    code = str(code).strip()
-    return re.sub(r"\.csv$", "", code)
-
-
-"""
-Assign a domain to each code, according to its cluster
-"""
-def assign_domains_to_codes(cluster_domains, cluster_prefixes, output_path):
-
-    cluster_prefixes = cluster_prefixes[["cluster", "code", "measure"]].copy()
-
-    # Merge
-    result = pd.merge(cluster_prefixes, cluster_domains, on="cluster", how="inner")
-    result = result[["domain", "code", "measure"]]
-
-    # Removes eventual duplicates
-    result = result.drop_duplicates()
-
-    # Save ordered result
-    result = result.sort_values(["domain", "code", "measure"]).reset_index(drop=True)
-    result.to_csv(output_path, index=False)
-
-    return result
-
-
-assign_domains_to_codes(
-    pd.read_csv("clustering/llm_files/cluster_domain.csv"),
-    pd.read_csv("clustering/llm_files/cluster_prefixes.csv"),
-    Path("output/clustering/code_domain.csv")
-)

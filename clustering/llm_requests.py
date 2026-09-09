@@ -2,6 +2,7 @@ from groq import Groq
 import os
 import time
 import pandas as pd
+from pathlib import Path
 
 from dotenv import load_dotenv
 
@@ -13,14 +14,14 @@ client = Groq(api_key=API_KEY)
 PAUSE_BETWEEN_QUERIES = 0
 
 DOMAINS = {
-    "Money & Markets": "Financial markets and instruments, GDP and national accounts, public and private debt, exchange/interest rates, international trade, business demography and enterprise/government activity.",
-    "People, Work & Living Conditions": "Population structure, households, births and deaths rates, migration, housing conditions, employment, wages, working conditions, poverty, income inequality, social protection.",
-    "Health & Safety": "Physical and mental health, workplace safety, crime, gender-based violence.",
+    "Money & Markets": "Financial markets and instruments, national accounts, public and private debt, exchange/interest rates, international trade, business demography and enterprise/government activity.",
+    "People, Work & Living Conditions": "Population structure, households, births, deaths and migration, housing conditions, employment, wages, working conditions, poverty, income inequality, social protection.",
+    "Health & Safety": "Physical and mental health, healthcare, mortality and survival as health outcomes, workplace safety, crime, gender-based violence.",
     "Learning & Education": "Education at all levels, lifelong learning, skills acquired.",
     "Environment & Natural Resources and Production": "Environment, energy, land use, agriculture, fisheries, forestry, natural resource sustainability.",
     "Transports": "Transport of people and goods across all modes (air, maritime, rail, road, inland waterways).",
-    "Tech & Innovation": "Digital technologies, research and development, intellectual property, innovation.",
-    "Living Well": "Culture, sport, tourism, leisure time use, quality of life."
+    "Tech & Innovation": "Digital technologies and ICT, including internet access, digital skills, ICT specialists, R&D, innovation, high-tech activities, patents, trademarks, designs, and intellectual property.",
+    "Living Well": "Culture and cultural activities participation, sport, tourism, leisure, recreation, time use, well-being, and secondary activities."
 }
 
 
@@ -36,7 +37,9 @@ def build_message(terms):
 
             RULES:
             - For EVERY list of terms you receive, choose EXACTLY ONE domain. Never assign more than one domain to the same list, even if it seems to fit several.
-            - I'll give you a dictionary with the domains as keys and explanations of what each should contain as values.
+            - Assign each statistic to the most appropriate domain based on what is being measured, not on its disaggregation variables.
+            - Classify according to the substantive phenomenon being measured, not according to the generic context in which it appears.
+            - I'll give you a dictionary with the domains as keys and explanations of what each represents.
             - Respond ONLY with single chosen domain name. No explanation, no markdown, no extra text.
 
             """
@@ -88,11 +91,11 @@ def prompt(input_data, llm_files_path):
 
     output_file = llm_files_path / "cluster_domain.csv"
 
-    # Recreate the file with header if it does alredy exist
-    if output_file.exists():
-        output_file.unlink()
+    # # Recreate the file with header if it does alredy exist
+    # if output_file.exists():
+    #     output_file.unlink()
 
-    pd.DataFrame(columns=["cluster", "domain"]).to_csv(output_file, index=False)
+    # pd.DataFrame(columns=["cluster", "domain"]).to_csv(output_file, index=False)
 
 
     result = []
@@ -111,7 +114,7 @@ def prompt(input_data, llm_files_path):
             result.append({"cluster": cluster, "domain": asw})
 
             # Write immediately to CSV
-            pd.DataFrame([{"cluster": cluster, "domain": asw}]).to_csv(llm_files_path / "cluster_domain.csv", mode="a", header=False, index=False)
+            pd.DataFrame([{"cluster": cluster, "domain": asw}]).to_csv(output_file, mode="a", header=False, index=False)
 
         except Exception as e:
 
@@ -126,3 +129,7 @@ def prompt(input_data, llm_files_path):
     print("\nClustering completed.")
 
     return pd.DataFrame(result)
+
+
+
+# prompt(pd.read_csv("clustering/llm_files/cluster_words.csv").to_dict("records"), Path("clustering/llm_files"))

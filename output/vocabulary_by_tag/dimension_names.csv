@@ -1,12 +1,10 @@
 term
-9999.0
 Abstraction and use sector or treatment type
 Accident
 Accommodation unit
 Activity and employment status
 Administrative domain
 Age class
-Age class\Time
 Age definition
 Age of the child
 Agricultural area
@@ -56,18 +54,17 @@ Consumption footprint
 Control over working time
 Cooperation partners
 Cooperative patent classification
-Country of cabotage\Time
+Country of cabotage
 Country of citizenship
 Country of destination
-Country of origin\Time
-Country of registration\Time
+Country of origin
+Country of registration
 Country of residence
 Country/region of birth
 Crop production
 Crops
 Cross border trade
 Currency
-Currency\Time
 Customer
 Dairy and other animal products (except meat)
 Data source
@@ -93,7 +90,6 @@ Enterprise
 Enterprise group identification
 Entity
 Environment indicator
-Environment indicator\Time
 Eurofarm indicators
 Exchange rate
 Expenditure and investment
@@ -107,13 +103,10 @@ Foreign direct investment item
 Forestry indicators
 Frequency
 Fruit species and groups of varieties
-Geopolitical entity (declaring)\Time
+Geopolitical entity (declaring)
 Geopolitical entity (partner)
-Geopolitical entity (partner)\Time
 Geopolitical entity (reporting)
-Geopolitical entity (reporting)\Time
 Hazard class
-Hazard class\Time
 Health care
 Health facility
 Health indicator
@@ -161,12 +154,9 @@ Life satisfaction
 List of products - EAA
 Live animals
 Loading status
-Loading status\Time
 Main expenditure type
 Maritime entity (partner)
-Maritime entity (partner)\Time
 Maritime entity (reporting)
-Maritime entity (reporting)\Time
 Materials
 Maturity
 Means of goods and services supply
@@ -174,7 +164,7 @@ Means testing
 Meat product
 Media
 Medical speciality
-Metropolitan regions\Time
+Metropolitan regions
 Migration status
 Milk product
 Modalities of the variable for the ad-hoc module
@@ -209,7 +199,6 @@ Price setting
 Professional position
 Protected or protective area
 Purchases
-Purchases\Time
 Purpose
 Quantile
 Rail network Segment (2015)
@@ -224,7 +213,6 @@ Reporting airport
 Risk of poverty threshold
 Risk type
 Sea basins
-Sea basins\Time
 Seasonal adjustment
 Sector
 Sector (ESA 2010)
@@ -233,7 +221,6 @@ Sector of performance
 Seniority category
 Severity (days lost)
 Sex
-Sex\Time
 Share of income
 Size classes in number of employees
 Size classes in number of members
@@ -275,11 +262,9 @@ Time frequency
 Tourism indicator
 Traffic and transport measurement
 Train category
-Train category\Time
 Training
 Transition from the previous year situation
 Transport coverage
-Transport coverage\Time
 Transport infrastructure
 Type of activity
 Type of assistance provided/needed for disabled persons to work
@@ -307,7 +292,6 @@ Type of victim
 Type of violence
 Type of withdrawal
 Unit of measure
-Unit of measure\Time
 Usage of the trademark
 Vehicles
 Victim - Yes/No
@@ -317,7 +301,6 @@ Wastewater treatment plant parameters
 Wastewater treatment plants
 Water pollutants
 Water process
-Water process\Time
 Water sources
 Weight
 Wine-grape vine variety
@@ -340,13 +323,12 @@ currency
 diagnose
 expend
 fishreg
-fishreg\TIME_PERIOD
-geo\TIME_PERIOD
+geo
 ind_inpu
 ind_outp
 indic_ag
 indic_en
-indic_env\TIME_PERIOD
+indic_env
 indic_sb
 isced11
 itm_newa

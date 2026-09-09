@@ -1,8 +1,9 @@
 import pandas as pd
 from pathlib import Path
 
-from utils import is_numeric, is_date, parse_title, split_attributes, save_vocabulary_by_tag, save_code_measure
+from utils import is_numeric, parse_title, split_attributes, strip_time_marker, save_vocabulary_by_tag
 from clustering.clustering import build_clusters
+from clustering.similarity_forest.build_forest import export_forest_csv
 
 
 """
@@ -41,7 +42,7 @@ OUTPUT = Path("output")
 OUTPUT.mkdir(parents=True, exist_ok=True)
 
 
-def vocaboulary_set():
+def vocabulary_set():
 
     directory = TABLES / "eurostat_2000_tables"
 
@@ -56,8 +57,6 @@ def vocaboulary_set():
     V_t = {}
     Geo_t = {}
 
-    M = {}
-
     csv_files = [file for file in sorted(directory.iterdir()) if file.suffix == ".csv"]
     total_files = len(csv_files)
 
@@ -65,6 +64,7 @@ def vocaboulary_set():
 
     for i, file in enumerate(csv_files, start=1):
 
+        print(f"__{file.name}")
         tables = pd.read_csv(file, low_memory=False)
         attributes = tables.columns.tolist()
 
@@ -83,19 +83,20 @@ def vocaboulary_set():
 
         for attribute in string_attributes:
 
+            cleaned_attribute = strip_time_marker(attribute)
+
             # 2.1 Attribute name -> N
-            S_t[file.name].add(attribute)
+            S_t[file.name].add(cleaned_attribute)
 
-            if attribute not in V_t[file.name]:
-                V_t[file.name][attribute] = set()
-
-            V_t[file.name][attribute].add("N")
+            if cleaned_attribute not in V_t[file.name]:
+                V_t[file.name][cleaned_attribute] = set()
+            V_t[file.name][cleaned_attribute].add("N")
 
             values = tables[attribute].dropna()
 
             for value in values:
 
-                if not isinstance(value, str) or is_numeric(value) or is_date(value):
+                if not isinstance(value, str) or is_numeric(value):
                     continue
 
                 # 2.2 String value
@@ -118,17 +119,11 @@ def vocaboulary_set():
         # 4. Remaining title
         if title_remaining:
 
-            # Store the measure with its M tag
-            if title_remaining not in V_t[file.name]:
-                V_t[file.name][title_remaining] = set()
-            V_t[file.name][title_remaining].add("M")
+                # Store the measure with its M tag
+                if title_remaining not in V_t[file.name]:
+                    V_t[file.name][title_remaining] = set()
+                V_t[file.name][title_remaining].add("M")
 
-            # Store the files associated with the measure
-            if title_remaining not in M:
-                M[title_remaining] = set()
-            M[title_remaining].add(file.stem)
-
-            (OUTPUT / "vocabulary_by_tag/measures").mkdir(parents=True, exist_ok=True)
 
         percentage = (i / total_files) * 100
         print(f"\rVocabulary construction: {percentage:.1f}% of completion", end="", flush=True)
@@ -137,16 +132,32 @@ def vocaboulary_set():
 
     # 5-6. Global mapped vocabulary
     V = {}
-
+    
     for vocabulary in V_t.values():
         for term, tags in vocabulary.items():
-            if term not in V:
-                V[term] = set()
-            V[term].update(tags)
+            V.setdefault(term, set()).update(tags)
+
+    # ora il collapse va fatto sull'unione globale, non per-tabella
+    for term, tags in V.items():
+        if tags == {"U", "A"}:
+            V[term] = {"U"}
 
 
+    (OUTPUT / "vocabulary_by_tag").mkdir(parents=True, exist_ok=True)
     save_vocabulary_by_tag(V, OUTPUT / "vocabulary_by_tag")
-    save_code_measure(M, OUTPUT / "vocabulary_by_tag")
+
+
+    # 8. Extract hierarchical relationships between measures and build a tree forest
+    FOREST = Path("clustering/similarity_forest")
+    print("Building tree-based clusters...")
+
+    export_forest_csv(
+        OUTPUT / "vocabulary_by_tag/measures.csv",
+        FOREST / "forest_export.csv",
+        FOREST / "roots.csv",
+        params={"max_split_depth": None, "cos_sim_threshold": 0.65}
+    )
+
 
     # 7. Domain clustering
     CLUSTER = OUTPUT / "clustering"
@@ -154,10 +165,9 @@ def vocaboulary_set():
 
     print("Domain clustering started...")
 
-    build_clusters(OUTPUT / "vocabulary_by_tag/measures/code_measures.csv", CLUSTER)
-
+    build_clusters(OUTPUT / "vocabulary_by_tag/measures.csv", FOREST / "forest_export.csv", CLUSTER)
 
 
 
 if __name__ == "__main__":
-    vocaboulary_set()
+    vocabulary_set()
