@@ -1,1069 +1,1518 @@
 tree_id,parent_tree_id,split_from_path,root_path,n_measures
-0,,,3,3
-1,0.0,3 > month,3 > month > rates > for > euro > area > countries,2
-2,0.0,3 > month,3 > month > interest > rate,1
-3,,,abortion,1
-4,,,access,1
-5,,,accidental,1
-6,,,accidents,2
-7,6.0,accidents,accidents > in > inland > waterway > transport,1
-8,6.0,accidents,accidents > involving > the > transport > of > dangerous > goods > annual > data,1
-9,,,accommodation,1
-10,,,acquisition,1
-11,,,activity,3
-12,,,additional,1
-13,,,adjusted,2
-14,,,adult,1
-15,,,age,1
-16,,,aggregate,7
-17,16.0,aggregate,aggregate > propensity > to > consume > by,4
-18,16.0,aggregate,aggregate > replacement > ratio,3
-19,,,agricultural,9
-20,19.0,agricultural,agricultural > holdings,6
-21,20.0,agricultural > holdings > by,agricultural > holdings > by > economic > size > of > the > farm > standard > output > in > euro,1
-22,19.0,agricultural,agricultural > land,2
-23,19.0,agricultural,agricultural > real > factor > income > per > annual > work > unit > awu,1
-24,,,air,14
-25,24.0,air,air > emission > intensity > from > industry,1
-26,24.0,air,air > emissions > per > sector > and > per > gas,1
-27,24.0,air,air > pollutants,1
-28,24.0,air > transport > of,air > transport > of > freight > by > nuts > 2 > regions,1
-29,24.0,air > transport > of > passengers > by,air > transport > of > passengers > by > nuts > 2 > regions,1
-30,24.0,air > transport > of > passengers > by,air > transport > of > passengers > by > country,2
-31,,,all,1
-32,,,ammonia,2
-33,,,animal,1
-34,,,annual,10
-35,34.0,annual,annual > aquaculture > production > live > weight > in > tonnes,1
-36,34.0,annual,annual > captures > of > fish > live > weight > in > tonnes > by > fishing > areas,1
-37,34.0,annual,annual > earnings > by,4
-38,34.0,annual,annual > freshwater > abstraction > by > source,1
-39,34.0,annual,annual > net > earnings > of > a > full > time > single > worker > without > children > earning > an > average > wage,1
-40,34.0,annual,annual > production > and > utilisation > of > milk > on > the > farm,1
-41,34.0,annual,annual > work > units > in > forestry > and > logging,1
-42,,,apparent,1
-43,,,applicants,1
-44,,,aquaculture,2
-45,,,area,5
-46,45.0,area,area > at > risk > of > severe > soil > erosion > by > water,1
-47,45.0,area,area > of > wooded > land > fe,1
-48,45.0,area,area > under,2
-49,48.0,area > under,area > under > organic > farming,1
-50,48.0,area > under,area > under > wine > grape > vine > varieties > broken > down > by > vine > variety > and > by > age > of > the > vines,1
-51,45.0,area,area > by > species > area > in > ha,1
-52,,,arrears,3
-53,52.0,arrears,arrears > mortgage > or > rent > utility > bills > or > hire > purchase > by > nuts > regions,1
-54,52.0,arrears,arrears > on > non > housing > bills > by,2
-55,,,arrivals,5
-56,55.0,arrivals > of,arrivals > of > tourists > at > the > border,1
-57,,,asylum,9
-58,57.0,asylum,asylum > decisions > at,2
-59,,,at,29
-60,59.0,at,at > least > upper > secondary > educational > attainment > age > group,2
-61,59.0,at,at > most > lower > secondary > educational > attainment > by > age,1
-62,59.0,at,at > risk > of > poverty,26
-63,62.0,at > risk > of > poverty > rate > of,at > risk > of > poverty > rate > of > unemployed > persons,1
-64,62.0,at > risk > of > poverty > rate > by,at > risk > of > poverty > rate > by > nuts > 2 > regions,1
-65,62.0,at > risk > of > poverty > rate > after,at > risk > of > poverty > rate > after > deducting > housing > costs > by > degree > of > urbanisation,1
-66,62.0,at > risk > of > poverty > rate > after,at > risk > of > poverty > rate > after > social > transfers > by > sex,1
-67,,,autonomous,3
-68,,,available,1
-69,,,average,19
-70,69.0,average,average > co2 > emissions > per > km > from > new > passenger > cars > source > dg > clima > hidden > dat,1
-71,69.0,average,average > age > at > which > employed > persons > started > receiving > a > retirement > pension > by > sex > and > main > financial > incentive > to > stay > at > work,1
-72,69.0,average,average > expenditure > per,2
-73,72.0,average > expenditure > per,average > expenditure > per > night,1
-74,72.0,average > expenditure > per,average > expenditure > per > trip,1
-75,69.0,average,average > full > time > adjusted > salary > per > employee,1
-76,69.0,average,average > gross > annual > earnings > in > industry > and > services > by > sex,1
-77,69.0,average,average > nominal > monthly > wages > and > salaries,1
-78,69.0,average,average > number > of,8
-79,78.0,average > number > of,average > number > of > foreign > languages > studied > per > pupil > by > education > level,1
-80,78.0,average > number > of,average > number > of > rooms > per > person > by,3
-81,78.0,average > number > of,average > number > of > weekly > hours > of,4
-82,69.0,average,average > population > mid > year,2
-83,69.0,average,average > remuneration > of > national > civil > servants > in > central > public > administration,1
-84,,,aviation,1
-85,,,berd,1
-86,,,balance,8
-87,86.0,balance > of,balance > of > payments,6
-88,86.0,balance > of,balance > of > trade,2
-89,,,balancing,1
-90,,,barley,1
-91,,,bathing,1
-92,,,beds,1
-93,,,beneficiaries,4
-94,93.0,beneficiaries > of,beneficiaries > of > disability > pensions > by,2
-95,93.0,beneficiaries > of,beneficiaries > of > temporary > protection,2
-96,,,biochemical,1
-97,,,body,2
-98,,,breast,1
-99,,,bribery,1
-100,,,broadband,1
-101,,,building,2
-102,,,buses,1
-103,,,business,2
-104,103.0,business,business > demography > by > size > class > and > nace > rev > 2 > activity,1
-105,103.0,business,business > written > in > non > eea > countries,1
-106,,,co2,1
-107,,,capital,1
-108,,,carrying,3
-109,108.0,carrying > capacity > of,carrying > capacity > of > merchant > ships > of > 1000 > grt > and > over > by > vessel > type,1
-110,108.0,carrying > capacity > of,carrying > capacity > of > pipelines > operated,1
-111,108.0,carrying > capacity > of,carrying > capacity > of > the > inland > waterway > transport > enterprises > vessels > by > number > of > vessels > in > enterprises,1
-112,,,catches,3
-113,,,causes,3
-114,113.0,causes > of > death,causes > of > death > crude > death > rate > by > nuts > 2 > region > of > residence,1
-115,113.0,causes > of > death,causes > of > death > potential > years > of > life > lost > by > residence,1
-116,113.0,causes > of > death,causes > of > death > by > sex,1
-117,,,central,3
-118,,,cereals,1
-119,,,change,1
-120,,,child,3
-121,,,children,9
-122,121.0,children > aged,children > aged > 0 > to > 17,2
-123,121.0,children > aged,children > aged > less > than,3
-124,123.0,children > aged > less > than,children > aged > less > than > 18,2
-125,124.0,children > aged > less > than > 18,children > aged > less > than > 18 > at > risk > of > poverty > or > social > exclusion > eu2030 > target,1
-126,124.0,children > aged > less > than > 18,children > aged > less > than > 18 > living > in > households > with > very > low > work > intensity > by > sex,1
-127,123.0,children > aged > less > than,children > aged > less > than > 3 > years > in > formal > childcare,1
-128,121.0,children,children > cared > only > by > their > parents > by > age > group > over > the > population > of > each > age > group > eu > silc > survey,1
-129,121.0,children,children > having > one > of > their > parents > living > outside > the > household,1
-130,121.0,children,children > with > unmet > needs > for > medical > examination > or > treatment > by > specific > reason,1
-131,,,circular,2
-132,,,classroom,1
-133,,,climate,1
-134,,,collection,1
-135,,,commercial,4
-136,135.0,commercial,commercial > aircraft > fleet > by,3
-137,135.0,commercial,commercial > airports > by > type,1
-138,,,commissions,2
-139,,,common,3
-140,,,,12
-141,140.0,,communication,1
-142,140.0,,debts,1
-143,140.0,,emigration,1
-144,140.0,,employment,1
-145,140.0,,erosion,1
-146,140.0,,immigration,1
-147,140.0,,landuse,1
-148,140.0,,literacy,1
-149,140.0,,livestock,1
-150,140.0,,trams,1
-151,140.0,,wages,1
-152,140.0,,area,1
-153,,,community,13
-154,,,comparative,1
-155,,,compensation,2
-156,,,composition,1
-157,,,concentration,1
-158,,,confidence,1
-159,,,consolidated,1
-160,,,consultation,3
-161,,,consumer,1
-162,,,consumption,4
-163,162.0,consumption,consumption > footprint > single > weighted > score,1
-164,162.0,consumption,consumption > of,3
-165,164.0,consumption > of,consumption > of > antibiotics > in > the > community > and > hospital > sectors > defined > daily > doses > ddd > per > day,1
-166,164.0,consumption > of,consumption > of > chemicals > by > hazardousness > aggregate,1
-167,164.0,consumption > of,consumption > of > lightweight > plastic > carrier > bags > by > their > wall > thickness,1
-168,,,container,1
-169,,,contribution,2
-170,169.0,contribution,contribution > of > recycled > materials > to > raw > materials > demand > end > of > life > recycling > input > rates > eol > rir,1
-171,169.0,contribution,contribution > to > the > international > 100bn > usd > commitment > on > climate > related > expending,1
-172,,,convergence,1
-173,,,conversion,1
-174,,,cooling,1
-175,,,correction,3
-176,,,corruption,1
-177,,,country,5
-178,177.0,country > level,country > level > gross > weight > of > goods,3
-179,177.0,country > level,country > level > passengers > embarked > and > disembarked > in > all > ports,1
-180,177.0,country > level,country > level > volume > in > teus > of > containers > handled > in > main > ports > by > loading > status,1
-181,,,crimes,2
-182,,,crop,2
-183,,,crude,3
-184,183.0,crude,crude > rate > of > birth > of > dead > and > of > population > change,1
-185,,,cultural,1
-186,,,current,10
-187,186.0,current,current > account,7
-188,187.0,current > account,current > account > balance,2
-189,187.0,current > account,current > account > transactions,5
-190,186.0,current,current > depressive > symptoms > by > sex > age > and,2
-191,186.0,current,current > level > of > capacity > utilization > in > manufacturing > industry,1
-192,,,customers,1
-193,,,daily,3
-194,193.0,daily,daily > consumption > of > fruit > and > vegetables > by > sex > age > and > educational > attainment > level,1
-195,193.0,daily,daily > smokers > of > cigarettes > by > sex > age > and,2
-196,,,day,3
-197,196.0,day > to > day,day > to > day > money > market > interest > rates,1
-198,196.0,day > to > day,day > to > day > rates > for > euro > area > countries,2
-199,,,death,13
-200,,,deaths,4
-201,200.0,deaths,deaths > and > crude > death > rate,1
-202,200.0,deaths,deaths > by,2
-203,200.0,deaths,deaths > of > residents > related > to > dementias > including > alzheimer,1
-204,,,debt,1
-205,,,decisions,4
-206,,,demographic,1
-207,,,departures,1
-208,,,depth,1
-209,,,direct,4
-210,,,disaggregated,1
-211,,,discharges,1
-212,,,dispersion,2
-213,,,distribution,16
-214,213.0,distribution > of,distribution > of > digital > platform > workers,9
-215,213.0,distribution > of,distribution > of > households,6
-216,213.0,distribution > of,distribution > of > population > by > household > types > eu > silc > survey,1
-217,,,diversity,1
-218,,,domestic,9
-219,218.0,domestic,domestic > material > consumption > per > capita,1
-220,,,drought,1
-221,,,dry,1
-222,,,duration,1
-223,,,dwellings,1
-224,,,ecu,1
-225,,,emu,2
-226,,,early,6
-227,226.0,early,early > leavers > from > education > and > training,5
-228,226.0,early,early > retirement > among > persons > who > receive > an > old > age > pension,1
-229,,,economic,3
-230,229.0,economic,economic > accounts > for > agriculture > eaa,1
-231,229.0,economic,economic > activity,1
-232,229.0,economic,economic > sentiment > indicator,1
-233,,,economically,1
-234,,,effect,4
-235,234.0,effect > of,effect > of > the > search > for > information > on > learning > possibilities,1
-236,,,electricity,1
-237,,,emigration,1
-238,,,employed,24
-239,238.0,employed,employed > ict > specialists,3
-240,238.0,employed,employed > in > service > sector > and > occupational > status > of > recent > school > leavers,1
-241,238.0,employed > persons > being,employed > persons > being > able > to,2
-242,238.0,employed > persons > being,employed > persons > being > self > employed > without > employees > by > sex,1
-243,238.0,employed > persons,employed > persons > working,4
-244,,,employees,6
-245,244.0,employees,employees > by > flexibility > of > their > working > schedule > and > educational > attainment > level > 1 > 000,1
-246,244.0,employees,employees > having > a > good > relationship > with > their > supervisor > by > sex > and > age,1
-247,244.0,employees,employees > receiving > regular > feedback > from > their > supervisor > by > sex > and > age,1
-248,244.0,employees > with > a,employees > with > a > contract > of > limited > duration > annual > average,1
-249,244.0,employees > with > a,employees > with > a > flexible > work > schedule > by > sex,1
-250,244.0,employees,employees > domestic > concept > annual > data,1
-251,,,employment,29
-252,251.0,employment,employment > thousand > persons > by > nuts > 3 > regions,1
-253,251.0,employment > and,employment > and > economic > activity > branches,1
-254,251.0,employment > and,employment > and > employment > rates > 20 > 64 > years > old > by > sex,1
-255,251.0,employment > by,employment > by > professional > status,1
-256,251.0,employment > by,employment > by > age > group,1
-257,251.0,employment,employment > expectations,2
-258,251.0,employment > in,employment > in > foreign,2
-259,251.0,employment > in,employment > in > high > and > medium > high > technology > manufacturing > sectors > and > knowledge > intensive > service > sectors,1
-260,251.0,employment > in,employment > in > inland > waterways > transport > enterprises > by,2
-261,251.0,employment > in,employment > in > sport > by,2
-262,261.0,employment > in > sport > by,employment > in > sport > by > age,1
-263,261.0,employment > in > sport > by,employment > in > sport > by > sex,1
-264,251.0,employment > rate > by,employment > rate > by > sex,1
-265,251.0,employment > rate > by,employment > rate > by > citizenship,1
-266,251.0,employment > rates,employment > rates > of > recent > graduates,1
-267,,,end,1
-268,,,energy,8
-269,268.0,energy,energy > historical > data > former > methodology > and > source,1
-270,268.0,energy,energy > import > dependency > by > products,1
-271,268.0,energy,energy > removed > from > district > networks > by > customers > type > of > networks > and > efficiency > of > network,1
-272,268.0,energy,energy > self > reliance,1
-273,,,enterprises,17
-274,273.0,enterprises > by,enterprises > by > sourcing > status > and > enterprise > group > identification > collection > round > experimental > statistics,1
-275,273.0,enterprises > by > type > of,enterprises > by > type > of > movement > of > business > functions > from > abroad > and > by > nace > rev > 2 > activity > experimental > statistics,1
-276,273.0,enterprises,enterprises > having > received > orders > online > at > least > 1 > of > enterprises,1
-277,273.0,enterprises,enterprises > in > wholesale > trade > repair > of > vehicles > and > motorcycles > nace > rev > 2 > g > changes > in > stocks,1
-278,273.0,enterprises,enterprises > sourcing > abroad,1
-279,273.0,enterprises,enterprises > using > software > solutions > like > crm > to > analyse > information > about > clients > for > marketing > purposes,1
-280,273.0,enterprises,enterprises > with > members > in > other > countries,1
-281,,,environmental,2
-282,281.0,environmental,environmental > protection > investments > of > total > economy,1
-283,281.0,environmental,environmental > tax > revenues,1
-284,,,equidae,1
-285,,,estimated,4
-286,285.0,estimated,estimated > average > age > of > young > people > leaving > the > parental > household > by > sex,1
-287,285.0,estimated,estimated > soil > loss > by > water > erosion > by > land > cover > type,1
-288,285.0,estimated,estimated > trends > in,2
-289,,,eu,4
-290,,,euro,5
-291,290.0,euro,euro > zone > business > climate > indicator > monthly > data,1
-292,,,european,5
-293,,,ever,15
-294,293.0,ever,ever > partnered > women > who > have > experienced > violence > by > an > intimate > partner,10
-295,293.0,ever,ever > working > women > who > have > experienced > sexual > harassment > at > work > by,5
-296,,,excess,1
-297,,,exchange,1
-298,,,expected,1
-299,,,expenditure,12
-300,299.0,expenditure > on,expenditure > on > education > in > constant > prices,1
-301,299.0,expenditure > on,expenditure > on > inland > waterway > transport > infrastructure > and > freight > vessels,1
-302,299.0,expenditure > on,expenditure > on > road > transport > vehicles > and > road > infrastructure,1
-303,299.0,expenditure > on,expenditure > on > rolling > stock > and > railway > infrastructure,1
-304,299.0,expenditure > on,expenditure > on > social,5
-305,299.0,expenditure > on,expenditure > on > administration > costs,1
-306,,,export,5
-307,306.0,export,export > market > shares,4
-308,306.0,export,export > to > import > ratio,1
-309,,,exports,10
-310,309.0,exports,exports > electricity > monthly > data,1
-311,309.0,exports,exports > of,9
-312,,,exposure,1
-313,,,external,1
-314,,,extra,4
-315,,,fdi,1
-316,,,family,1
-317,,,farm,1
-318,,,fat,1
-319,,,fatal,1
-320,,,female,2
-321,320.0,female,female > school > management > personnel > as > of > total > school > management > personnel > by > education > level,1
-322,320.0,female,female > tertiary > education > graduates > in > stem > education > fields > of > all > tertiary > education > graduates > in > stem > education > fields,1
-323,,,fertility,2
-324,323.0,fertility,fertility > indicators > by > nuts > 3 > region,1
-325,323.0,fertility,fertility > rate,1
-326,,,fetal,1
-327,,,final,11
-328,327.0,final,final > decisions > on > asylum > applicationsby > type > of > decision > annual > data,1
-329,327.0,final,final > energy > consumption,4
-330,329.0,final > energy > consumption > by,final > energy > consumption > by > agriculture > forestry > per > hectare > of > utilised > agricultural > area,1
-331,329.0,final > energy > consumption > by,final > energy > consumption > by > sector,1
-332,,,financial,8
-333,332.0,financial,financial > account > annual > data,1
-334,332.0,financial,financial > accounts > for > institutions,1
-335,332.0,financial,financial > aid > to > students,2
-336,332.0,financial,financial > derivatives > and > employee > stock > options > annual > data > million > units > of > national > currency,1
-337,332.0,financial,financial > sector,3
-338,337.0,financial > sector,financial > sector > leverage > debt > to > equity > non > consolidated,1
-339,337.0,financial > sector,financial > sector > liabilities,2
-340,,,first,7
-341,340.0,first,first > instance > decisions > on > asylum > applications > by > type > of > decision > annual > aggregated > data,1
-342,340.0,first,first > permits > by > reason,1
-343,340.0,first,first > residence > permits,2
-344,340.0,first,first > time > asylum,3
-345,,,fish,2
-346,,,fishing,2
-347,,,food,1
-348,,,foreign,1
-349,,,forest,1
-350,,,formal,1
-351,,,former,1
-352,,,freight,2
-353,,,frequency,4
-354,353.0,frequency > of,frequency > of > internet > use > by > individuals > aged > 16 > 74,1
-355,,,fresh,2
-356,355.0,fresh,fresh > vegetables > and > strawberries > by > area,1
-357,355.0,fresh,fresh > water > abstraction > by > source > per > capita > m > per > capita,1
-358,,,freshwater,1
-359,,,gdp,3
-360,359.0,gdp,gdp > per > capita > in > pps,1
-361,359.0,gdp,gdp > weights > used > in > the > calculation > of > the > global > specific > indicator,1
-362,,,ghg,1
-363,,,gni,1
-364,,,gas,1
-365,,,gender,17
-366,365.0,gender,gender > parity > index > by > education > level,1
-367,,,general,15
-368,367.0,general,general > education,1
-369,367.0,general,general > government,13
-370,369.0,general > government,general > government > employment,1
-371,369.0,general > government,general > government > total > expenditure > on > law > courts,1
-372,367.0,general,general > indicators,1
-373,,,generation,7
-374,,,gini,6
-375,,,global,1
-376,,,goods,10
-377,376.0,goods > and,goods > and > passenger > train > traffic > performance,1
-378,376.0,goods > and,goods > and > services > imports > and > exports,1
-379,376.0,goods > transported,goods > transported > detailed > reporting > only > quarterly > data,1
-380,376.0,goods > transported,goods > transported > by > type > of > consignment,1
-381,,,government,7
-382,381.0,government,government > bond > yields > 10 > years > maturity,3
-383,381.0,government,government > deficit > surplus > and > debt,1
-384,381.0,government,government > final > consumption > expenditure,2
-385,381.0,government,government > support > to > agricultural > research > and > development,1
-386,,,graduates,3
-387,,,grain,1
-388,,,grapes,1
-389,,,grassland,1
-390,,,green,3
-391,390.0,green,green > bond > issuance > by,2
-392,390.0,green,green > maize > by > area > production > and > humidity,1
-393,,,greenhouse,2
-394,,,gross,57
-395,394.0,gross,gross > capital > formation,1
-396,394.0,gross,gross > debt > to > income > ratio > of > households,1
-397,394.0,gross,gross > disposable > income,1
-398,394.0,gross > domestic,gross > domestic > expenditure > on,2
-399,394.0,gross > domestic,gross > domestic > product,7
-400,394.0,gross,gross > external > debt > of > the > whole > economy,2
-401,394.0,gross,gross > fixed > capital > formation,4
-402,394.0,gross,gross > non > performing > loans > domestic > and > foreign > entities > of > gross > loans,1
-403,394.0,gross,gross > saving,1
-404,394.0,gross > value > added,gross > value > added > at > basic > prices > by > nuts > 3 > regions,1
-405,394.0,gross > value > added,gross > value > added > in > environmental > goods > and > services > sector,1
-406,394.0,gross > value > added,gross > value > added > of > the > agricultural > industry > basic > and > producer > prices,1
-407,394.0,gross,gross > weight > of,7
-408,,,guest,2
-409,,,hicp,25
-410,409.0,hicp,hicp > alcohol > and > tobacco,1
-411,409.0,hicp > all > items,hicp > all > items > annual > average > indices,1
-412,409.0,hicp > all > items,hicp > all > items > excluding,5
-413,409.0,hicp,hicp > country > weights,1
-414,409.0,hicp,hicp > inflation > rate,1
-415,409.0,hicp,hicp > recreation > and > culture,1
-416,,,hauled,2
-417,416.0,hauled,hauled > passenger > railway > vehicle > traffic > performance > by > type > of > railway > vehicle > speed > seat > km > until,1
-418,416.0,hauled,hauled > vehicle > traffic > performance > tkm > until,1
-419,,,health,6
-420,419.0,health,health > care > expenditure,3
-421,419.0,health,health > graduates,1
-422,419.0,health,health > impacts > of > air > pollution,1
-423,419.0,health,health > personnel,1
-424,,,healthy,6
-425,,,high,3
-426,425.0,high,high > speed > internet > coverage > by > type > of > area,1
-427,425.0,high,high > tech > exports,2
-428,,,higher,1
-429,,,hospital,1
-430,,,hours,17
-431,430.0,hours,hours > spent > in > cvt > courses > by,16
-432,430.0,hours,hours > worked > per > week > of > full > time > employment,1
-433,,,house,8
-434,433.0,house > price > index,house > price > index > item > weights,1
-435,,,household,5
-436,435.0,household,household > composition > by > size,1
-437,435.0,household,household > consumption > volumes > of,2
-438,435.0,household,household > debt > consolidated > including > non > profit > institutions > serving > households > of > gdp,1
-439,435.0,household,household > saving > rate,1
-440,,,households,8
-441,440.0,households,households > by > size > number > of > persons,1
-442,440.0,households,households > investment > rate,1
-443,440.0,households,households > maintaining > the > same > standard > of > living > using > savings > by > duration > and > risk > of > poverty > threshold,1
-444,440.0,households,households > that > have > internet > access > at > home > by > nuts > 2 > regions,1
-445,440.0,households,households > with,2
-446,445.0,households > with,households > with > access > to > secure > tenure > by > simplified > degree > of > urbanisation,1
-447,445.0,households > with,households > with > sustainable > access > to > improved > sanitation > by > simplified > degree > of > urbanisation,1
-448,,,housing,13
-449,448.0,housing,housing > cost > overburden > rate,10
-450,448.0,housing,housing > units > by > type,2
-451,,,human,1
-452,,,immigration,1
-453,,,implicit,1
-454,,,import,7
-455,454.0,import,import > dependency > on > third > countries > by > fuel > type,1
-456,454.0,import,import > prices,6
-457,,,imports,9
-458,457.0,imports,imports > electricity > monthly > data,1
-459,457.0,imports,imports > of > goods,8
-460,,,in,8
-461,460.0,in > work > at > risk > of > poverty > rate > by,in > work > at > risk > of > poverty > rate > by > sex,1
-462,,,inability,5
-463,462.0,inability > to,inability > to > afford > a > meal > with > meat > chicken > fish > or > vegetarian > equivalent > every > second > day,2
-464,462.0,inability > to,inability > to > face > unexpected > financial > expenses > by > nuts > regions,1
-465,462.0,inability > to,inability > to > keep > home > adequately > warm > by,2
-466,465.0,inability > to > keep > home > adequately > warm > by,inability > to > keep > home > adequately > warm > by > nuts > regions,1
-467,465.0,inability > to > keep > home > adequately > warm > by,inability > to > keep > home > adequately > warm > by > level > of > disability > activity > limitation > sex > and > age,1
-468,,,inactive,1
-469,,,incidence,1
-470,,,income,8
-471,470.0,income,income > distribution,1
-472,470.0,income,income > from > intellectual > property > rights > for > computer > services,1
-473,470.0,income,income > inequality > for > older > people > eu > silc > survey,1
-474,470.0,income,income > quintile > share > ratio > s80 > s20,3
-475,470.0,income,income > share > of > the > bottom > 40 > of > the > population,1
-476,,,indicator,1
-477,,,indicators,1
-478,,,individuals,18
-479,478.0,individuals > using > the > internet > for,individuals > using > the > internet > for > seeking > health > related > information,1
-480,478.0,individuals > who,individuals > who > have,3
-481,480.0,individuals > who > have,individuals > who > have > basic > or > above > basic > overall > digital > skills > by > sex,1
-482,480.0,individuals > who > have,individuals > who > have > never > used,2
-483,478.0,individuals > who,individuals > who > ordered > goods > or > services > over > the > internet > for > private > use > in > the > last > year > by > nuts > 2 > regions,1
-484,478.0,individuals,individuals > level > of,2
-485,,,industrial,1
-486,,,inequality,2
-487,,,infant,2
-488,,,inland,1
-489,,,inpatient,1
-490,,,intentional,2
-491,,,interests,2
-492,,,intermediate,2
-493,,,international,4
-494,493.0,international > trade,international > trade > in > services > market > integration > indicators > historical > data,1
-495,,,internet,1
-496,,,intra,2
-497,496.0,intra,intra > eu27 > from > trade > by > member > state > total > product,1
-498,496.0,intra,intra > mural > business > enterprise > r > d > expenditures > in > foreign > controlled > enterprises,1
-499,,,intramural,1
-500,,,investment,4
-501,500.0,investment,investment > and > maintenance > in > oil > pipeline > infrastructure,1
-502,500.0,investment,investment > rate > of > non > financial > corporations,1
-503,,,involuntary,2
-504,503.0,involuntary,involuntary > part > time > employment > as > percentage > of > the > total > part > time > employment > by > sex > and > age,1
-505,503.0,involuntary,involuntary > temporary > employment,1
-506,,,inward,1
-507,,,job,2
-508,507.0,job,job > mismatches > and > their > labour > market > effects > among > school > leavers > in > europe,1
-509,507.0,job,job > vacancies > in > number > and > nace > rev > 2 > b > s > quarterly > data,1
-510,,,jobless,2
-511,,,jobs,1
-512,,,joint,1
-513,,,labour,14
-514,513.0,labour,labour > force > participation > rate,2
-515,513.0,labour,labour > input,2
-516,513.0,labour,labour > market > demand > for > ict > specialists > in > online > job > advertisements > by > occupation > isco > 08 > of > online > job > advertisements > for > ict > specialists > experimental > statistics,1
-517,513.0,labour,labour > transitions,2
-518,517.0,labour > transitions,labour > transitions > by > employment > status,1
-519,517.0,labour > transitions,labour > transitions > from > temporary > to > permanent > contracts > by > sex > 3 > year > average,1
-520,,,land,2
-521,520.0,land,land > covered > by > artificial > surfaces > index,1
-522,520.0,land,land > use > footprints,1
-523,,,landfill,1
-524,,,laying,1
-525,,,length,13
-526,525.0,length > of,length > of > navigable > inland > waterways > by > waterway > type,1
-527,525.0,length > of,length > of > network,1
-528,525.0,length > of,length > of > pipelines > operated,1
-529,,,level,2
-530,529.0,level,level > crossings > by > type,1
-531,529.0,level,level > of > internet > access > households,1
-532,,,licensed,1
-533,,,life,3
-534,533.0,life,life > expectancy,2
-535,533.0,life,life > satisfaction > by > sex > age > educational > attainment > and > domain,1
-536,,,literacy,1
-537,,,live,2
-538,,,livestock,2
-539,538.0,livestock,livestock > density > index,1
-540,538.0,livestock,livestock > in > number > of > heads,1
-541,,,living,1
-542,,,load,2
-543,542.0,load > capacity > of,load > capacity > of > new > lorries > semi > trailers > and > trailers > by > type > of > carriage > until,1
-544,542.0,load > capacity > of,load > capacity > of > self > propelled > vessels > by > year > of > construction,1
-545,,,loan,1
-546,,,loans,2
-547,,,local,1
-548,,,long,7
-549,548.0,long,long > term,6
-550,549.0,long > term,long > term > government > bond > yields,1
-551,549.0,long > term,long > term > residence > permits > issued > during > the > year > by > age > sex > and > citizenship,1
-552,549.0,long > term,long > term > residents > by > age > sex > and > citizenship > on > 31 > december > of > each > year,1
-553,549.0,long > term,long > term > unemployment,3
-554,553.0,long > term > unemployment > rate,long > term > unemployment > rate > by > sex,1
-555,553.0,long > term > unemployment > rate,long > term > unemployment > rate > of > active > population > aged > 15 > 74,1
-556,548.0,long,long > working > hours > in > main > job > by > sex > age > professional > status > and > occupation,1
-557,,,low,6
-558,557.0,low,low > achieving > 15 > year > olds > in > reading > mathematics > or > science,2
-559,557.0,low,low > wage > earners > as > a > proportion > of > all > employees > excluding > apprentices > by,4
-560,,,main,2
-561,560.0,main,main > farm > land > use,1
-562,560.0,main,main > flows,1
-563,,,management,1
-564,,,marine,1
-565,,,maritime,14
-566,565.0,maritime,maritime > accident > victims > by > sea > basin > of > occurrence,2
-567,565.0,maritime,maritime > equipment,4
-568,565.0,maritime > transport,maritime > transport > infrastructure > ports,1
-569,565.0,maritime > transport,maritime > transport > of,2
-570,,,market,2
-571,570.0,market,market > production > annual > data,1
-572,570.0,market,market > share > of > the > largest > generator > in > the > electricity > market,1
-573,,,material,10
-574,573.0,material,material > footprint,1
-575,573.0,material,material > import > dependency,1
-576,,,mean,17
-577,576.0,mean,mean > age,2
-578,577.0,mean > age,mean > age > at > first > marriage > by > sex,1
-579,577.0,mean > age,mean > age > of > women > at > childbirth > and > at > birth > of > first > child,1
-580,576.0,mean,mean > annual > earnings > by > nuts > 1 > regions > enterprises > with > 10 > employees > or > more > nace > rev,2
-581,576.0,mean,mean > consumption > expenditure,4
-582,576.0,mean,mean > duration > of > commuting > time > one > way > between > work > and > home > by > sex > and > age,1
-583,576.0,mean,mean > hourly > earnings > by > nuts > 1 > regions > enterprises > with > 10 > employees > or > more > nace > rev,2
-584,576.0,mean,mean > instruction > hours > per,5
-585,576.0,mean,mean > number > of > deprivation > items > among > the > children > deprived > children > aged > less > than > 16 > years,1
-586,,,meat,2
-587,,,median,17
-588,587.0,median,median > age,2
-589,587.0,median,median > hourly > earnings > all > employees > excluding > apprentices > by,2
-590,587.0,median,median > number > of > weekly > hours > of,2
-591,587.0,median,median > of > the > housing > cost > burden > distribution > by,4
-592,587.0,median,median > saving > rate > by,5
-593,,,minimum,1
-594,,,modal,5
-595,594.0,modal,modal > shift > potential > of > long > distance > road > freight > in > containers > tonne,2
-596,594.0,modal,modal > split > of,3
-597,,,money,3
-598,597.0,money,money > market > interest > rates,2
-599,597.0,money,money > supply > and > official > reserves,1
-600,,,monthly,6
-601,600.0,monthly,monthly > earnings > by,4
-602,600.0,monthly,monthly > minimum > wage > as > a > proportion > of > average > monthly > earnings > nace > rev,2
-603,,,motor,1
-604,,,motorcycles,1
-605,,,multinational,2
-606,,,municipal,3
-607,,,national,5
-608,607.0,national,national > civil > servants > in > central > public > administration,1
-609,607.0,national,national > expenditure > on > environmental > protection,1
-610,607.0,national,national > passenger > road > transport > performance > by > type > of > vehicles > registered > in > the > reporting > country,1
-611,607.0,national,national > road > freight > transport > by > region > of,2
-612,,,natura,1
-613,,,natural,1
-614,,,navigable,1
-615,,,net,11
-616,615.0,net,net > lending > borrowing > current > and > capital > account > annual > data,1
-617,615.0,net,net > enrolment > rates > by > sex > and > education > level,1
-618,615.0,net,net > external > debt,2
-619,615.0,net,net > international > investment > position,3
-620,615.0,net,net > occupancy > rate > of > bed > places > and > bedrooms > in > hotels > and > similar,2
-621,615.0,net,net > social > protection > benefits,1
-622,615.0,net,net > trade > balance > of > energy > products > of > gdp,1
-623,,,new,12
-624,623.0,new,new > mopeds > and > motorcycles > by > type > of > motor > energy,1
-625,623.0,new,new > motorcycles > by > engine > size,1
-626,623.0,new,new > semi > trailers > and > their > load > capacity > by > permissible > maximum > gross > weight,1
-627,623.0,new,new > special > purpose > road > vehicles,1
-628,623.0,new,new > trailers > and > their > load > capacity,2
-629,623.0,new,new > trams,1
-630,,,newly,1
-631,,,nights,5
-632,,,nitrate,1
-633,,,nitrogen,1
-634,,,nominal,6
-635,634.0,nominal,nominal > effective > exchange > rate,2
-636,634.0,nominal,nominal > unit > labour > cost,3
-637,,,non,6
-638,637.0,non,non > autonomous > pension > funds,1
-639,637.0,non,non > financial,2
-640,639.0,non > financial,non > financial > accounts > for > institutions,1
-641,639.0,non > financial,non > financial > corporations > debt > consolidated > of > gdp,1
-642,637.0,non,non > household > consumption > volumes > of,2
-643,637.0,non,non > residents > among > all > hospital > discharges,1
-644,,,number,27
-645,644.0,number,number > and > length > of > district > networks > by > type > of > network > and > efficiency > of > network,1
-646,644.0,number,number > of,26
-647,646.0,number > of,number > of > accidents > at > work > by,4
-648,647.0,number > of > accidents > at > work > by,number > of > accidents > at > work > by > nace > rev > 1 > 1 > activity > and,3
-649,647.0,number > of > accidents > at > work > by,number > of > accidents > at > work > by > part > of > body > injured > and > severity,1
-650,646.0,number > of,number > of > accounts > linked > to > cpa > categories,1
-651,646.0,number > of,number > of > airports,1
-652,646.0,number > of,number > of > bed > places,3
-653,646.0,number > of,number > of > bovine > animals,1
-654,646.0,number > of,number > of > branches > in > non > eea > countries,1
-655,646.0,number > of,number > of > compulsory > schooling > years,1
-656,646.0,number > of,number > of > dairy > cows,1
-657,646.0,number > of,number > of > enterprises > carrying > out > cross > border > trade > by,3
-658,646.0,number > of,number > of > establishments > and > bed > places,1
-659,646.0,number > of,number > of > known > species,1
-660,646.0,number > of,number > of > loans > and > advances > to > customers > linked > to > cpa > categories,1
-661,646.0,number > of,number > of > pigs,1
-662,646.0,number > of,number > of > principal > ports,1
-663,646.0,number > of,number > of > railway > vehicles > per > type,1
-664,646.0,number > of,number > of > sheep,1
-665,646.0,number > of,number > of > ships > of,2
-666,646.0,number > of,number > of > work > related > health > problems > by > diagnosis > group > sex > and > number > of > complaints > per > victim,1
-667,,,oats,1
-668,,,obesity,1
-669,,,occupants,1
-670,,,occupied,5
-671,,,official,1
-672,,,oil,1
-673,,,old,1
-674,,,olive,3
-675,,,olives,1
-676,,,organic,2
-677,,,other,2
-678,677.0,other,other > expenditure > on > social > protection,1
-679,677.0,other,other > investment > annual > data > million > units > of > national > currency,1
-680,,,out,4
-681,680.0,out > of,out > of > pocket > expenditure > on > healthcare,1
-682,680.0,out > of,out > of > school > rate,3
-683,,,output,1
-684,,,outward,1
-685,,,overall,2
-686,685.0,overall,overall > employment > growth,1
-687,685.0,overall,overall > life > satisfaction > by > sex > age > and > educational > attainment,1
-688,,,overcrowding,12
-689,,,parents,2
-690,689.0,parents,parents > educational > attainment > level,1
-691,689.0,parents,parents > spending > enough > time > with > children > living > with > them,1
-692,,,part,1
-693,,,participants,2
-694,,,participation,13
-695,694.0,participation > in > any > learning > activities > by,participation > in > any > learning > activities > by > nace > rev > 1 > 1 > activity,1
-696,694.0,participation > in,participation > in > tourism > for > personal > purposes > of > total > population,1
-697,694.0,participation,participation > rate > in > education > and > training > last > 4 > weeks > by > sex > age > and > educational > attainment > level,1
-698,,,passenger,11
-699,698.0,passenger,passenger > air > transport > over > national > territory > including > territorial > sea > million > passenger > km,1
-700,698.0,passenger > cars > by,passenger > cars > by > age,1
-701,698.0,passenger > cars > by,passenger > cars > by > alternative > motor > energy > until,1
-702,698.0,passenger > cars > by,passenger > cars > by > unloaded > weight,1
-703,698.0,passenger,passenger > train > traffic > performance > by > type > of > train > speed,1
-704,,,passengers,7
-705,,,patent,1
-706,,,patents,1
-707,,,people,9
-708,707.0,people > at > risk > of > poverty > or > social > exclusion > by,people > at > risk > of > poverty > or > social > exclusion > by > nuts > 2 > regions,1
-709,707.0,people,people > having > a > long > standing > illness > or > health > problem > by > sex > age > and > income > quintile,1
-710,707.0,people,people > living > in > households > with > very > low > work > intensity,3
-711,710.0,people > living > in > households > with > very > low > work > intensity > by,people > living > in > households > with > very > low > work > intensity > by > nuts > 2 > regions > population > aged > 0 > to > 59 > years,1
-712,710.0,people > living > in > households > with > very > low > work > intensity > by,people > living > in > households > with > very > low > work > intensity > by > sex,1
-713,,,perceived,1
-714,,,percentage,13
-715,714.0,percentage,percentage > change,2
-716,715.0,percentage > change,percentage > change > compared > to > corresponding > period > of > the > previous > year > in > nights > spent > at > tourist > accommodation > establishments > by > residents > non > residents > monthly > data,1
-717,715.0,percentage > change,percentage > change > of > value > added > by > ict > sector > at > current > prices,1
-718,714.0,percentage,percentage > distribution > of,4
-719,714.0,percentage,percentage > of,7
-720,719.0,percentage > of,percentage > of > employed > adults > working > at > home > by > sex > age > groups > number > of > children > and > age > of > youngest > child,1
-721,719.0,percentage > of,percentage > of > households > having > internet > access > at > home,1
-722,719.0,percentage > of,percentage > of > the,4
-723,722.0,percentage > of > the,percentage > of > the > ict,3
-724,722.0,percentage > of > the,percentage > of > the > population > with > at > least > upper > secondary > educational > attainment > age > group > 25 > 64,1
-725,719.0,percentage > of,percentage > of > threatened > species,1
-726,,,perception,2
-727,,,performing,1
-728,,,permanent,1
-729,,,persistent,3
-730,,,persons,79
-731,730.0,persons > at > risk > of,persons > at > risk > of > monetary > poverty > after > social > transfers,2
-732,730.0,persons > at > risk > of,persons > at > risk > of > poverty > or > social > exclusion,8
-733,730.0,persons,persons > being > happy > in > the > last > 4 > weeks > by > sex > age > educational > attainment > and > frequency,1
-734,730.0,persons,persons > brought > before > criminal > courts > by > legal > status > of > the > court > process,1
-735,730.0,persons,persons > eligible > to > vote > in > the > european > parliament > elections > by > category > of > voters > dedicated > data > collection,1
-736,730.0,persons,persons > employed,9
-737,736.0,persons > employed,persons > employed > in,8
-738,737.0,persons > employed > in,persons > employed > in > circular > economy > sectors,1
-739,737.0,persons > employed > in,persons > employed > in > multinational > enterprise > groups > by > size > class > experimental > statistics,1
-740,736.0,persons > employed,persons > employed > part > time,1
-741,730.0,persons,persons > feeling > left > out > from > society > by > sex > age > and > level > of > disability > activity > limitation,1
-742,730.0,persons,persons > getting > together > with > family > and > relatives > or > friends > by > income > quintile > household > composition > degree > of > urbanisation > and > frequency,1
-743,730.0,persons > having,persons > having > contacts > with > family > and > relatives > or > friends > by > income > quintile > household > composition > degree > of > urbanisation > and > frequency,1
-744,730.0,persons > having,persons > having > someone > to,2
-745,730.0,persons,persons > involved > in > trafficking > in > human > beings > by > legal > status > and > sex,1
-746,730.0,persons,persons > killed > in > road > accidents,2
-747,730.0,persons > living,persons > living > in > households > with > very > low > work > intensity > by,4
-748,730.0,persons > living,persons > living > with > their > parents > or > contributing > benefiting > from > the > household > income > population > aged > 18 > to > 34 > years,1
-749,730.0,persons > not,persons > not > participating > in,5
-750,730.0,persons > not,persons > not > reading > books > in > the > last > 12 > months > by > sex > age > level > of > disability > activity > limitation > and > reasons,1
-751,730.0,persons,persons > outside > the > labour > force > due > to > caring > responsibilities > by > sex,1
-752,730.0,persons,persons > owning > real > estate > other > than > main > residence > by,2
-753,730.0,persons > participating > in,persons > participating > in > tourism > for > personal > purposes > number > of > tourists,1
-754,730.0,persons,persons > practicing > artistic > activities > by > sex > age > educational > attainment > and > frequency,1
-755,730.0,persons,persons > rating > their > life > satisfaction > as > high > medium > or > low > by > sex > age > educational > attainment > and > domain,1
-756,730.0,persons,persons > reading,3
-757,756.0,persons > reading,persons > reading > books > in > the > last > 12 > months > by > sex > age,2
-758,756.0,persons > reading,persons > reading > newspapers > in > the > last > 12 > months > by > sex,1
-759,730.0,persons,persons > receiving > benefits > other > than > old > age > benefits > by > risk > of > poverty > and > work > intensity > of > the > household > population > aged > 18 > 64,1
-760,730.0,persons > reporting,persons > reporting > a > road > traffic > accident,1
-761,730.0,persons > reporting,persons > reporting > an > accident > at > work > by > sex > age > and > professional > status,1
-762,730.0,persons > reporting,persons > reporting > basic > activity > difficulty > by > sex > age > level > of > difficulty,4
-763,730.0,persons,persons > subject,3
-764,763.0,persons > subject,persons > subject > of > asylum > applications > pending > at > the > end > of > the > month,2
-765,763.0,persons > subject,persons > subject > to > immigration > law > enforcement > per > thousand > persons,1
-766,730.0,persons,persons > who,2
-767,766.0,persons > who,persons > who > receive > a > pension > by > type > of > pension,1
-768,766.0,persons > who,persons > who > reduced > their > working > hours > in > a > move > towards > retirement,1
-769,730.0,persons,persons > with > loans,5
-770,730.0,persons,persons > working > as > creative > and > performing > artists > authors > journalists > and > linguists,1
-771,,,pesticide,1
-772,,,phosphate,1
-773,,,physical,1
-774,,,police,2
-775,774.0,police,police > officers,1
-776,774.0,police,police > recorded > offences > by > offence > category,1
-777,,,population,30
-778,777.0,population,population > aged,5
-779,778.0,population > aged,population > aged > 15 > 74 > labour > force > survey,1
-780,777.0,population,population > as > a > percentage > of > eu27 > from > population,1
-781,777.0,population,population > change,2
-782,777.0,population,population > connected > to,4
-783,777.0,population,population > covered > by > the > covenant > of > mayors > for > climate > energy > signatories,1
-784,777.0,population,population > having > neither > a > bath > nor > a > shower > nor > indoor > flushing > toilet > in > their > household > by > poverty > status,1
-785,777.0,population,population > in > jobless > households,1
-786,777.0,population,population > living > in > households > considering > that > they > suffer > from > noise > by > poverty > status,1
-787,777.0,population,population > on > 1 > january,2
-788,777.0,population,population > reporting > occurrence > of > crime > violence > or > vandalism > in > their > area > by > poverty > status,1
-789,777.0,population,population > served > by > municipal > waste,1
-790,777.0,population > structure,population > structure > by,2
-791,777.0,population > structure,population > structure > indicators > by > nuts > 3 > region,1
-792,777.0,population,population > unable > to > keep > home > adequately > warm > by > poverty > status,1
-793,777.0,population,population > with > confidence > in > institutions > by > institution,1
-794,777.0,population,population > without > the > citizenship > of > the > reporting > country,1
-795,777.0,population,population > candidate > countries > and > potential > candidates,1
-796,,,portfolio,1
-797,,,positions,1
-798,,,positive,1
-799,,,poultry,1
-800,,,poverty,3
-801,800.0,poverty,poverty > lines,1
-802,,,power,1
-803,,,practising,2
-804,803.0,practising,practising > dentists,1
-805,803.0,practising,practising > physicians,1
-806,,,premature,1
-807,,,preventive,1
-808,,,price,2
-809,808.0,price,price > and > volume > convergence > between > member > states,1
-810,808.0,price,price > indices > of > agricultural > input > output > at > nominal > value > 100,1
-811,,,prices,1
-812,,,primary,2
-813,,,prison,2
-814,,,prisoners,2
-815,814.0,prisoners > by,prisoners > by > citizenship,1
-816,814.0,prisoners > by,prisoners > by > legal > status > of > the > trial > process,1
-817,,,private,22
-818,817.0,private,private > households > by > type > of > housing,1
-819,817.0,private,private > investment > and > gross > added > value > related > to > circular > economy > sectors,1
-820,817.0,private,private > sector,20
-821,,,processors,1
-822,,,producer,3
-823,,,production,20
-824,823.0,production,production > and > consumption > of > chemicals > by > hazard > class,1
-825,823.0,production,production > forecasts > for > pigs > thousand > heads > quarterly > data,1
-826,823.0,production,production > in,8
-827,823.0,production,production > of,9
-828,827.0,production > of,production > of > butter,1
-829,827.0,production > of,production > of > cheese,1
-830,827.0,production > of,production > of > eggs > for > consumption > and > number > of > laying > hens,1
-831,823.0,production,production > value > added > and > employment > by > industry > groups > in > the > environmental > goods > and > services > sector,1
-832,,,profit,1
-833,,,proportion,5
-834,833.0,proportion > of,proportion > of > fish > stocks > sustainably > exploited,1
-835,833.0,proportion > of,proportion > of > persons,2
-836,835.0,proportion > of > persons,proportion > of > persons > at > risk > of > relative > poverty > before > social > transfers > by > sex,1
-837,835.0,proportion > of > persons,proportion > of > persons > living > in > jobless > households,1
-838,833.0,proportion > of,proportion > of > population > aged > 65 > and > over,1
-839,,,protected,2
-840,,,protective,1
-841,,,public,1
-842,,,pupil,1
-843,,,pupils,12
-844,,,purchase,1
-845,,,purchases,1
-846,,,purchasing,3
-847,846.0,purchasing > power,purchasing > power > parities > in > the > european > union,2
-848,846.0,purchasing > power,purchasing > power > adjusted > gdp > per > capita,1
-849,,,quality,1
-850,,,r,1
-851,,,rail,10
-852,,,railway,3
-853,852.0,railway,railway > accidents > by > type > of > accident > annual > data,1
-854,852.0,railway,railway > enterprises > by > type > of > enterprise,1
-855,852.0,railway,railway > transport > vans,1
-856,,,rape,1
-857,,,ratio,3
-858,857.0,ratio > of,ratio > of > annual > expenditure > per > student > at > the > tertiary > level > and > primary > level > of > education > in > public > educational > institutions,1
-859,857.0,ratio > of,ratio > of > pupils > to > teachers > and > teacher > aides > by > education > level > and > programme > orientation,1
-860,857.0,ratio > of,ratio > of > the > proportion > of > tertiary > students > over > the > proportion > of > the > population > by > nuts1 > and > nuts2 > regions,1
-861,,,raw,1
-862,,,real,6
-863,862.0,real,real > gdp,2
-864,862.0,real,real > effective > exchange > rate,4
-865,,,recognised,1
-866,,,recovery,1
-867,,,recycling,5
-868,,,regional,4
-869,,,registered,3
-870,,,relative,15
-871,870.0,relative,relative > incidence > rate > of > accidental > injuries > at > work > by,4
-872,870.0,relative,relative > median,6
-873,870.0,relative,relative > poverty,3
-874,873.0,relative > poverty,relative > poverty > gap > by > risk > of > poverty > and > work > intensity > of > the,2
-875,873.0,relative > poverty,relative > poverty > threshold > after > social > transfers > income > per > month,1
-876,870.0,relative,relative > standardised > incidence > rate > of > accidental > injuries > at > work > by > educational > attainment > level > and > sex > mean > rate > for > each > member > state > 100,1
-877,,,remuneration,1
-878,,,renewable,1
-879,,,research,1
-880,,,researchers,2
-881,880.0,researchers,researchers > in > the > higher > education > sector > by > seniority > category,1
-882,880.0,researchers,researchers > by > sectors > of > performance > head > count,1
-883,,,resettled,2
-884,,,residential,1
-885,,,resource,1
-886,,,retail,9
-887,,,return,1
-888,,,returns,1
-889,,,road,12
-890,889.0,road,road > accidents > persons > killed,1
-891,889.0,road,road > cabotage > transport,3
-892,889.0,road > equipment,road > equipment > load > capacity > of > lorries,1
-893,889.0,road > equipment,road > equipment > new > registrations > by > categories,1
-894,889.0,road,road > infrastructure > lenght > of > road > network,1
-895,889.0,road,road > tractors > by > type > of > motor > energy > until,1
-896,,,root,1
-897,,,rye,1
-898,,,safety,1
-899,,,sales,1
-900,,,satisfaction,2
-901,900.0,satisfaction > with > the > job > by,satisfaction > with > the > job > by > risk > of > poverty > threshold > and > level > of > disability > activity > limitation,1
-902,900.0,satisfaction > with > the > job > by,satisfaction > with > the > job > by > sex > age > and > educational > attainment,1
-903,,,school,1
-904,,,sea,1
-905,,,seat,3
-906,,,seats,2
-907,906.0,seats,seats > berths > in > motor > coaches > buses > and > trolley > buses,1
-908,906.0,seats,seats > held > by > women > in > national > parliaments > and > governments,1
-909,,,secondary,2
-910,909.0,secondary,secondary > energy > production > transformation,1
-911,909.0,secondary,secondary > wood > products > production,1
-912,,,self,12
-913,912.0,self,self > defined > health > status > by > age > and > income > quantile > echp > survey,1
-914,912.0,self,self > declared > over > qualified > employees > as > percentage > of > the > total > employees > by > sex > age > migration > status > and > educational > attainment > level,1
-915,912.0,self,self > employed > persons > having > at > least > one > client > in > the > last > 12 > months > by > control > over > working > time > and > sex,1
-916,912.0,self,self > reported,8
-917,916.0,self > reported,self > reported > breast > examination > by > x > ray > by > educational > attainment > level > among > women > aged > 50 > 69,1
-918,916.0,self > reported,self > reported > cervical > smear > test > by > educational > attainment > level > among > women > aged > 20 > 69,1
-919,916.0,self > reported,self > reported > use > of > home > care > services > by > people > with > severe > difficulty > in > personal > care > activities > by,2
-920,912.0,self,self > sufficiency > for > raw > materials,1
-921,,,selling,13
-922,,,semi,2
-923,,,services,2
-924,923.0,services,services > trade > by > broad > economic > categories > bec > rev > 5,1
-925,923.0,services,services > turnover > index > calendar > adjusted,1
-926,,,settlement,2
-927,,,severe,14
-928,927.0,severe,severe > housing > deprivation > rate > by,5
-929,927.0,severe,severe > material,9
-930,929.0,severe > material > and > social > deprivation,severe > material > and > social > deprivation > by > nuts > region,1
-931,929.0,severe > material > and > social > deprivation,severe > material > and > social > deprivation > rate,4
-932,929.0,severe > material > deprivation > rate > by,severe > material > deprivation > rate > by > nuts,2
-933,929.0,severe > material > deprivation > rate > by,severe > material > deprivation > rate > by > tenure > status,1
-934,,,severely,1
-935,,,sewage,1
-936,,,share,31
-937,936.0,share,share > for > transmission > and > distribution > in > the > network > cost > for > gas > and > electricity > annual > data,1
-938,936.0,share,share > of,30
-939,938.0,share > of,share > of > european > neighbourhood > policy > east > countries > in > european > union > 27 > trade,1
-940,938.0,share > of,share > of > gbaord > allocated > to > defence > and > total > civil > socio > economic > objectives,1
-941,938.0,share > of,share > of > gbard > in > total > general > government > expenditure,1
-942,938.0,share > of,share > of > buses > and > trains > in > inland > passenger > transport,1
-943,938.0,share > of,share > of > children > aged > less > than > 18 > living > with > their > parents > by > type > of > household > eu > silc > survey,1
-944,938.0,share > of,share > of > digital > platform > workers > in > the > last > 12 > months > by,2
-945,938.0,share > of,share > of > employment > in > member > states > supported > by > exports > figaro > application,1
-946,938.0,share > of,share > of > energy > from > renewable > sources,1
-947,938.0,share > of,share > of > enterprises > turnover > on > e > commerce,1
-948,938.0,share > of,share > of > environmental > taxes > in > total > tax > revenues,1
-949,938.0,share > of,share > of > forest > area,1
-950,938.0,share > of,share > of > fossil > fuels > in > gross > available > energy,1
-951,938.0,share > of,share > of > government > budget > appropriations > or > outlays > on > research > and > development,1
-952,938.0,share > of,share > of > landcover > types > affected > by > severe > erosion,1
-953,938.0,share > of,share > of > mobile > students > from > abroad > enrolled > by > education > level > sex > and > country > of > origin,1
-954,938.0,share > of,share > of > organic > crop > area > out > of > the > total > utilised > agricultural > area > uaa > until,1
-955,938.0,share > of,share > of > people,3
-956,955.0,share > of > people,share > of > people > living > in > under > occupied > dwellings > by,2
-957,955.0,share > of > people,share > of > people > with > good > or > very > good > perceived > health > by > sex,1
-958,938.0,share > of,share > of > rail > and > inland > waterways > in > inland > freight > transport,1
-959,938.0,share > of,share > of > renewable > energy > in > gross > final > energy > consumption > by > sector,1
-960,938.0,share > of,share > of > total > population,4
-961,938.0,share > of,share > of > trade > with > the > eu27 > from,1
-962,938.0,share > of,share > of > value > added > in > member > states > supported > by > exports > figaro > application,1
-963,938.0,share > of,share > of > women > researchers,2
-964,,,short,3
-965,,,simplified,1
-966,,,smoking,1
-967,,,social,2
-968,967.0,social > protection,social > protection > expenditure > excluding > administrative > costs > including > health > expenditure > as > a > share > of > gdp,1
-969,967.0,social > protection,social > protection > receipts > by > type,1
-970,,,soil,1
-971,,,solar,1
-972,,,sources,1
-973,,,special,1
-974,,,standardised,5
-975,974.0,standardised,standardised > death > rate > due > to,2
-976,975.0,standardised > death > rate > due > to,standardised > death > rate > due > to > homicide > by > sex,1
-977,975.0,standardised > death > rate > due > to,standardised > death > rate > due > to > tuberculosis > hiv > and > hepatitis > by > type > of > disease,1
-978,974.0,standardised,standardised > incidence > rate > of > accidents > at > work > by > nace > rev > 1 > 1 > activity > and,2
-979,974.0,standardised,standardised > preventable > and > treatable > mortality,1
-980,,,stock,2
-981,980.0,stock > of,stock > of > general > government > debt > security > liabilities > issued > as > green > bonds > one > off > data > collection > experimental > statistics,1
-982,980.0,stock > of,stock > of > vehicles > by > category,1
-983,,,structural,1
-984,,,students,2
-985,984.0,students > in,students > in > post > compulsory > education > as > of > the > total > population > of > post > compulsory > school > age,1
-986,984.0,students > in,students > in > tertiary > education > as > of > 20 > 24 > years > old > in > the > population,1
-987,,,subjective,3
-988,,,suicide,1
-989,,,suicides,1
-990,,,surface,2
-991,,,suspects,1
-992,,,table,1
-993,,,tax,3
-994,,,teachers,1
-995,,,technical,1
-996,,,terms,1
-997,,,territorialised,1
-998,,,tertiary,2
-999,998.0,tertiary > educational > attainment,tertiary > educational > attainment > by > sex,1
-1000,998.0,tertiary > educational > attainment,tertiary > educational > attainment > age > group > 30 > 34,1
-1001,,,the,1
-1002,,,third,2
-1003,,,tier,1
-1004,,,time,10
-1005,1004.0,time > spent,time > spent > alone,1
-1006,1004.0,time > spent,time > spent > in,2
-1007,1004.0,time > spent > on,time > spent > on > eating > at > home > as > main > or > secondary > activity,1
-1008,1004.0,time > spent > on,time > spent > on > health > enhancing > non > work > related > aerobic > physical > activity > by > sex > age > and > educational > attainment > level,1
-1009,1004.0,time > spent > on,time > spent > on > travelling > by > mode > of > transport,1
-1010,1004.0,time > spent,time > spent > providing > childcare > as > main > or > secondary > activity,1
-1011,,,top,5
-1012,,,tourism,1
-1013,,,trade,6
-1014,1013.0,trade,trade > in,3
-1015,1014.0,trade > in > goods,trade > in > goods > with > the > top > 5 > partners,1
-1016,1014.0,trade > in > goods,trade > in > goods > by > main > world > traders > eu27 > from,1
-1017,1013.0,trade,trade > unit > value > indices > by > reporting > country,1
-1018,,,trailers,2
-1019,,,train,5
-1020,,,trainsets,1
-1021,,,transition,2
-1022,,,treatment,2
-1023,,,trust,1
-1024,,,turnover,16
-1025,1024.0,turnover > by > type > of,turnover > by > type > of > client > and,2
-1026,1025.0,turnover > by > type > of > client > and,turnover > by > type > of > client > and > nace > rev > 1 > at > 3 > digit > level,1
-1027,1025.0,turnover > by > type > of > client > and,turnover > by > type > of > client > and > employment > size > class,1
-1028,1024.0,turnover > by > type > of,turnover > by > type > of > media > for > advertising > services,1
-1029,,,typical,1
-1030,,,under,1
-1031,,,unemployment,15
-1032,1031.0,unemployment > rate > by,unemployment > rate > by > education > level,1
-1033,1031.0,unemployment > rate > by,unemployment > rate > by > sex,3
-1034,,,unit,3
-1035,1034.0,unit,unit > labour > cost > performance > related > to > the > euro > area > annual > data,1
-1036,1034.0,unit,unit > value > of,2
-1037,,,unitisation,5
-1038,,,urban,1
-1039,,,use,1
-1040,,,usually,1
-1041,,,vaccination,1
-1042,,,valid,1
-1043,,,value,1
-1044,,,vessel,1
-1045,,,vessels,1
-1046,,,victims,3
-1047,,,volume,4
-1048,1047.0,volume > of,volume > of > containers > handled > in > the > top > 20 > main > ports > by > loading > status,1
-1049,1047.0,volume > of,volume > of > passenger > transport > relative > to > gdp,1
-1050,1047.0,volume > of,volume > of > timber > fe,1
-1051,,,waste,2
-1052,,,water,6
-1053,1052.0,water,water > exploitation > index > plus > wei,1
-1054,1052.0,water,water > resources > long > term > annual > average,1
-1055,1052.0,water > use,water > use > balance,1
-1056,1052.0,water > use,water > use > by > economic > activity,1
-1057,,,weights,2
-1058,,,wheat,1
-1059,,,women,38
-1060,,,work,1
-1061,,,young,5
-1062,1061.0,young > people,young > people > aged > 20 > 24 > with > at > least > upper > secondary > educational > attainment > level > by > sex,1
-1063,1061.0,young > people,young > people > neither > in > employment > nor > in > education > and > training,4
-1064,,,youth,4
-1065,,,economy,1
-1066,,,financing,1
-1067,,,index,1
+0,,,number,161
+1,0.0,number > of,number > of > eea > branches,1
+2,0.0,number > of,number > of > accidents > at > work > by,16
+3,0.0,number > of,number > of > accounts > linked > to > cpa > categories,1
+4,0.0,number > of,number > of > airports,1
+5,0.0,number > of,number > of > bed > places,4
+6,0.0,number > of,number > of > bovine > animals,1
+7,0.0,number > of,number > of > branches > in > non > eea > countries,1
+8,0.0,number > of,number > of > combined > heat > and > power > chp > units > by > type > of > plant > generation > technologies > and > primary > energy > savings > levels,1
+9,0.0,number > of,number > of > compulsory > schooling > years,1
+10,0.0,number > of,number > of > dairy > cows,1
+11,0.0,number > of,number > of > establishments > and > bed > places,2
+12,0.0,number > of,number > of > fatal > accidents > at > work > by > member > state > and > age > excluding > road > traffic > accidents > and > accidents > on > board > of > any > mean > of > transport > in > the > course > of > work,1
+13,0.0,number > of,number > of > foreign > languages > known > self > reported > by,6
+14,0.0,number > of,number > of > innovating > enterprises,16
+15,0.0,number > of,number > of > known > species,1
+16,0.0,number > of,number > of > loans > and > advances > to > customers > linked > to > cpa > categories,1
+17,0.0,number > of,number > of > local > units > persons > employed > and > wages > and > salaries > by > nuts > 2 > regions,1
+18,0.0,number > of,number > of > pigs,1
+19,0.0,number > of,number > of > principal > ports,1
+20,0.0,number > of,number > of > railway > vehicles > per > type,1
+21,0.0,number > of,number > of > retail > stores > nace > rev > 2 > g47,1
+22,0.0,number > of,number > of > sheep,1
+23,0.0,number > of,number > of > ships > of,2
+24,0.0,number > of,number > of > statistical > units,4
+25,0.0,number > of,number > of > work > related > health > problems > by > diagnosis > group,2
+26,0.0,number > and,number > and > average > size > of > enterprises > in > the > cultural > sectors > by > nace > rev > 2 > activity,1
+27,0.0,number > and,number > and > capacity > of > recovery > and > disposal > facilities > by > nuts > 2 > regions,1
+28,0.0,number > and,number > and > length > of > district > networks > by > type > of > network > and > efficiency > of > network,1
+29,,,3,4
+30,,,3d,2
+31,,,ability,1
+32,,,abortion,1
+33,,,absence,4
+34,,,access,1
+35,,,accidental,3
+36,,,accidents,23
+37,36.0,accidents,accidents > at > work > by,21
+38,36.0,accidents,accidents > in > inland > waterway > transport,1
+39,36.0,accidents,accidents > involving > the > transport > of > dangerous > goods > annual > data,1
+40,,,accommodation,1
+41,,,accrued,1
+42,,,acquisition,3
+43,,,active,9
+44,,,activities,1
+45,,,activity,18
+46,,,additional,1
+47,,,adjusted,2
+48,,,admitted,1
+49,,,adult,1
+50,,,age,1
+51,,,aggregate,9
+52,51.0,aggregate,aggregate > propensity > to > consume > by,6
+53,51.0,aggregate,aggregate > replacement > ratio,3
+54,,,agricultural,21
+55,54.0,agricultural,agricultural > land,4
+56,54.0,agricultural,agricultural > real > factor > income > per > annual > work > unit > awu,1
+57,,,air,71
+58,57.0,air,air > accident > victims > in,4
+59,57.0,air,air > emission,2
+60,57.0,air,air > emissions,7
+61,57.0,air,air > pollutants,3
+62,,,aircraft,1
+63,,,airport,2
+64,,,all,4
+65,64.0,all,all > causes > of > death > by > nuts > 2 > regions,1
+66,64.0,all,all > valid > permits > by,3
+67,,,ammonia,2
+68,,,animal,5
+69,68.0,animal,animal > output > basic > and > producer > prices,1
+70,,,annual,39
+71,70.0,annual,annual > aquaculture > production > live > weight > in > tonnes,1
+72,70.0,annual,annual > captures > of > fish > live > weight > in > tonnes > by > fishing > areas,1
+73,70.0,annual,annual > data > on > employment > in > knowledge > intensive > activities > at > the > national > level > by > sex,2
+74,70.0,annual,annual > expenditure > on > educational > institutions > per > pupil > student > based > on > fte > by > education > level > and > programme > orientation,1
+75,70.0,annual,annual > financial > accounts > for > general > government,1
+76,70.0,annual,annual > freshwater > abstraction > by > source,2
+77,70.0,annual,annual > net > earnings,2
+78,70.0,annual,annual > population > by > sex > age > degree > of > urbanisation > and > labour > status > 1 > 000,1
+79,70.0,annual,annual > production > and > utilisation > of > milk > on > the > farm,1
+80,70.0,annual,annual > work > units > in > forestry > and > logging,1
+81,,,apparent,1
+82,,,apple,3
+83,,,applicants,1
+84,,,aquaculture,4
+85,,,arable,3
+86,,,area,26
+87,86.0,area,area > at > risk > of > severe > soil > erosion > by > water,1
+88,86.0,area,area > by > nuts > 3 > region,1
+89,86.0,area,area > of,4
+90,89.0,area > of,area > of > the > regions > by,2
+91,89.0,area > of,area > of > wooded > land,2
+92,86.0,area,area > under,20
+93,92.0,area > under,area > under > organic > farming,1
+94,92.0,area > under,area > under > wine > grape > vine > varieties,19
+95,,,arrears,9
+96,,,arrivals,10
+97,,,artificial,3
+98,,,assumptions,9
+99,,,asylum,16
+100,,,at,62
+101,100.0,at,at > least > upper > secondary > educational > attainment > age > group,2
+102,100.0,at,at > most > lower > secondary > educational > attainment > by > age,1
+103,100.0,at,at > risk > of > poverty,59
+104,,,authorisations,4
+105,,,autonomous,5
+106,,,available,3
+107,106.0,available,available > beds > in > hospitals > by > nuts > 2,2
+108,106.0,available,available > energy > energy > supply > and > final > energy > consumption > per > capita,1
+109,,,average,69
+110,109.0,average,average > co2 > emissions > per > km > from > new > passenger > cars > source > eea > dg > clima > hidden > dat,1
+111,109.0,average,average > age,5
+112,109.0,average > annual,average > annual > gross > earnings > by > sex > and,3
+113,109.0,average > annual,average > annual > population > to > calculate > regional > gdp > data,3
+114,109.0,average,average > expenditure > per,2
+115,109.0,average,average > full > time > adjusted > salary > per > employee,1
+116,109.0,average,average > nominal > monthly > wages > and > salaries,1
+117,109.0,average,average > remaining > maturity > of > general > government > gross > debt,1
+118,109.0,average,average > remuneration > of > national > civil > servants > in > central > public > administration,1
+119,109.0,average,average > rent > per > month > in > cities > by > type > of > dwelling,1
+120,109.0,average,average > seniority > of > work > with > the > same > employer > and > nace > rev > 2 > activity,2
+121,109.0,average,average > size > of > dwelling > by,3
+122,109.0,average,average > time > between > leaving > formal > education > and > starting > the > first > job > by > age > sex > and > educational > attainment > level > for > persons > who > left > within > the > last > 3 > or > 5 > years > months,1
+123,,,aviation,1
+124,,,berd,9
+125,124.0,berd > by,berd > by > concentration > of > personnel > ranking,1
+126,124.0,berd > by,berd > by > size > class > and > source > of > funds,1
+127,,,balance,19
+128,127.0,balance,balance > of,18
+129,128.0,balance > of,balance > of > payments,16
+130,128.0,balance > of,balance > of > trade,2
+131,127.0,balance,balance > sheets > for > non > financial > assets,1
+132,,,balancing,1
+133,,,barley,3
+134,,,barriers,1
+135,,,basic,2
+136,,,bathing,1
+137,,,batteries,1
+138,,,beds,1
+139,,,beneficiaries,4
+140,139.0,beneficiaries > of,beneficiaries > of > disability > pensions > by,2
+141,139.0,beneficiaries > of,beneficiaries > of > temporary > protection,2
+142,,,big,2
+143,,,biochemical,1
+144,,,body,8
+145,,,bovine,1
+146,,,breast,1
+147,,,bribery,1
+148,,,broadband,2
+149,,,building,3
+150,,,buses,1
+151,,,business,22
+152,151.0,business,business > written,2
+153,,,butter,1
+154,,,calculation,1
+155,,,calorific,1
+156,,,capacities,2
+157,156.0,capacities,capacities > production > fuel > used > and > energy > savings > in > combined > heat > and > power > chp > by > type > of > plant > generation > technologies > and > primary > energy > savings > levels,1
+158,156.0,capacities,capacities > productions > and > losses > in > district > networks > by > type > of > network > and > type > of > plant,1
+159,,,capital,3
+160,159.0,capital,capital > account,2
+161,159.0,capital,capital > stock > based > productivity > indicators > at > industry > level,1
+162,,,carbon,1
+163,,,carrying,3
+164,,,catches,30
+165,,,cattle,4
+166,,,cattles,1
+167,,,causes,24
+168,,,central,4
+169,168.0,central > government,central > government > bond > yields,3
+170,168.0,central > government,central > government > debt,1
+171,,,cereal,1
+172,,,cereals,4
+173,,,change,2
+174,,,cheese,1
+175,,,child,4
+176,175.0,child,child > and > youth > population > on > 1 > january > by > sex > and > age,1
+177,175.0,child,child > specific > material > deprivation > rate > by,3
+178,,,children,26
+179,178.0,children > by,children > by > household > type > income > group > degree > of > urbanisation > and > main > reason > for > not > meeting > needs > for > formal > childcare > services,1
+180,178.0,children > by,children > by > level > of > general > health > household > composition > quantile > and > age,1
+181,,,circular,2
+182,,,classroom,3
+183,182.0,classroom > teachers,classroom > teachers > and > academic > staff > by > education > level > programme > orientation > sex,2
+184,182.0,classroom > teachers,classroom > teachers > working > full > time > and > part > time > in > primary > lower > secondary > and > upper > secondary > education > as > of > total > active > population,1
+185,,,climate,2
+186,,,cloud,3
+187,,,co,1
+188,,,collection,1
+189,,,commercial,8
+190,189.0,commercial,commercial > aircraft > fleet > by,5
+191,189.0,commercial,commercial > airports > by > type,1
+192,189.0,commercial,commercial > flights > by > reporting,2
+193,,,commissions,2
+194,,,common,5
+195,194.0,common,common > bird,2
+196,194.0,common,common > wheat > number > of > farms > and,2
+197,,,,16
+198,197.0,,communication,1
+199,197.0,,context,1
+200,197.0,,debts,1
+201,197.0,,emigration,1
+202,197.0,,erosion,1
+203,197.0,,goats,1
+204,197.0,,immigration,1
+205,197.0,,landuse,1
+206,197.0,,literacy,1
+207,197.0,,livestock,1
+208,197.0,,pensions,1
+209,197.0,,sheep,1
+210,197.0,,trams,1
+211,197.0,,vineyards,1
+212,197.0,,wages,1
+213,,,community,21
+214,,,comparative,1
+215,,,compensation,6
+216,,,complete,1
+217,,,composition,1
+218,,,computer,2
+219,,,concentration,2
+220,,,confidence,1
+221,,,consolidated,1
+222,,,construction,11
+223,222.0,construction,construction > by > employment > size > class > nace > rev,2
+224,,,consultation,3
+225,,,consumer,1
+226,,,consumers,2
+227,,,consumption,8
+228,227.0,consumption,consumption > footprint,2
+229,227.0,consumption,consumption > of,6
+230,229.0,consumption > of,consumption > of > antibiotics > in > the > community > and > hospital > sectors > defined > daily > doses > ddd > per > day,1
+231,229.0,consumption > of,consumption > of > chemicals > by > hazardousness > eu > aggregate,1
+232,229.0,consumption > of,consumption > of > inorganic > fertilizers,1
+233,229.0,consumption > of,consumption > of > lightweight > plastic > carrier > bags > by > their > wall > thickness,1
+234,,,container,6
+235,,,contribution,3
+236,235.0,contribution,contribution > of,2
+237,236.0,contribution > of,contribution > of > recycled > materials > to > raw > materials > demand > end > of > life > recycling > input > rates > eol > rir,1
+238,236.0,contribution > of,contribution > of > renewable > fuels > to > gross > final > consumption > of > energy,1
+239,235.0,contribution,contribution > to > the > international > 100bn > usd > commitment > on > climate > related > expending,1
+240,,,control,1
+241,,,conventional,1
+242,,,convergence,1
+243,,,conversion,3
+244,,,cooling,4
+245,,,correction,6
+246,245.0,correction,correction > coefficients,4
+247,245.0,correction,correction > of > vision > problems > by > sex > age > and,2
+248,,,corruption,1
+249,,,cost,15
+250,,,country,12
+251,250.0,country,country > destination,2
+252,250.0,country,country > level,10
+253,252.0,country > level,country > level > passengers > embarked > and > disembarked > in > all > ports,2
+254,,,covid,2
+255,,,cows,2
+256,,,credit,3
+257,,,crime,3
+258,,,crimes,5
+259,,,crop,8
+260,,,crops,2
+261,,,cross,5
+262,261.0,cross,cross > classification > of,2
+263,261.0,cross,cross > trade > road > freight > transport > of > reporting > country > by > country > of > loading > and > unloading,3
+264,,,crude,5
+265,264.0,crude,crude > divorce > rate,1
+266,264.0,crude,crude > oil,2
+267,264.0,crude,crude > rate > of > birth > of > dead > and > of > population > change,1
+268,,,cultural,6
+269,,,culture,1
+270,,,current,29
+271,270.0,current,current > account,22
+272,270.0,current,current > depressive > symptoms > by,6
+273,270.0,current,current > level > of > capacity > utilization > in > manufacturing > industry,1
+274,,,customers,1
+275,,,daily,15
+276,275.0,daily,daily > consumption > of > fruit > and > vegetables > by,7
+277,,,dairy,2
+278,,,data,3
+279,,,day,4
+280,,,death,17
+281,,,deaths,30
+282,281.0,deaths,deaths > of > residents > related > to > dementias > including > alzheimer,1
+283,,,debt,2
+284,,,decisions,21
+285,284.0,decisions,decisions > on,6
+286,285.0,decisions > on,decisions > on > asylum > applications > by > citizenship > until,2
+287,,,degree,2
+288,,,demographic,7
+289,,,departures,1
+290,,,depth,1
+291,,,destination,2
+292,291.0,destination,destination > country > of > international > sourcing > by > business > functions > and > economic > activity > collection > round > experimental > statistics,1
+293,291.0,destination,destination > of > ict > devices > no > longer > in > use,1
+294,,,detailed,2
+295,294.0,detailed,detailed > average > prices,1
+296,294.0,detailed,detailed > deaths > related > to > transport > accidents > occurring > in > the > eu,1
+297,,,development,2
+298,,,devices,1
+299,,,difficulties,15
+300,,,digital,2
+301,,,direct,12
+302,,,disability,1
+303,,,disaggregated,6
+304,,,discharges,1
+305,,,dispersion,3
+306,,,disposable,10
+307,,,distribution,71
+308,307.0,distribution > of,distribution > of > degree > mobile > graduates > from > abroad > at > education > level > by > sex > and > field > of > education,1
+309,307.0,distribution > of,distribution > of > digital > platform > workers,9
+310,307.0,distribution > of,distribution > of > education > and > training > activities > by > field > isced > f,1
+311,307.0,distribution > of,distribution > of > graduates > at > education > level > and > programme > orientation > by > sex > and > field > of > education,1
+312,307.0,distribution > of,distribution > of > instruction > hours > by > field > isced > f,1
+313,307.0,distribution > of,distribution > of > new > entrants > at > education > level > and > programme > orientation > by > sex > and > field > of > education,1
+314,307.0,distribution > of,distribution > of > non > formal > education > and > training > activities > by,4
+315,307.0,distribution > of,distribution > of > participation > in > formal > education > and > training > last,2
+316,307.0,distribution > of,distribution > of > teachers > at > education > level > and > programme > orientation > by > age > groups,1
+317,,,distributive,5
+318,,,diversity,2
+319,,,divorce,1
+320,,,divorces,3
+321,,,domestic,10
+322,321.0,domestic,domestic > or > international > sourcing > of > different > business > functions > by > economic > activity > collection > round > experimental > statistics,1
+323,,,dried,1
+324,,,drinking,1
+325,,,drought,1
+326,,,dry,1
+327,,,duration,2
+328,327.0,duration > of,duration > of > daily > tobacco > smoking > by > sex > age > and > educational > attainment > level,1
+329,327.0,duration > of,duration > of > working > life,1
+330,,,dwellings,2
+331,,,e,6
+332,331.0,e,e > commerce,5
+333,331.0,e,e > government > activities > of > individuals > via > websites,1
+334,,,ec,4
+335,,,ecu,1
+336,,,emu,4
+337,,,eu,29
+338,337.0,eu,eu > blue > cards,2
+339,337.0,eu,eu > co2 > emissions > from > the > production > and > consumption > footprint > perspectives > figaro > application,1
+340,337.0,eu,eu > and > efta > citizens > who > are > usual > residents > in > another > eu > efta > country > as > of > 1 > january,1
+341,337.0,eu,eu > co > patenting > at > the > epo > according > to > applicants > inventors > country > of > residence > by > international > patent > classification > ipc > sections > number,1
+342,337.0,eu,eu > financing > to > developing > countries > by > financing > source,1
+343,337.0,eu,eu > index > of > occupational > diseases > experimental > statistics,1
+344,337.0,eu,eu > level,6
+345,337.0,eu,eu > self > sufficiency > for > raw > materials,1
+346,337.0,eu,eu > efta,6
+347,,,eu27,3
+348,,,early,16
+349,348.0,early,early > leavers > from,15
+350,348.0,early,early > retirement > among > persons > who > receive > an > old > age > pension,1
+351,,,economic,16
+352,351.0,economic,economic > aggregates > of > forestry,1
+353,351.0,economic,economic > data > in > high > tech > sectors > by > nace > rev,2
+354,351.0,economic,economic > sentiment > indicator,1
+355,351.0,economic,economic > variables > being > part > of > annex1 > to > council > regulation > 58 > 97,1
+356,,,economically,5
+357,356.0,economically,economically > active > population > by > sex > age,4
+358,356.0,economically,economically > inactive > persons > who > receive > a > pension > who > would > have > wished > to > stay > longer > in > employment,1
+359,,,economy,1
+360,,,education,3
+361,360.0,education,education > indicators > by > nuts > 2 > regions,1
+362,,,educational,1
+363,,,effect,4
+364,363.0,effect > of,effect > of > the > search > for > information > on > learning > possibilities,1
+365,,,effective,1
+366,,,effects,1
+367,,,effort,3
+368,,,electricity,14
+369,368.0,electricity,electricity > production,4
+370,,,emergency,1
+371,,,emigration,6
+372,,,employed,113
+373,372.0,employed > persons,employed > persons > expecting > a > possible > loss > of > their > job > in > the > next > 6 > months > by > sex > and > age,1
+374,372.0,employed > persons,employed > persons > exposed > to > employment > related > physical > psychological > or > sexual > violence > in > the > last > 12 > months > by > sex > and > age,1
+375,,,employees,47
+376,375.0,employees > and,employees > and > family > workers > who > wish > to > be > self > employed > by > main > reason > for > not > being > self > employed > and > sex,1
+377,375.0,employees > and,employees > and > self > employed > persons > by > business > function > nace > rev > 2 > activity > aggregate > and > size > class > experimental > statistics,1
+378,375.0,employees > by,employees > by > their > perceived > possibility > to > vary > start > and > or > stop > of > the > working > day > for > family > reasons > 1 > 000,1
+379,375.0,employees,employees > having > a > good > relationship > with > their > supervisor > by > sex > and > age,1
+380,375.0,employees,employees > receiving > regular > feedback > from > their > supervisor > by > sex > and > age,1
+381,375.0,employees > who,employees > who > can > take > a > whole > day > off > for > family > reasons > by > occupation > 1 > 000,1
+382,375.0,employees > who,employees > who > could > not > find > a > permanent > or > full > time > job > by > sex > and > age,1
+383,375.0,employees > with,employees > with > care > responsibilities > by,4
+384,375.0,employees > with,employees > with > involuntary > temporary > contracts > as > percentage > of > the > total > number > of > employees > with > temporary > contracts > by > sex > age > educational > attainment > level > and > work > experience > while > studying,1
+385,,,employer,11
+386,,,employment,153
+387,386.0,employment > and,employment > and > economic > activity > branches,1
+388,386.0,employment > by,employment > by > a > 10 > industry > breakdowns,1
+389,386.0,employment,employment > expectations,2
+390,386.0,employment > in,employment > in > foreign,2
+391,386.0,employment > in,employment > in > current > job > by > duration,1
+392,386.0,employment > in,employment > in > inland > waterways > transport > enterprises > by,2
+393,386.0,employment > in,employment > in > principal > railway > enterprises > by > type > of > railway > activity > until,1
+394,386.0,employment > in,employment > in > sport > by,3
+395,386.0,employment > in,employment > in > the > environmental > goods > and > services > sector,1
+396,,,empty,1
+397,,,end,3
+398,397.0,end,end > of > life > vehicles,2
+399,397.0,end,end > stage > renal > failure > esrf > patients > historical > data,1
+400,,,energy,18
+401,400.0,energy,energy > flow > sankey > diagram > data,1
+402,400.0,energy,energy > removed > from > district > networks > by > customers > type > of > networks > and > efficiency > of > network,1
+403,400.0,energy,energy > supply > and > use > by > nace > rev > 2 > activity,1
+404,,,enterprise,4
+405,,,enterprises,169
+406,405.0,enterprises > by,enterprises > by > backsourcing > status > experimental > statistics,1
+407,405.0,enterprises > by,enterprises > by > control > of > foreign > affiliates > and > economic > activity > experimental > statistics,1
+408,405.0,enterprises > by,enterprises > by > relocation > status > experimental > statistics,1
+409,405.0,enterprises,enterprises > having > received > orders > online > at > least > 1 > of > enterprises,1
+410,405.0,enterprises > in,enterprises > in > business > services > net > turnover > by,2
+411,405.0,enterprises,enterprises > purchasing,2
+412,405.0,enterprises,enterprises > supplying,2
+413,405.0,enterprises,enterprises > using > software > solutions > like > crm > to > analyse > information > about > clients > for > marketing > purposes,1
+414,405.0,enterprises > which,enterprises > which > assess,8
+415,405.0,enterprises > which,enterprises > which > introduced > innovations > in > logistics > by > reason > of > the > introduction > level > of > importance > of > the > reason > nace > rev > 2 > activity > and > size > class,1
+416,405.0,enterprises > with,enterprises > with > expenditures > for > innovation > in > logistics > by > size > classes > of > expenditure > nace > rev > 2 > activity > and > size > class,1
+417,405.0,enterprises > with,enterprises > with > members > in > other > eea > countries,1
+418,405.0,enterprises > with,enterprises > with > procedures > in > place > to > regularly > identify > and > reduce > environmental > impacts,1
+419,,,environment,2
+420,,,environmental,19
+421,,,envisaged,1
+422,,,equidae,1
+423,,,establishments,6
+424,,,estimated,7
+425,424.0,estimated,estimated > average > age > of > young > people > leaving > the > parental > household > by > sex,1
+426,424.0,estimated,estimated > employment > by > business > function > and,2
+427,424.0,estimated,estimated > soil,2
+428,424.0,estimated,estimated > trends > in,2
+429,,,estimates,2
+430,,,euro,16
+431,,,european,20
+432,431.0,european > union,european > union > and > euro > area > balance > of > payments,2
+433,431.0,european > union,european > union > trade,17
+434,,,evaluating,1
+435,,,ever,15
+436,,,excess,1
+437,,,exchange,1
+438,,,expected,1
+439,,,expenditure,43
+440,439.0,expenditure,expenditure > for > selected > health > care,3
+441,439.0,expenditure > on,expenditure > on > inland > waterway > transport > infrastructure > and > freight > vessels,1
+442,439.0,expenditure > on,expenditure > on > rolling > stock > and > railway > infrastructure,1
+443,439.0,expenditure > on,expenditure > on > social > protection,2
+444,,,expenditures,2
+445,,,export,6
+446,,,exports,22
+447,,,exposure,1
+448,,,external,1
+449,,,extra,14
+450,,,fdi,1
+451,,,factors,1
+452,,,fallow,1
+453,,,families,1
+454,,,family,3
+455,454.0,family,family > labour > force,2
+456,454.0,family,family > nuclei > by > number > of > children,1
+457,,,farm,4
+458,,,farmland,2
+459,,,farms,1
+460,,,fat,1
+461,,,fatal,2
+462,,,female,5
+463,462.0,female,female > active > population > by > age > and > marital > status,1
+464,462.0,female,female > tertiary > education > graduates > in > stem > education > fields > of > all > tertiary > education > graduates > in > stem > education > fields,1
+465,,,fertility,7
+466,,,fetal,2
+467,,,fields,1
+468,,,final,25
+469,468.0,final,final > decisions,3
+470,,,finance,1
+471,,,financial,29
+472,471.0,financial,financial > activities > over > the > internet,2
+473,471.0,financial,financial > aid > to > students,2
+474,471.0,financial,financial > burden > of > the,2
+475,471.0,financial,financial > sector > leverage > debt > to > equity > non > consolidated,1
+476,471.0,financial,financial > subsidiaries > in > other > countries,1
+477,,,first,23
+478,477.0,first,first > marriage > rates > by > age > and > sex,1
+479,477.0,first,first > permits,8
+480,477.0,first > time,first > time > asylum,4
+481,477.0,first > time,first > time > graduates > by > education > level > sex > and > age > group,1
+482,477.0,first > time,first > time > marrying > persons > by > age > and > sex,1
+483,,,fish,2
+484,,,fishing,4
+485,,,flowers,3
+486,,,fodder,2
+487,,,food,3
+488,487.0,food,food > price > monitoring > tool,1
+489,487.0,food,food > waste,2
+490,,,foreign,27
+491,490.0,foreign,foreign > affiliates > of > the > eu > enterprises > by,2
+492,490.0,foreign,foreign > control > of > enterprises,4
+493,490.0,foreign,foreign > controlled > eu > enterprises > by,2
+494,490.0,foreign,foreign > controlling > eu > enterprises > and > domestic > affiliates > by > nace > rev > 2 > activity > from > onwards,1
+495,490.0,foreign,foreign > born > population,13
+496,,,forest,1
+497,,,formal,1
+498,,,former,6
+499,498.0,former,former > daily > tobacco > smokers > by > sex > age > and,2
+500,498.0,former,former > euro > area > national > currencies > vs > euro > ecu,4
+501,,,freight,40
+502,501.0,freight,freight > and > mail > air > transport,39
+503,501.0,freight,freight > loaded > and > unloaded > in > ports > for > inland > waterway > transport,1
+504,,,frequency,25
+505,504.0,frequency > of,frequency > of > contacts > with > relatives > or > friends > by > level > of > disability > activity > limitation > sex > and > age,1
+506,504.0,frequency > of,frequency > of > getting > together > with > relatives > or > friends > by > level > of > disability > activity > limitation > sex > and > age,1
+507,504.0,frequency > of,frequency > of > going > to > cinema > live > performances > cultural > sites > or > attending > live > sport > events > by > level > of > disability > activity > limitation > sex > and > age,1
+508,504.0,frequency > of,frequency > of > internet > use > by > individuals > aged > 16 > 74,1
+509,,,fresh,3
+510,509.0,fresh,fresh > products > distribution > of > enterprises > by > volume > of > annual > production,1
+511,509.0,fresh,fresh > vegetables > and > strawberries > by > area,1
+512,509.0,fresh,fresh > water > abstraction > by > source > per > capita > m > per > capita,1
+513,,,freshwater,2
+514,513.0,freshwater,freshwater > abstraction,1
+515,513.0,freshwater,freshwater > resources > by > river > basin > district > rbd,1
+516,,,fright,1
+517,,,fruit,3
+518,517.0,fruit > and,fruit > and > berries,1
+519,517.0,fruit > and,fruit > and > berry > plantations > number > of > farms > and > areas > by,2
+520,,,fuel,1
+521,,,full,7
+522,,,functional,3
+523,,,funding,3
+524,,,g20,1
+525,,,gbard,2
+526,,,gdp,6
+527,,,gerd,9
+528,,,ghg,1
+529,,,gni,1
+530,,,gas,7
+531,,,gender,22
+532,531.0,gender,gender > parity > index > by > education > level,1
+533,,,general,19
+534,533.0,general,general > education,1
+535,533.0,general,general > government,15
+536,533.0,general,general > indicators,1
+537,533.0,general,general > information,2
+538,,,generation,12
+539,538.0,generation,generation > and > discharge > of > wastewater,2
+540,538.0,generation,generation > of,10
+541,,,gini,6
+542,,,global,1
+543,,,goals,1
+544,,,goat,1
+545,,,goats,3
+546,,,goods,15
+547,546.0,goods > and,goods > and > passenger > train > traffic > performance,1
+548,546.0,goods > and,goods > and > services > imports > and > exports,1
+549,,,government,11
+550,549.0,government,government > bond > yields > 10 > years > maturity,3
+551,549.0,government,government > final > consumption > expenditure,2
+552,549.0,government,government > guarantees,1
+553,549.0,government,government > support > to > agricultural > research > and > development,1
+554,,,graduates,10
+555,,,graduation,1
+556,,,graduations,1
+557,,,grain,3
+558,,,grape,1
+559,,,grapes,1
+560,,,grassland,1
+561,,,green,3
+562,561.0,green,green > bond > issuance > by,2
+563,561.0,green,green > maize > by > area > production > and > humidity,1
+564,,,greenhouse,4
+565,,,gross,134
+566,565.0,gross,gross > and > net > production > of > electricity > and > derived > heat > by > type > of > plant > and > operator,1
+567,565.0,gross,gross > debt > to > income > ratio > of > households,1
+568,565.0,gross,gross > disposable > income,1
+569,565.0,gross,gross > fixed > capital > formation,9
+570,565.0,gross,gross > non > performing > loans > domestic > and > foreign > entities > of > gross > loans,1
+571,565.0,gross,gross > nutrient > balance,1
+572,565.0,gross,gross > production > of > electricity > and > derived > heat > from,2
+573,565.0,gross,gross > saving,1
+574,565.0,gross,gross > weight > of,62
+575,,,guarantees,1
+576,,,guest,5
+577,,,hicp,37
+578,577.0,hicp,hicp > alcohol > and > tobacco,1
+579,,,hrst,6
+580,579.0,hrst,hrst > by > category,4
+581,579.0,hrst,hrst > with > tertiary > education > by,2
+582,,,hampered,1
+583,,,hampering,6
+584,,,harmonised,2
+585,584.0,harmonised,harmonised > index > of > consumer > prices > monthly > data,1
+586,584.0,harmonised,harmonised > risk > indicator > 1 > for > pesticides > by > categorisation > of > active > substances,1
+587,,,hatcheries,2
+588,,,hauled,4
+589,,,hazardous,3
+590,,,health,13
+591,590.0,health,health > care > expenditure,4
+592,590.0,health,health > impacts > of > air > pollution,1
+593,,,healthy,7
+594,,,heat,3
+595,,,high,11
+596,595.0,high,high > growth,3
+597,595.0,high,high > speed > internet > coverage > by > type > of > area,1
+598,595.0,high,high > tech,7
+599,598.0,high > tech,high > tech > exports,2
+600,598.0,high > tech,high > tech > patent > applications > to > the > epo > by > priority > year,4
+601,,,higher,1
+602,,,highly,10
+603,,,holder,2
+604,,,holdings,3
+605,,,hospital,28
+606,,,hourly,2
+607,606.0,hourly,hourly > earnings > by > economic > activity > and > contractual > working > time > enterprises > with > 10 > employed > persons > or > more,1
+608,606.0,hourly,hourly > labour > costs > by > nace > rev > 1 > 1 > activity,1
+609,,,hours,27
+610,609.0,hours > worked,hours > worked > compared > to > hours > paid > by > nace > rev,2
+611,609.0,hours > worked,hours > worked > per > week > of > full > time > employment,1
+612,,,house,12
+613,,,household,13
+614,613.0,household,household > composition > by > size,1
+615,613.0,household,household > debt > consolidated > including > non > profit > institutions > serving > households > of > gdp,1
+616,,,households,20
+617,616.0,households,households > investment > rate,1
+618,616.0,households > with,households > with > expenditure > greater > than > zero > by > coicop > consumption > purpose,1
+619,616.0,households > with,households > with > sustainable > access > to > improved > sanitation > by > simplified > degree > of > urbanisation,1
+620,,,housing,17
+621,620.0,housing,housing > units > by > type,2
+622,,,human,2
+623,,,hydrofluorocarbon,1
+624,,,ict,2
+625,,,identification,2
+626,,,immigration,13
+627,,,impact,4
+628,627.0,impact,impact > level > of > international > sourcing > activities > by > economic > activity > collection > round > experimental > statistics,1
+629,627.0,impact,impact > of,3
+630,629.0,impact > of,impact > of > ict > on > tasks > and > skills,1
+631,629.0,impact > of,impact > of > social > transfers > excluding > pensions > on > poverty > reduction > by > sex,2
+632,,,implementation,2
+633,,,implicit,1
+634,,,import,10
+635,634.0,import,import > dependency > on > third > countries > by > fuel > type,1
+636,634.0,import,import > prices,9
+637,,,importance,6
+638,637.0,importance > of,importance > of > physical > proximity > of > support > business > functions > to > the > core > business > function > by > business > function > sourcing > status > and > economic > activity > experimental > statistics,1
+639,637.0,importance > of,importance > of > the,2
+640,,,important,1
+641,,,imports,20
+642,641.0,imports > of,imports > of > biomethane > through > the > grid,1
+643,,,in,19
+644,643.0,in,in > work > at > risk > of > poverty > rate,14
+645,643.0,in,in > house > and > external > skills > available > in > the > enterprises,1
+646,643.0,in,in > patient > average > length > of > stay > days,4
+647,,,inability,15
+648,647.0,inability > to,inability > to > keep > home > adequately > warm,3
+649,647.0,inability > to,inability > to > make > ends > meet > eu > silc > survey,1
+650,,,inactive,9
+651,,,inactivity,2
+652,,,incidence,9
+653,,,income,16
+654,653.0,income,income > distribution,1
+655,653.0,income,income > from > intellectual > property > rights > for > computer > services,1
+656,653.0,income,income > of > households > by > nuts > 2 > regions,1
+657,,,incoming,5
+658,,,index,1
+659,,,indicator,1
+660,,,indicators,3
+661,660.0,indicators,indicators > on > health > and > safety > at > work,1
+662,660.0,indicators,indicators > with > growth > by > 20 > or > more,2
+663,,,individuals,41
+664,663.0,individuals,individuals > encountering > hostile > or > degrading > online > messages,1
+665,,,industrial,11
+666,665.0,industrial,industrial > and > construction > production > volume > index > calendar > adjusted,1
+667,665.0,industrial,industrial > countries > effective > exchange > rates,3
+668,665.0,industrial,industrial > crops,2
+669,665.0,industrial,industrial > roundwood > by,2
+670,,,industry,6
+671,,,inequality,2
+672,,,infant,10
+673,,,inland,7
+674,,,innovating,3
+675,,,innovation,16
+676,,,innovations,1
+677,,,innovative,6
+678,,,inpatient,1
+679,,,input,1
+680,,,integration,6
+681,,,intellectual,1
+682,,,intentional,4
+683,,,interest,1
+684,,,interests,2
+685,,,intermediate,3
+686,685.0,intermediate,intermediate > consumption > of > environmental > protection > services > by > institutional > sector > and > nace > rev > 2 > activity,1
+687,,,international,39
+688,687.0,international,international > investment > position,3
+689,,,internet,16
+690,689.0,internet,internet > access > by,3
+691,689.0,internet,internet > of > things,4
+692,689.0,internet,internet > purchases,8
+693,,,intra,12
+694,693.0,intra,intra > and > extra > eu > trade,5
+695,693.0,intra,intra > corporate,5
+696,695.0,intra > corporate,intra > corporate > notifications > received > by,2
+697,695.0,intra > corporate,intra > corporate > transferee > permits > issued,3
+698,693.0,intra,intra > mural > business > enterprise > r > d > expenditures > in > foreign > controlled > enterprises,1
+699,,,intramural,3
+700,,,investment,5
+701,700.0,investment,investment > and > maintenance > in > oil > pipeline > infrastructure,1
+702,700.0,investment,investment > expenditure > and > purchases > of > enterprises > by > nace > rev > 2 > activity,1
+703,,,involuntary,3
+704,,,inward,1
+705,,,irrigation,3
+706,,,job,17
+707,706.0,job,job > loss > and > creation > as > a > result > of > international > sourcing > activity > by > economic > activity > collection > round > experimental > statistics,1
+708,706.0,job,job > mismatches > and > their > labour > market > effects > among > school > leavers > in > europe,1
+709,,,jobless,2
+710,,,jobs,5
+711,,,joint,1
+712,,,key,17
+713,712.0,key,key > indicators,3
+714,713.0,key > indicators,key > indicators > of > physical > energy > flow > accounts > by > nace > rev > 2 > activity,1
+715,,,kind,2
+716,,,labour,72
+717,716.0,labour > force,labour > force > participation > rate,2
+718,716.0,labour > market,labour > market > demand > for > ict > specialists > in > online > job > advertisements > by,3
+719,716.0,labour,labour > status > distribution > of > the > population > by > sex > age > migration > status > and > educational > attainment > level,1
+720,,,land,12
+721,,,landfill,1
+722,,,landings,25
+723,,,language,1
+724,,,late,1
+725,,,laying,3
+726,,,legal,2
+727,,,legally,2
+728,,,length,16
+729,728.0,length > of,length > of > navigable > inland > waterways > by > waterway > type,1
+730,728.0,length > of,length > of > pipelines > operated,1
+731,,,level,22
+732,731.0,level,level > crossings > by > type,1
+733,731.0,level,level > of,21
+734,733.0,level > of,level > of > disability > activity > limitation > by > sex > age > and,5
+735,733.0,level > of,level > of > expected > impact > on > employment > of > international > sourcing > by > enterprises > currently > engaged > or > planning > to > engage > in > international > sourcing > by > sourcing > status > and > economic > activity > figures > and > collection > round > experimental > statistics,1
+736,733.0,level > of,level > of > internet > access > households,1
+737,733.0,level > of,level > of > the,12
+738,733.0,level > of,level > of > trust > by,2
+739,,,liabilities,2
+740,,,licensed,1
+741,,,life,9
+742,741.0,life,life > satisfaction > by,2
+743,,,limitations,2
+744,,,liquid,1
+745,,,literacy,1
+746,,,live,18
+747,,,livestock,12
+748,,,living,3
+749,748.0,living,living > conditions,2
+750,748.0,living,living > quarters > by > type > of > housing,1
+751,,,load,4
+752,,,loan,1
+753,,,loans,2
+754,,,local,2
+755,754.0,local,local > government > debt,1
+756,754.0,local,local > pollution,1
+757,,,location,2
+758,,,locomotives,1
+759,,,long,20
+760,759.0,long,long > term,18
+761,760.0,long > term,long > term > government > bond > yields,1
+762,760.0,long > term,long > term > care,2
+763,760.0,long > term,long > term > residence > permits > issued > during > the > year,2
+764,760.0,long > term,long > term > residents,3
+765,760.0,long > term,long > term > unemployment,10
+766,759.0,long,long > time > series > covering > enterprises > with > 20 > persons > employed > and > more > main > indicators > nace > rev > 1 > 1 > c > f,1
+767,759.0,long,long > working > hours > in > main > job > by > sex > age > professional > status > and > occupation,1
+768,,,lorries,6
+769,,,loss,1
+770,,,low,7
+771,770.0,low,low > achieving > 15 > year > olds > in > reading > mathematics > or > science,2
+772,770.0,low,low > wage > earners > as > a > proportion > of > all > employees > excluding > apprentices > by,5
+773,,,macro,1
+774,,,macroeconomic,1
+775,,,main,29
+776,775.0,main,main > balance > of > payments > and > international > investment > position > items > as > share > of > gdp > bpm6,1
+777,775.0,main,main > gdp > aggregates > per > capita,1
+778,775.0,main,main > care > related > reasons > for > not > working > or > working > part > time > 1 > 000,1
+779,775.0,main,main > childcare > related > reasons,3
+780,775.0,main,main > crops > by > nuts > 2 > regions,1
+781,775.0,main,main > farm,2
+782,775.0,main,main > financial > incentives > for > employed > persons > who > are > entitled > to > receive > an > individual > retirement > pension > to > stay > at > work > by > sex > and > occupation > 1 > 000,1
+783,775.0,main,main > flows,1
+784,775.0,main,main > national > accounts > tax > aggregates,1
+785,775.0,main,main > permanent > crops > farm,1
+786,775.0,main,main > providers > used > for > external > cvt > courses > by > type > of > provider > and,2
+787,775.0,main > reasons,main > reasons > linked > with > care > of > other > people > in > need > of > care > given > by > employed > persons > between > 15 > and > 64 > years > old > for > not > working > or > not > working > more > by,2
+788,775.0,main > reasons,main > reasons > for > retirement > or > early > retirement > by > sex > and > main > labour > status > just > after > leaving > last > job > 1 > 000,1
+789,775.0,main,main > skills,4
+790,775.0,main,main > type > of > childcare > used > by > employed > persons > between > 15 > and > 64 > years > old > for > own > spouse > s > children > up > to > 14 > while > working,1
+791,775.0,main,main > vine > varieties > by > age > group,1
+792,,,management,4
+793,,,manufacturing,4
+794,,,manure,1
+795,,,marine,1
+796,,,maritime,17
+797,796.0,maritime,maritime > accident > victims > by > sea > basin > of > occurrence,3
+798,796.0,maritime,maritime > equipment,4
+799,,,market,5
+800,799.0,market,market > production,3
+801,799.0,market,market > share > of > the > largest > generator > in > the > electricity > market,1
+802,799.0,market,market > value > of > general > government > gross > debt,1
+803,,,marriage,1
+804,,,marriages,4
+805,,,material,28
+806,805.0,material,material > flow > accounts,4
+807,805.0,material,material > flows > for > circular > economy > sankey > diagram > data,1
+808,805.0,material,material > footprint,1
+809,805.0,material,material > footprints,2
+810,805.0,material,material > import > dependency,1
+811,,,mean,151
+812,811.0,mean,mean > age,2
+813,811.0,mean,mean > duration > of > commuting > time > one > way > between > work > and > home > by > sex > and > age,1
+814,811.0,mean,mean > instruction > hours,11
+815,811.0,mean,mean > number > of > deprivation > items > among > the,2
+816,,,meat,3
+817,,,median,25
+818,817.0,median,median > age,3
+819,817.0,median,median > hourly > earnings > all > employees > excluding > apprentices > by,5
+820,817.0,median,median > number > of > weekly > hours > of,2
+821,,,medical,3
+822,821.0,medical,medical > intervention > for > an > accident > resulting > in > injury > by > sex > age > and > educational > attainment > level,1
+823,821.0,medical,medical > technologies > examinations > by > medical > imaging > techniques > ct > mri > and > pet,1
+824,821.0,medical,medical > technology > historical > data,1
+825,,,meetings,2
+826,,,member,1
+827,,,methane,1
+828,,,methods,4
+829,828.0,methods,methods > for > maintaining > or > increasing > the > competitiveness > in > the > enterprises > as > highly > important > and > not > used > by > nace > rev > 2 > activity > and > size > class,1
+830,828.0,methods,methods > stimulating > new > ideas > or > creativity,1
+831,828.0,methods,methods > to > find > current > job > by > migration > status > educational > attainment > level > and > type > of > contract,1
+832,828.0,methods,methods > used > for > seeking > work > percentage > of > unemployed > who > declared > having > used > a > given > method > by > sex,1
+833,,,milk,4
+834,,,minimum,1
+835,,,mining,1
+836,,,mobile,3
+837,836.0,mobile,mobile > and > fixed > broadband > internet > prices > by > type > of > offer > least > expensive,1
+838,836.0,mobile,mobile > students > from > abroad > enrolled > by > education > level > sex > and,2
+839,,,modal,6
+840,,,monetary,3
+841,840.0,monetary,monetary > supply > and > use > of > wood > in > the > rough,1
+842,840.0,monetary,monetary > value > of > e > commerce > sales > by,2
+843,,,money,5
+844,843.0,money,money > market > interest > rates,4
+845,843.0,money,money > supply > and > official > reserves,1
+846,,,monthly,8
+847,,,mopeds,1
+848,,,motivation,3
+849,848.0,motivation,motivation > factors > for,2
+850,848.0,motivation,motivation > to > introduce > an > environmental > innovation,1
+851,,,motor,3
+852,,,motorcycles,1
+853,,,motorways,1
+854,,,multi,6
+855,854.0,multi > yearly,multi > yearly > statistics > by > nuts > 2 > regions > nuts,1
+856,854.0,multi > yearly,multi > yearly > enterprise > statistics,5
+857,,,multiannual,7
+858,,,multinational,3
+859,,,municipal,4
+860,,,mushrooms,1
+861,,,national,32
+862,861.0,national,national > accounts,2
+863,861.0,national,national > civil > servants > in > central > public > administration,1
+864,861.0,national,national > expenditure > on > environmental > protection,2
+865,861.0,national,national > public > funding > to > transnationally > coordinated > r > d,1
+866,861.0,national > road,national > road > traffic > performance > by > type > of > vehicle > and > type > of > road,2
+867,,,natura,1
+868,,,natural,1
+869,,,navigable,1
+870,,,need,9
+871,,,net,22
+872,871.0,net,net > electricity > generation > by > type > of > fuel > monthly > data,1
+873,871.0,net,net > enrolment > rates > by > sex > and > education > level,1
+874,871.0,net,net > greenhouse > gas > emissions,2
+875,871.0,net,net > migration > by > age > and > sex,1
+876,871.0,net,net > occupancy > rate > of > bed > places > and > bedrooms > in > hotels > and > similar,5
+877,871.0,net,net > social,2
+878,871.0,net,net > trade > balance > of > energy > products > of > gdp,1
+879,,,new,27
+880,879.0,new,new > entrants,3
+881,880.0,new > entrants,new > entrants > by > education > level > programme > orientation > sex > and,2
+882,880.0,new > entrants,new > entrants > to > isced > 3 > to > 6 > by > age > and > sex,1
+883,879.0,new,new > motorcycles > by > engine > size,1
+884,879.0,new,new > special > purpose > road > vehicles,1
+885,879.0,new,new > trams,1
+886,879.0,new,new > zero > emission > vehicles > by > type > of > vehicle > and > type > of > motor > energy,1
+887,,,newly,3
+888,,,nights,39
+889,,,nitrate,1
+890,,,nitrogen,2
+891,890.0,nitrogen,nitrogen > dioxide > concentrations > in > european > capital > cities > monthly > averages > experimental > statistics,1
+892,890.0,nitrogen,nitrogen > trifluoride > and > sulphur > hexafluoride > emission > footprints > nf3 > sf6 > in > co2 > equivalent > figaro > application,1
+893,,,nitrous,1
+894,,,noise,3
+895,,,nominal,9
+896,895.0,nominal,nominal > effective > exchange > rate,2
+897,,,non,15
+898,897.0,non,non > national > workers > by > citizenship > sex > and > economic > activity,1
+899,897.0,non,non > innovative > enterprises > by > barrier > against > innovation > activities > level > of > importance > of > the > barrier > nace > rev > 2 > activity > and > size > class,1
+900,897.0,non,non > autonomous > pension > funds,1
+901,897.0,non,non > fatal > accidents > at > work > by > nace > rev > 2 > activity > and,2
+902,897.0,non,non > financial,6
+903,902.0,non > financial,non > financial > accounts > for > eu > institutions,1
+904,902.0,non > financial,non > financial > corporations > debt > consolidated > of > gdp,1
+905,897.0,non,non > household > consumption > volumes > of,2
+906,897.0,non,non > performing > loans > of > government,1
+907,897.0,non,non > residents > among > all > hospital > discharges,1
+908,,,not,5
+909,,,notifications,1
+910,,,nuclear,1
+911,,,nurses,1
+912,,,nursing,1
+913,,,oats,1
+914,,,obesity,1
+915,,,obstacles,5
+916,915.0,obstacles,obstacles > for > web > sales > by,2
+917,915.0,obstacles,obstacles > of > innovative > and > non > innovative > enterprises > as > highly > important > and > not > relevant > by > nace > rev > 2 > activity > and > size > class,1
+918,915.0,obstacles,obstacles > to > getting > a > suitable > job > by > migration > status > labour > status > and,2
+919,,,occupants,1
+920,,,occupied,6
+921,,,official,1
+922,,,oil,8
+923,922.0,oil,oil > and > petroleum > products > import > dependency > by > country > of > origin,1
+924,922.0,oil,oil > pipeline,2
+925,924.0,oil > pipeline,oil > pipeline > enterprises,1
+926,924.0,oil > pipeline,oil > pipeline > transport > measurements > within > the > national > territory > by > transport > coverage > and > energy > products,1
+927,922.0,oil,oil > stocks,5
+928,,,oilseed,1
+929,,,old,1
+930,,,olive,6
+931,,,olives,1
+932,,,orange,3
+933,,,organic,16
+934,933.0,organic,organic > operators > by > status > of > the > registration > process,2
+935,,,organisational,3
+936,,,other,22
+937,936.0,other,other > changes > in > volume,2
+938,936.0,other,other > expenditure > on > social > protection,1
+939,936.0,other,other > important > strategic > and > organizational > changes,1
+940,936.0,other,other > investment,3
+941,936.0,other,other > methods > of > contacting > public > authorities > or > services,1
+942,936.0,other,other > types > of > childcare > by > age > group > and > duration > over > the > population > of > each > age > group > eu > silc > survey,1
+943,,,out,4
+944,943.0,out > of,out > of > pocket > expenditure > on > healthcare,1
+945,943.0,out > of,out > of > school > rate,3
+946,,,outgoing,5
+947,,,output,2
+948,947.0,output > of,output > of > forestry > by > type,1
+949,947.0,output > of,output > of > the > agricultural > industry > basic > and > producer > prices,1
+950,,,outward,5
+951,950.0,outward,outward > fats,4
+952,950.0,outward,outward > fdi > stocks > in > of > gdp,1
+953,,,over,3
+954,,,overall,10
+955,954.0,overall,overall > employment > growth,1
+956,954.0,overall,overall > perceived > social > support > by,5
+957,,,overcrowding,19
+958,,,owner,5
+959,958.0,owner > occupied,owner > occupied > dwellings > by > type > and > year > of > construction > of > the > building,1
+960,958.0,owner > occupied,owner > occupied > housing > price > index,4
+961,,,ownership,1
+962,,,package,1
+963,,,packaging,1
+964,,,parents,2
+965,964.0,parents,parents > educational > attainment > level,1
+966,964.0,parents,parents > spending > enough > time > with > children > living > with > them,1
+967,,,part,10
+968,,,participants,16
+969,968.0,participants,participants > in > cvt > courses > by,12
+970,968.0,participants,participants > studying,4
+971,,,participation,96
+972,971.0,participation > in,participation > in > activities > of > churches > or > other > religious > organisations > by > level > of > disability > activity > limitation > sex > and > age,1
+973,971.0,participation > in,participation > in > tourism > for > personal > purposes > of > total > population,1
+974,971.0,participation > of,participation > of > employed > persons > in > non > formal > education > and > training,4
+975,971.0,participation > of,participation > of > foreign > students > in > tertiary > education > isced > by > field > of > education,1
+976,,,passenger,15
+977,976.0,passenger,passenger > air > transport > over > national > territory > including > territorial > sea > million > passenger > km,1
+978,,,passengers,31
+979,978.0,passengers,passengers > in > accompanied > passenger > car > railway > transport > by > type > of > transport,1
+980,978.0,passengers > transported,passengers > transported > detailed > reporting > only > quarterly > data,1
+981,978.0,passengers > transported,passengers > transported > by > type > of > train > speed,1
+982,,,patent,13
+983,,,patents,2
+984,983.0,patents,patents > and > other > protection > methods,1
+985,983.0,patents,patents > related > to > recycling > and > secondary > raw > materials,1
+986,,,peach,3
+987,,,pending,4
+988,,,pensions,1
+989,,,people,28
+990,989.0,people,people > declaring > physical > pain > or > physical > discomfort > by > sex > age > and > educational > attainment > level,1
+991,,,perceived,2
+992,991.0,perceived,perceived > barriers > to > buying > ordering > over > the > internet > until,1
+993,991.0,perceived,perceived > independence > of > the > justice > system,1
+994,,,percentage,42
+995,994.0,percentage,percentage > change,2
+996,995.0,percentage > change,percentage > change > compared > to > corresponding > period > of > the > previous > year > in > nights > spent > at > tourist > accommodation > establishments > by > residents > non > residents > monthly > data,1
+997,995.0,percentage > change,percentage > change > of > value > added > by > ict > sector > at > current > prices,1
+998,994.0,percentage > of,percentage > of > households > having > internet > access > at > home,1
+999,994.0,percentage > of,percentage > of > threatened > species,1
+1000,,,perception,5
+1001,1000.0,perception,perception > of,4
+1002,1001.0,perception > of,perception > of > discrimination > in > cities,1
+1003,1001.0,perception > of,perception > of > ever > working > women > as > victims > non > victims > of > sexual > harassment > at > work > by > commonness > of > harassment,1
+1004,1001.0,perception > of,perception > of > the > changes > between > and > by > type > of > enterprise > and > nace > rev > 2,1
+1005,1001.0,perception > of,perception > of > women > as > victims > non > victims > of > intimate > partner > violence > by > commonness > of > this > violence > against > women,1
+1006,1000.0,perception,perception > survey > results,1
+1007,,,perfluorocarbon,1
+1008,,,performing,9
+1009,,,peri,2
+1010,,,permanency,2
+1011,,,permanent,9
+1012,,,permits,1
+1013,,,persistent,6
+1014,,,person,1
+1015,,,personal,1
+1016,,,personnel,1
+1017,,,persons,363
+1018,1017.0,persons,persons > attending > live > sport > events > in > the > last > 12 > months > by > sex > and,2
+1019,1017.0,persons,persons > brought > before > criminal > courts > by > legal > status > of > the > court > process,1
+1020,1017.0,persons > by,persons > by > risk > of > poverty > material > deprivation > work > intensity > of > the > household,9
+1021,1017.0,persons > by,persons > by > sex > age > household > type > income > group > degree > of > urbanisation > and > main > reason > for > not > meeting > needs > for > formal > education,1
+1022,1017.0,persons > by,persons > by > type > of > building > and > nuts > 3 > regions,1
+1023,1017.0,persons,persons > communicating > via > social > media > by,2
+1024,1017.0,persons,persons > eating > fruit > vegetables > or > salad > by > educational > attainment > level > risk > of > poverty > threshold > most > frequent > activity > status > and > sex,1
+1025,1017.0,persons,persons > eligible > to > vote > in > the > european > parliament > elections > by > category > of > voters > dedicated > data > collection,1
+1026,1017.0,persons > employed,persons > employed > in,8
+1027,1017.0,persons > employed,persons > employed > part > time > total,1
+1028,1017.0,persons > having,persons > having > no > issue > when > using > a > website > or > app > of > public > authorities > by > level > of > disability > activity > limitation,1
+1029,1017.0,persons > in,persons > in > employment,30
+1030,1017.0,persons > in,persons > in > formal > education > by > sex > age > income > group > and > contributor,1
+1031,1017.0,persons,persons > involved > in,2
+1032,1017.0,persons,persons > killed > in > road > accidents,4
+1033,1017.0,persons,persons > making > weekly > use > of > childcare > services > for > their > youngest > child > 1 > 000,1
+1034,1017.0,persons > not,persons > not > having > indoor > flushing > toilet > for > the > sole > use > of > their > household > by > level > of > disability > activity > limitation > sex > and > age,1
+1035,1017.0,persons,persons > owning > real > estate > other > than > main > residence > by,2
+1036,1017.0,persons > paying,persons > paying > professional > homecare > services > by > household > type > income > group > and > level > of > difficulty > to > pay > professional > homecare > services,1
+1037,1017.0,persons > paying,persons > paying > tuition > fees > by > sex > age > income > group > and > cost > of > tuition,1
+1038,1017.0,persons,persons > practicing > artistic > activities > by,2
+1039,1017.0,persons,persons > reading,9
+1040,1017.0,persons,persons > subject,3
+1041,1040.0,persons > subject,persons > subject > of > asylum > applications > pending > at > the > end > of > the > month,2
+1042,1040.0,persons > subject,persons > subject > to > immigration > law > enforcement > per > thousand > persons,1
+1043,1017.0,persons,persons > taking > care > of > other > children > or > persons > in > need > of > care > 1 > 000,1
+1044,1017.0,persons > using,persons > using > health > care > services > by > household > type > income > group > and > level > of > difficulty > to > afford > care > services,1
+1045,1017.0,persons > using,persons > using > or > not > professional > homecare > services > by > household > type > income > group > degree > of > urbanisation > and > reason > for > not > using > professional > homecare > services,1
+1046,1017.0,persons > using,persons > using > professional > homecare > services > by > household > type > income > group,2
+1047,1017.0,persons > using,persons > using > the > internet,11
+1048,1017.0,persons,persons > visiting > a > doctor > in > the > last > 12 > months > by,3
+1049,1017.0,persons > who,persons > who > cannot > afford,18
+1050,1017.0,persons > who,persons > who > receive > a > pension,2
+1051,1017.0,persons > who,persons > who > stopped > work > to > care > for > their > youngest > child > aged > less > than > eight > by > duration > of > absence > 1 > 000,1
+1052,1017.0,persons > who,persons > who > took > parental > leave > to > care > for > their > youngest > child > aged > less > than > eight > by > duration > of > parental > leave > 1 > 000,1
+1053,1017.0,persons > with,persons > with > ict > education > by > labour > status,1
+1054,1017.0,persons > with,persons > with > disabilities > by > sex,27
+1055,1017.0,persons > with,persons > with > loans,5
+1056,1017.0,persons > with,persons > with > low > level > of > expenditure > by > risk > of > income > poverty > material > deprivation > and > work > intensity > experimental > statistics,1
+1057,1017.0,persons,persons > working > as > creative > and > performing > artists > authors > journalists > and > linguists,2
+1058,,,pesticide,3
+1059,,,phosphate,1
+1060,,,physical,4
+1061,1060.0,physical,physical > and,2
+1062,1061.0,physical > and,physical > and > sensory > functional > limitations > by > sex > age > and > educational > attainment > level,1
+1063,1061.0,physical > and,physical > and > sexual > violence > to > women > by > age > group > data,1
+1064,1060.0,physical,physical > energy > flow > accounts > totals > bridging > to > energy > balances > totals,1
+1065,1060.0,physical,physical > supply > and > use > of > wood > in > the > rough > over > bark,1
+1066,,,physicians,4
+1067,,,pig,2
+1068,1067.0,pig,pig > population > annual > data,1
+1069,1067.0,pig,pig > types > by > utilised > agricultural > area > size > classes > of > livestock > and > nuts > 2 > regions,1
+1070,,,pigs,7
+1071,,,plants,1
+1072,,,police,3
+1073,1072.0,police,police > officers,1
+1074,1072.0,police,police > recorded > offences > by,2
+1075,,,pollution,3
+1076,,,population,221
+1077,1076.0,population,population > as > a > percentage > of > eu27 > from > population,1
+1078,1076.0,population > by,population > by > will > to > participate > in > education > and > training,1
+1079,1076.0,population,population > connected > to,5
+1080,1076.0,population,population > covered > by > the > covenant > of > mayors > for > climate > energy > signatories,1
+1081,1076.0,population,population > having > neither > a > bath > nor > a > shower > nor > indoor > flushing > toilet > in > their > household > by > poverty > status,1
+1082,1076.0,population > in,population > in > jobless > households,1
+1083,1076.0,population > in,population > in > tertiary > education > by > sex > age > educational > attainment > level > and > work > experience > while > studying,1
+1084,1076.0,population,population > living > in > households > considering > that > they > suffer > from > noise > by > poverty > status,1
+1085,1076.0,population,population > reporting > occurrence > of > crime > violence > or > vandalism > in > their > area > by > poverty > status,1
+1086,1076.0,population,population > served > by > municipal > waste,1
+1087,1076.0,population,population > unable > to > keep > home > adequately > warm > by > poverty > status,1
+1088,1076.0,population,population > wanting > to > participate > in > education > and > training > by,6
+1089,1076.0,population > with,population > with > ukrainian > citizenship > by,7
+1090,1076.0,population > with,population > with > childcare > responsibilities > by > use > of > childcare > services > and,7
+1091,1076.0,population > with,population > with > confidence > in > eu > institutions > by > institution,1
+1092,1076.0,population > with,population > with > medium > educational > attainment > not > in > formal > education > who,2
+1093,1076.0,population > with,population > with > the > highest > level > of > education > obtained > abroad > by,3
+1094,1076.0,population,population > without > the > citizenship > of > the > reporting > country,1
+1095,,,portfolio,4
+1096,,,positions,1
+1097,,,positive,1
+1098,,,potatoes,2
+1099,,,potential,1
+1100,,,poultry,8
+1101,,,poverty,3
+1102,,,powdered,1
+1103,,,power,1
+1104,,,practice,1
+1105,,,practising,2
+1106,1105.0,practising,practising > dentists,1
+1107,1105.0,practising,practising > physicians,1
+1108,,,precarious,2
+1109,,,preliminary,4
+1110,,,premature,1
+1111,,,prevalence,8
+1112,,,preventive,1
+1113,,,previous,1
+1114,,,price,8
+1115,1114.0,price,price > and > volume > convergence > between > eu > member > states,1
+1116,1114.0,price,price > indices > of,7
+1117,,,prices,1
+1118,,,primary,3
+1119,1118.0,primary,primary > energy,2
+1120,1118.0,primary,primary > income > of > private > households > by > nuts > 2 > regions,1
+1121,,,prison,2
+1122,,,prisoners,4
+1123,,,privacy,2
+1124,,,private,29
+1125,1124.0,private,private > educational > expenditure > by > education > level > programme > orientation > type > of > source > and > expenditure > category,1
+1126,1124.0,private,private > households > by,6
+1127,1124.0,private,private > housholds > by > composition > and > type > of > housing,1
+1128,1124.0,private,private > sector,20
+1129,,,problems,2
+1130,1129.0,problems,problems > encountered > by > individuals > when > buying > ordering > over > the > internet > until,1
+1131,1129.0,problems,problems > experienced > when > using > e > government > websites,1
+1132,,,processors,2
+1133,,,producer,12
+1134,,,product,10
+1135,,,production,46
+1136,1135.0,production > and,production > and > consumption > of > chemicals > by > hazard > class,1
+1137,1135.0,production > and,production > and > utilization > of > milk > on > the > farm > annual > data,1
+1138,1135.0,production,production > from > aquaculture > excluding > hatcheries > and > nurseries > from > onwards,1
+1139,1135.0,production > of,production > of > butter,1
+1140,1135.0,production > of,production > of > electricity > and,2
+1141,1135.0,production > of,production > of > environmental > protection > services > of,3
+1142,1135.0,production > of,production > of > fish > eggs > for > human > consumption > from > aquaculture > from > onwards,1
+1143,1135.0,production > of,production > of > hatcheries > and > nurseries > at,2
+1144,,,profit,1
+1145,,,projected,6
+1146,1145.0,projected,projected > old > age > dependency > ratio,1
+1147,,,proportion,14
+1148,1147.0,proportion > of,proportion > of > fish > stocks > sustainably > exploited,1
+1149,1147.0,proportion > of,proportion > of > population,3
+1150,,,protected,2
+1151,,,protective,1
+1152,,,psychological,2
+1153,,,public,11
+1154,1153.0,public,public > funding,3
+1155,1153.0,public,public > sector > procurement > and > innovation > in > the > enterprises > by > nace > rev > 2 > activity > and > size > class,1
+1156,,,pulp,1
+1157,,,pupil,1
+1158,,,pupils,39
+1159,,,purchase,4
+1160,,,purchases,1
+1161,,,purchasing,5
+1162,,,quality,1
+1163,,,quarterly,4
+1164,1163.0,quarterly,quarterly > population > by > sex > age > degree > of > urbanisation > and > labour > status > 1 > 000,1
+1165,,,r,11
+1166,,,rail,12
+1167,,,railway,6
+1168,1167.0,railway,railway > enterprises > by > type > of > enterprise,1
+1169,1167.0,railway,railway > transport,3
+1170,,,ranking,2
+1171,,,rape,1
+1172,,,ratio,5
+1173,1172.0,ratio > of,ratio > of > pupils,2
+1174,1172.0,ratio > of,ratio > of > young > people > in > the > total > population > on > 1 > january > by > sex > and > age,1
+1175,,,raw,1
+1176,,,real,9
+1177,1176.0,real,real > gdp,2
+1178,1176.0,real,real > labour > productivity,2
+1179,1176.0,real,real > effective > exchange > rate,4
+1180,1176.0,real,real > growth > rate > of > regional > gross > value > added > gva > at > basic > prices > by > nuts > 2 > regions,1
+1181,,,realised,1
+1182,,,reasons,4
+1183,1182.0,reasons > for,reasons > for > not > submitting > completed > forms > to > public > authorities > websites,1
+1184,,,receipts,2
+1185,1184.0,receipts > by,receipts > by > sector > of > origin,1
+1186,1184.0,receipts > by,receipts > by > type,1
+1187,,,recent,4
+1188,1187.0,recent,recent > immigrants > by > sex > age > and,2
+1189,1187.0,recent,recent > job,2
+1190,,,recognised,1
+1191,,,recovery,1
+1192,,,recycling,7
+1193,1192.0,recycling,recycling > of > batteries > and > accumulators,1
+1194,,,regional,10
+1195,,,registered,4
+1196,,,relative,21
+1197,1196.0,relative,relative > incidence > rate > of > accidental > injuries > at > work > by,6
+1198,1196.0,relative,relative > median,7
+1199,1196.0,relative,relative > poverty,3
+1200,,,remote,2
+1201,,,remuneration,1
+1202,,,renewable,4
+1203,1202.0,renewable,renewable > cooling,2
+1204,1202.0,renewable,renewable > freshwater > resources,2
+1205,,,research,4
+1206,,,researchers,4
+1207,1206.0,researchers,researchers > by > sector > of > performance,2
+1208,1206.0,researchers,researchers > in > the > higher > education > sector > by > seniority > category,1
+1209,1206.0,researchers,researchers > all > sectors > by > nuts > 2 > regions,1
+1210,,,resettled,5
+1211,,,residential,1
+1212,,,residents,1
+1213,,,resource,1
+1214,,,retail,14
+1215,,,return,1
+1216,,,returns,1
+1217,,,revaluation,2
+1218,,,revenues,2
+1219,,,road,40
+1220,1219.0,road,road > accidents,2
+1221,1219.0,road,road > infrastructure > lenght > of > road > network,1
+1222,1219.0,road,road > motor > vehicle > traffic > performance > by > traffic > and > registration > location > and > type > of > vehicle,1
+1223,1219.0,road,road > tractors > by > type > of > motor > energy,2
+1224,1219.0,road,road > rail > and > navigable > inland > waterways > networks > by > nuts > 2 > regions,1
+1225,,,root,2
+1226,,,roundwood,3
+1227,,,rye,1
+1228,,,sbs,6
+1229,1228.0,sbs,sbs > data > by > nuts > 2 > regions,2
+1230,1228.0,sbs,sbs > variables > by,4
+1231,,,safety,1
+1232,,,sales,3
+1233,1232.0,sales,sales > and > collection > of > portable > batteries > and > accumulators,1
+1234,1232.0,sales,sales > area > for > retail > stores > in > square > meters > nace > rev > 1 > 1 > g52,1
+1235,1232.0,sales,sales > of > pesticides > by > type > of > pesticide,1
+1236,,,same,2
+1237,,,satisfaction,4
+1238,,,savings,2
+1239,,,sawnwood,2
+1240,,,school,1
+1241,,,sea,1
+1242,,,search,3
+1243,,,seat,3
+1244,,,seats,2
+1245,1244.0,seats,seats > berths > in > motor > coaches > buses > and > trolley > buses,1
+1246,1244.0,seats,seats > held > by > women > in > national > parliaments > and > governments,1
+1247,,,secondary,4
+1248,1247.0,secondary,secondary > energy > production > transformation,1
+1249,,,sector,1
+1250,,,security,5
+1251,1250.0,security,security > related > problems > experienced > when > using > the > internet,1
+1252,,,self,110
+1253,1252.0,self,self > defined > health > status > by > age > and > income > quantile > echp > survey,1
+1254,1252.0,self,self > declared > over > qualified > employees > as > percentage > of > the > total > employees > by > sex > age > migration > status > and > educational > attainment > level,1
+1255,1252.0,self,self > propelled > vessels,2
+1256,1252.0,self > reported,self > reported > vaccination > against > influenza > by > sex > age > and,4
+1257,1252.0,self,self > studying > with > printed > materials > participants > by,2
+1258,,,selling,19
+1259,,,semi,2
+1260,,,sensitivity,1
+1261,,,sentiment,1
+1262,,,service,5
+1263,,,services,9
+1264,1263.0,services,services > monthly > data,1
+1265,1263.0,services,services > quarterly > data,1
+1266,1263.0,services,services > trade > by,4
+1267,1263.0,services,services > turnover > index > calendar > adjusted,1
+1268,,,settlement,2
+1269,,,severe,31
+1270,1269.0,severe,severe > difficulties > in > personal > care > activities > or > household > activities > by,2
+1271,,,severely,1
+1272,,,severity,10
+1273,,,sewage,2
+1274,,,share,65
+1275,1274.0,share,share > for > transmission > and > distribution > in > the > network > cost > for > gas > and > electricity > annual > data,1
+1276,1274.0,share,share > of,64
+1277,1276.0,share > of,share > of > european,2
+1278,1276.0,share > of,share > of > gbaord > allocated > to > defence > and > total > civil > socio > economic > objectives,1
+1279,1276.0,share > of,share > of > gbard > in > total > general > government > expenditure,1
+1280,1276.0,share > of,share > of > r > d > personnel > and > researchers > in > total > active > population > and > employment > by > sector > of > performance > and > sex,1
+1281,1276.0,share > of,share > of > buses > and > trains > in > inland > passenger > transport,1
+1282,1276.0,share > of,share > of > degree > mobile > graduates > from > abroad > by > education > level > sex > and > country > of > origin,1
+1283,1276.0,share > of,share > of > digital > platform > workers > in > the > last > 12 > months > by,2
+1284,1276.0,share > of,share > of > employment > in > eu > member > states > supported > by > eu > exports > figaro > application,1
+1285,1276.0,share > of,share > of > energy > from > renewable > sources,1
+1286,1276.0,share > of,share > of > enterprises > turnover > on > e > commerce,1
+1287,1276.0,share > of,share > of > environmental > taxes > in > total > tax > revenues,1
+1288,1276.0,share > of,share > of > exports > of > advanced > economies,1
+1289,1276.0,share > of,share > of > family > farms > by > nuts > 2 > regions,1
+1290,1276.0,share > of,share > of > female > researchers > by > sector > of > performance,1
+1291,1276.0,share > of,share > of > forest > area,1
+1292,1276.0,share > of,share > of > fossil > fuels > in > gross > available > energy,1
+1293,1276.0,share > of,share > of > fuels > in > final > energy > consumption,1
+1294,1276.0,share > of,share > of > government > budget > appropriations > or > outlays > on > research > and > development,1
+1295,1276.0,share > of,share > of > irrigable > and > irrigated > areas > in > utilised > agricultural > area > uaa > by > nuts > 2 > regions,1
+1296,1276.0,share > of,share > of > landcover > types > affected > by > severe > erosion,1
+1297,1276.0,share > of,share > of > main,2
+1298,1276.0,share > of,share > of > mobile > students > from > abroad > enrolled > by > education > level > sex > and > country > of > origin,1
+1299,1276.0,share > of,share > of > organic > crop > area > out > of > the > total > utilised > agricultural > area > uaa > until,1
+1300,1276.0,share > of,share > of > persons > who > cannot > afford > a,5
+1301,1276.0,share > of,share > of > population,2
+1302,1276.0,share > of,share > of > rail > and > inland > waterways > in > inland > freight > transport,1
+1303,1276.0,share > of,share > of > renewable,3
+1304,1276.0,share > of,share > of > total > population,4
+1305,1276.0,share > of,share > of > trade > with > the > eu27 > from,1
+1306,1276.0,share > of,share > of > value > added > in > eu > member > states > supported > by > eu > exports > figaro > application,1
+1307,1276.0,share > of,share > of > women > researchers,2
+1308,,,sheep,4
+1309,,,shift,2
+1310,,,short,10
+1311,1310.0,short,short > sea > shipping,6
+1312,1310.0,short,short > stay > accommodation > offered > via > collaborative > economy > platforms > by,3
+1313,1310.0,short,short > term > update > of > the > projected > population,1
+1314,,,simplified,1
+1315,,,single,1
+1316,,,skills,1
+1317,,,slaughtering,2
+1318,,,smoking,6
+1319,,,social,13
+1320,1319.0,social,social > benefits,3
+1321,1319.0,social,social > media > use > by,4
+1322,1319.0,social,social > protection,5
+1323,1322.0,social > protection,social > protection > expenditure,4
+1324,1322.0,social > protection,social > protection > receipts > by > type,1
+1325,1319.0,social,social > security > funds > debt,1
+1326,,,soil,2
+1327,1326.0,soil,soil > cover > by > nuts2 > regions,1
+1328,1326.0,soil,soil > sealing > index,1
+1329,,,solar,1
+1330,,,source,1
+1331,,,sources,2
+1332,,,sourcing,1
+1333,,,special,2
+1334,1333.0,special,special > areas > and > other > farmland > by > nuts > 2 > regions,1
+1335,1333.0,special,special > purpose > road > vehicles,1
+1336,,,standardised,10
+1337,1336.0,standardised,standardised > death > rate > due > to,2
+1338,1336.0,standardised,standardised > preventable > and > treatable > mortality,1
+1339,,,state,1
+1340,,,statistical,1
+1341,,,stock,9
+1342,1341.0,stock,stock > levels > for,4
+1343,1341.0,stock,stock > of,5
+1344,1343.0,stock > of,stock > of > general > government > debt > security > liabilities > issued > as > green > bonds > one > off > data > collection > experimental > statistics,1
+1345,,,strategies,1
+1346,,,structural,1
+1347,,,structure,19
+1348,1347.0,structure > of,structure > of > agricultural > holdings > by,2
+1349,1347.0,structure > of,structure > of > consumption > expenditure > by,8
+1350,1347.0,structure > of,structure > of > earnings > survey,3
+1351,1347.0,structure > of,structure > of > labour > cost > by > nace > rev,6
+1352,,,students,21
+1353,1352.0,students > in,students > in > isced > 1 > 3 > by,2
+1354,1352.0,students > in,students > in > post > compulsory > education > as > of > the > total > population > of > post > compulsory > school > age,1
+1355,,,subjective,5
+1356,,,success,3
+1357,,,sugar,2
+1358,,,suicide,1
+1359,,,suicides,1
+1360,,,supplementary,7
+1361,,,supply,21
+1362,1361.0,supply > and,supply > and > transformation > of,4
+1363,1361.0,supply > and,supply > and > use > of > products > within > forestry,1
+1364,1361.0,supply > of,supply > of > biomass > annual > data,1
+1365,1361.0,supply,supply > table > at > basic > prices > incl > transformation > into > purchasers > prices,2
+1366,,,support,6
+1367,,,surface,2
+1368,,,surgical,2
+1369,1368.0,surgical,surgical > operations > and > procedures > performed > in > hospitals > by > icd > 9 > cm > historical > data,1
+1370,1368.0,surgical,surgical > procedures,1
+1371,,,suspects,4
+1372,1371.0,suspects,suspects > and > offenders > by,3
+1373,1371.0,suspects,suspects > of > migrant > smuggling > by > citizenship,1
+1374,,,symmetric,4
+1375,,,table,7
+1376,1375.0,table,table > grape > vines > area > by,3
+1377,1375.0,table,table > of,4
+1378,1377.0,table > of,table > of > taxes > less > subsidies > on,2
+1379,1377.0,table > of,table > of > trade > and > transport > margins,2
+1380,,,tables,8
+1381,,,tax,4
+1382,,,teachers,3
+1383,1382.0,teachers,teachers > isced > 0 > 4 > and > academic > staff > isced > 5 > 6 > by,2
+1384,1382.0,teachers,teachers > working > part > time > as > of > all > teachers > by > education > level,1
+1385,,,teaching,1
+1386,,,technical,2
+1387,1386.0,technical,technical > and > vocational > education > training > tvet,1
+1388,1386.0,technical,technical > resources > in > hospital,1
+1389,,,temporary,16
+1390,,,tenure,1
+1391,,,terms,1
+1392,,,territorialised,1
+1393,,,tertiary,10
+1394,,,the,3
+1395,1394.0,the,the > european > innovation > scoreboard > indicators,1
+1396,1394.0,the,the > first > community > innovation > light > survey > cis > light,1
+1397,1394.0,the,the > real > gross > disposable > income > of > households > per > capita > index,1
+1398,,,third,12
+1399,,,tier,1
+1400,,,time,22
+1401,1400.0,time > spent,time > spent > alone,1
+1402,1400.0,time > spent,time > spent > providing > childcare > as > main > or > secondary > activity,1
+1403,,,top,7
+1404,,,total,42
+1405,1404.0,total,total > absences > from > work > by > sex > and > age > group > quarterly > data,1
+1406,1404.0,total,total > and > active > population > by > sex > age > employment > status > residence > one > year > prior > to > the > census > and > nuts > 3 > regions,1
+1407,1404.0,total,total > area,2
+1408,1404.0,total,total > economy > deficit > surplus,1
+1409,1404.0,total,total > educational > expenditure > by > education > level > programme > orientation > and > type > of > source,1
+1410,1404.0,total,total > employment > by > age > group,1
+1411,1404.0,total,total > energy > supply > by > product,1
+1412,1404.0,total,total > fertility > rate,2
+1413,1404.0,total,total > financial > sector > liabilities,10
+1414,1404.0,total,total > high > tech > trade > in > million > euro > and > as > a > percentage > of > total > from > sitc > rev > 4,1
+1415,1404.0,total,total > housing > costs > in > pps > eu > silc > survey,1
+1416,1404.0,total,total > length > of,2
+1417,1404.0,total,total > population,6
+1418,1417.0,total > population,total > population > candidate > countries > and > potential > candidates,1
+1419,1404.0,total,total > researchers > by > sectors > of > performance,2
+1420,1404.0,total,total > services > detailed > geographical > breakdown > by > eu > member > states,2
+1421,1404.0,total,total > unemployment > rate,1
+1422,,,tourism,1
+1423,,,tractive,1
+1424,,,trade,21
+1425,,,trailers,2
+1426,,,train,35
+1427,,,trainsets,1
+1428,,,transboundary,1
+1429,,,transit,2
+1430,,,transition,11
+1431,1430.0,transition,transition > from,9
+1432,1431.0,transition > from,transition > from > the,2
+1433,1430.0,transition,transition > of,2
+1434,,,transitions,3
+1435,,,transport,9
+1436,,,treatable,1
+1437,,,treatment,3
+1438,,,triadic,1
+1439,,,trips,19
+1440,,,tropical,1
+1441,,,trust,4
+1442,1441.0,trust,trust > in > others > by,2
+1443,1441.0,trust,trust > security > and > privacy > smartphones,2
+1444,,,turnover,57
+1445,,,type,10
+1446,1445.0,type > of,type > of > connections > to > the > internet > by,3
+1447,1445.0,type > of,type > of > innovating > firms > engagement > in > r > d > by,2
+1448,1445.0,type > of,type > of > partner > chosen > by,2
+1449,1445.0,type > of,type > of > tenure > number > of > farms > and > areas > by,3
+1450,,,types,2
+1451,,,typical,2
+1452,1451.0,typical,typical > dwelling > sizes > by > type > of > dwelling > in > each > surveyed > city,1
+1453,1451.0,typical,typical > guarantors > in > obtaining > loan > finance > by > type > of > enterprise > and > nace > rev > 2,1
+1454,,,unaccompanied,6
+1455,,,under,2
+1456,1455.0,under,under > 5 > mortality > rate > by > sex,1
+1457,1455.0,under,under > glass > by > nuts > 2 > regions,1
+1458,,,unemployed,3
+1459,,,unemployment,55
+1460,,,unilateral,1
+1461,,,unit,6
+1462,1461.0,unit,unit > labour > cost > performance > related > to > the > euro > area > annual > data,1
+1463,,,unitisation,5
+1464,,,urban,1
+1465,,,use,18
+1466,1465.0,use,use > and > risk > of > chemical > pesticides,1
+1467,1465.0,use,use > of,13
+1468,1467.0,use > of,use > of > electronic,2
+1469,1467.0,use > of,use > of > renewables > for,3
+1470,1465.0,use,use > table > at,4
+1471,,,user,1
+1472,,,usual,2
+1473,,,usually,1
+1474,,,utilised,2
+1475,,,vat,1
+1476,,,vaccination,1
+1477,,,valid,1
+1478,,,value,5
+1479,1478.0,value,value > added,2
+1480,1478.0,value,value > of > e > commerce > sales > by,3
+1481,,,vegetables,4
+1482,1481.0,vegetables,vegetables > by > nuts > 2 > regions,1
+1483,1481.0,vegetables,vegetables > melons > strawberries,3
+1484,,,vehicle,1
+1485,,,vessel,1
+1486,,,vessels,3
+1487,,,victims,5
+1488,1487.0,victims,victims > in > road > accidents > by > nuts > 2 > regions,1
+1489,1487.0,victims,victims > of,4
+1490,1489.0,victims > of,victims > of > intentional > homicide > and > sexual > exploitation > by > age > and > sex,1
+1491,1489.0,victims > of,victims > of > trafficking > in > human > beings > by,3
+1492,,,vineyards,2
+1493,,,volume,8
+1494,1493.0,volume > of,volume > of > containers,3
+1495,1493.0,volume > of,volume > of > job > related > non > formal > education > and > training > per > participant > in > the > last > 12 > months > by > duration > sex > and > age,1
+1496,1493.0,volume > of,volume > of > timber,2
+1497,,,wagons,1
+1498,,,walking,1
+1499,,,waste,4
+1500,,,water,11
+1501,,,way,1
+1502,,,websites,2
+1503,,,weekly,2
+1504,,,weights,2
+1505,,,wheat,1
+1506,,,who,2
+1507,,,wholesale,1
+1508,,,wine,3
+1509,,,women,38
+1510,,,work,3
+1511,1510.0,work,work > from > home > from > an > external > site > or > on > the > move,1
+1512,1510.0,work,work > on > weekends > by > sex > age > professional > status > and > occupation,1
+1513,1510.0,work,work > related > health > problems > in > by > sex,1
+1514,,,young,25
+1515,,,youth,16
+1516,1515.0,youth,youth > transitions > from > education > to > working > life > in > europe > in > number > of > months,1

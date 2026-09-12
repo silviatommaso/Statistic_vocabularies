@@ -111,6 +111,14 @@ def prompt(input_data, llm_files_path):
 
         try:
             asw = call_llm(message, "openai/gpt-oss-120b")
+
+            # Anti-hallucination check:
+            # accept only domains explicitly defined in DOMAINS
+            if asw not in DOMAINS:
+                raise ValueError(
+                    f"Invalid domain returned by the LLM: {asw!r}"
+                )
+            
             result.append({"cluster": cluster, "domain": asw})
 
             # Write immediately to CSV

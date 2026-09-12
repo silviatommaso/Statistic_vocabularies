@@ -180,12 +180,12 @@ def evaluate_domain_assignment_error_source(ground_truth_file, cluster_prefixes_
 
 if __name__ == "__main__":
     comparison, report_df = evaluate_clustering(
-        "quality_evaluation/clustering/ground_truth.csv",
+        "quality_evaluation/ground_truth.csv",
         "output/clustering/measure_domain.csv"
     )
 
     enriched, cluster_summary = evaluate_domain_assignment_error_source(
-        "quality_evaluation/clustering/ground_truth.csv",
+        "quality_evaluation/ground_truth.csv",
         "clustering/llm_files/cluster_prefixes.csv",
         comparison
     )

@@ -1,94 +1,253 @@
-"""
-Estrae un campione stratificato di termini dal vocabolario V per la
-valutazione manuale dello step 6 (partizione in M / N / A / U).
-
-Assunzioni sui file di input (adatta i path/nomi se diversi):
-  output/vocabulary_by_tag/measures.csv
-  output/vocabulary_by_tag/dimension_names.csv
-  output/vocabulary_by_tag/dimension_values.csv
-  output/vocabulary_by_tag/units.csv
-ognuno con almeno una colonna "term" contenente i termini con quel tag.
-Un termine multi-tag compare in più di uno di questi file.
-
-Output: eval_sample.csv con colonne:
-  term, tag_pipeline, tag_gold, note
-tag_pipeline puo' contenere piu' tag separati da "|" per i termini multi-tag.
-tag_gold e note sono lasciate vuote da compilare a mano.
-"""
-
-import random
-from pathlib import Path
 import pandas as pd
+from pathlib import Path
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
-random.seed(42)
 
-VOCAB_DIR = Path("output/vocabulary_by_tag")
-TAG_FILES = {
-    "M": VOCAB_DIR / "measures.csv",
-    "N": VOCAB_DIR / "dimension_names.csv",
-    "A": VOCAB_DIR / "dimension_values.csv",
-    "U": VOCAB_DIR / "units.csv",
+CATEGORY_FILES = {
+    "N": "dimension_names.csv",
+    "A": "dimension_values.csv",
+    "U": "units.csv",
 }
 
-N_PER_CATEGORY = 30       # campione stratificato per singolo tag
-N_MULTI_TAG = 20          # campione a parte per i termini multi-tag
-OUTPUT_FILE = Path("eval_sample.csv")
+MAX_TERMS_PER_CATEGORY = 20000
+RANDOM_SEED = 42
+K_NEIGHBORS = 5
+EPSILON = 1e-12
 
 
-def load_term_to_tags():
-    """Costruisce term -> set di tag leggendo i quattro file."""
-    term_to_tags = {}
-    for tag, path in TAG_FILES.items():
-        if not path.exists():
-            print(f"Attenzione: file mancante {path}, salto tag {tag}")
-            continue
-        terms = pd.read_csv(path)["term"].dropna().astype(str).tolist()
-        for term in terms:
-            term_to_tags.setdefault(term, set()).add(tag)
-    return term_to_tags
+def load_vocabulary(vocab_dir):
+    vocab_dir = Path(vocab_dir)
+
+    frames = []
+
+    for category, filename in CATEGORY_FILES.items():
+        df = pd.read_csv(vocab_dir / filename, dtype=str)
+        df = df[["term"]].dropna().drop_duplicates()
+        df["category"] = category
+        frames.append(df)
+
+    all_terms = pd.concat(frames, ignore_index=True)
+
+    print("Vocabulary loaded:")
+    for category in CATEGORY_FILES:
+        n = (all_terms["category"] == category).sum()
+        print(f"  {category}: {n} terms")
+
+    return all_terms
 
 
-def stratified_single_tag_sample(term_to_tags):
-    """Per ciascun tag, campiona N termini che hanno SOLO quel tag."""
-    rows = []
-    by_tag_only = {tag: [] for tag in TAG_FILES}
-    for term, tags in term_to_tags.items():
-        if len(tags) == 1:
-            only_tag = next(iter(tags))
-            by_tag_only[only_tag].append(term)
+def subsample(
+    all_terms,
+    max_per_category=MAX_TERMS_PER_CATEGORY,
+    seed=RANDOM_SEED
+):
+    parts = []
 
-    for tag, terms in by_tag_only.items():
-        sample = random.sample(terms, min(N_PER_CATEGORY, len(terms)))
-        for term in sample:
-            rows.append({"term": term, "tag_pipeline": tag, "tag_gold": "", "note": ""})
-    return rows
+    for category, group in all_terms.groupby("category"):
+        if len(group) > max_per_category:
+            group = group.sample(
+                max_per_category,
+                random_state=seed
+            )
+            print(
+                f"  {category}: subsampled to "
+                f"{max_per_category} terms"
+            )
 
+        parts.append(group)
 
-def multi_tag_sample(term_to_tags):
-    """Campiona termini con piu' di un tag (i casi ambigui)."""
-    multi_terms = [t for t, tags in term_to_tags.items() if len(tags) > 1]
-    sample = random.sample(multi_terms, min(N_MULTI_TAG, len(multi_terms)))
-    rows = []
-    for term in sample:
-        tags_str = "|".join(sorted(term_to_tags[term]))
-        rows.append({"term": term, "tag_pipeline": tags_str, "tag_gold": "", "note": ""})
-    return rows
+    return pd.concat(parts, ignore_index=True)
 
 
-def main():
-    term_to_tags = load_term_to_tags()
-    print(f"Vocabolario totale caricato: {len(term_to_tags)} termini distinti")
+def evaluate_category_consistency(
+    all_terms,
+    k_neighbors=K_NEIGHBORS
+):
+    sampled = subsample(all_terms)
 
-    rows = stratified_single_tag_sample(term_to_tags)
-    rows += multi_tag_sample(term_to_tags)
-    random.shuffle(rows)
+    vectorizer = TfidfVectorizer(
+        lowercase=True,
+        stop_words="english",
+        ngram_range=(1, 2),
+        max_df=0.5,
+        min_df=1,
+    )
 
-    df = pd.DataFrame(rows, columns=["term", "tag_pipeline", "tag_gold", "note"])
-    df.to_csv(OUTPUT_FILE, index=False)
-    print(f"Campione salvato in {OUTPUT_FILE}: {len(df)} righe "
-          f"({sum('|' not in r['tag_pipeline'] for r in rows)} single-tag, "
-          f"{sum('|' in r['tag_pipeline'] for r in rows)} multi-tag)")
+    tfidf = vectorizer.fit_transform(
+        sampled["term"].astype(str)
+    )
+
+    sim_matrix = cosine_similarity(tfidf)
+
+    categories = list(CATEGORY_FILES.keys())
+    category_array = sampled["category"].to_numpy()
+
+    idx_by_category = {
+        category: np.where(
+            category_array == category
+        )[0]
+        for category in categories
+    }
+
+    print("\n--- Category self-consistency ---")
+
+    results = []
+
+    for category in categories:
+        own_idx = idx_by_category[category]
+        other_idx = np.concatenate([
+            idx_by_category[other]
+            for other in categories
+            if other != category
+        ])
+
+        n = len(own_idx)
+
+        # --------------------------------------------------
+        # 1. Within-category similarity
+        # --------------------------------------------------
+
+        within = sim_matrix[np.ix_(own_idx, own_idx)]
+
+        if n > 1:
+            within_similarity = (
+                within.sum() - n
+            ) / (n * (n - 1))
+        else:
+            within_similarity = np.nan
+
+        # --------------------------------------------------
+        # 2. Category-relative separation
+        # --------------------------------------------------
+
+        own_to_own = within.copy()
+        np.fill_diagonal(own_to_own, np.nan)
+
+        own_similarity_per_term = np.nanmean(
+            own_to_own,
+            axis=1
+        )
+
+        own_to_other = sim_matrix[
+            np.ix_(own_idx, other_idx)
+        ]
+
+        other_similarity_per_term = np.mean(
+            own_to_other,
+            axis=1
+        )
+
+        separation_per_term = (
+            own_similarity_per_term
+            - other_similarity_per_term
+        )
+
+        category_separation = np.nanmean(
+            separation_per_term
+        )
+
+        # --------------------------------------------------
+        # 3. Relative separation in [0, 1]
+        # --------------------------------------------------
+
+        relative_separation_per_term = (
+            own_similarity_per_term
+            /
+            (
+                own_similarity_per_term
+                + other_similarity_per_term
+                + EPSILON
+            )
+        )
+
+        relative_separation = np.nanmean(
+            relative_separation_per_term
+        )
+
+        # --------------------------------------------------
+        # 4. Nearest-neighbor consistency
+        # --------------------------------------------------
+
+        nn_consistency_per_term = []
+
+        for idx in own_idx:
+            similarities = sim_matrix[idx].copy()
+
+            # Exclude the term itself
+            similarities[idx] = -np.inf
+
+            k = min(k_neighbors, len(similarities) - 1)
+
+            nearest_indices = np.argpartition(
+                similarities,
+                -k
+            )[-k:]
+
+            nearest_categories = category_array[
+                nearest_indices
+            ]
+
+            same_category_fraction = np.mean(
+                nearest_categories == category
+            )
+
+            nn_consistency_per_term.append(
+                same_category_fraction
+            )
+
+        nn_consistency = np.mean(
+            nn_consistency_per_term
+        )
+
+        results.append({
+            "category": category,
+            "n_terms": n,
+            "within_similarity": within_similarity,
+            "category_separation": category_separation,
+            "relative_separation": relative_separation,
+            "nearest_neighbor_consistency": nn_consistency,
+        })
+
+        print(
+            f"  {category}: "
+            f"within={within_similarity:.4f}  "
+            f"separation={category_separation:.4f}  "
+            f"relative_separation={relative_separation:.4f}  "
+            f"NN_consistency={nn_consistency:.4f}"
+        )
+
+    results_df = pd.DataFrame(results)
+
+    print(
+        "\nOverall nearest-neighbor consistency: "
+        f"{results_df['nearest_neighbor_consistency'].mean():.4f}"
+    )
+
+    print(
+        "Overall relative separation: "
+        f"{results_df['relative_separation'].mean():.4f}"
+    )
+
+    return results_df
 
 
 if __name__ == "__main__":
-    main()
+
+    VOCAB_DIR = "output/vocabulary_by_tag"
+
+    all_terms = load_vocabulary(VOCAB_DIR)
+
+    results = evaluate_category_consistency(
+        all_terms,
+        k_neighbors=5
+    )
+
+    out_dir = Path("quality_evaluation/vocabulary")
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    results.to_csv(
+        out_dir / "category_consistency_scores.csv",
+        index=False
+    )

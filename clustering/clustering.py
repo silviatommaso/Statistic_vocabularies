@@ -8,16 +8,6 @@ from clustering.utils import normalize, word_tokens
 
 
 """
-Tokenize a title using the EXACT same pipeline used to build the
-forest's full_path (normalize() then word_tokens()), so that matching
-a measure back to its tree never diverges from how the tree itself
-was constructed.
-"""
-def _normalize_text(text):
-    return tuple(word_tokens(normalize(text)))
-
-
-"""
 Load the tree forest (one row per node) and build:
 
 - measure_to_tree: normalized measure tokens -> tree_id, for every node
@@ -69,7 +59,7 @@ def build_cluster_prefix(measures_path, forest_path, llm_files_path, measure_col
     unmatched = 0
 
     for measure in measures_df["measure"]:
-        tree_id = measure_to_tree.get(_normalize_text(str(measure)))
+        tree_id = measure_to_tree.get(tuple(word_tokens(normalize(str(measure)))))
 
         if tree_id is None:
             unmatched += 1
