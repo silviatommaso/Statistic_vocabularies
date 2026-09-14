@@ -63,7 +63,7 @@ pip install pandas scikit-learn sentence-transformers numpy groq python-dotenv
    |---|---|
    | Eurostat CSV tables (from [Zenodo](https://zenodo.org/records/15681384)) | `input/tables/eurostat_2000_tables/` |
    | Table titles (`table_titles.csv`) | `input/tables/table_titles.csv` |
-   | NUTS geographic dictionary (`ESTAT_GEO_28.0_EN.tsv`) | `input/auxiliar_files/ESTAT_GEO_28.0_EN.tsv` |
+   | NUTS geographic dictionary (`NUTS.tsv`) | `input/auxiliar_files/NUTS.tsv` |
 
 ## Usage
 
