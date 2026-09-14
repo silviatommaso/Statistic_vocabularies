@@ -91,11 +91,11 @@ def prompt(input_data, llm_files_path):
 
     output_file = llm_files_path / "cluster_domain.csv"
 
-    # # Recreate the file with header if it does alredy exist
-    # if output_file.exists():
-    #     output_file.unlink()
+    # Recreate the file with header if it does alredy exist
+    if output_file.exists():
+        output_file.unlink()
 
-    # pd.DataFrame(columns=["cluster", "domain"]).to_csv(output_file, index=False)
+    pd.DataFrame(columns=["cluster", "domain"]).to_csv(output_file, index=False)
 
 
     result = []
@@ -137,7 +137,3 @@ def prompt(input_data, llm_files_path):
     print("\nClustering completed.")
 
     return pd.DataFrame(result)
-
-
-
-# prompt(pd.read_csv("clustering/llm_files/cluster_words.csv").to_dict("records"), Path("clustering/llm_files"))
