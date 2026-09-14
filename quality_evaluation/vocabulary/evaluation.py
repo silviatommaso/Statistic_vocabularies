@@ -7,6 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 CATEGORY_FILES = {
+    "M": "measures.csv",
     "N": "dimension_names.csv",
     "A": "dimension_values.csv",
     "U": "units.csv",
