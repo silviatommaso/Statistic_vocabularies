@@ -28,7 +28,7 @@ rationale, and evaluation results are described in
 │       └── build_forest.py          # similarity forest construction (steps 7 & 8)
 ├── input/
 │   ├── tables/                      # Eurostat CSV tables + table_titles.csv
-│   └── auxiliar_files/              # ESTAT_GEO_28.0_EN.tsv (NUTS dictionary)
+│   └── auxiliar_files/              # NUTS.tsv (NUTS dictionary)
 ├── output/
 │   ├── vocabulary_by_tag/           # measures.csv, dimension_names.csv,
 │   │                                 # dimension_values.csv, units.csv
